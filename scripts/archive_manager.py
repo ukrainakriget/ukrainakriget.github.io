@@ -86,7 +86,7 @@ def run_archive_rotation(retention_hours=24):
     events_data["events"] = active_kept
     events_data["total_active_events"] = len(active_kept)
     events_data["last_updated"] = now.isoformat()
-    events_data["update_frequency_hours"] = 4
+    events_data["update_frequency_hours"] = 0.5
 
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
         json.dump(archive_data, f, indent=2, ensure_ascii=False)
