@@ -13,7 +13,7 @@ const AppData = {
   analyses: [],
   casualties: null,
   lastUpdated: null,
-  updateFrequencyHours: 1,
+  updateFrequencyHours: 0.5,
   isLoaded: false,
 
   async init() {
@@ -32,6 +32,9 @@ const AppData = {
         this.events = resEvents.events;
         if (resEvents.last_updated) {
           this.lastUpdated = resEvents.last_updated;
+        }
+        if (resEvents.update_frequency_hours !== undefined) {
+          this.updateFrequencyHours = resEvents.update_frequency_hours;
         }
       }
       if (resArchive && resArchive.events) {

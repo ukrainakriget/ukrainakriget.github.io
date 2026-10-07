@@ -900,7 +900,7 @@ def main():
         "last_updated": now.isoformat(),
         "total_active_events": len(all_combined),
         "events": all_combined,
-        "update_frequency_hours": 1
+        "update_frequency_hours": 0.5
     }
     with open(EVENTS_FILE, "w", encoding="utf-8") as f:
         json.dump(temp_data, f, indent=2, ensure_ascii=False)

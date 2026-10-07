@@ -473,10 +473,10 @@ window.App = {
     }
 
     // 2. Beräkna nästa schemalagda uppdatering och eventuell fördröjning
-    const intervalMs = (AppData.updateFrequencyHours || 1) * 60 * 60 * 1000;
+    const intervalMs = (AppData.updateFrequencyHours || 0.5) * 60 * 60 * 1000;
     const diffSinceLastMs = now.getTime() - lastDate.getTime();
-    // Om det gått mer än 1h 25m sedan senaste lyckade körning flaggas driften som fördröjd
-    const isDelayed = diffSinceLastMs > (intervalMs + 25 * 60 * 1000);
+    // Om det gått mer än 50 minuter sedan senaste körning vid 30m-schema (eller intervalMs + 35m) flaggas driften som fördröjd
+    const isDelayed = diffSinceLastMs > (intervalMs + 35 * 60 * 1000);
 
     let nextDate = new Date(lastDate.getTime() + intervalMs);
     while (nextDate.getTime() <= now.getTime()) {
@@ -538,9 +538,13 @@ window.App = {
     // 4. Uppdatera indikator i flödeshuvudet
     const elFeedIndicator = document.getElementById("active-feed-time-indicator");
     if (elFeedIndicator) {
-      const freqHours = AppData.updateFrequencyHours || 1;
-      const freqTextSv = freqHours === 1 ? "Uppdateras varje timme" : `Uppdateras var ${freqHours}:e timme`;
-      const freqTextEn = freqHours === 1 ? "Updated every hour" : `Updated every ${freqHours} hours`;
+      const freqHours = AppData.updateFrequencyHours || 0.5;
+      let freqTextSv = freqHours === 1 ? "Uppdateras varje timme" : `Uppdateras var ${freqHours}:e timme`;
+      let freqTextEn = freqHours === 1 ? "Updated every hour" : `Updated every ${freqHours} hours`;
+      if (freqHours <= 0.5) {
+        freqTextSv = "Uppdateras var 30:e minut";
+        freqTextEn = "Updated every 30 minutes";
+      }
       const freqBase = lang === "sv" ? freqTextSv : freqTextEn;
 
       if (isDelayed) {
