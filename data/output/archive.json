@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 851,
-  "last_archived_rotation": "2026-10-08T12:01:41.260052+00:00",
+  "total_archived_events": 853,
+  "last_archived_rotation": "2026-10-08T12:31:19.983083+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-07-134209",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:19:00+03:00",
+      "title_sv": "EU:s ambassadörer godkänner de största sanktionslistan mot Ryssland hittills",
+      "title_en": "EU ambassadors approve largest sanctions list against Russia to date",
+      "summary_sv": "EU-ambassadörer enades om blockets hittills största utvidgning av individuella sanktioner mot Ryssland, med planer på att lägga till 743 personer och 826 företag kopplade till Rysslands militärindustriella komplex, rapporterade Radio Free Europe den 7 oktober.",
+      "summary_en": "EU ambassadors agreed on the bloc’s largest expansion of individual sanctions against Russia to date, with plans to add 743 people and 826 companies linked to Russia’s military-industrial complex, Radio Free Europe reported on Oct. 7.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "eu",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/eu-agrees-largest-expansion-of-sanctions-against-russia-50647960.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-07-695fb4",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:10:00+03:00",
+      "title_sv": "Rysk missilattack mot Pryluky: Dödssiffran stiger till 14, 50 skadade",
+      "title_en": "Russian missile attack on Pryluky: Death toll rises to 14, 50 injured",
+      "summary_sv": "Dödssiffran efter den ryska missilattacken mot Pryluky, Chernihiv-regionen, den 7 oktober har stigit till 14, inklusive fyra barn.",
+      "summary_en": "The death toll from the Russian missile attack on Pryluky, Chernihiv region, on October 7 has risen to 14, including four children.",
+      "location_name": "Tjernihiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4171948-russian-missile-attack-on-pryluky-death-toll-rises-to-14-50-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Tjernihiv",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-07-664b4a",
       "date": "2026-10-07",
@@ -910,10 +989,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -990,10 +1069,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1013,9 +1092,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Cherson",
         "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Cherson"
       ]
     },
     {
@@ -1031,8 +1110,8 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1053,9 +1132,9 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
-        "Infrastruktur",
         "Ukraina",
-        "Svarta"
+        "Svarta",
+        "Infrastruktur"
       ]
     },
     {
@@ -1110,11 +1189,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "eu",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1134,12 +1213,12 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Luftförsvar",
         "Drönare",
         "Kyjiv",
+        "Luftförsvar",
+        "Ukraina",
         "Robotanfall",
-        "Ukraina"
+        "Energi"
       ]
     },
     {
