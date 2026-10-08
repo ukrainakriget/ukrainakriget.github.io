@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 884,
-  "last_archived_rotation": "2026-10-08T16:01:37.059953+00:00",
+  "total_archived_events": 886,
+  "last_archived_rotation": "2026-10-08T16:32:30.598506+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-07-c7b06d",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T19:19:00+03:00",
+      "title_sv": "Ukrainska styrkor trycker tillbaka ryska trupper i området Dobropillia",
+      "title_en": "Ukrainian forces push Russian troops back in Dobropillia area",
+      "summary_sv": "Ukrainska försvarsstyrkor genomförde en gemensam operation som involverade enheter från 425:e separata överfallsregementet Skala och 1:a kåren av Nationalgardet i Ukraina Azov, som ett resultat av vilket ryska trupper trängdes tillbaka i Dobropillia-området i Donetsk-regionen.",
+      "summary_en": "Ukrainian Defense Forces conducted a joint operation involving units of the 425th Separate Assault Regiment Skala and the 1st Corps of the National Guard of Ukraine Azov, as a result of which Russian troops were pushed back in the Dobropillia area of Donetsk region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172061-ukrainian-forces-push-russian-troops-back-in-dobropillia-area.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-07-7e56e1",
       "date": "2026-10-07",
@@ -661,6 +700,47 @@
       ]
     },
     {
+      "id": "evt-2026-10-07-fce83b",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T16:22:44+00:00",
+      "title_sv": "Ukraina säger att Ryssland bombade flerfamiljshus som födelsedagspresent till Putin",
+      "title_en": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+      "summary_sv": "Byggnaden i Pryluky förstördes och dödade nio personer, inklusive tre barn, säger tjänstemän natten före den ryske presidentens 74-årsdag, Volodymyr Zelenskyy har anklagat Rysslands militär för att avsiktligt döda civila och bomba bostadshus som en makaber gåva till Vladimir Putin, som firar sin 74-årsdag den...",
+      "summary_en": "Building in Pryluky destroyed, killing nine people including three children, officials say, night before Russian president’s 74th birthday Volodymyr Zelenskyy has accused Russia’s military of deliberately killing civilians and bombing residential buildings as a macabre gift for Vladimir Putin, who celebrates his 74th birthday on...",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Drönare",
+        "Robotanfall"
+      ]
+    },
+    {
       "id": "evt-2026-10-07-bdf5bb",
       "date": "2026-10-07",
       "timestamp": "2026-10-07T16:21:00+03:00",
@@ -825,10 +905,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -848,11 +928,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina",
-        "Kyjiv",
         "Robotanfall",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina",
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
@@ -1176,10 +1256,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2186,10 +2266,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2266,10 +2346,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2306,9 +2386,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2328,8 +2408,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Ukraina",
+        "Drönare",
         "Svarta",
         "Infrastruktur"
       ]
