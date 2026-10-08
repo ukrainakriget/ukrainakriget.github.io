@@ -1,7 +1,94 @@
 {
-  "total_archived_events": 918,
-  "last_archived_rotation": "2026-10-08T23:01:44.151998+00:00",
+  "total_archived_events": 920,
+  "last_archived_rotation": "2026-10-08T23:32:54.280416+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-08-263e92",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T02:32:00+03:00",
+      "title_sv": "Ukraina tar emot mer än 4 800 enheter kraftutrustning i år",
+      "title_en": "Ukraine receives more than 4,800 units of power equipment this year",
+      "summary_sv": "Sedan början av 2026 har internationella partners levererat 4 807 enheter kraftgenereringsutrustning till ukrainska energibolag.",
+      "summary_en": "Since the beginning of 2026, international partners have delivered 4,807 units of power generation equipment to Ukrainian energy companies.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från Ukrinform samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from Ukrinform and official emergency services."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-defense/4171930-ukraine-receives-more-than-4800-units-of-power-equipment-this-year.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "Ukrinform",
+          "titel": "Ukraina tar emot mer än 4 800 enheter kraftutrustning i år",
+          "url": "https://www.ukrinform.net/rubric-defense/4171930-ukraine-receives-more-than-4800-units-of-power-equipment-this-year.html"
+        },
+        {
+          "kalla": "Ukrinform",
+          "titel": "Ukraina tar emot mer än 4 800 enheter kraftutrustning i år",
+          "url": "https://www.ukrinform.net/rubric-economy/4171930-ukraine-receives-more-than-4800-units-of-power-equipment-this-year.html"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
+      "id": "evt-2026-10-08-aff895",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T02:17:00+03:00",
+      "title_sv": "Tysklands förre kansler Schröder hittar en ny spelning i Moskva",
+      "title_en": "Former German chancellor Schröder finds new gig in Moscow",
+      "summary_sv": "Tysklands tidigare förbundskansler Gerhard Schröder, som nyligen utsågs till styrelsen för Globus stormarknadskedja i Ryssland, besökte en av företagets butiker i Moskva den 7 oktober.",
+      "summary_en": "Former German Chancellor Gerhard Schröder, who was recently appointed to the supervisory board of Globus’ hypermarket chain in Russia, visited one of the company’s Moscow stores on Oct. 7.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/former-german-chancellor-schroeder-finds-new-gig-in-moscow-50648076.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-08-89bdcb",
       "date": "2026-10-08",
@@ -1183,10 +1270,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "ryssland",
         "usa",
-        "ukraina"
+        "eu",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1253,14 +1340,14 @@
       "timestamp": "2026-10-07T18:17:23+00:00",
       "title_sv": "Minister förnekar polisbrutalitet när studentprotester fortsätter över hela Frankrike – Europa lever, som det hände",
       "title_en": "Minister denies police brutality as student protests continue across France – Europe live, as it happened",
-      "summary_sv": "Nästan 460 skolor påverkas av fortsatta protester idag, drygt hälften av dem som anslöt sig till \"mobiliseringens dag\" i går. Vi får rapporter om en knivattack på en yrkesskola i Ostrołęka, Polen, som gjorde att minst sju personer skadades, inklusive två allvarligt, enligt vad som rapporterades av Polens RMF FM-radio. Staden...",
+      "summary_sv": "Nästan 460 skolor påverkas av fortsatta protester i dag, drygt hälften av dem som anslöt sig till \"mobiliseringens dag\" i går. Vi får rapporter om en knivattack på en yrkesskola i Ostrołęka, Polen, som gjorde att minst sju personer skadades, inklusive två allvarligt, som rapporterats av Polens RMF FM-radio. Staden...",
       "summary_en": "Nearly 460 schools are affected by continuing protests today, just over a half of those that joined the ‘day of mobilisation’ yesterday We are getting reports of a knife attack at a vocational school in Ostrołęka, Poland, which left at least seven people injured, including two seriously, as reported by Poland’s RMF FM radio.The city mayor, Paweł...",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "usa",
+        "eu",
         "ukraina"
       ],
       "syfte": {
@@ -1282,8 +1369,8 @@
       "arkiverad": true,
       "tags": [
         "Polen",
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -1954,10 +2041,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1977,10 +2064,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Drönare",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Drönare",
+        "Robotanfall"
       ]
     },
     {
@@ -2148,10 +2235,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2171,11 +2258,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Kyjiv",
         "Civila mål",
+        "Kyjiv",
         "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2499,10 +2586,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2522,8 +2609,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
