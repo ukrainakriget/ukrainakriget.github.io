@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 927,
-  "last_archived_rotation": "2026-10-09T04:31:19.456732+00:00",
+  "total_archived_events": 928,
+  "last_archived_rotation": "2026-10-09T05:01:26.594314+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-08-1e25a1",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T07:33:00+03:00",
+      "title_sv": "Försvarsstyrkorna i Sumy-regionen får en ny sändning av interceptor-drönare",
+      "title_en": "Defense Forces in Sumy region receive new shipment of interceptor drones",
+      "summary_sv": "Soldater som försvarar Sumy-regionen har fått 70 nya \"General Chereshnia\"-drönare.",
+      "summary_en": "Soldiers defending the Sumy region have received 70 new “General Chereshnia” interceptor drones.",
+      "location_name": "Sumy",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-defense/4172131-defense-forces-in-sumy-region-receive-new-shipment-of-interceptor-drones.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Sumy"
+      ]
+    },
     {
       "id": "evt-2026-10-08-f0cc71",
       "date": "2026-10-08",
@@ -1541,10 +1578,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1639,8 +1676,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Civila mål",
+        "Ukraina",
         "Polen"
       ]
     },
