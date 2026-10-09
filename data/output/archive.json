@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 1033,
-  "last_archived_rotation": "2026-10-09T17:01:32.027072+00:00",
+  "total_archived_events": 1035,
+  "last_archived_rotation": "2026-10-09T17:31:13.299216+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-08-daa752",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T20:30:00+03:00",
+      "title_sv": "Fyra dödade, 19 skadades i Kyjiv i ryska attacker under hela dagen",
+      "title_en": "Four killed, 19 injured in Kyiv in Russian attacks throughout day",
+      "summary_sv": "Fyra personer dödades och 19 andra skadades i ryska attacker mot huvudstaden under torsdagen den 8 oktober.",
+      "summary_en": "Four people were killed and 19 others injured in Russian attacks on the capital throughout Thursday, October 8.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172475-four-killed-19-injured-in-kyiv-in-russian-attacks-throughout-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-08-e7a619",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T20:16:00+03:00",
+      "title_sv": "Ryssland attackerar en av Kyjivs viktigaste energianläggningar – energiministern",
+      "title_en": "Russia attacks one of Kyiv’s key energy facilities – Energy Minister",
+      "summary_sv": "Ryska styrkor attackerade en av de energianläggningar som är viktiga för Kyjiv.",
+      "summary_en": "Russian forces attacked one of the energy facilities that is important for Kyiv.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4172471-russia-attacks-one-of-kyivs-key-energy-facilities-energy-minister.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-10-08-46d41b",
       "date": "2026-10-08",
@@ -954,10 +1031,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1141,8 +1218,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -1941,10 +2018,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3299,10 +3376,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
