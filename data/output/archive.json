@@ -1,7 +1,96 @@
 {
-  "total_archived_events": 1064,
-  "last_archived_rotation": "2026-10-10T00:01:52.749438+00:00",
+  "total_archived_events": 1067,
+  "last_archived_rotation": "2026-10-10T00:31:11.576351+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-09-eaa3ce",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T03:28:00+03:00",
+      "title_sv": "Pollsters nämner två ledare för valstöd",
+      "title_en": "Pollsters name two leaders in electoral support",
+      "summary_sv": "Volodymyr Zelensky och Valerii Zaluzhnyi leder i valstödet, med 22,9 % respektive 20,2 %.",
+      "summary_en": "Volodymyr Zelensky and Valerii Zaluzhnyi lead in electoral support, with 22.9% and 20.2%, respectively.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från Ukrinform samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from Ukrinform and official emergency services."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4172349-pollsters-name-two-leaders-in-electoral-support.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "Ukrinform",
+          "titel": "Pollsters nämner två ledare för valstöd",
+          "url": "https://www.ukrinform.net/rubric-polytics/4172349-pollsters-name-two-leaders-in-electoral-support.html"
+        },
+        {
+          "kalla": "Ukrinform",
+          "titel": "Pollsters nämner två ledare för valstöd",
+          "url": "https://www.ukrinform.net/rubric-society/4172349-pollsters-name-two-leaders-in-electoral-support.html"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
+      "id": "evt-2026-10-09-32c8b0",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T03:09:00+03:00",
+      "title_sv": "GRU-överste och vitryska medborgare bakom Leipzigs flygplatsdrönarincident, säger rapporten",
+      "title_en": "GRU colonel and Belarusian citizens behind Leipzig airport drone incident, report says",
+      "summary_sv": "Försöket i augusti att träffa ukrainska fraktplan på flygplatsen Leipzig/Halle med drönare koordinerades av Rysslands militära underrättelsetjänst (GRU), enligt en gemensam utredning som publicerades av Der Spiegel och The Insider den 8 oktober.",
+      "summary_en": "The August attempt to hit Ukrainian cargo planes at the Leipzig/Halle Airport with drones was coordinated by Russia’s military intelligence (GRU), according to a joint investigation published by Der Spiegel and The Insider on Oct. 8.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ukrainas_granser",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/gru-colonel-and-belarusians-behind-leipzig-airport-incident-50648450.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-09-578068",
       "date": "2026-10-09",
@@ -364,6 +453,48 @@
       "cluster_count": 2
     },
     {
+      "id": "evt-2026-10-08-c90804",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T23:42:44+00:00",
+      "title_sv": "Krigsbriefing i Ukraina: Zelenskyy kritiserar USA, kräver mer Starlink-åtkomst, mitt i det dödliga ryska anfallet",
+      "title_en": "Ukraine war briefing: Zelenskyy criticises US, calls for more Starlink access, amid deadly Russian assault",
+      "summary_sv": "Ukrainas president säger att utökad Starlink-tillgång kommer att hjälpa nationen att rikta in sig på ryska ballistiska missiler.",
+      "summary_en": "Ukrainian president says expanded Starlink access will help nation target Russian ballistic-missile launchers.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "eu",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/09/ukraine-war-briefing-zelenskyy-criticises-us-calls-for-more-starlink-access-amid-deadly-russian-assault",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Robotanfall",
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-08-57f3af",
       "date": "2026-10-08",
       "timestamp": "2026-10-08T23:39:00+03:00",
@@ -451,9 +582,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2157,10 +2288,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
         "ryssland",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2180,8 +2311,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -2323,8 +2454,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2344,8 +2475,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -3144,10 +3275,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
         "ryssland",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3167,9 +3298,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Robotanfall",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
