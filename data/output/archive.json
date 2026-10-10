@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 1062,
-  "last_archived_rotation": "2026-10-09T23:31:28.751943+00:00",
+  "total_archived_events": 1064,
+  "last_archived_rotation": "2026-10-10T00:01:52.749438+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-09-578068",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T02:41:00+03:00",
+      "title_sv": "Ett halvt ton vardera: Polisen neutraliserar två oexploderade ballistiska missiler som föll nära hem i Kyjiv",
+      "title_en": "Half a tonne each: Police neutralize two unexploded ballistic missiles that fell near homes in Kyiv",
+      "summary_sv": "Sprängämnesexperter från Kyjiv-polisen har neutraliserat två oexploderade ballistiska missiler som användes av ryska styrkor för att attackera staden den 7 oktober.",
+      "summary_en": "Explosives experts from the Kyiv police have neutralized two unexploded ballistic missiles used by Russian forces to attack the city on October 7.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ryssland",
+        "eu",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172327-half-a-tonne-each-police-neutralize-two-unexploded-ballistic-missiles-that-fell-near-homes-in-kyiv.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall"
+      ]
+    },
     {
       "id": "evt-2026-10-09-7e589e",
       "date": "2026-10-09",
@@ -268,6 +308,62 @@
       ]
     },
     {
+      "id": "evt-2026-10-08-b68f60",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T23:42:44+00:00",
+      "title_sv": "Krigsbriefing i Ukraina: Zelenskyy fördömer \"olyckliga\" attacker från Ryssland som dödade 20 i en lägenhet",
+      "title_en": "Ukraine war briefing: Zelenskyy condemns ‘vile’ attacks from Russia that killed 20 in one apartment",
+      "summary_sv": "Dödssiffran från den senaste attackvågen mot Ukraina stiger till 28; Moskva säger att det träffade militärt lastfartyg och hamninfrastruktur.",
+      "summary_en": "Death toll from latest attack wave on Ukraine climbs to 28; Moscow says it ​hit military cargo vessel and port infrastructure.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "eu",
+        "ukraina",
+        "ryssland",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/08/ukraine-war-briefing-zelenskyy-condemns-vile-attacks-from-russia-that-killed-20-in-one-apartment",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Drönare",
+        "Kyjiv",
+        "Robotanfall",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Krigsbriefing i Ukraina: Zelenskyy fördömer \"olyckliga\" attacker från Ryssland som dödade 20 i en lägenhet",
+          "url": "https://www.theguardian.com/world/2026/oct/08/ukraine-war-briefing-zelenskyy-condemns-vile-attacks-from-russia-that-killed-20-in-one-apartment"
+        },
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Krigsbriefing i Ukraina: Zelenskyy kritiserar USA, kräver mer Starlink-åtkomst, mitt i det dödliga ryska anfallet",
+          "url": "https://www.theguardian.com/world/2026/oct/09/ukraine-war-briefing-zelenskyy-criticises-us-calls-for-more-starlink-access-amid-deadly-russian-assault"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
       "id": "evt-2026-10-08-57f3af",
       "date": "2026-10-08",
       "timestamp": "2026-10-08T23:39:00+03:00",
@@ -349,14 +445,14 @@
       "timestamp": "2026-10-08T23:11:10+00:00",
       "title_sv": "Misstänkt kopplad till Monaco bombattack på miljonär talar till BBC",
       "title_en": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "summary_sv": "Vitalii Zhykovych ger en egen redogörelse för mordförsöket på den ukrainskfödde affärsmannen Vadym Yermolayev.",
+      "summary_sv": "Vitalii Zhykovych ger sin egen redogörelse för mordförsöket på den ukrainskfödde affärsmannen Vadym Yermolayev.",
       "summary_en": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -2061,10 +2157,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2227,8 +2323,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2248,8 +2344,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -3042,16 +3138,16 @@
       "timestamp": "2026-10-08T14:00:05+00:00",
       "title_sv": "Rysk attack mot buss dödar minst 30 personer nära Ukrainas frontlinje",
       "title_en": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-      "summary_sv": "Zelenskyy säger att Kreml medvetet riktade in sig på \"vanlig hållplats för kollektivtrafiken\" i Kramatorsk, med 18 skadade. En rysk missilattack på en buss i den östra staden Kramatorsk har dödat minst 30 personer, har tjänstemän sagt, i en av de värsta attackerna från Moskva mot civila ukrainska i år. Den regionala åklagarmyndigheten i Donetsk...",
+      "summary_sv": "Zelenskyy säger att Kreml medvetet riktade in sig på \"vanlig hållplats för kollektivtrafiken\" i Kramatorsk, med 18 skadade. En rysk missilattack på en buss i den östra staden Kramatorsk har dödat minst 30 personer, har tjänstemän sagt, i en av de värsta attackerna från Moskva mot civila ukrainska i år. Den regionala åklagarmyndigheten i Donetsks...",
       "summary_en": "Zelenskyy says Kremlin deliberately targeted ‘ordinary public transport stop’ in Kramatorsk, with 18 wounded A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials have said, in one of the worst attacks by Moscow on Ukrainian civilians this year.The regional prosecutor’s office in the Donetsk...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3071,8 +3167,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Ukraina",
+        "Robotanfall",
         "Civila mål"
       ]
     },
