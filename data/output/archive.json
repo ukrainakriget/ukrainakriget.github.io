@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 1074,
-  "last_archived_rotation": "2026-10-10T05:01:29.147075+00:00",
+  "total_archived_events": 1076,
+  "last_archived_rotation": "2026-10-10T05:31:28.736694+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-09-4be1fa",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T08:30:00+03:00",
+      "title_sv": "Drönsattack träffar fabrik som tillverkar bränsle för Kh-55 och Kh-101 missiler - video",
+      "title_en": "Drone strike hits plant manufacturing fuel for Kh-55 and Kh-101 missiles - video",
+      "summary_sv": "Redkino Experimental Plant som producerar kryssningsmissilbränsle attackerades i Rysslands Tver Oblast, rapporterade övervakningskanalen Exilenova+ den 9 oktober.",
+      "summary_en": "Redkino Experimental Plant producing cruise missile fuel came under attack in Russia's Tver Oblast, monitoring channel Exilenova+ reported on Oct. 9.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/strike-hits-russian-cruise-missile-fuel-plant-in-tver-50648486.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur",
+        "Robotanfall",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-09-1f65d5",
       "date": "2026-10-09",
@@ -242,6 +282,46 @@
         }
       ],
       "cluster_count": 2
+    },
+    {
+      "id": "evt-2026-10-09-45296d",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T04:53:50+00:00",
+      "title_sv": "Ryska attacker och annalkande vinter tvingar några i Kyjiv att packa väskor och fly",
+      "title_en": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "summary_sv": "En förnyad rysk kampanj av attacker mot kraft- och energiinfrastruktur har fått en del att överväga att lämna Ukrainas huvudstad.",
+      "summary_en": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Kyjiv",
+        "Ukraina"
+      ]
     },
     {
       "id": "evt-2026-10-09-5f1458",
@@ -745,10 +825,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "uk",
-        "ukraina",
-        "eu"
+        "usa",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -768,9 +848,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv",
         "Robotanfall",
+        "Kyjiv",
+        "Ukraina",
         "Civila mål"
       ]
     },
@@ -862,9 +942,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "uk",
-        "ukraina",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
