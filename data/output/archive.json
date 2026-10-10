@@ -1,7 +1,88 @@
 {
-  "total_archived_events": 1080,
-  "last_archived_rotation": "2026-10-10T06:01:31.191490+00:00",
+  "total_archived_events": 1082,
+  "last_archived_rotation": "2026-10-10T06:31:21.577845+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-09-35d71d",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T09:30:00+03:00",
+      "title_sv": "Ryska styrkor attackerade Dnipropetrovsk-regionen mer än 30 gånger sedan kvällen och skadade en person",
+      "title_en": "Russian forces attack Dnipropetrovsk region more than 30 times since evening, injuring one person",
+      "summary_sv": "Ryska inkräktare attackerade fem distrikt i Dnipropetrovsk-regionen mer än 30 gånger, vilket resulterade i skador på civila anläggningar, bränder och en person skadades.",
+      "summary_en": "Russian invaders attacked five districts of the Dnipropetrovsk region more than 30 times, resulting in damage to civilian facilities, fires, and one person being wounded.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172561-russian-forces-attack-dnipropetrovsk-region-more-than-30-times-since-evening-injuring-one-person.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-09-ab4cd9",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T09:12:00+03:00",
+      "title_sv": "Ukraina fångar upp rekord 82% av ryska jetdrönare i de senaste attackerna - expert",
+      "title_en": "Ukraine intercepts record 82% of Russian jet drones in latest attacks — expert",
+      "summary_sv": "Ukrainskt luftvärn sköt ned mer än 82 % av Rysslands jetdrivna drönare under attackerna den 7 oktober, säger flygexperten och ledande forskare vid Statens luftfartsmuseum Valerii Romanenko till Radio NV.",
+      "summary_en": "Ukrainian air defenses shot down more than 82% of Russia's jet-powered drones during attacks on October 7, aviation expert and leading researcher at the State Aviation Museum Valerii Romanenko told Radio NV.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "eu",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "avvardad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/most-russian-jet-powered-drones-intercepted-in-latest-attacks-over-ukraine-expert-50648479.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina",
+        "Luftförsvar",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-09-e255c9",
       "date": "2026-10-09",
@@ -450,10 +531,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "uk",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -473,9 +554,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Kyjiv",
         "Ukraina",
-        "Energi",
-        "Kyjiv"
+        "Energi"
       ]
     },
     {
@@ -979,11 +1060,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ryssland",
         "ukraina",
-        "eu",
-        "uk"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1003,10 +1084,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Kyjiv",
         "Ukraina",
-        "Civila mål",
         "Robotanfall",
-        "Kyjiv"
+        "Civila mål"
       ]
     },
     {
@@ -1097,9 +1178,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
