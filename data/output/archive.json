@@ -1,7 +1,133 @@
 {
-  "total_archived_events": 1232,
-  "last_archived_rotation": "2026-10-11T08:34:59.391645+00:00",
+  "total_archived_events": 1235,
+  "last_archived_rotation": "2026-10-11T09:05:30.424642+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-10-240afa",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T12:00:00+03:00",
+      "title_sv": "Ryska styrkor attackerar brandmän som bekämpar branden i Dnipropetrovsk-regionen",
+      "title_en": "Russian forces attack firefighters tackling blaze in Dnipropetrovsk region",
+      "summary_sv": "Ryska styrkor attackerade räddningspersonal som höll på att släcka en brand i Dnipro-distriktet i Dnipropetrovsk-regionen på kvällen den 9 oktober.",
+      "summary_en": "Russian forces attacked emergency responders who were extinguishing a fire in the Dnipro district of the Dnipropetrovsk region in the evening of October 9.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172945-russian-forces-attack-firefighters-tackling-blaze-in-dnipropetrovsk-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-10-509a0c",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T11:52:00+03:00",
+      "title_sv": "Ryssland slår Zaporizhzhya med guidade bomber: En del av bostadshus förstördes, åtta dödade, inklusive tre barn",
+      "title_en": "Russia hits Zaporizhzhya with guided bombs: Part of apartment building destroyed, eight killed, including three children",
+      "summary_sv": "Ryska styrkor slog staden Zaporizhzhya med guidade flygbomber över natten till den 10 oktober. Attacken skadade ett bostadshus. Åtta personer, inklusive tre barn, dödades i attacken och ytterligare 16 skadades, enligt den regionala militärförvaltningen.",
+      "summary_en": "Russian forces struck the city of Zaporizhzhya with guided aerial bombs overnight into Oct. 10. The strike damaged an apartment building. Eight people, including three children, were killed in the attack, and 16 more were wounded, according to the regional military administration.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The New Voice of Ukraine samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The New Voice of Ukraine and official emergency services."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/kab-bombs-strike-zaporizhzhya-residential-building-people-may-be-trapped-under-rubble-50648829.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Ukraina",
+        "Zaporizjzja"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The New Voice of Ukraine",
+          "titel": "Ryssland slår Zaporizhzhya med guidade bomber: En del av bostadshus förstördes, åtta dödade, inklusive tre barn",
+          "url": "https://english.nv.ua/nation/kab-bombs-strike-zaporizhzhya-residential-building-people-may-be-trapped-under-rubble-50648829.html"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
+      "id": "evt-2026-10-10-18f100",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T11:40:00+03:00",
+      "title_sv": "Polen utfärdar larm, sätter in stridsflyg under rysk attack mot Ukraina",
+      "title_en": "Poland issues alerts, scrambles military aircraft amid Russian attack on Ukraine",
+      "summary_sv": "Polen utfärdade larm i vojvodskapen Lublin och Subkarpaterna under natten till lördagen mitt i en rysk missilattack mot Ukraina, medan polska militära flygplan var förvrängda.",
+      "summary_en": "Poland issued alerts in the Lublin and Subcarpathian voivodeships overnight into Saturday amid a Russian missile attack on Ukraine, while Polish military aircraft were scrambled.",
+      "location_name": "Polen & västra gränsen",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172939-poland-issues-alerts-scrambles-military-aircraft-amid-russian-attack-on-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Polen",
+        "Ukraina",
+        "Robotanfall"
+      ]
+    },
     {
       "id": "evt-2026-10-10-409e68",
       "date": "2026-10-10",
@@ -475,10 +601,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -499,8 +625,8 @@
       "arkiverad": true,
       "tags": [
         "Civila mål",
-        "Ukraina",
-        "Ryskt"
+        "Ryskt",
+        "Ukraina"
       ]
     },
     {
@@ -823,10 +949,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -862,9 +988,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1128,11 +1254,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "usa",
+        "eu",
         "ryssland",
-        "ukraina",
-        "eu"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1364,10 +1490,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1892,10 +2018,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1915,9 +2041,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Robotanfall",
         "Drönare",
-        "Ukraina",
-        "Robotanfall"
+        "Ukraina"
       ]
     },
     {
