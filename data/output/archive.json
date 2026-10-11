@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 1244,
-  "last_archived_rotation": "2026-10-11T10:35:20.132539+00:00",
+  "total_archived_events": 1246,
+  "last_archived_rotation": "2026-10-11T11:05:34.923244+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-10-6d3b2b",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T13:51:00+03:00",
+      "title_sv": "Tunnelbanetåg, rulltrappor, vissa kollektivtrafiktjänster i Kyjiv avstängda på grund av strömavbrott",
+      "title_en": "Metro trains, escalators, some public transport services in Kyiv suspended due to power outage",
+      "summary_sv": "Tunnelbanetjänster och rulltrappor i Kyjiv har tillfälligt ställts in på grund av strömavbrott.",
+      "summary_en": "Metro train services and escalators in Kyiv have been temporarily suspended due to a loss of power.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172985-metro-trains-escalators-some-public-transport-services-in-kyiv-suspended-due-to-power-outage.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Energi",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-10-262dd0",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T13:40:00+03:00",
+      "title_sv": "Ryssland förlorar 1 420 soldater, 50 artillerisystem under det senaste dygnet",
+      "title_en": "Russia loses 1,420 troops, 50 artillery systems over past day",
+      "summary_sv": "Under det senaste dygnet förlorade Ryssland omkring 1 420 soldater i sitt krig mot Ukraina. Den ryska arméns totala förluster den 10 oktober är ungefär 1 550 910 dödade och sårade, enligt Ukrainas generalstab.",
+      "summary_en": "Over the past day, Russia lost about 1,420 troops in its war against Ukraine. Total losses of the Russian army as of Oct. 10 are roughly 1,550,910 killed and wounded, according to Ukraine's General Staff.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-armed-forces-losses-in-equipment-and-personnel-updated-data-from-ukraine-s-general-staff-50648849.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-10-77545a",
       "date": "2026-10-10",
@@ -639,8 +715,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "eu",
         "uk",
+        "eu",
         "ryssland",
         "ukraina"
       ],
@@ -677,10 +753,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -700,9 +776,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Zaporizjzja",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -758,10 +834,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -951,10 +1027,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -974,8 +1050,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Ryskt",
         "Civila mål",
+        "Ryskt",
         "Ukraina"
       ]
     },
@@ -1299,10 +1375,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1338,9 +1414,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1605,8 +1681,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "eu",
         "uk",
+        "eu",
         "ryssland",
         "ukraina"
       ],
@@ -1628,10 +1704,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Kyjiv",
         "Drönare",
-        "Ukraina"
+        "Infrastruktur",
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -1840,10 +1916,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
