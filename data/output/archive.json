@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 1219,
-  "last_archived_rotation": "2026-10-11T05:34:53.841517+00:00",
+  "total_archived_events": 1221,
+  "last_archived_rotation": "2026-10-11T06:05:04.667528+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-10-5e846f",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T08:59:00+03:00",
+      "title_sv": "Glidebombattack mot Zaporizjzja: Dödssiffran stiger till fyra, 11 skadade",
+      "title_en": "Glide bomb strike on Zaporizhzhia: Death toll rises to four, 11 injured",
+      "summary_sv": "Antalet personer som skadades i den ryska guidade bombattacken mot ett bostadshus i Zaporizjzja har stigit till 11, inklusive två barn. Fyra personer dödades, en av dem ett barn.",
+      "summary_en": "The number of people injured in the Russian guided aerial bomb strike on a residential apartment building in Zaporizhzhia has risen to 11, including two children. Four people were killed, one of them a child.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172894-glide-bomb-strike-on-zaporizhzhia-death-toll-rises-to-four-11-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Zaporizjzja"
+      ]
+    },
+    {
+      "id": "evt-2026-10-10-ac8b1c",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T08:39:00+03:00",
+      "title_sv": "Krigsuppdatering: 218 stridsinsatser på frontlinjen under det senaste dygnet, de flesta på Pokrovsk-axeln",
+      "title_en": "War update: 218 combat engagements on front line in over past day, most on Pokrovsk axis",
+      "summary_sv": "Den 9 oktober engagerade ukrainska försvarsstyrkor ryska trupper i 218 stridssammandrabbningar längs frontlinjen. Det högsta antalet attacker inträffade på Pokrovsk-axeln.",
+      "summary_en": "On October 9, Ukrainian Defense Forces engaged Russian troops in 218 combat clashes along the front line. The highest number of attacks occurred on the Pokrovsk axis.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4172891-war-update-218-combat-engagements-on-front-line-in-over-past-day-most-on-pokrovsk-axis.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Pokrovsk",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-10-1cd99c",
       "date": "2026-10-10",
@@ -322,10 +400,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -345,8 +423,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -361,9 +439,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -629,9 +707,9 @@
       "parter_intressenter": [
         "uk",
         "ukraina",
-        "eu",
+        "ryssland",
         "usa",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -651,10 +729,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Infrastruktur",
         "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Drönare",
+        "Infrastruktur"
       ]
     },
     {
@@ -863,10 +941,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1391,10 +1469,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1414,9 +1492,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Ukraina",
         "Robotanfall",
-        "Ukraina"
+        "Drönare"
       ]
     },
     {
