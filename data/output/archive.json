@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 1311,
-  "last_archived_rotation": "2026-10-12T02:01:20.789376+00:00",
+  "total_archived_events": 1312,
+  "last_archived_rotation": "2026-10-12T02:22:15.100355+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-11-842bcc",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T05:22:00+03:00",
+      "title_sv": "Japan to buy Ukrainian interceptor drones from SkyFall",
+      "title_en": "Japan to buy Ukrainian interceptor drones from SkyFall",
+      "summary_sv": "Japan's Ministry of Defense has signed a contract to purchase interceptor drones manufactured by Ukrainian company Sky Fall.",
+      "summary_en": "Japan's Ministry of Defense has signed a contract to purchase interceptor drones manufactured by Ukrainian company Sky Fall.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4173126-japan-to-buy-ukrainian-interceptor-drones-from-skyfall.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-11-098541",
       "date": "2026-10-11",
@@ -117,17 +154,17 @@
       "timestamp": "2026-10-11T01:47:55+00:00",
       "title_sv": "Krigsbriefing i Ukraina: Trump och Zelenskyys offentliga strid om det ryska bränsleavtalet förvärras",
       "title_en": "Ukraine war briefing: Trump and Zelenskyy’s public tussle over Russian fuel deal worsens",
-      "summary_sv": "Zelenskyy har \"stöd från folket\", säger Ukrainas utrikesminister efter att Trump efterlyst en \"ny ledare\".",
+      "summary_sv": "Zelenskyy har \"stöd från folket\", säger Ukrainas utrikesminister efter att Trump uppmanat till \"ny ledare\".",
       "summary_en": "Zelenskyy has ‘support of the people’, says Ukraine’s foreign minister after Trump calls for ‘new leader’.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
+        "uk",
         "eu",
-        "usa",
         "ukraina",
-        "uk"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -149,8 +186,8 @@
       "tags": [
         "Drönare",
         "Kyjiv",
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -317,11 +354,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "uk",
         "eu",
-        "usa",
         "ukraina",
-        "uk"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -396,8 +433,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -432,10 +469,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "eu",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -588,11 +625,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "uk",
         "eu",
-        "usa",
         "ukraina",
-        "uk"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -818,8 +855,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -888,15 +925,15 @@
       "timestamp": "2026-10-10T20:42:55+00:00",
       "title_sv": "Trump säger att Ukraina behöver en ny ledare efter ett dieselavtal med Ryssland",
       "title_en": "Trump says Ukraine needs a new leader after diesel deal with Russia",
-      "summary_sv": "USA:s president antyder att den ukrainska presidenten, Volodymyr Zelenskyy, inte har gjort tillräckligt för att avsluta kriget Donald Trump har sagt att Ukraina behöver \"en ny ledare\", en dag efter att ha gjort ett avtal med Vladimir Putin om att köpa stora mängder rysk diesel.",
+      "summary_sv": "USA:s president antyder att den ukrainska presidenten Volodymyr Zelenskyy inte har gjort tillräckligt för att få ett slut på kriget Donald Trump har sagt att Ukraina behöver \"en ny ledare\", en dag efter att ha gjort ett avtal med Vladimir Putin om att köpa stora mängder rysk diesel.",
       "summary_en": "US president suggests Ukrainian president, Volodymyr Zelenskyy, has not done enough to end war Donald Trump has said Ukraine needs “a new leader”, a day after making a deal with Vladimir Putin to buy large quantities of Russian diesel.The US president suggested Volodymyr Zelenskyy has not done enough to end the war with Russia and blamed him for...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
+        "usa",
+        "uk",
         "ryssland"
       ],
       "syfte": {
