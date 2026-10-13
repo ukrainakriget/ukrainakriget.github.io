@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 1430,
-  "last_archived_rotation": "2026-10-13T02:02:39.500957+00:00",
+  "total_archived_events": 1432,
+  "last_archived_rotation": "2026-10-13T02:31:18.833065+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-12-0b799d",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T05:27:00+03:00",
+      "title_sv": "Liashko: Russia seeks to deprive Ukrainians of access to essential medicines",
+      "title_en": "Liashko: Russia seeks to deprive Ukrainians of access to essential medicines",
+      "summary_sv": "Over the past month, Russia has stepped up attacks on pharmaceutical warehouses, production facilities and storage sites for critically important medicines, seeking to make it harder for Ukrainians to access the drugs and treatment they need.",
+      "summary_en": "Over the past month, Russia has stepped up attacks on pharmaceutical warehouses, production facilities and storage sites for critically important medicines, seeking to make it harder for Ukrainians to access the drugs and treatment they need.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "eu",
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4173313-liashko-russia-seeks-to-deprive-ukrainians-of-access-to-essential-medicines.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-12-92fec5",
       "date": "2026-10-12",
@@ -231,6 +271,48 @@
       "arkiverad": true,
       "tags": [
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-12-ddf9a5",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T02:05:26+00:00",
+      "title_sv": "Krigsbriefing i Ukraina: Ryssland attackerar flera kraftverk efter Trumps anspråk på vapenvila",
+      "title_en": "Ukraine war briefing: Russia attacks multiple power plants after Trump energy ceasefire claim",
+      "summary_sv": "Zelenskyy säger att den ukrainska himlen är fylld med ryska drönare efter vapenstillestånd, vilket Moskva ännu inte har bekräftat, eftersom sex dödades i attacker.",
+      "summary_en": "Zelenskyy says Ukrainian skies filled with Russian drones after truce claim, which Moscow has yet to confirm, as six killed in strikes.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "eu",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/12/ukraine-war-briefing-russia-attacks-multiple-power-plants-after-trump-energy-ceasefire-claim",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi",
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
@@ -1552,11 +1634,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
+        "uk",
         "eu",
-        "uk"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1576,9 +1658,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Energi",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -1905,8 +1987,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "uk",
         "usa"
       ],
@@ -1928,9 +2010,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Energi",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -2337,8 +2419,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -2359,8 +2441,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -2725,8 +2807,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "uk",
         "usa"
       ],
