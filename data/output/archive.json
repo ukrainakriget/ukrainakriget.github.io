@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 1562,
-  "last_archived_rotation": "2026-10-13T20:31:22.597477+00:00",
+  "total_archived_events": 1564,
+  "last_archived_rotation": "2026-10-13T21:02:07.648180+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-12-6d8a57",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T23:59:00+03:00",
+      "title_sv": "Ryska styrkor attackerar Charkiv med Banderol-missiler, rapporterade skador",
+      "title_en": "Russian forces strike Kharkiv with Banderol missiles, injuries reported",
+      "summary_sv": "Ryska styrkor har attackerat Charkiv, riktat mot stadens Kholodnohirskyi-distrikt.",
+      "summary_en": "Russian forces have attacked Kharkiv, targeting the city's Kholodnohirskyi district.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4173751-russian-forces-strike-kharkiv-with-banderol-missiles-injuries-reported.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Infrastruktur",
+        "Charkiv",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-12-80ae65",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T23:37:00+03:00",
+      "title_sv": "Ryska styrkor attackerar Rivne, rapporterade skador",
+      "title_en": "Russian forces attack Rivne, damage reported",
+      "summary_sv": "Ryska styrkor attackerade staden Rivne på kvällen den 12 oktober och orsakade skada.",
+      "summary_en": "Russian forces attacked the city of Rivne on the evening of October 12, causing damage.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4173750-russian-forces-attack-rivne-damage-reported.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-12-aeca74",
       "date": "2026-10-12",
@@ -629,10 +707,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "usa",
-        "ryssland",
-        "uk"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1259,10 +1337,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
+        "uk",
         "usa",
-        "uk"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1409,10 +1487,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "usa",
-        "ryssland",
-        "uk"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1432,8 +1510,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -1681,11 +1759,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "usa",
+        "ukraina",
         "eu",
         "uk",
-        "ukraina",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1839,11 +1917,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "usa",
+        "ukraina",
         "eu",
         "uk",
-        "ukraina",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1864,8 +1942,8 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -1881,10 +1959,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "usa",
-        "ryssland",
-        "uk"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1904,8 +1982,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -2072,15 +2150,15 @@
       "timestamp": "2026-10-12T15:42:37+00:00",
       "title_sv": "Saudiarabien ställer in ytterligare flyg efter den senaste dödliga Houthi-attacken på flygplatsen",
       "title_en": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-      "summary_sv": "Energiminister säger att \"rädsla inte har någon plats i det saudiska lexikonet\" eftersom paramilitär grupp återigen bryter mot det utsträckta försvaret Varför attackerar houthierna saudiska flygplatser och hur tar sig missilerna igenom?",
+      "summary_sv": "Energiministern säger att \"rädsla inte har någon plats i det saudiska lexikonet\" när paramilitär grupp återigen bryter mot det utsträckta försvaret Varför attackerar houthierna saudiska flygplatser och hur tar sig missilerna igenom?",
       "summary_en": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defences Why are the Houthis attacking Saudi airports and how are the missiles getting through?Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until next Saturday after a further...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "eu",
-        "usa"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3592,10 +3670,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "usa",
-        "ryssland",
-        "uk"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3615,8 +3693,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Charkiv"
+        "Charkiv",
+        "Ukraina"
       ]
     },
     {
