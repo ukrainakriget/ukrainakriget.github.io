@@ -1,6 +1,6 @@
 {
-  "total_archived_events": 1545,
-  "last_archived_rotation": "2026-10-13T17:32:02.713134+00:00",
+  "total_archived_events": 1546,
+  "last_archived_rotation": "2026-10-13T17:35:16.673267+00:00",
   "events": [
     {
       "id": "evt-2026-10-12-047cdc",
@@ -623,6 +623,52 @@
       ]
     },
     {
+      "id": "evt-2026-10-12-efcf7e",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T17:34:40+00:00",
+      "title_sv": "Burnham säger att \"allmänheten kommer att vara chefen\" i alla framtida beslut om närmare relationer med EU - Storbritanniens politik live",
+      "title_en": "Burnham says ‘public will be the boss’ in any future decision about closer relationship with the EU – UK politics live",
+      "summary_sv": "Premiärministern säger till parlamentsledamöter att nästa toppmöte med EU kommer att hållas den 20 november Burnham för att uppmana parlamentsledamöter att anamma närmare band med EUZia Yusuf, Reform UK:s talesperson för inrikes frågor, talar nu.",
+      "summary_en": "The prime minister tells MPs the next summit with the EU will be held on 20 November Burnham to urge MPs to embrace closer ties with EUZia Yusuf, Reform UK’s home affairs spokesperson, is speaking now.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "eu",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Burnham säger att \"allmänheten kommer att vara chefen\" i alla framtida beslut om närmare relationer med EU - Storbritanniens politik live",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
       "id": "evt-2026-10-12-b09737",
       "date": "2026-10-12",
       "timestamp": "2026-10-12T17:25:00+03:00",
@@ -746,10 +792,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -769,8 +815,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi"
       ]
     },
@@ -1018,11 +1064,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1176,11 +1222,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1200,8 +1246,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi",
         "Drönare"
       ]
@@ -1218,10 +1264,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1241,8 +1287,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi"
       ]
     },
@@ -1409,15 +1455,15 @@
       "timestamp": "2026-10-12T15:42:37+00:00",
       "title_sv": "Saudiarabien ställer in ytterligare flyg efter den senaste dödliga Houthi-attacken på flygplatsen",
       "title_en": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-      "summary_sv": "Energiministern säger att \"rädsla inte har någon plats i det saudiska lexikonet\" när paramilitär grupp återigen bryter mot det utsträckta försvaret Varför attackerar houthierna saudiska flygplatser och hur tar sig missilerna igenom?",
+      "summary_sv": "Energiminister säger att \"rädsla inte har någon plats i det saudiska lexikonet\" eftersom paramilitär grupp återigen bryter mot det utsträckta försvaret Varför attackerar houthierna saudiska flygplatser och hur tar sig missilerna igenom?",
       "summary_en": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defences Why are the Houthis attacking Saudi airports and how are the missiles getting through?Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until next Saturday after a further...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1437,8 +1483,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
         "Ukraina",
+        "Energi",
         "Robotanfall"
       ]
     },
@@ -2929,10 +2975,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2952,8 +2998,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Charkiv",
-        "Ukraina"
+        "Ukraina",
+        "Charkiv"
       ]
     },
     {
@@ -3975,11 +4021,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3999,8 +4045,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi"
       ]
     },
