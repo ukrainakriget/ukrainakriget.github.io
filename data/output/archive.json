@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 1564,
-  "last_archived_rotation": "2026-10-13T21:02:07.648180+00:00",
+  "total_archived_events": 1566,
+  "last_archived_rotation": "2026-10-13T21:31:23.567496+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-13-dc3116",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T00:31:00+03:00",
+      "title_sv": "Ukrainas budget inkomstbrist når UAH 50 miljarder — Marchenko",
+      "title_en": "Ukraine budget revenue shortfall reaches UAH 50 bln — Marchenko",
+      "summary_sv": "Ukrainas statsbudget låg under 50 miljarder UAH i planerade intäkter under de första nio månaderna 2026, med 32 miljarder UAH av detta gap registrerat i augusti–september.",
+      "summary_en": "Ukraine’s state budget fell short of UAH 50 billion in planned revenue over the first nine months of 2026, with UAH 32 billion of that gap recorded in August–September.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4173481-ukraine-budget-revenue-shortfall-reaches-uah-50-bln-marchenko.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-12-6d8a57",
       "date": "2026-10-12",
@@ -502,6 +539,45 @@
       ]
     },
     {
+      "id": "evt-2026-10-12-5c3654",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T21:20:51+00:00",
+      "title_sv": "Sex ukrainska energisajter som drabbats av Ryssland sedan Trump tillkännagav vapenvila, säger Zelensky",
+      "title_en": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary_sv": "Trots att USA:s president tillkännagav att energiinfrastruktur inte skulle vara riktad har attackerna fortsatt, säger Ukraina.",
+      "summary_en": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
       "id": "evt-2026-10-12-4bc148",
       "date": "2026-10-12",
       "timestamp": "2026-10-12T21:20:00+03:00",
@@ -707,10 +783,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1337,10 +1413,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1487,10 +1563,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1510,8 +1586,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi"
       ]
     },
@@ -1759,11 +1835,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
+        "usa",
         "eu",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1783,8 +1859,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -1917,11 +1993,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
+        "usa",
         "eu",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1941,10 +2017,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Kyjiv",
         "Ukraina",
-        "Energi"
+        "Kyjiv",
+        "Energi",
+        "Drönare"
       ]
     },
     {
@@ -1959,10 +2035,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1982,8 +2058,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi"
       ]
     },
@@ -2150,15 +2226,15 @@
       "timestamp": "2026-10-12T15:42:37+00:00",
       "title_sv": "Saudiarabien ställer in ytterligare flyg efter den senaste dödliga Houthi-attacken på flygplatsen",
       "title_en": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-      "summary_sv": "Energiministern säger att \"rädsla inte har någon plats i det saudiska lexikonet\" när paramilitär grupp återigen bryter mot det utsträckta försvaret Varför attackerar houthierna saudiska flygplatser och hur tar sig missilerna igenom?",
+      "summary_sv": "Energiminister säger att \"rädsla inte har någon plats i det saudiska lexikonet\" eftersom paramilitär grupp återigen bryter mot det utsträckta försvaret Varför attackerar houthierna saudiska flygplatser och hur tar sig missilerna igenom?",
       "summary_en": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defences Why are the Houthis attacking Saudi airports and how are the missiles getting through?Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until next Saturday after a further...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2178,9 +2254,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Ukraina",
-        "Energi"
+        "Energi",
+        "Robotanfall"
       ]
     },
     {
@@ -3670,10 +3746,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3693,8 +3769,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Charkiv",
-        "Ukraina"
+        "Ukraina",
+        "Charkiv"
       ]
     },
     {
