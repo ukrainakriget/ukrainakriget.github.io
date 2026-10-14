@@ -92,7 +92,11 @@ const AppData = {
   filterAnalyses(filters = {}) {
     let list = this.analyses || [];
     if (filters.authorType && filters.authorType !== "alla") {
-      list = list.filter(a => a.author_type === filters.authorType);
+      if (filters.authorType === "svensk_expert") {
+        list = list.filter(a => a.author_type === "svensk_expert" || a.author_type === "nordisk_expert" || a.author_id === "puck_nielsen");
+      } else {
+        list = list.filter(a => a.author_type === filters.authorType);
+      }
     }
     if (filters.topic && filters.topic !== "alla") {
       list = list.filter(a => a.topics && a.topics.includes(filters.topic));

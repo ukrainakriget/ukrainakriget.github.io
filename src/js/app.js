@@ -758,7 +758,7 @@ window.App = {
         <article class="featured-analysis-card">
           <div class="analysis-card-top">
             <div class="author-meta-box">
-              <span class="author-badge-icon">${a.author_type === 'svensk_expert' ? '🇸🇪' : (a.author_type === 'osint_analytiker' ? '🛰️' : '🌐')}</span>
+              <span class="author-badge-icon">${a.author_id === 'puck_nielsen' ? '🇩🇰' : (a.author_type === 'svensk_expert' ? '🇸🇪' : (a.author_type === 'osint_analytiker' ? '🛰️' : '🌐'))}</span>
               <div>
                 <strong class="author-name-text">${a.author_name}</strong>
                 <span class="author-title-text">${authorTitle}</span>
@@ -817,7 +817,8 @@ window.App = {
       const topics = a.topics || [];
 
       let typeBadge = isEn ? "International strategist" : "Internationell strateg";
-      if (a.author_type === "svensk_expert") typeBadge = isEn ? "Swedish defense analyst" : "Svensk försvarsexpert";
+      if (a.author_id === "puck_nielsen" || a.author_type === "nordisk_expert") typeBadge = isEn ? "Nordic defense analyst" : "Nordisk försvarsexpert";
+      else if (a.author_type === "svensk_expert") typeBadge = isEn ? "Swedish defense analyst" : "Svensk försvarsexpert";
       else if (a.author_type === "osint_analytiker") typeBadge = isEn ? "Satellite OSINT" : "Satellit & OSINT";
 
       return `
