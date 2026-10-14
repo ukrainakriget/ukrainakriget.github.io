@@ -16,16 +16,20 @@ const AppData = {
   updateFrequencyHours: 0.5,
   isLoaded: false,
 
-  async init() {
+  async init(forceFresh = false) {
     try {
-      // Försök ladda via fetch från data-katalogen
+      const isHttp = typeof window !== "undefined" && window.location && window.location.protocol.startsWith("http");
+      const cacheBust = isHttp ? `?_t=${Date.now()}` : "";
+      const fetchOpts = isHttp ? (forceFresh ? { cache: "no-store" } : { cache: "no-cache" }) : {};
+
+      // Försök ladda via fetch från data-katalogen med cache-busting för att garantera senaste versionen
       const [resEvents, resArchive, resSources, resStats, resAnalyses, resCasualties] = await Promise.all([
-        fetch("data/output/events.json").then(r => r.ok ? r.json() : null).catch(() => null),
-        fetch("data/output/archive.json").then(r => r.ok ? r.json() : null).catch(() => null),
-        fetch("data/sources.json").then(r => r.ok ? r.json() : null).catch(() => null),
-        fetch("data/output/statistics.json").then(r => r.ok ? r.json() : null).catch(() => null),
-        fetch("data/output/analyses.json").then(r => r.ok ? r.json() : null).catch(() => null),
-        fetch("data/output/casualties.json").then(r => r.ok ? r.json() : null).catch(() => null)
+        fetch(`data/output/events.json${cacheBust}`, fetchOpts).then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch(`data/output/archive.json${cacheBust}`, fetchOpts).then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch(`data/sources.json${cacheBust}`, fetchOpts).then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch(`data/output/statistics.json${cacheBust}`, fetchOpts).then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch(`data/output/analyses.json${cacheBust}`, fetchOpts).then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch(`data/output/casualties.json${cacheBust}`, fetchOpts).then(r => r.ok ? r.json() : null).catch(() => null)
       ]);
 
       if (resEvents && resEvents.events) {
@@ -67,6 +71,19 @@ const AppData = {
 
     this.isLoaded = true;
     return this;
+  },
+
+  async reload(forceFresh = true) {
+    const prevLastUpdated = this.lastUpdated;
+    const prevEventCount = this.events ? this.events.length : 0;
+    const prevFirstEventId = this.events && this.events[0] ? this.events[0].id : null;
+
+    await this.init(forceFresh);
+
+    const hasChanged = prevLastUpdated !== this.lastUpdated ||
+                       (this.events ? this.events.length : 0) !== prevEventCount ||
+                       (this.events && this.events[0] ? this.events[0].id : null) !== prevFirstEventId;
+    return hasChanged;
   },
 
   getCasualties() {

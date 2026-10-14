@@ -26,7 +26,7 @@ window.App = {
     // 1. Initialisera språksystem
     applyTranslations();
 
-    // 2. Ladda data (fetch eller fallback)
+    // 2. Ladda data (fetch med cache-kontroll eller fallback)
     await AppData.init();
 
     // 3. Initiera taktisk och strategisk karta
@@ -43,8 +43,15 @@ window.App = {
     this.renderFeaturedAnalyses();
     this.renderSourcesList();
 
-    // 6. Automatisk uppdatering av klockor och relativ tid
+    // 6. Automatisk uppdatering av klockor och relativ tid varje minut
     setInterval(() => this.renderSystemStatus(), 60000);
+
+    // 7. Automatisk schemalagd bakgrundssynkning var 3:e minut
+    setInterval(() => this.checkAndSync(false), 3 * 60 * 1000);
+
+    // 8. Flikaktiverings- och fokuslyssnare (Visibility API & Window Focus)
+    this.setupVisibilityListeners();
+    this.lastSyncTime = Date.now();
 
     console.log("Ukrainakriget Dashboard färdigladdad.");
   },
@@ -152,6 +159,98 @@ window.App = {
           ? (isSv ? "Visa alla 15 materielkategorier" : "Show all 15 equipment categories")
           : (isSv ? "Dölj detaljerade kategorier" : "Collapse detailed categories");
       });
+    }
+
+    // Manuell synkknapp i headern (snurr-knapp)
+    const btnSyncRefresh = document.getElementById("btn-sync-refresh");
+    if (btnSyncRefresh) {
+      btnSyncRefresh.addEventListener("click", () => {
+        this.checkAndSync(true);
+      });
+    }
+  },
+
+  setupVisibilityListeners() {
+    const handleActive = () => {
+      const now = Date.now();
+      const timeSinceLastSync = now - (this.lastSyncTime || 0);
+
+      // Om fliken eller fönstret aktiveras och det gått mer än 45 sekunder: synka omedelbart färsk data
+      if (timeSinceLastSync > 45 * 1000) {
+        console.log("Dashboard åter i fokus – synkar med senaste data från servern...");
+        this.checkAndSync(false);
+      } else {
+        // Uppdatera klockor och tidsindikatorer
+        this.renderSystemStatus();
+      }
+    };
+
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") {
+        handleActive();
+      }
+    });
+
+    window.addEventListener("focus", handleActive);
+  },
+
+  async checkAndSync(manual = false) {
+    if (this.isSyncing) return;
+    this.isSyncing = true;
+    this.lastSyncTime = Date.now();
+
+    const refreshBtn = document.getElementById("btn-sync-refresh");
+    if (refreshBtn) {
+      refreshBtn.classList.add("spinning");
+      refreshBtn.setAttribute("aria-busy", "true");
+    }
+
+    try {
+      const changed = await AppData.reload(true);
+      this.renderAll();
+      if (manual || changed) {
+        this.flashStatusUpdated();
+      }
+    } catch (err) {
+      console.warn("Kunde inte synka data i bakgrunden:", err);
+    } finally {
+      this.isSyncing = false;
+      if (refreshBtn) {
+        setTimeout(() => {
+          refreshBtn.classList.remove("spinning");
+          refreshBtn.removeAttribute("aria-busy");
+        }, 600);
+      }
+    }
+  },
+
+  renderAll() {
+    this.renderKPIs();
+    this.renderCasualties();
+    this.renderSystemStatus();
+    this.renderFeaturedAnalyses();
+    this.renderSourcesList();
+
+    if (this.activeTab === "archive") {
+      this.renderArchiveFeed();
+    } else if (this.activeTab === "analyses") {
+      this.renderAnalyses();
+    } else if (this.activeTab === "situation") {
+      if (typeof TacticalMap !== "undefined" && TacticalMap.render) {
+        TacticalMap.render();
+      }
+    } else {
+      this.applyFilters();
+    }
+  },
+
+  flashStatusUpdated() {
+    const statusBox = document.getElementById("system-status-box");
+    if (statusBox) {
+      statusBox.classList.add("status-just-synced");
+      setTimeout(() => {
+        statusBox.classList.remove("status-just-synced");
+      }, 2000);
     }
   },
 
@@ -477,6 +576,11 @@ window.App = {
     const diffSinceLastMs = now.getTime() - lastDate.getTime();
     // Om det gått mer än 50 minuter sedan senaste körning vid 30m-schema (eller intervalMs + 35m) flaggas driften som fördröjd
     const isDelayed = diffSinceLastMs > (intervalMs + 35 * 60 * 1000);
+
+    // Om läget flaggas som fördröjt i lokalt minne, gör omedelbart en tyst bakgrundskontroll ifall servern hunnit uppdateras
+    if (isDelayed && !this.isSyncing && (now.getTime() - (this.lastSyncTime || 0)) > 2 * 60 * 1000) {
+      setTimeout(() => this.checkAndSync(false), 50);
+    }
 
     let nextDate = new Date(lastDate.getTime() + intervalMs);
     while (nextDate.getTime() <= now.getTime()) {
