@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 1580,
-  "last_archived_rotation": "2026-10-14T03:31:17.916663+00:00",
+  "total_archived_events": 1582,
+  "last_archived_rotation": "2026-10-14T04:01:37.014891+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-13-f7d233",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:59:00+03:00",
+      "title_sv": "Massiv rysk attack mot Charkiv: Åtta skadade, ingångssektion till bostadshus förstörd",
+      "title_en": "Massive Russian attack on Kharkiv: Eight injured, entrance section of residential building destroyed",
+      "summary_sv": "Åtta personer skadades i ryska attacker mot Charkiv, och två fördes in på sjukhus i allvarligt tillstånd.",
+      "summary_en": "Eight people were injured in Russian strikes on Kharkiv, and two were hospitalized in serious condition.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4173781-massive-russian-attack-on-kharkiv-eight-injured-entrance-section-of-residential-building-destroyed.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-10-13-7cda74",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:38:00+03:00",
+      "title_sv": "Trump kommenterar Rysslands brott mot energivapenvilan",
+      "title_en": "Trump comments on Russia's violation of energy truce",
+      "summary_sv": "USA:s president anser att både Ukraina och Ryssland bröt mot den energivapenvila han tillkännagav.",
+      "summary_en": "The US president believes that both Ukraine and Russia violated the energy truce he announced.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4173780-trump-comments-on-russias-violation-of-energy-truce.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-13-cea610",
       "date": "2026-10-13",
@@ -284,11 +362,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "usa",
         "ryssland",
-        "eu"
+        "ukraina",
+        "usa",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -309,8 +387,8 @@
       "arkiverad": true,
       "tags": [
         "Civila mål",
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1096,10 +1174,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1119,8 +1197,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1329,10 +1407,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1352,8 +1430,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1959,9 +2037,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
+        "usa",
+        "uk",
         "eu"
       ],
       "syfte": {
@@ -2109,10 +2187,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2132,9 +2210,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
+        "Kyjiv",
         "Ukraina",
-        "Kyjiv"
+        "Energi"
       ]
     },
     {
@@ -2381,11 +2459,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "usa",
         "ryssland",
-        "eu"
+        "ukraina",
+        "usa",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2539,11 +2617,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "usa",
         "ryssland",
-        "eu"
+        "ukraina",
+        "usa",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2563,17 +2641,17 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina",
+        "Drönare",
         "Kyjiv",
-        "Drönare"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
       "id": "evt-2026-10-12-cf452c",
       "date": "2026-10-12",
       "timestamp": "2026-10-12T16:07:58+00:00",
-      "title_sv": "Trump-Putins dieselaffär möttes av raseri från Zelenskyy – The Latest",
+      "title_sv": "Trump-Putin dieselaffär möttes av raseri från Zelenskyy – The Latest",
       "title_en": "Trump-Putin diesel deal met with fury from Zelenskyy – The Latest",
       "summary_sv": "Donald Trumps avtal om att köpa rysk diesel har mötts av raseri från Volodymyr Zelenskyy, som sa att det var \"ett svagt beslut\" och skulle generera \"miljarder\" i extra intäkter för Putins krigsinsats.",
       "summary_en": "Donald Trump’s deal to buy Russian diesel has been met with fury from Volodymyr Zelenskyy, who said it was ‘a weak decision’ and would generate ‘billions’ in extra revenue for Putin’s war effort.",
@@ -2581,10 +2659,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2604,9 +2682,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
+        "Kyjiv",
         "Ukraina",
-        "Kyjiv"
+        "Energi"
       ]
     },
     {
