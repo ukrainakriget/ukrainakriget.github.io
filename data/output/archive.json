@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 1642,
-  "last_archived_rotation": "2026-10-14T11:32:15.954434+00:00",
+  "total_archived_events": 1644,
+  "last_archived_rotation": "2026-10-14T12:02:00.942972+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-13-f95c19",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T14:55:00+03:00",
+      "title_sv": "Rysk attack mot Rivne skadar 20 när elden i akademisk byggnad släcks",
+      "title_en": "Russian attack on Rivne injures 20 as fire at academic building is extinguished",
+      "summary_sv": "I Rivne har antalet skadade i fiendens attack stigit till 20, och branden i den akademiska byggnaden har släckts.",
+      "summary_en": "In Rivne, the number of people injured in the enemy attack has risen to 20, and the fire in the academic building has been extinguished.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4173928-russian-attack-on-rivne-injures-20-as-fire-at-academic-building-is-extinguished.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-13-9c477d",
       "date": "2026-10-13",
@@ -770,6 +808,45 @@
       "tags": [
         "Ukraina",
         "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-13-d9aa09",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T11:54:13+00:00",
+      "title_sv": "\"Nu är det din tur\": USA:s sändebud planerade att visa Moskva en raffinaderipaus och en dieselaffär och sedan be om något tillbaka, säger en källa till Reuters",
+      "title_en": "“Now it’s your turn”: US envoys planned to show Moscow a refinery pause and a diesel deal, then ask for something back, a source tells Reuters",
+      "summary_sv": "Ukrainas del av utbytet var att sluta slå till mot Rysslands oljeväxter, en begäran som Kushner upprepade vid mötet i Miami.",
+      "summary_en": "Ukraine’s part of that exchange was to stop striking Russia’s oil plants, a request Kushner repeated at the Miami meeting.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa",
+        "uk",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/13/now-its-your-turn-us-envoys-planned-to-show-moscow-a-refinery-pause-and-a-diesel-deal-then-ask-for-something-back-a-source-tells-reuters/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
       ]
     },
     {
@@ -1601,8 +1678,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -2387,11 +2464,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "uk",
         "usa",
-        "ukraina",
-        "ryssland",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2411,9 +2488,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
-        "Energi"
+        "Energi",
+        "Kyjiv"
       ]
     },
     {
@@ -2467,10 +2544,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
         "uk",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2490,9 +2567,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Kyjiv",
-        "Infrastruktur",
-        "Ukraina"
+        "Infrastruktur"
       ]
     },
     {
@@ -2698,11 +2775,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ukraina",
         "uk",
         "usa",
-        "ukraina",
-        "ryssland",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2722,9 +2799,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Kyjiv",
-        "Civila mål",
-        "Ukraina"
+        "Civila mål"
       ]
     },
     {
