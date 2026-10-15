@@ -1,7 +1,126 @@
 {
-  "total_archived_events": 1738,
-  "last_archived_rotation": "2026-10-15T06:31:24.687909+00:00",
+  "total_archived_events": 1743,
+  "last_archived_rotation": "2026-10-15T07:01:33.208736+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-14-d5f8d5",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T09:57:00+03:00",
+      "title_sv": "Ukraina slår ner fyra ballistiska missiler, 115 drönare i massiv rysk attack under natten",
+      "title_en": "Ukraine downs four ballistic missiles, 115 drones in massive Russian overnight attack",
+      "summary_sv": "Ukrainas luftförsvarsstyrkor neutraliserade fyra ballistiska missiler och 115 drönare som användes av ryska styrkor för att attackera landet med början på kvällen den 13 oktober.",
+      "summary_en": "Ukraine’s air defense forces neutralized four ballistic missiles and 115 drones used by Russian forces to attack the country starting in the evening of October 13.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland",
+        "eu",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4174200-ukraine-downs-four-ballistic-missiles-115-drones-in-massive-russian-overnight-attack.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Luftförsvar",
+        "Robotanfall",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-10-14-258f80",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T09:40:00+03:00",
+      "title_sv": "Ryskt drönarskräp utlöser eld på bensinstationen i Khmelnytskyi-regionen, två skadade",
+      "title_en": "Russian drone debris sparks fire at gas station in Khmelnytskyi region, two injured",
+      "summary_sv": "En bensinstation fattade eld efter att skräp från en rysk drönare föll i Khmelnytskyi-distriktet i Khmelnytskyi-regionen och skadade två personer.",
+      "summary_en": "A gas station caught fire after debris from a Russian drone fell in the Khmelnytskyi district, Khmelnytskyi region, injuring two people.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4174196-russian-drone-debris-sparks-fire-at-gas-station-in-khmelnytskyi-region-two-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-10-14-a78ae9",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T09:40:00+03:00",
+      "title_sv": "SpaceX begränsar användningen av Starlink på ukrainska militära drönare, vilket stör uppdragen",
+      "title_en": "SpaceX restricts Starlink use on Ukrainian military drones, disrupting missions",
+      "summary_sv": "Space X införde nya hastighetsbegränsningar på Starlink-satellitterminaler som används av ukrainska styrkor över natten den 14 oktober, vilket stör flera militära uppdrag, rapporterade den ukrainska aktivisten och tidigare rådgivaren för försvarsministeriet Serhii Sternenko.",
+      "summary_en": "Space X imposed new speed restrictions on Starlink satellite terminals used by Ukrainian forces overnight on Oct. 14, disrupting several military missions, Ukrainian activist and former Defense Ministry adviser Serhii Sternenko reported. Presidential adviser Serhii Beskrestnov, known as Flash, subsequently confirmed the restrictions.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/spacex-restricts-starlink-on-ukrainian-drones-disrupting-missions-officials-say-50649829.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-14-2bec05",
       "date": "2026-10-14",
@@ -465,6 +584,47 @@
       ]
     },
     {
+      "id": "evt-2026-10-14-4b6976",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T07:00:47+00:00",
+      "title_sv": "Gå med Shakhtar när de gör bas i London: \"Vi är här för att visa världen att vi lever\"",
+      "title_en": "Joining Shakhtar as they make base in London: ‘We’re here to show the world that we are alive’",
+      "summary_sv": "Utan några \"hemma\"-matcher i Ukraina, gick Arda Turans lag på väg igen, med Chelseas Stamford Bridge som värd för deras Champions League-kampanj. Morgonen har tunnat ut till ett lågt, skumt moln. Under den går Shakhtar Donetsks spelare igenom sina steg.",
+      "summary_en": "With no ‘home’ games in Ukraine, Arda Turan’s side hit the road again, with Chelsea’s Stamford Bridge hosting their Champions League campaign The morning has thinned out into low, wispy cloud. Beneath it, Shakhtar Donetsk’s players are going through their paces.",
+      "location_name": "Lviv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/football/2026/oct/14/shakhtar-donetsk-champions-league-arda-turan-london-stamford-bridge-aek-athens",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur",
+        "Drönare",
+        "Lviv"
+      ]
+    },
+    {
       "id": "evt-2026-10-14-682b60",
       "date": "2026-10-14",
       "timestamp": "2026-10-14T07:00:00+03:00",
@@ -495,6 +655,42 @@
       "kalla": "Ukrinform",
       "kallurl": "https://www.ukrinform.net/rubric-polytics/4174157-zelensky-carney-discuss-us-contacts-and-upcoming-diplomatic-events.html",
       "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-14-d22484",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T06:47:54+00:00",
+      "title_sv": "Blandade onsdagsbörser i Asien, kronan stärks – framtidstro hos svenska småföretag, högsta sedan 2011 – fortsatt låg inflation",
+      "title_en": "Blandade onsdagsbörser i Asien, kronan stärks – framtidstro hos svenska småföretag, högsta sedan 2011 – fortsatt låg inflation",
+      "summary_sv": "Kronan stärks medan börserna går blandat i de asiatiska tidszonerna. Ännu en bekräftelse på uppgången i konjunkturen är nu att småföretagarna återigen har framtidstro högre än 2022 innan fullskaliga invasionsskriget mot Ukraina startade och på nivåer som senast sågs senast 2011. Årstakten för svensk inflation steg i september, men är fortsatt låg.",
+      "summary_en": "Kronan stärks medan börserna går blandat i de asiatiska tidszonerna. Ännu en bekräftelse på uppgången i konjunkturen är nu att småföretagarna återigen har framtidstro högre än 2022 innan fullskaliga invasionskriget mot Ukraina startade och på nivåer som senast sågs senast 2011. Årstakten för svensk inflation steg i september, men är fortsatt låg.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Lars Wilderäng (Cornucopia.se)",
+      "kallurl": "https://cornucopia.se/2026/10/blandade-onsdagsborser-i-asien-kronan-starks-framtidstro-hos-svenska-smaforetag-hogsta-sedan-2011-fortsatt-lag-inflation/",
+      "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
         "Ukraina"
@@ -671,8 +867,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "ryssland",
         "uk",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -693,9 +889,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Civila mål"
       ]
     },
     {
