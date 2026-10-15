@@ -1,7 +1,82 @@
 {
-  "total_archived_events": 1726,
-  "last_archived_rotation": "2026-10-15T04:35:35.291934+00:00",
+  "total_archived_events": 1729,
+  "last_archived_rotation": "2026-10-15T05:02:22.061493+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-14-d9689d",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T07:58:00+03:00",
+      "title_sv": "Tyskland går med i Ukraines transportstödfond med ett bidrag på 1 miljon euro",
+      "title_en": "Germany joins Ukraine Transport Support Fund with EUR 1M contribution",
+      "summary_sv": "Tyskland har anslutit sig till Ukrainas transportstödfond med ett bidrag på 1 miljon euro.",
+      "summary_en": "Germany has joined the Ukraine Transport Support Fund with a contribution of €1 million.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4174162-germany-joins-ukraine-transport-support-fund-with-eur-1m-contribution.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-14-bdc3f2",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T07:38:00+03:00",
+      "title_sv": "Attacker på ryska datacenter kan vara lika störande som attacker på oljeraffinaderier, säger experten",
+      "title_en": "Strikes on Russian data centers could be as disruptive as attacks on oil refineries, expert says",
+      "summary_sv": "På lång sikt kan attacker mot ryska datacenter visa sig inte vara mindre skadliga för angriparens ekonomi än attacker mot oljeraffinaderier.",
+      "summary_en": "In the long term, strikes on Russian data centers could prove no less damaging to the aggressor’s economy than attacks on oil refineries.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4174159-strikes-on-russian-data-centers-could-be-as-disruptive-as-attacks-on-oil-refineries-expert-says.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-14-b66e34",
       "date": "2026-10-14",
@@ -156,6 +231,47 @@
       ]
     },
     {
+      "id": "evt-2026-10-14-a5a8af",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T04:36:06+00:00",
+      "title_sv": "Ryska attacker drabbade nyckelkraftverk i Kyjiv, säger Zelensky",
+      "title_en": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "summary_sv": "Den ukrainske presidenten säger att de ballistiska missilattackerna kom med \"ingen tidig varning från våra partners\".",
+      "summary_en": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Robotanfall",
+        "Energi",
+        "Kyjiv"
+      ]
+    },
+    {
       "id": "evt-2026-10-14-7f0762",
       "date": "2026-10-14",
       "timestamp": "2026-10-14T04:36:00+03:00",
@@ -198,18 +314,18 @@
       "id": "evt-2026-10-14-bfb66b",
       "date": "2026-10-14",
       "timestamp": "2026-10-14T04:00:43+00:00",
-      "title_sv": "Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed?",
+      "title_sv": "Ukraina är full av landminor i en omfattning som senast sågs i Vietnam. Hur kan de tas bort?",
       "title_en": "Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed?",
-      "summary_sv": "Faced with deadlier threats, demining groups are coming up with new ways of working using drones and AICrouched over on her hands and knees in a field of weeds, Olena Kabanova is digging into the ground.",
+      "summary_sv": "Inför dödligare hot kommer minröjningsgrupper på nya sätt att arbeta med hjälp av drönare och AIC. Olena Kabanova gräver ner sig på händer och knän i ett ogräsfält.",
       "summary_en": "Faced with deadlier threats, demining groups are coming up with new ways of working using drones and AICrouched over on her hands and knees in a field of weeds, Olena Kabanova is digging into the ground.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
         "usa",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -229,9 +345,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Drönare",
-        "Civila mål",
-        "Ukraina"
+        "Civila mål"
       ]
     },
     {
@@ -509,19 +625,19 @@
       "id": "evt-2026-10-14-f39ae9",
       "date": "2026-10-14",
       "timestamp": "2026-10-14T01:04:32+00:00",
-      "title_sv": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
+      "title_sv": "Krigsbriefing i Ukraina: Zelenskyy fördömer \"absolut orättvis\" brist på varning från allierade efter attacken mot Kyjiv-fabriken",
       "title_en": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
-      "summary_sv": "Donald Trump has denied intelligence sharing with Ukraine had stopped, while demanding that Kyiv halts strikes on Russian refineries.",
+      "summary_sv": "Donald Trump har förnekat att underrättelsetjänsten med Ukraina hade upphört, samtidigt som han krävde att Kyjiv skulle stoppa attackerna mot ryska raffinaderier.",
       "summary_en": "Donald Trump has denied intelligence sharing with Ukraine had stopped, while demanding that Kyiv halts strikes on Russian refineries.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
+        "usa",
+        "ukraina",
         "eu",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -541,11 +657,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare",
-        "Robotanfall",
+        "Kyjiv",
         "Civila mål",
-        "Kyjiv"
+        "Robotanfall",
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
