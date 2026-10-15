@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 1849,
-  "last_archived_rotation": "2026-10-15T17:36:53.802709+00:00",
+  "total_archived_events": 1852,
+  "last_archived_rotation": "2026-10-15T18:06:41.782722+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-14-c9f7e1",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T20:56:00+03:00",
+      "title_sv": "Schema för strömavbrott kommer att gälla i vissa regioner i Ukraina på torsdag",
+      "title_en": "Power outage schedules to be in effect in some regions of Ukraine on Thursday",
+      "summary_sv": "Restriktioner för elförbrukning kommer att gälla i vissa regioner i Ukraina från kl. 06.00 till 23.59 torsdagen den 15 oktober.",
+      "summary_en": "Electricity consumption restrictions will be in effect in some regions of Ukraine from 6:00 to 23:59 on Thursday, October 15.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4174487-power-outage-schedules-to-be-in-effect-in-some-regions-of-ukraine-on-thursday.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-14-dd9793",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T20:37:00+03:00",
+      "title_sv": "Stort internetavbrott drabbar Ryssland efter drönarattack mot Sberbanks datacenter, rapporterar media",
+      "title_en": "Major internet outage hits Russia after drone attack on Sberbank data center, media report",
+      "summary_sv": "Användare över hela Ryssland rapporterade störningar i bankapplikationer och internettjänster efter en drönareattack mot ett Sberbank-datacenter i staden Balakovo, i Rysslands Saratov-region.",
+      "summary_en": "Users across Russia reported disruptions to banking applications and internet services following a drone attack on a Sberbank data center in the city of Balakovo, in Russia's Saratov region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4174485-major-internet-outage-hits-russia-after-drone-attack-on-sberbank-data-center-media-report.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-14-f9a75e",
       "date": "2026-10-14",
@@ -425,6 +501,47 @@
       ]
     },
     {
+      "id": "evt-2026-10-14-0dc1eb",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T17:53:12+00:00",
+      "title_sv": "\"Trump och Musk måste hållas ansvariga\": USA:s senator varnar Starlink-nätverket som misslyckas över Ukraina kan skada dess sköld mot ryska missiler och drönare",
+      "title_en": "“Trump and Musk must be held accountable”: US senator warns Starlink network failing over Ukraine could cripple its shield against Russian missiles and drones",
+      "summary_sv": "Ukrainas luftförsvar lutar sig mot Musks Starlink.",
+      "summary_en": "Ukraine’s air defense leans on Musk’s Starlink.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/14/trump-and-musk-must-be-held-accountable-us-senator-warns-starlink-network-failing-over-ukraine-could-cripple-its-shield-against-russian-missiles-and-drones/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Robotanfall",
+        "Ukraina",
+        "Luftförsvar"
+      ]
+    },
+    {
       "id": "evt-2026-10-14-286094",
       "date": "2026-10-14",
       "timestamp": "2026-10-14T17:42:00+03:00",
@@ -596,9 +713,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -618,8 +735,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -864,10 +981,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1285,11 +1402,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
-        "uk",
         "ryssland",
-        "usa"
+        "eu",
+        "usa",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1838,10 +1955,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2078,10 +2195,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2102,8 +2219,8 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
         "Civila mål",
+        "Robotanfall",
         "Ukraina"
       ]
     },
@@ -2654,9 +2771,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3207,9 +3324,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3229,8 +3346,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -4505,9 +4622,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4811,8 +4928,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
