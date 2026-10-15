@@ -1,6 +1,6 @@
 {
-  "total_archived_events": 1719,
-  "last_archived_rotation": "2026-10-15T01:01:33.205329+00:00",
+  "total_archived_events": 1720,
+  "last_archived_rotation": "2026-10-15T01:31:16.555286+00:00",
   "events": [
     {
       "id": "evt-2026-10-14-ec82ab",
@@ -271,6 +271,49 @@
       "tags": [
         "Infrastruktur",
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-14-f39ae9",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T01:04:32+00:00",
+      "title_sv": "Krigsbriefing i Ukraina: Zelenskyy fördömer \"absolut orättvis\" brist på varning från allierade efter attacken mot Kyjiv-fabriken",
+      "title_en": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
+      "summary_sv": "Donald Trump har förnekat att underrättelsetjänsten med Ukraina hade upphört, samtidigt som han krävde att Kyjiv skulle stoppa attackerna mot ryska raffinaderier.",
+      "summary_en": "Donald Trump has denied intelligence sharing with Ukraine had stopped, while demanding that Kyiv halts strikes on Russian refineries.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "eu",
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/14/ukraine-war-briefing-zelenskyy-decries-absolutely-unjust-lack-of-warning-from-allies-after-kyiv-plant-strike",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Ukraina",
+        "Kyjiv",
+        "Drönare",
+        "Civila mål"
       ]
     },
     {
@@ -704,10 +747,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -727,9 +770,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Robotanfall",
         "Ukraina",
+        "Kyjiv",
         "Civila mål"
       ]
     },
@@ -2398,16 +2441,16 @@
       "timestamp": "2026-10-13T15:52:15+00:00",
       "title_sv": "MI5-chefen varnar för hot mot Storbritannien från Ryssland, Iran och AI",
       "title_en": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "summary_sv": "Sir Ken Mc Callum säger att operationer för att bekämpa terrorism och statliga hot nu är ungefär av en \"likvärdig skala\".",
+      "summary_sv": "Sir Ken Mc Callum säger att operationer för att bekämpa terrorism och statliga hot nu är ungefär av \"lika skala\".",
       "summary_en": "Sir Ken Mc Callum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2793,15 +2836,15 @@
       "timestamp": "2026-10-13T14:51:59+00:00",
       "title_sv": "Bulgarien kallar rysk ambassadör efter att fartyget sjunkit i Svarta havets drönareattack",
       "title_en": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "summary_sv": "Sex besättningsmedlemmar räddas men tio saknas efter att ett handelsfartyg sänkts över natten, säger Bulgarien.",
+      "summary_sv": "Sex besättningsmedlemmar räddas men 10 saknas efter att ett handelsfartyg sänkts över natten, säger Bulgarien.",
       "summary_en": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
       "location_name": "Svarta havet",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2821,8 +2864,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Ukraina",
+        "Drönare",
         "Svarta"
       ]
     },
