@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 2012,
-  "last_archived_rotation": "2026-10-16T18:02:07.669608+00:00",
+  "total_archived_events": 2014,
+  "last_archived_rotation": "2026-10-16T18:31:42.256557+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-15-fb8e37",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T21:10:00+03:00",
+      "title_sv": "EU sanctions individuals and companies for circumventing Russia sanctions",
+      "title_en": "EU sanctions individuals and companies for circumventing Russia sanctions",
+      "summary_sv": "The Council of the European Union has imposed additional restrictive measures on three individuals and nine legal entities involved in importing sanctioned goods into Russia and circumventing EU sanctions targeting oil and financial transactions.",
+      "summary_en": "The Council of the European Union has imposed additional restrictive measures on three individuals and nine legal entities involved in importing sanctioned goods into Russia and circumventing EU sanctions targeting oil and financial transactions.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4174865-eu-sanctions-individuals-and-companies-for-circumventing-russia-sanctions.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-15-ad2081",
       "date": "2026-10-15",
@@ -520,6 +559,53 @@
       ]
     },
     {
+      "id": "evt-2026-10-15-ae3baa",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T18:09:14+00:00",
+      "title_sv": "Wes Streeting urges US to back Ukraine on visit to Washington after Starlink row",
+      "title_en": "Wes Streeting urges US to back Ukraine on visit to Washington after Starlink row",
+      "summary_sv": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort.The British...",
+      "summary_en": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort.The British...",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Kyjiv",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Wes Streeting urges US to back Ukraine on visit to Washington after Starlink row",
+          "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
       "id": "evt-2026-10-15-41b262",
       "date": "2026-10-15",
       "timestamp": "2026-10-15T17:51:00+03:00",
@@ -798,10 +884,10 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ukraina",
+        "uk",
         "usa",
         "ryssland",
-        "eu",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -821,9 +907,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Svarta"
       ]
     },
     {
@@ -1033,9 +1119,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
+        "ryssland",
         "uk",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1460,10 +1546,10 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ukraina",
+        "uk",
         "usa",
         "ryssland",
-        "eu",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1483,10 +1569,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Ukraina",
+        "Drönare",
         "Energi",
-        "Drönare"
+        "Svarta"
       ]
     },
     {
@@ -1797,9 +1883,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Svarta"
       ]
     },
     {
@@ -4217,10 +4303,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
+        "uk",
         "usa",
         "ryssland",
-        "eu",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
