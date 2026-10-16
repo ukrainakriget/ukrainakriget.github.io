@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 2022,
-  "last_archived_rotation": "2026-10-16T20:05:06.334281+00:00",
+  "total_archived_events": 2025,
+  "last_archived_rotation": "2026-10-16T20:31:26.265072+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-15-f30632",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:28:00+03:00",
+      "title_sv": "Zelensky: 52 personer skadades i ryska attacker över hela Ukraina på en enda dag",
+      "title_en": "Zelensky: 52 people wounded in Russian attacks across Ukraine in single day",
+      "summary_sv": "President Volodymyr Zelensky diskuterade hot mot Ukraina och sätt att stärka dess försvar mot ryska attacker under ett möte med Polens premiärminister Donald Tusk i Bryssel. Han rapporterade också att 52 personer hade skadats över hela Ukraina bara den 15 oktober.",
+      "summary_en": "President Volodymyr Zelensky discussed threats to Ukraine and ways to strengthen its defenses against Russian attacks during a meeting with Polish Prime Minister Donald Tusk in Brussels. He also reported that 52 people had been wounded across Ukraine on October 15 alone.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4174890-zelensky-52-people-wounded-in-russian-attacks-across-ukraine-in-single-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-15-52510a",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:28:00+03:00",
+      "title_sv": "Romania: Russia fully responsible for attacks on Black Sea civilian shipping",
+      "title_en": "Romania: Russia fully responsible for attacks on Black Sea civilian shipping",
+      "summary_sv": "Russia is responsible for turning the Black Sea “into a dangerous area for civilian ships,” Romanian Foreign Minister Oana Țoiu said on Oct. 15.",
+      "summary_en": "Russia is responsible for turning the Black Sea “into a dangerous area for civilian ships,” Romanian Foreign Minister Oana Țoiu said on Oct. 15.",
+      "location_name": "Svarta havet",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ukrainas_granser",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/romania-russia-responsible-for-attacks-on-black-sea-civilian-shipping-50650525.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Svarta",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-10-15-cea890",
       "date": "2026-10-15",
@@ -421,6 +499,45 @@
         "Civila mål",
         "Svarta",
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-15-409b66",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T20:20:08+00:00",
+      "title_sv": "Att lägga ut attackvideor online kan hjälpa Ryssland att ställa in sina drönares optiska inriktning. Moskva betalar nu folk för att filma hits, varnar ukrainsk rådgivare",
+      "title_en": "Posting strike videos online may help Russia tune its drones’ optical targeting. Moscow now pays people to film hits, Ukrainian adviser warns",
+      "summary_sv": "Ryssland samlar in bilder av sina Geran-attackdrönare som träffar Ukraina, förmodligen för att testa de optiska måligenkänningssystem som vägleder dem i deras sista sekunder.",
+      "summary_en": "Russia is collecting footage of its Geran attack drones hitting Ukraine, probably to test the optical target-recognition systems that guide them in their final seconds.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/15/posting-strike-videos-online-may-help-russia-tune-its-drones-optical-targeting-moscow-now-pays-people-to-film-hits-ukrainian-adviser-warns/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1185,9 +1302,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
         "ryssland",
         "uk",
+        "usa",
         "ukraina",
         "eu"
       ],
@@ -1210,8 +1327,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Svarta"
+        "Svarta",
+        "Drönare"
       ]
     },
     {
@@ -1422,8 +1539,8 @@
       "parter_intressenter": [
         "ryssland",
         "uk",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1847,9 +1964,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
         "ryssland",
         "uk",
+        "usa",
         "ukraina",
         "eu"
       ],
@@ -2186,8 +2303,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Svarta"
+        "Svarta",
+        "Drönare"
       ]
     },
     {
@@ -4604,9 +4721,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ryssland",
         "uk",
+        "usa",
         "ukraina",
         "eu"
       ],
