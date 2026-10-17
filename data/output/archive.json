@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 2036,
-  "last_archived_rotation": "2026-10-16T23:31:38.599239+00:00",
+  "total_archived_events": 2040,
+  "last_archived_rotation": "2026-10-17T00:01:39.415138+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-88d213",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T02:47:00+03:00",
+      "title_sv": "Ukraine completely out of Patriot interceptors — report",
+      "title_en": "Ukraine completely out of Patriot interceptors — report",
+      "summary_sv": "Ukraine has exhausted its stockpile of interceptors for U.S.-made Patriot air defense systems, leaving the country more vulnerable to Russian ballistic missile attacks, CNN reported on Oct. 15, citing an informed source.",
+      "summary_en": "Ukraine has exhausted its stockpile of interceptors for U.S.-made Patriot air defense systems, leaving the country more vulnerable to Russian ballistic missile attacks, CNN reported on Oct. 15, citing an informed source.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/ukraine-completely-out-of-patriot-interceptors-50650532.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Robotanfall",
+        "Luftförsvar",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-16-d6f31e",
       "date": "2026-10-16",
@@ -235,6 +276,96 @@
       ]
     },
     {
+      "id": "evt-2026-10-15-38224a",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:57:20+00:00",
+      "title_sv": "Russia and Ukraine resume strikes as Trump ‘energy ceasefire’ collapses",
+      "title_en": "Russia and Ukraine resume strikes as Trump ‘energy ceasefire’ collapses",
+      "summary_sv": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine...",
+      "summary_en": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine...",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Energi",
+        "Kyjiv",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Russia and Ukraine resume strikes as Trump ‘energy ceasefire’ collapses",
+          "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
+      "id": "evt-2026-10-15-412728",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:57:20+00:00",
+      "title_sv": "Ryssland och Ukraina handelsattacker när Trumps \"energivapenvila\" kollapsar",
+      "title_en": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+      "summary_sv": "Moskva skickar svärmar av drönare för att attackera infrastruktur i centrala Ukraina när Zelenskyy säger att Kyjiv kommer att återuppta attacker mot ryska oljeraffinaderier Vita husets ensidiga ansträngning att förhandla fram en energivapenvila mellan Ryssland och Ukraina har kollapsat när Moskva skickade en rekordsvärm av drönare över natten för...",
+      "summary_en": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine...",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Drönare",
+        "Energi"
+      ]
+    },
+    {
       "id": "evt-2026-10-15-473620",
       "date": "2026-10-15",
       "timestamp": "2026-10-15T23:53:00+03:00",
@@ -272,6 +403,45 @@
       "tags": [
         "Robotanfall",
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-15-68e77e",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:49:57+00:00",
+      "title_sv": "Wes Streeting uppmanar USA att stödja Ukraina på besök i Washington efter Starlink-bråk",
+      "title_en": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"direkt försäkrad\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
+      "summary_en": "UK defence secretary says he has been ‘reassured directly’ by counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to...",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1731,10 +1901,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "eu",
         "usa",
-        "ukraina",
         "uk",
+        "ukraina",
+        "eu",
         "ryssland"
       ],
       "syfte": {
@@ -2393,10 +2563,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "eu",
         "usa",
-        "ukraina",
         "uk",
+        "ukraina",
+        "eu",
         "ryssland"
       ],
       "syfte": {
@@ -2418,9 +2588,9 @@
       "arkiverad": true,
       "tags": [
         "Svarta",
-        "Energi",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Energi"
       ]
     },
     {
