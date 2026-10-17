@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 2166,
-  "last_archived_rotation": "2026-10-17T18:31:39.388841+00:00",
+  "total_archived_events": 2168,
+  "last_archived_rotation": "2026-10-17T19:01:46.727058+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-133709",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T21:59:00+03:00",
+      "title_sv": "Tysk expert: Trump redo att göra vilken överenskommelse som helst med Putin för egen vinning",
+      "title_en": "German expert: Trump ready to make any deal with Putin for his own gain",
+      "summary_sv": "USA:s president Donald Trump är redo att göra praktiskt taget vilken överenskommelse som helst med Rysslands president Vladimir Putin om han ser politiska eller ekonomiska fördelar för sig själv, medan Ukrainas intressen inte är en avgörande faktor för honom.",
+      "summary_en": "U.S. President Donald Trump is ready to make virtually any deal with Russian President Vladimir Putin if he sees political or economic benefits for himself, while Ukraine’s interests are not a decisive factor for him.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4175279-german-expert-trump-ready-to-make-any-deal-with-putin-for-his-own-gain.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-16-5f8eea",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T21:38:00+03:00",
+      "title_sv": "Macron säger att Frankrike accelererar missilleveranserna till Ukraina och erbjuder satellitdatastöd",
+      "title_en": "Macron says France accelerating missile deliveries to Ukraine, offering satellite data support",
+      "summary_sv": "Frankrike och europeiska partner kommer att fortsätta att stödja Ukraina i dess motstånd mot rysk aggression, inklusive genom ekonomiskt bistånd, påskyndade vapenleveranser, gemensam försvarsproduktion och utveckling av system för tidig varning.",
+      "summary_en": "France and European partners will continue supporting Ukraine in its resistance to Russian aggression, including through financial assistance, accelerated arms deliveries, joint defense production and the development of early warning systems.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "eu",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4175274-macron-says-france-accelerating-missile-deliveries-to-ukraine-offering-satellite-data-support.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Robotanfall",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-16-5bb584",
       "date": "2026-10-16",
@@ -763,8 +842,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ryssland",
+        "uk",
         "ukraina",
         "usa"
       ],
@@ -840,11 +919,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "ryssland",
         "usa",
-        "eu"
+        "ukraina",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -864,8 +943,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -957,10 +1036,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "uk",
-        "usa",
         "ukraina",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -980,8 +1059,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1219,7 +1298,7 @@
       "id": "evt-2026-10-16-9acf54",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T16:38:39+00:00",
-      "title_sv": "Polen gav hemligt militärt stöd till Ukraina, antyder Zelenskyy mitt i luftförsvarsbrist",
+      "title_sv": "Polen gav hemlig militär hjälp till Ukraina, antyder Zelenskyy mitt i luftförsvarsbrist",
       "title_en": "Poland provided secret military aid to Ukraine, Zelenskyy hints amid air defense shortages",
       "summary_sv": "Ukrainas president tackade Warszawa för hemlig hjälp och 20 mm ammunition när ryska drönare- och missilattacker anstränger ukrainskt luftförsvar och Europa står inför större press att fylla luckor i USA:s stöd.",
       "summary_en": "Ukraine's president thanked Warsaw for undisclosed assistance and 20 mm ammunition as Russian drone and missile attacks strain Ukrainian air defenses and Europe faces greater pressure to fill gaps in US support.",
@@ -1227,11 +1306,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "ryssland",
         "usa",
-        "eu"
+        "ukraina",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1251,11 +1330,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Polen",
         "Drönare",
-        "Ukraina",
-        "Luftförsvar",
-        "Robotanfall"
+        "Robotanfall",
+        "Luftförsvar"
       ]
     },
     {
@@ -1332,9 +1411,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Drönare"
       ]
     },
     {
@@ -1510,8 +1589,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ryssland",
+        "uk",
         "ukraina",
         "eu"
       ],
@@ -1736,14 +1815,14 @@
       "timestamp": "2026-10-16T15:28:10+00:00",
       "title_sv": "Kraftverksattacker återspeglar rysk plan för att göra ukrainska städer obeboeliga",
       "title_en": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
-      "summary_sv": "Kreml vänder sig till att bestraffa Ukrainas befolkning i storstäderna när frontlinjerna fortfarande är frusna När ryska missiler och drönare systematiskt har slagit in i kraftverk i Kyjiv och Charkiv den här veckan, har de rullande strömavbrotten och vattenavbrotten allt mer liknat en förmodad rysk plan för att förstöra livet i större ukrainska...",
+      "summary_sv": "Kreml övergår till att bestraffa Ukrainas befolkning i storstäderna när frontlinjerna fortfarande är frusna När ryska missiler och drönare systematiskt har slagit in i kraftverk i Kyjiv och Charkov den här veckan, har de rullande strömavbrotten och vattenavbrotten allt mer liknat en förmodad rysk plan för att förstöra livet i större ukrainska...",
       "summary_en": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "ryssland",
+        "uk",
         "ukraina",
         "usa"
       ],
@@ -1765,10 +1844,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Energi",
+        "Drönare",
         "Robotanfall"
       ]
     },
@@ -2008,7 +2087,7 @@
       "id": "evt-2026-10-16-f4494d",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T14:21:37+00:00",
-      "title_sv": "22 parlamentsledamöter pressar Trump att implementera Rysslands sanktionslagar. Dieselaffären drar motreaktioner från två partier",
+      "title_sv": "22 parlamentsledamöter pressar Trump att genomföra Rysslands sanktionslagar. Dieselaffären drar motreaktioner från två partier",
       "title_en": "22 House lawmakers press Trump to implement Russia sanctions law. Diesel deal draws bipartisan backlash",
       "summary_sv": "Lagstiftarna hävdar att användningen av lagens sanktioner och tullbefogenheter skulle tvinga Rysslands president Vladimir Putin att ta fredssamtalen på allvar.",
       "summary_en": "The lawmakers argue that using the law’s sanctions and tariff powers would force Russian President Vladimir Putin to take peace talks seriously.",
@@ -2131,10 +2210,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "uk",
-        "usa",
         "ukraina",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2201,7 +2280,7 @@
       "id": "evt-2026-10-16-d96151",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T13:51:30+00:00",
-      "title_sv": "Rumänien håller slutligen Ryssland ansvarigt för drönarattackerna på fartyg utanför dess kust, och vill ha ett gemensamt NATO-kommando för Svarta havet",
+      "title_sv": "Rumänien håller äntligen Ryssland ansvarigt för drönarattackerna på fartyg utanför dess kust, och vill ha ett gemensamt NATO-kommando för Svarta havet",
       "title_en": "Romania finally holds Russia responsible for the drone attacks on ships off its coast, and wants a joint NATO command for the Black Sea",
       "summary_sv": "Natostaterna på havet skulle ta tunnor som leder det, med Rumänien redo att vara värd för det från 2028",
       "summary_en": "The NATO states on the sea would take tuns leading it, with Romania ready to host it from 2028",
@@ -2231,9 +2310,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
+        "Ukraina",
         "Drönare",
-        "Ukraina"
+        "Svarta"
       ]
     },
     {
@@ -2396,16 +2475,16 @@
       "timestamp": "2026-10-16T13:23:39+00:00",
       "title_sv": "EU snabbar på sammanslagning av tre europeiska företag till en SpaceX-rival. Man vill sluta beroende av amerikanska satelliter som misslyckades med Ukraina den här veckan",
       "title_en": "EU fast-tracks merger of three European firms into one SpaceX rival. It wants to end reliance on US satellites that failed Ukraine this week",
-      "summary_sv": "EU planerar att påskynda antitrustgodkännanden för Project Bromo, ett satellitföretag.",
+      "summary_sv": "EU planerar att påskynda antitrustgodkännandet för Project Bromo, ett satellitföretag.",
       "summary_en": "The EU plans to fast-track antitrust approval for Project Bromo, a satellite venture.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "uk",
-        "usa",
         "ukraina",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2425,8 +2504,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2709,11 +2788,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "ryssland",
         "usa",
-        "eu"
+        "ukraina",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2733,8 +2812,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -3931,8 +4010,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ryssland",
+        "uk",
         "ukraina",
         "usa"
       ],
@@ -3955,8 +4034,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Kyjiv",
-        "Energi"
+        "Energi",
+        "Kyjiv"
       ]
     },
     {
@@ -4245,8 +4324,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ryssland",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -4267,9 +4346,9 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Charkiv",
+        "Ukraina",
         "Drönare",
-        "Ukraina"
+        "Charkiv"
       ]
     },
     {
