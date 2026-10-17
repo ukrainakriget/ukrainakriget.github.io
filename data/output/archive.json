@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 2052,
-  "last_archived_rotation": "2026-10-17T05:01:28.259194+00:00",
+  "total_archived_events": 2054,
+  "last_archived_rotation": "2026-10-17T05:31:21.497275+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-f0e7bc",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T08:31:00+03:00",
+      "title_sv": "Zelensky träffar dansk premiärminister för att diskutera luftförsvar och finansiell stabilitet",
+      "title_en": "Zelensky meets Danish PM to discuss air defense and financial stability",
+      "summary_sv": "I Bryssel höll Ukrainas president Volodymyr Zelensky ett möte med Danmarks premiärminister Mette Frederiksen.",
+      "summary_en": "In Brussels, Ukrainian President Volodymyr Zelensky held a meeting with Danish Prime Minister Mette Frederiksen.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4174916-zelensky-meets-danish-pm-to-discuss-air-defense-and-financial-stability.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Luftförsvar",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-16-46ab92",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T08:30:00+03:00",
+      "title_sv": "Putin lovar repressalier efter att Ukraina attackerat ryska raffinaderier",
+      "title_en": "Putin vows retaliation after Ukraine strikes Russian refineries",
+      "summary_sv": "Ryssland kommer att hämnas mot ukrainska attacker mot dess oljeraffinaderier, logistiska nav och energiinfrastruktur, sade den ryske diktatorn Vladimir Putin den 15 oktober, enligt statliga medier.",
+      "summary_en": "Russia will retaliate against Ukrainian strikes targeting its oil refineries, logistical hubs, and energy infrastructure, Russian dictator Vladimir Putin said on October 15, according to state media.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/russia-promises-to-strike-back-at-ukraine-over-refinery-attacks-50650552.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-10-16-f42691",
       "date": "2026-10-16",
@@ -242,9 +319,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ryssland",
-        "usa",
+        "eu",
         "ukraina",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -264,8 +341,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -648,9 +725,9 @@
       "parter_intressenter": [
         "ryssland",
         "usa",
-        "uk",
+        "ukraina",
         "eu",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -671,9 +748,9 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
+        "Drönare",
         "Ukraina",
-        "Energi",
-        "Drönare"
+        "Energi"
       ]
     },
     {
@@ -816,9 +893,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "usa",
-        "uk",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -839,9 +916,9 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
+        "Drönare",
         "Ukraina",
-        "Energi",
-        "Drönare"
+        "Energi"
       ]
     },
     {
@@ -896,9 +973,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "uk",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -919,8 +996,8 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2382,9 +2459,9 @@
       "parter_intressenter": [
         "ryssland",
         "usa",
-        "uk",
+        "ukraina",
         "eu",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
