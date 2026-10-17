@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 2173,
-  "last_archived_rotation": "2026-10-17T20:01:27.254087+00:00",
+  "total_archived_events": 2175,
+  "last_archived_rotation": "2026-10-17T20:31:24.929248+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-4d7ff0",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T23:30:00+03:00",
+      "title_sv": "Rysk attack skadar hem i Charkov, över 100 rutor krossades",
+      "title_en": "Russian attack damages homes in Kharkiv, over 100 windows shattered",
+      "summary_sv": "Ryska attacker skadade bostadshus i Charkivs Slobidskyi-distrikt och krossade mer än 100 fönster.",
+      "summary_en": "Russian attacks damaged residential buildings in Kharkiv’s Slobidskyi district, shattering more than 100 windows.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175294-russian-attack-damages-homes-in-kharkiv-over-100-windows-shattered.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-10-16-752962",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T23:05:00+03:00",
+      "title_sv": "Ryska styrkor attackerar energianläggning i Ternopil-regionen",
+      "title_en": "Russian forces strike energy facility in Ternopil region",
+      "summary_sv": "En attack mot en energiinfrastrukturanläggning rapporterades i Kremenets-distriktet i Ternopil-regionen.",
+      "summary_en": "A strike on an energy infrastructure facility was reported in the Kremenets district of the Ternopil region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175290-russian-forces-strike-energy-facility-in-ternopil-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-16-7c5998",
       "date": "2026-10-16",
@@ -676,7 +753,7 @@
       "id": "evt-2026-10-16-03a2bc",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T19:33:48+00:00",
-      "title_sv": "Trump förnekar att han begränsat Ukrainas tillgång till Starlink-nätverket",
+      "title_sv": "Trump förnekar att han har begränsat Ukrainas tillgång till Starlink-nätverket",
       "title_en": "Trump denies limiting Ukraine access to Starlink network",
       "summary_sv": "Hastighetsbegränsningar begränsade Ukrainas försvar mot dödliga ryska attacker på tisdagskvällen.",
       "summary_en": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
@@ -684,10 +761,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -796,10 +873,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -819,10 +896,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Energi",
         "Drönare",
-        "Luftförsvar",
-        "Energi"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -1033,10 +1110,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1110,11 +1187,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland",
-        "eu"
+        "eu",
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1134,8 +1211,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1227,10 +1304,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "eu",
-        "uk",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1250,8 +1327,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1489,7 +1566,7 @@
       "id": "evt-2026-10-16-9acf54",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T16:38:39+00:00",
-      "title_sv": "Polen gav hemlig militär hjälp till Ukraina, antyder Zelenskyy mitt i luftförsvarsbrist",
+      "title_sv": "Polen gav hemligt militärt bistånd till Ukraina, antyder Zelenskyy mitt i luftförsvarsbrist",
       "title_en": "Poland provided secret military aid to Ukraine, Zelenskyy hints amid air defense shortages",
       "summary_sv": "Ukrainas president tackade Warszawa för hemlig hjälp och 20 mm ammunition när ryska drönare- och missilattacker anstränger ukrainskt luftförsvar och Europa står inför större press att fylla luckor i USA:s stöd.",
       "summary_en": "Ukraine's president thanked Warsaw for undisclosed assistance and 20 mm ammunition as Russian drone and missile attacks strain Ukrainian air defenses and Europe faces greater pressure to fill gaps in US support.",
@@ -1497,11 +1574,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland",
-        "eu"
+        "eu",
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1521,10 +1598,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Polen",
+        "Robotanfall",
         "Ukraina",
         "Drönare",
-        "Robotanfall",
-        "Polen",
         "Luftförsvar"
       ]
     },
@@ -1580,9 +1657,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1602,9 +1679,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Infrastruktur",
         "Drönare",
-        "Infrastruktur"
+        "Ukraina"
       ]
     },
     {
@@ -1774,16 +1851,16 @@
       "timestamp": "2026-10-16T15:59:30+00:00",
       "title_sv": "Zelensky säger att Ukraina har rätt att försvara sig efter att Trump kallar de senaste attackerna en \"skam\"",
       "title_en": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "summary_sv": "EU:s ledare samlas kring Ukrainas president efter ny kritik från Donald Trump, som säger att Zelensky är \"svårare att arbeta med än Putin\".",
+      "summary_sv": "EU:s ledare samlas kring Ukrainas president efter ny kritik från Donald Trump, som säger att Zelenskij är \"svårare att arbeta med än Putin\".",
       "summary_en": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "uk",
         "eu",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2006,16 +2083,16 @@
       "timestamp": "2026-10-16T15:28:10+00:00",
       "title_sv": "Kraftverksattacker återspeglar rysk plan för att göra ukrainska städer obeboeliga",
       "title_en": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
-      "summary_sv": "Kreml övergår till att bestraffa Ukrainas befolkning i storstäderna när frontlinjerna fortfarande är frusna När ryska missiler och drönare systematiskt har slagit in i kraftverk i Kyjiv och Charkov den här veckan, har de rullande strömavbrotten och vattenavbrotten allt mer liknat en förmodad rysk plan för att förstöra livet i större ukrainska...",
+      "summary_sv": "Kreml vänder sig till att bestraffa Ukrainas befolkning i storstäderna när frontlinjerna fortfarande är frusna När ryska missiler och drönare systematiskt har slagit in i kraftverk i Kyjiv och Charkiv den här veckan, har de rullande strömavbrotten och vattenavbrotten allt mer liknat en förmodad rysk plan för att förstöra livet i större ukrainska...",
       "summary_en": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2035,11 +2112,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv",
         "Energi",
+        "Robotanfall",
+        "Ukraina",
         "Drönare",
-        "Robotanfall"
+        "Kyjiv"
       ]
     },
     {
@@ -2278,7 +2355,7 @@
       "id": "evt-2026-10-16-f4494d",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T14:21:37+00:00",
-      "title_sv": "22 parlamentsledamöter pressar Trump att genomföra Rysslands sanktionslagar. Dieselaffären drar motreaktioner från två partier",
+      "title_sv": "22 parlamentsledamöter pressar Trump att implementera Rysslands sanktionslagar. Dieselaffären drar motreaktioner från två partier",
       "title_en": "22 House lawmakers press Trump to implement Russia sanctions law. Diesel deal draws bipartisan backlash",
       "summary_sv": "Lagstiftarna hävdar att användningen av lagens sanktioner och tullbefogenheter skulle tvinga Rysslands president Vladimir Putin att ta fredssamtalen på allvar.",
       "summary_en": "The lawmakers argue that using the law’s sanctions and tariff powers would force Russian President Vladimir Putin to take peace talks seriously.",
@@ -2286,9 +2363,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2308,8 +2385,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -2401,10 +2478,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "eu",
-        "uk",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2479,9 +2556,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2501,9 +2578,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
-        "Svarta"
+        "Svarta",
+        "Ukraina"
       ]
     },
     {
@@ -2672,10 +2749,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "eu",
-        "uk",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2695,8 +2772,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -2979,11 +3056,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland",
-        "eu"
+        "eu",
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3003,8 +3080,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -4201,10 +4278,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4224,9 +4301,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Energi",
         "Kyjiv",
-        "Energi"
+        "Ukraina"
       ]
     },
     {
@@ -4515,9 +4592,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "uk",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4537,9 +4614,9 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
-        "Charkiv"
+        "Charkiv",
+        "Ukraina"
       ]
     },
     {
