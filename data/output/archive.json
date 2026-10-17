@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 2060,
-  "last_archived_rotation": "2026-10-17T06:31:23.903563+00:00",
+  "total_archived_events": 2062,
+  "last_archived_rotation": "2026-10-17T07:05:48.512562+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-0c1003",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T10:00:00+03:00",
+      "title_sv": "Trump kritiserar Zelenskyy och säger att den ukrainska ledaren \"inte vill lösa\" kriget",
+      "title_en": "Trump criticizes Zelenskyy, says Ukrainian leader ‘doesn’t want to settle’ war",
+      "summary_sv": "USA:s president Donald Trump sa till Newsmax den 15 oktober att Volodymyr Zelenskyy \"inte är en bra kille för oss att ha att göra med\", och hävdade att den ukrainske presidenten \"inte vill lösa\" kriget med Ryssland.",
+      "summary_en": "U.S. President Donald Trump told Newsmax on October 15 that Volodymyr Zelenskyy is “not a good guy for us to deal with,” claiming that the Ukrainian president “doesn’t want to settle” the war with Russia.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/trump-says-zelenskyy-is-refusing-to-settle-the-war-with-russia-50650582.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-16-4c52c7",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T09:58:00+03:00",
+      "title_sv": "Ukraina rapporterar över 300 frontlinjekrockar under de senaste 24 timmarna, med de flesta ryska attackerna i Pokrovsk-sektorn",
+      "title_en": "Ukraine reports over 300 frontline clashes in past 24 hours, with most Russian attacks in Pokrovsk sector",
+      "summary_sv": "Under det senaste dygnet har det förekommit 304 stridsinsatser mellan den ukrainska försvarsmakten och ryska trupper. Fienden utövade mest tryck i Pokrovsk-riktningen.",
+      "summary_en": "Over the past 24 hours, there were 304 combat engagements between the Ukrainian Armed Forces and Russian troops. The enemy exerted the most pressure in the Pokrovsk direction.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4174960-ukraine-reports-over-300-frontline-clashes-in-past-24-hours-with-most-russian-attacks-in-pokrovsk-sector.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Pokrovsk",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-16-d2aeab",
       "date": "2026-10-16",
@@ -545,18 +623,18 @@
       "id": "evt-2026-10-16-da38fd",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T04:57:28+00:00",
-      "title_sv": "De flydde från Ryssland, men väst skickade tillbaka dem",
+      "title_sv": "They fled Russia, but the West sent them back",
       "title_en": "They fled Russia, but the West sent them back",
-      "summary_sv": "Under det senaste året har det skett en kraftig ökning av anti-regeringsaktivister som deporterats till Ryssland från EU och USA där de sökte skydd.",
+      "summary_sv": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
       "summary_en": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "ukraina",
-        "eu"
+        "eu",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -576,8 +654,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -950,19 +1028,19 @@
       "id": "evt-2026-10-16-bf0c52",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T00:43:27+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Starlink-åtkomsten återställd, säger Storbritanniens Streeting efter Hegseth-mötet",
+      "title_sv": "Ukraine war briefing: Starlink access restored, says UK’s Streeting after Hegseth meeting",
       "title_en": "Ukraine war briefing: Starlink access restored, says UK’s Streeting after Hegseth meeting",
-      "summary_sv": "Storbritanniens försvarsminister säger att Pete Hegseth försäkrade honom om att satellitkommunikationssystem är igång i Ukraina.",
+      "summary_sv": "UK defence secretary says Pete Hegseth assured him satellite communications system back up and running in Ukraine.",
       "summary_en": "UK defence secretary says Pete Hegseth assured him satellite communications system back up and running in Ukraine.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ryssland",
+        "eu",
+        "usa",
         "ukraina",
-        "uk",
-        "eu"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -982,10 +1060,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Drönare",
         "Energi",
         "Kyjiv",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -1119,18 +1197,18 @@
       "id": "evt-2026-10-15-412728",
       "date": "2026-10-15",
       "timestamp": "2026-10-15T23:57:20+00:00",
-      "title_sv": "Ryssland och Ukraina handelsattacker när Trumps \"energivapenvila\" kollapsar",
+      "title_sv": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
       "title_en": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-      "summary_sv": "Moskva skickar svärmar av drönare för att attackera infrastruktur i centrala Ukraina när Zelenskyy säger att Kyjiv kommer att återuppta attacker mot ryska oljeraffinaderier Vita husets ensidiga ansträngning att förhandla fram en energivapenvila mellan Ryssland och Ukraina har kollapsat när Moskva skickade en rekordsvärm av drönare över natten för...",
+      "summary_sv": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine...",
       "summary_en": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1150,10 +1228,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Drönare",
         "Energi",
         "Kyjiv",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -1200,17 +1278,17 @@
       "id": "evt-2026-10-15-68e77e",
       "date": "2026-10-15",
       "timestamp": "2026-10-15T23:49:57+00:00",
-      "title_sv": "Wes Streeting uppmanar USA att stödja Ukraina på besök i Washington efter Starlink-bråk",
+      "title_sv": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
       "title_en": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"direkt försäkrad\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
+      "summary_sv": "UK defence secretary says he has been ‘reassured directly’ by counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to...",
       "summary_en": "UK defence secretary says he has been ‘reassured directly’ by counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "uk",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1230,9 +1308,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
