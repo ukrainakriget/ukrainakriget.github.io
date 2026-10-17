@@ -1,6 +1,6 @@
 {
-  "total_archived_events": 2042,
-  "last_archived_rotation": "2026-10-17T00:31:16.841141+00:00",
+  "total_archived_events": 2043,
+  "last_archived_rotation": "2026-10-17T01:01:35.151720+00:00",
   "events": [
     {
       "id": "evt-2026-10-16-65a6a3",
@@ -280,6 +280,56 @@
       ]
     },
     {
+      "id": "evt-2026-10-16-89c45c",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T00:43:27+00:00",
+      "title_sv": "Ukraine war briefing: Starlink access restored, says UK’s Streeting, as Zelenskyy rallies support in Brussels",
+      "title_en": "Ukraine war briefing: Starlink access restored, says UK’s Streeting, as Zelenskyy rallies support in Brussels",
+      "summary_sv": "Storbritanniens försvarsminister säger att Pete Hegseth försäkrade honom om att satellitkommunikationssystem är igång i Ukraina.",
+      "summary_en": "UK defence secretary says Pete Hegseth assured him satellite communications system back up and running in Ukraine.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "eu",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/16/ukraine-war-briefing-starlink-access-restored-says-uks-streeting-as-zelenskyy-rallies-support-in-brussels",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Energi",
+        "Kyjiv",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Ukraine war briefing: Starlink access restored, says UK’s Streeting, as Zelenskyy rallies support in Brussels",
+          "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-war-briefing-starlink-access-restored-says-uks-streeting-as-zelenskyy-rallies-support-in-brussels"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
       "id": "evt-2026-10-16-85932f",
       "date": "2026-10-16",
       "timestamp": "2026-10-16T00:40:00+03:00",
@@ -418,10 +468,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -493,15 +543,15 @@
       "timestamp": "2026-10-15T23:49:57+00:00",
       "title_sv": "Wes Streeting uppmanar USA att stödja Ukraina på besök i Washington efter Starlink-bråk",
       "title_en": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"försäkrad direkt\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
+      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"direkt försäkrad\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
       "summary_en": "UK defence secretary says he has been ‘reassured directly’ by counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1983,11 +2033,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
         "uk",
         "ukraina",
+        "ryssland",
         "eu",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2007,8 +2057,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Drönare",
+        "Svarta",
         "Ukraina"
       ]
     },
@@ -2645,11 +2695,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
         "uk",
         "ukraina",
+        "ryssland",
         "eu",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2670,8 +2720,8 @@
       "arkiverad": true,
       "tags": [
         "Energi",
-        "Svarta",
         "Drönare",
+        "Svarta",
         "Ukraina"
       ]
     },
@@ -2983,8 +3033,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Drönare",
+        "Svarta",
         "Ukraina"
       ]
     },
