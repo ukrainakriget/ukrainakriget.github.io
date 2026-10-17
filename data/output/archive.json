@@ -1,7 +1,89 @@
 {
-  "total_archived_events": 2040,
-  "last_archived_rotation": "2026-10-17T00:01:39.415138+00:00",
+  "total_archived_events": 2042,
+  "last_archived_rotation": "2026-10-17T00:26:57.265185+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-65a6a3",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T03:23:00+03:00",
+      "title_sv": "Ukraina förväntar sig att Belgien ska tillhandahålla fler F-16-jets",
+      "title_en": "Ukraine expects Belgium to provide more F-16 jets",
+      "summary_sv": "Kyjiv förväntar sig att Belgien ska tillhandahålla ytterligare F-16-flygplan och ammunition till dem, eftersom de är avgörande i försvaret mot ryska jetdrivna drönare, sa president Volodymyr Zelenskyy den 15 oktober.",
+      "summary_en": "Kyiv expects Belgium to provide additional F-16 aircraft and ammunition for them, as they are crucial in defense against Russian jet-powered drones, President Volodymyr Zelenskyy said on Oct. 15.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/ukraine-expects-belgium-to-provide-more-f-16-jets-50650533.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Kyjiv",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-10-16-57efe1",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T03:23:00+03:00",
+      "title_sv": "Ukraine destroys Russian drone operator training center in occupied Kherson region",
+      "title_en": "Ukraine destroys Russian drone operator training center in occupied Kherson region",
+      "summary_sv": "Ukrainian troops have destroyed a training center for drone operators belonging to Russia’s 18th Army in the occupied part of the Kherson region.",
+      "summary_en": "Ukrainian troops have destroyed a training center for drone operators belonging to Russia’s 18th Army in the occupied part of the Kherson region.",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4174709-ukraine-destroys-russian-drone-operator-training-center-in-occupied-kherson-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Infrastruktur",
+        "Cherson",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-16-88d213",
       "date": "2026-10-16",
@@ -336,10 +418,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -359,10 +441,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina",
         "Drönare",
-        "Energi"
+        "Energi",
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -411,15 +493,15 @@
       "timestamp": "2026-10-15T23:49:57+00:00",
       "title_sv": "Wes Streeting uppmanar USA att stödja Ukraina på besök i Washington efter Starlink-bråk",
       "title_en": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"direkt försäkrad\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
+      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"försäkrad direkt\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
       "summary_en": "UK defence secretary says he has been ‘reassured directly’ by counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "uk",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -439,9 +521,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Infrastruktur",
         "Kyjiv",
-        "Ukraina",
-        "Infrastruktur"
+        "Ukraina"
       ]
     },
     {
@@ -1901,9 +1983,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
+        "uk",
+        "usa",
         "eu",
         "ryssland"
       ],
@@ -1925,9 +2007,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Svarta",
-        "Ukraina",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -2563,9 +2645,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
+        "uk",
+        "usa",
         "eu",
         "ryssland"
       ],
@@ -2587,10 +2669,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
-        "Ukraina",
         "Drönare",
-        "Energi"
+        "Svarta",
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -2901,9 +2983,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Svarta",
-        "Ukraina",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
