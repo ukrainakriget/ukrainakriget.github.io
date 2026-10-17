@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 2058,
-  "last_archived_rotation": "2026-10-17T06:13:30.611951+00:00",
+  "total_archived_events": 2060,
+  "last_archived_rotation": "2026-10-17T06:31:23.903563+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-d2aeab",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T09:28:00+03:00",
+      "title_sv": "Ryska styrkor förlorar ytterligare 1 790 soldater i krig mot Ukraina det senaste dygnet",
+      "title_en": "Russian forces lose another 1,790 soldiers in war against Ukraine over past day",
+      "summary_sv": "Totala stridsförluster bland rysk militärpersonal från 24 februari 2022 till 16 oktober 2026 nådde cirka 1 561 020, med 1 790 av dem dödade under de senaste 24 timmarna.",
+      "summary_en": "Total combat losses among Russian military personnel from February 24, 2022, through October 16, 2026, reached approximately 1,561,020, with 1,790 of them killed in the last 24 hours.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4174953-russian-forces-lose-another-1790-soldiers-in-war-against-ukraine-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-16-b47d4d",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T09:25:00+03:00",
+      "title_sv": "Konsekvenser av precisionsattacker mot den ryska IT-jätten Yandex — NV infographic",
+      "title_en": "Consequences of precision strikes on Russian IT giant Yandex — NV infographic",
+      "summary_sv": "I oktober 2026 genomförde ukrainska försvarsstyrkor en riktad kampanj av asymmetriska djupa attacker mot kärnserverinfrastrukturen i det ryska teknologikonglomeratet Yandex, vilket orsakade allvarliga tekniska och operativa skador.",
+      "summary_en": "In October 2026, Ukrainian Defense Forces executed a targeted campaign of asymmetric deep strikes against the core server infrastructure of Russian technology conglomerate Yandex, inflicting severe technical and operational damage.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/strikes-on-yandex-data-centers-the-consequences-in-nv-inforgraphic-50650578.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-16-19928f",
       "date": "2026-10-16",
@@ -478,9 +554,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "eu",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -500,8 +576,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -884,9 +960,9 @@
       "parter_intressenter": [
         "usa",
         "ryssland",
-        "eu",
         "ukraina",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -906,8 +982,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
         "Ukraina",
+        "Energi",
         "Kyjiv",
         "Drönare"
       ]
@@ -1052,9 +1128,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "ukraina",
+        "ryssland",
         "uk",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1074,8 +1150,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
         "Ukraina",
+        "Energi",
         "Kyjiv",
         "Drönare"
       ]
@@ -1126,15 +1202,15 @@
       "timestamp": "2026-10-15T23:49:57+00:00",
       "title_sv": "Wes Streeting uppmanar USA att stödja Ukraina på besök i Washington efter Starlink-bråk",
       "title_en": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"försäkrad direkt\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
+      "summary_sv": "Storbritanniens försvarsminister säger att han har blivit \"direkt försäkrad\" av motparten Pete Hegseth om att Starlink-systemet har återställts när han försöker kyla spänningarna Wes Streeting uppmanade USA att stå vid Ukraina vid hans besök i den amerikanska huvudstaden och försökte dämpa spänningarna mellan de två länderna i kölvattnet av...",
       "summary_en": "UK defence secretary says he has been ‘reassured directly’ by counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1154,8 +1230,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Ukraina",
+        "Infrastruktur",
         "Kyjiv"
       ]
     },
