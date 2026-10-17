@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 2046,
-  "last_archived_rotation": "2026-10-17T03:31:18.135510+00:00",
+  "total_archived_events": 2048,
+  "last_archived_rotation": "2026-10-17T04:01:42.223166+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-16-e20105",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T06:34:00+03:00",
+      "title_sv": "Rysk drönarattack utlöser eld på oljedepån i Khmelnytskyi-regionens Shepetivka-distrikt",
+      "title_en": "Russian drone attack sparks fire at oil depot in Khmelnytskyi region's Shepetivka district",
+      "summary_sv": "En brand bröt ut som ett resultat av en drönareattack på en oljedepå i Shepetivka-distriktet i Khmelnytskyi-regionen.",
+      "summary_en": "A fire broke out as a result of a drone attack on an oil depot in the Shepetivka district of Khmelnytskyi region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4174911-russian-drone-attack-sparks-fire-at-oil-depot-in-khmelnytskyi-regions-shepetivka-district.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-16-401275",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T05:58:34+02:00",
+      "title_sv": "På plats: Här skjuter Försvarsmakten skarpt med Patriot på Kreta",
+      "title_en": "On site: Here the Swedish Armed Forces fire sharply with Patriot in Crete",
+      "summary_sv": "Här skjuter Försvarsmakten för första gången skarpt med luftvärnssystemet Patriot. De två robotarna som avfyrades i övningen kostar över 40 miljoner styck – och nu är förbandet godkänt för den kommande skarpa insatsen i Polen. – Det här visar att vi har förmågan att leverera när det är på riktigt, säger ställföreträdande arméchef Per Nilsson.",
+      "summary_en": "Here, the Swedish Armed Forces fire sharply for the first time with the Patriot air defense system. The two robots that were fired in the exercise cost over 40 million each - and now the unit is approved for the upcoming sharp operation in Poland.",
+      "location_name": "Polen & västra gränsen",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ukraina",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "SVT Nyheter",
+      "kallurl": "https://www.svt.se/nyheter/inrikes/pa-plats-har-skjuter-forsvarsmakten-skarpt-med-patriot-pa-kreta",
+      "kallkategori": "Svensk Public Service",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Ukraina",
+        "Polen"
+      ]
+    },
     {
       "id": "evt-2026-10-16-c44aa8",
       "date": "2026-10-16",
@@ -419,11 +495,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "ryssland",
         "usa",
-        "eu"
+        "eu",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -443,10 +519,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Kyjiv",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Kyjiv",
+        "Energi"
       ]
     },
     {
@@ -588,10 +664,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -611,10 +687,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Kyjiv",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Kyjiv",
+        "Energi"
       ]
     },
     {
@@ -669,9 +745,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -691,9 +767,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Infrastruktur",
-        "Kyjiv",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -2153,11 +2229,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "ryssland",
         "usa",
-        "eu"
+        "eu",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2177,9 +2253,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Svarta"
       ]
     },
     {
