@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-17T16:32:04.654619+00:00",
+  "updated_at": "2026-10-17T17:01:34.883249+00:00",
   "daily_metrics": {
     "shahed_interception_rate_percent": 69.4,
     "cruise_missile_interception_rate_percent": 82.5,
     "frontline_skirmishes_24h": 174,
     "hotspots": [
+      {
+        "name_sv": "Cherson",
+        "name_en": "Cherson",
+        "attacks_24h": 48,
+        "intensity": "Högst"
+      },
       {
         "name_sv": "Zaporizjzja",
         "name_en": "Zaporizjzja",
@@ -18,22 +24,16 @@
         "intensity": "Högst"
       },
       {
-        "name_sv": "Cherson",
-        "name_en": "Cherson",
-        "attacks_24h": 42,
-        "intensity": "Högst"
-      },
-      {
-        "name_sv": "Polen & västra gränsen",
-        "name_en": "Polen & västra gränsen",
-        "attacks_24h": 30,
-        "intensity": "Högst"
-      },
-      {
         "name_sv": "Charkiv",
         "name_en": "Charkiv",
         "attacks_24h": 30,
         "intensity": "Högst"
+      },
+      {
+        "name_sv": "Sumy",
+        "name_en": "Sumy",
+        "attacks_24h": 24,
+        "intensity": "Hög"
       }
     ],
     "drones_down": 86,
@@ -41,12 +41,12 @@
     "black_sea_export_monthly_tons_millions": 6.4
   },
   "target_distribution_percent": {
-    "helt_civila": 12,
-    "civil_infrastruktur": 24,
+    "helt_civila": 11,
+    "civil_infrastruktur": 25,
     "energiproduktion": 14,
-    "krigsmaterielproduktion": 4,
-    "militara_resurser": 30,
-    "diplomatiskt_politiskt": 17
+    "krigsmaterielproduktion": 3,
+    "militara_resurser": 31,
+    "diplomatiskt_politiskt": 16
   },
   "geography_distribution_percent": {
     "fria_ukraina": 48,
