@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 2246,
-  "last_archived_rotation": "2026-10-18T14:50:59.541065+00:00",
+  "total_archived_events": 2247,
+  "last_archived_rotation": "2026-10-18T15:01:35.359069+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-17-2496d4",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T18:00:00+03:00",
+      "title_sv": "Zelensky: USA arbetar för att arrangera ett eventuellt möte med Putin",
+      "title_en": "Zelensky: U.S. working to arrange possible meeting with Putin",
+      "summary_sv": "Möjligheten av ett möte med Rysslands president Vladimir Putin är fortfarande under diskussion.",
+      "summary_en": "The possibility of a meeting with Russian President Vladimir Putin remains under discussion.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4175468-zelensky-us-working-to-arrange-possible-meeting-with-putin.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-17-a2c4bc",
       "date": "2026-10-17",
@@ -831,8 +868,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1019,8 +1056,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ukraina",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1171,8 +1208,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ukraina",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1241,16 +1278,16 @@
       "timestamp": "2026-10-17T11:00:30+00:00",
       "title_sv": "\"Drönare hela natten. På morgonen luktar du röken’: livet på det sista hotellet på Ukrainas frontlinje",
       "title_en": "‘Drones all night. By morning, you smell the smoke’: life in the last hotel on Ukraine’s frontline",
-      "summary_sv": "Mitt i strömavbrott, artillerield och anstormningen av ryska drönareattacker ger Richelievsky i Cherson en tillflyktsort för dem som inte har någon annanstans att ta vägen. Det finns en viktig regel på Richelievsky, Chersons sista fungerande hotell: stäng gardinerna före skymningen.",
+      "summary_sv": "Mitt i strömavbrott, artillerield och anstormningen av ryska drönarattacker ger Richelievsky i Cherson en fristad för dem som inte har någon annanstans att ta vägen. Det finns en viktig regel på Richelievsky, Chersons sista fungerande hotell: stäng gardinerna före skymningen.",
       "summary_en": "Amid blackouts, artillery fire and the onslaught of Russian drone attacks, the Richelievsky in Kherson provides a refuge for those with nowhere else to go There is one important rule in the Richelievsky, Kherson’s last functioning hotel: close the curtains before dusk.",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1270,10 +1307,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Cherson",
+        "Drönare",
         "Civila mål",
-        "Drönare"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -1484,10 +1521,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
