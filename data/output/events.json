@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T23:12:27.082710+00:00",
-  "total_active_events": 94,
+  "last_updated": "2026-10-18T23:35:04.172701+00:00",
+  "total_active_events": 93,
   "events": [
     {
       "id": "evt-2026-10-19-6859cf",
@@ -14,9 +14,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -36,8 +36,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -73,8 +73,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -89,10 +89,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -115,6 +115,62 @@
         "Pokrovsk",
         "Ukraina"
       ]
+    },
+    {
+      "id": "evt-2026-10-18-cd3853",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T23:29:53+00:00",
+      "title_sv": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
+      "title_en": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
+      "summary_sv": "Trump defends decision to waive some sanctions on Russia; Lithuania foils attack on Starlink site; Kyiv hits another oil terminal.",
+      "summary_en": "Trump defends decision to waive some sanctions on Russia; Lithuania foils attack on Starlink site; Kyiv hits another oil terminal.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "eu",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Civila mål",
+        "Drönare",
+        "Kyjiv",
+        "Svarta",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
+          "url": "https://www.theguardian.com/world/2026/oct/19/ukraine-war-briefing-trump-accuses-zelenskyy-of-not-wanting-to-end-war-as-feud-rumbles-on"
+        },
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
+          "url": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio"
+        }
+      ],
+      "cluster_count": 2
     },
     {
       "id": "evt-2026-10-18-6f013e",
@@ -152,6 +208,43 @@
       ]
     },
     {
+      "id": "evt-2026-10-18-0609e4",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T23:20:15+00:00",
+      "title_sv": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "title_en": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary_sv": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "summary_en": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-18-728c15",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T23:17:00+03:00",
@@ -163,10 +256,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -186,8 +279,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -202,10 +295,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -240,9 +333,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -262,44 +355,7 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Energi"
-      ]
-    },
-    {
-      "id": "evt-2026-10-18-0609e4",
-      "date": "2026-10-18",
-      "timestamp": "2026-10-18T22:10:45+00:00",
-      "title_sv": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "title_en": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "summary_sv": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "summary_en": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
-        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
-      },
-      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "BBC News (Europe)",
-      "kallurl": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
+        "Energi",
         "Ukraina"
       ]
     },
@@ -315,9 +371,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -352,9 +408,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -389,9 +445,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -411,8 +467,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -427,9 +483,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -449,10 +505,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina",
+        "Drönare",
         "Kyjiv",
-        "Drönare"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -468,8 +524,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -505,9 +561,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -542,9 +598,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -564,9 +620,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
+        "Drönare",
         "Charkiv",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -581,9 +637,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -603,10 +659,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
+        "Drönare",
         "Energi",
         "Ryskt",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -621,10 +677,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -659,9 +715,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -681,8 +737,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -697,10 +753,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -720,8 +776,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -795,9 +851,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Lviv",
         "Ukraina",
-        "Lviv"
+        "Infrastruktur"
       ]
     },
     {
@@ -812,9 +868,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -834,9 +890,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
+        "Odesa",
         "Civila mål",
-        "Odesa"
+        "Ukraina"
       ]
     },
     {
@@ -851,10 +907,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "eu",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -889,10 +945,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "eu",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -912,8 +968,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -928,10 +984,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -951,8 +1007,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1043,10 +1099,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1066,9 +1122,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
+        "Drönare",
         "Energi",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -1119,11 +1175,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
         "ryssland",
+        "eu",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1143,8 +1199,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Energi",
+        "Ukraina",
         "Robotanfall"
       ]
     },
@@ -1160,9 +1216,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "eu",
         "ukraina",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1182,10 +1238,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Polen",
         "Ukraina",
-        "Infrastruktur",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -1200,10 +1256,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1223,9 +1279,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Robotanfall",
-        "Drönare"
+        "Robotanfall"
       ]
     },
     {
@@ -1277,9 +1333,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1299,8 +1355,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1352,10 +1408,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1375,8 +1431,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1391,10 +1447,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1414,8 +1470,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -1467,10 +1523,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "eu",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1490,8 +1546,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1544,10 +1600,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1567,8 +1623,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1583,9 +1639,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1606,8 +1662,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Ukraina",
-        "Svarta"
+        "Svarta",
+        "Ukraina"
       ]
     },
     {
@@ -1659,9 +1715,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1681,8 +1737,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1970,11 +2026,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
         "ryssland",
+        "eu",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2010,10 +2066,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2034,8 +2090,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Ukraina",
-        "Lyman"
+        "Lyman",
+        "Ukraina"
       ]
     },
     {
@@ -2127,10 +2183,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2150,8 +2206,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -2166,10 +2222,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2189,9 +2245,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
+        "Drönare",
         "Energi",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -2403,10 +2459,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2426,8 +2482,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -2791,8 +2847,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3367,9 +3423,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3390,9 +3446,9 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Infrastruktur",
+        "Svarta",
         "Ukraina",
-        "Svarta"
+        "Infrastruktur"
       ]
     },
     {
@@ -3523,43 +3579,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-18-6aaea8",
-      "date": "2026-10-18",
-      "timestamp": "2026-10-18T02:27:00+03:00",
-      "title_sv": "Magyar says Zelensky’s visit to Budapest later this month unlikely",
-      "title_en": "Magyar says Zelensky’s visit to Budapest later this month unlikely",
-      "summary_sv": "Hungarian Prime Minister Péter Magyar said he does not expect Ukrainian President Volodymyr Zelensky to visit Budapest later this month, despite Kyiv having received an invitation.",
-      "summary_en": "Hungarian Prime Minister Péter Magyar said he does not expect Ukrainian President Volodymyr Zelensky to visit Budapest later this month, despite Kyiv having received an invitation.",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "uk",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
-        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
-      },
-      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-polytics/4175459-magyar-says-zelenskys-visit-to-budapest-later-this-month-unlikely.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Kyjiv",
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-10-18-55166c",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T01:10:25+00:00",
@@ -3571,9 +3590,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3594,48 +3613,6 @@
       "arkiverad": false,
       "tags": [
         "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-10-18-cd3853",
-      "date": "2026-10-18",
-      "timestamp": "2026-10-18T01:07:13+00:00",
-      "title_sv": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
-      "title_en": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
-      "summary_sv": "Ukraine’s Zelenskyy expects Trump to lift more sanctions against Russia.",
-      "summary_en": "Ukraine’s Zelenskyy expects Trump to lift more sanctions against Russia.",
-      "location_name": "Svarta havet",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ryssland",
-      "parter_intressenter": [
-        "usa",
-        "eu",
-        "ryssland",
-        "uk",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "avvardad",
-      "kalla": "The Guardian (Ukraine)",
-      "kallurl": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Drönare",
-        "Ukraina",
-        "Civila mål",
-        "Svarta"
       ]
     }
   ],
