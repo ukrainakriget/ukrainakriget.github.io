@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 2278,
-  "last_archived_rotation": "2026-10-18T22:01:38.806481+00:00",
+  "total_archived_events": 2279,
+  "last_archived_rotation": "2026-10-18T22:32:11.867181+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-31d9b1",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T01:30:00+03:00",
+      "title_sv": "Ukraine charges Russian general who switched sides after occupation of Crimea",
+      "title_en": "Ukraine charges Russian general who switched sides after occupation of Crimea",
+      "summary_sv": "The Security Service of Ukraine (SSU) has in absentia charged a military officer with high treason and desertion after he switched sides to Russia following the occupation of Crimea, was promoted to major general, and is now fighting against Ukraine as part of the Russian army.",
+      "summary_en": "The Security Service of Ukraine (SSU) has in absentia charged a military officer with high treason and desertion after he switched sides to Russia following the occupation of Crimea, was promoted to major general, and is now fighting against Ukraine as part of the Russian army.",
+      "location_name": "Krym",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-crime/4175327-ukraine-charges-russian-general-who-switched-sides-after-occupation-of-crimea.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Krym",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-18-d17d61",
       "date": "2026-10-18",
@@ -426,18 +465,18 @@
       "id": "evt-2026-10-17-bbb3f9",
       "date": "2026-10-17",
       "timestamp": "2026-10-17T20:53:48+00:00",
-      "title_sv": "Belgiens 10 F-16 tar Ukrainas utlovade flotta till cirka 100 jetplan. Färre än 40 flyger, eftersom Rysslands jetdrönare kör dem trasiga",
+      "title_sv": "Belgiens 10 F-16 ger Ukrainas utlovade flotta till cirka 100 jetplan. Färre än 40 flyger, eftersom Rysslands jetdrönare kör dem trasiga",
       "title_en": "Belgium’s 10 F-16s bring Ukraine’s promised fleet to about 100 jets. Fewer than 40 are flying, as Russia’s jet drones run them ragged",
-      "summary_sv": "Resten anländer i omgångar fram till 2029, och varje sorti mot Rysslands jetdrönare för de jetplan som redan finns i Ukraina närmare långa inspektioner utomlands.",
+      "summary_sv": "Resten anländer i omgångar fram till 2029, och varje sorti mot Rysslands jetdrönare för de jetplan som redan är i Ukraina närmare långa inspektioner utomlands.",
       "summary_en": "The rest arrive in batches through 2029, and every sortie against Russia's jet drones brings the jets already in Ukraine closer to long inspections abroad.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -457,9 +496,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -1208,10 +1247,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "eu",
-        "usa"
+        "usa",
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1320,10 +1359,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "usa",
         "ukraina",
-        "eu",
-        "usa"
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1343,8 +1382,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1398,10 +1437,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
-        "ryssland",
         "eu",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1545,16 +1584,16 @@
       "timestamp": "2026-10-17T15:46:52+00:00",
       "title_sv": "Hur ett uppfunnit påstående blir en chatbots säkra svar i kognitiv krigföring: Ukrainas drönarchef kartlägger Rysslands AI-attack",
       "title_en": "How one invented claim becomes a chatbot’s confident answer in cognitive warfare: Ukraine’s drone chief maps Russia’s AI attack",
-      "summary_sv": "Ryssland översvämmar AI-chatbots med miljontals falska artiklar så att de upprepar Kreml-berättelser som fakta",
+      "summary_sv": "Ryssland översvämmar AI-chatbotar med miljontals falska artiklar så att de upprepar Kreml-berättelser som fakta",
       "summary_en": "Russia floods AI chatbots with millions of fake articles so they repeat Kremlin narratives as fact",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1574,8 +1613,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1671,10 +1710,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
-        "ryssland",
         "eu",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2056,7 +2095,7 @@
       "id": "evt-2026-10-17-5a94c9",
       "date": "2026-10-17",
       "timestamp": "2026-10-17T13:09:42+00:00",
-      "title_sv": "Befälhavare från Azov, Marines och 93rd berättar för Ukrainas försvarsminister vad fronten behöver. Han vill att deras metoder skalas till andra enheter",
+      "title_sv": "Befälhavare från Azov, Marines och 93:e berättar för Ukrainas försvarsminister vad fronten behöver. Han vill att deras metoder skalas till andra enheter",
       "title_en": "Commanders from Azov, Marines, and 93rd tell Ukraine’s defense minister what front needs. He wants their methods scaled to other units",
       "summary_sv": "Målet, säger han, är att hålla soldater vid liv.",
       "summary_en": "The goal, he says, is to keep soldiers alive.",
@@ -2064,8 +2103,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2252,9 +2291,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "usa",
         "ukraina",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2474,16 +2513,16 @@
       "timestamp": "2026-10-17T11:00:30+00:00",
       "title_sv": "\"Drönare hela natten. På morgonen luktar du röken’: livet på det sista hotellet på Ukrainas frontlinje",
       "title_en": "‘Drones all night. By morning, you smell the smoke’: life in the last hotel on Ukraine’s frontline",
-      "summary_sv": "Mitt i strömavbrott, artillerield och anstormningen av ryska drönarattacker ger Richelievsky i Cherson en fristad för dem som inte har någon annanstans att ta vägen. Det finns en viktig regel på Richelievsky, Chersons sista fungerande hotell: stäng gardinerna före skymningen.",
+      "summary_sv": "Mitt i strömavbrott, artillerield och anstormningen av ryska drönareattacker ger Richelievsky i Cherson en tillflyktsort för dem som inte har någon annanstans att ta vägen. Det finns en viktig regel på Richelievsky, Chersons sista fungerande hotell: stäng gardinerna före skymningen.",
       "summary_en": "Amid blackouts, artillery fire and the onslaught of Russian drone attacks, the Richelievsky in Kherson provides a refuge for those with nowhere else to go There is one important rule in the Richelievsky, Kherson’s last functioning hotel: close the curtains before dusk.",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2503,10 +2542,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
-        "Ukraina",
         "Drönare",
-        "Cherson"
+        "Ukraina",
+        "Cherson",
+        "Civila mål"
       ]
     },
     {
