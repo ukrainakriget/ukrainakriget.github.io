@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 2301,
-  "last_archived_rotation": "2026-10-19T06:52:24.650064+00:00",
+  "total_archived_events": 2302,
+  "last_archived_rotation": "2026-10-19T07:02:04.789777+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-2a8f4a",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T09:58:00+03:00",
+      "title_sv": "Drönare attackerar oljeanläggningar, Ozon-lager och VKontakte-datacenter i St. Petersburg",
+      "title_en": "Drones strike oil facilities, Ozon warehouse and VKontakte data center in St. Petersburg",
+      "summary_sv": "Natten till den 18 oktober i St. Petersburg bröt en brand ut vid en oljeterminal efter en drönareattack.",
+      "summary_en": "On the night of October 18 in St. Petersburg, a fire broke out at an oil terminal following a drone attack.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175563-drones-strike-oil-facilities-ozon-warehouse-and-vkontakte-data-center-in-st-petersburg.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-18-0ee3f1",
       "date": "2026-10-18",
@@ -626,7 +664,7 @@
       "id": "evt-2026-10-18-6d7f90",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T05:00:51+00:00",
-      "title_sv": "Intensifierande drönarattacker på fartyg i Svarta havet för kriget allt närmare Natos kuster",
+      "title_sv": "Intensifierande drönareattacker på fartyg i Svarta havet för krig allt närmare Natos kuster",
       "title_en": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
       "summary_sv": "Sex attacker på 10 dagar av misstänkta ryska drönare markerar en dramatisk upptrappning av maritima konflikter.",
       "summary_en": "Six attacks in 10 days by suspected Russian drones mark dramatic escalation in maritime conflict The first the crew of the Bulgarian ferry Dioscuria knew of an attack on a cargo ship in their country’s exclusive economic zone in the Black Sea in the early hours of 6 October was a distant explosion 70 miles off the coastal town of Byala.The...",
@@ -634,8 +672,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -657,8 +695,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Svarta",
         "Drönare",
+        "Svarta",
         "Infrastruktur"
       ]
     },
@@ -1328,16 +1366,16 @@
       "timestamp": "2026-10-17T20:53:48+00:00",
       "title_sv": "Belgiens 10 F-16 tar Ukrainas utlovade flotta till cirka 100 jetplan. Färre än 40 flyger, eftersom Rysslands jetdrönare kör dem trasiga",
       "title_en": "Belgium’s 10 F-16s bring Ukraine’s promised fleet to about 100 jets. Fewer than 40 are flying, as Russia’s jet drones run them ragged",
-      "summary_sv": "Resten anländer i omgångar fram till 2029, och varje sorti mot Rysslands jetdrönare för de jetplan som redan är i Ukraina närmare långa inspektioner utomlands.",
+      "summary_sv": "Resten anländer i omgångar fram till 2029, och varje sorti mot Rysslands jetdrönare för de jetplan som redan finns i Ukraina närmare långa inspektioner utomlands.",
       "summary_en": "The rest arrive in batches through 2029, and every sortie against Russia's jet drones brings the jets already in Ukraine closer to long inspections abroad.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",

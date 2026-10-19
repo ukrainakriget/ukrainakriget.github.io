@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T06:52:24.650064+00:00",
+  "last_updated": "2026-10-19T07:02:04.789777+00:00",
   "total_active_events": 88,
   "events": [
     {
@@ -14,10 +14,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -55,9 +55,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "usa",
+        "ukraina",
+        "ryssland",
         "eu"
       ],
       "syfte": {
@@ -126,16 +126,16 @@
       "timestamp": "2026-10-19T09:17:00+03:00",
       "title_sv": "Trump kan inte tvinga Putin att avsluta kriget trots god relation - Zelenskyy",
       "title_en": "Trump cannot force Putin to end the war despite good relationship — Zelenskyy",
-      "summary_sv": "Donald Trump kan för närvarande inte tvinga den ryske diktatorn Vladimir Putin att avsluta kriget trots deras goda relation, även om Kyjiv förväntar sig att politiska spänningar med Washington kommer att lätta efter mellanårsvalet i USA, sa Ukrainas president Volodymyr Zelenskyy till Bloomberg den 18 oktober.",
+      "summary_sv": "Donald Trump kan för närvarande inte tvinga den ryske diktatorn Vladimir Putin att avsluta kriget trots deras goda relation, även om Kyjiv förväntar sig att politiska spänningar med Washington kommer att lätta efter mellantidsvalet i USA, sa Ukrainas president Volodymyr Zelenskyy till Bloomberg den 18 oktober.",
       "summary_en": "Donald Trump cannot currently compel Russian dictator Vladimir Putin to end the war despite their good relationship, though Kyiv expects political tensions with Washington to ease following the U.S. midterm elections, Ukrainian President Volodymyr Zelenskyy told Bloomberg on October 18.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -160,21 +160,59 @@
       ]
     },
     {
+      "id": "evt-2026-10-19-40a9ae",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T09:17:00+03:00",
+      "title_sv": "Antalet ryska krigsoffer i Ukraina har ökat med 2 100 under det senaste dygnet",
+      "title_en": "Russia’s war casualty toll in Ukraine up by 2,100 over past day",
+      "summary_sv": "De totala stridsförlusterna av ryska styrkor i kriget mot Ukraina från 24 februari 2022 till 19 oktober 2026 uppgår till cirka 1 566 160 personal, inklusive 2 100 soldater under de senaste 24 timmarna.",
+      "summary_en": "The total combat losses of Russian forces in the war against Ukraine from February 24, 2022, to October 19, 2026, amount to approximately 1,566,160 personnel, including 2,100 troops over the past 24 hours.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175790-russias-war-casualty-toll-in-ukraine-up-by-2100-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-19-0732e4",
       "date": "2026-10-19",
       "timestamp": "2026-10-19T09:00:00+03:00",
       "title_sv": "Ukraina rapporterar 204 frontlinjekrockar under de senaste 24 timmarna, med de tyngsta striderna i sektorerna Pokrovsk och Kostiantynivka",
       "title_en": "Ukraine reports 204 frontline clashes in past 24 hours, with heaviest fighting in Pokrovsk and Kostiantynivka sectors",
-      "summary_sv": "Under det senaste dygnet, den 18 oktober, registrerades 204 stridsförhandlingar mellan den ukrainska försvarsstyrkan och ryska inkräktare vid frontlinjerna.",
+      "summary_sv": "Under det senaste dygnet, den 18 oktober, registrerades 204 stridsinsatser mellan den ukrainska försvarsstyrkan och ryska inkräktare vid frontlinjerna.",
       "summary_en": "Over the past day, on October 18, 204 combat engagements between the Ukrainian Defense Forces and Russian invaders were recorded on the front lines.",
       "location_name": "Pokrovsk-sektorn",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -194,8 +232,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Pokrovsk",
         "Ukraina",
+        "Pokrovsk",
         "Infrastruktur"
       ]
     },
@@ -249,10 +287,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -281,14 +319,14 @@
       "timestamp": "2026-10-19T07:57:00+03:00",
       "title_sv": "Zelensky: Redo att träffa amerikanska förhandlare",
       "title_en": "Zelensky: Ready to meet with U.S. negotiators",
-      "summary_sv": "Volodymyr Zelensky uppgav att det ukrainska förhandlingsteamet hade fått en signal från amerikansk sida som tyder på en vilja att hålla ett möte, och att samtalen kan äga rum på tisdag eller onsdag.",
+      "summary_sv": "Volodymyr Zelensky uppgav att det ukrainska förhandlingsteamet fått en signal från amerikansk sida som tyder på en vilja att hålla ett möte, och att samtalen kan äga rum på tisdag eller onsdag.",
       "summary_en": "Volodymyr Zelensky stated that the Ukrainian negotiating team had received a signal from the American side indicating a willingness to hold a meeting, and that the talks could take place on Tuesday or Wednesday.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -324,8 +362,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -361,8 +399,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -384,8 +422,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Robotanfall",
-        "Kyjiv"
+        "Kyjiv",
+        "Robotanfall"
       ]
     },
     {
@@ -400,8 +438,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -437,8 +475,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -459,8 +497,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
         "Ukraina",
+        "Dnipro",
         "Drönare"
       ]
     },
@@ -470,14 +508,14 @@
       "timestamp": "2026-10-19T03:27:00+03:00",
       "title_sv": "Strömavbrottsscheman kommer att gälla i flera regioner på måndag",
       "title_en": "Power outage schedules to apply in several regions on Monday",
-      "summary_sv": "Elförbrukningen kommer att vara begränsad i flera regioner i Ukraina måndagen den 19 oktober från kl. 06.00 till 23.59.",
+      "summary_sv": "Elförbrukningen kommer att vara begränsad i flera regioner i Ukraina måndagen den 19 oktober från 06:00 till 23:59.",
       "summary_en": "Electricity consumption will be restricted in several regions of Ukraine on Monday, October 19, from 6:00 to 23:59.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -513,8 +551,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -550,8 +588,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -588,8 +626,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -625,10 +663,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -664,10 +702,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -687,15 +725,15 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Pokrovsk",
-        "Ukraina"
+        "Ukraina",
+        "Pokrovsk"
       ]
     },
     {
       "id": "evt-2026-10-18-cd3853",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T23:29:53+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Trumps undantag från sanktioner är en \"60-dagars paus\" för att analysera ekonomiska effekter, säger Rubio",
+      "title_sv": "Krigsbriefing i Ukraina: Trumps sanktionsavskrivning är en \"60-dagars paus\" för att analysera ekonomiska effekter, säger Rubio",
       "title_en": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
       "summary_sv": "Trump försvarar beslutet att avstå från vissa sanktioner mot Ryssland; Litauen avbryter attacken mot Starlink-webbplatsen; Kyjiv träffar en annan oljeterminal.",
       "summary_en": "Trump defends decision to waive some sanctions on Russia; Lithuania foils attack on Starlink site; Kyiv hits another oil terminal.",
@@ -703,9 +741,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "usa",
+        "uk",
+        "ryssland",
         "eu",
         "ukraina"
       ],
@@ -742,7 +780,7 @@
         },
         {
           "kalla": "The Guardian (Ukraine)",
-          "titel": "Krigsbriefing i Ukraina: Trumps undantag från sanktioner är en \"60-dagars paus\" för att analysera ekonomiska effekter, säger Rubio",
+          "titel": "Krigsbriefing i Ukraina: Trumps sanktionsavskrivning är en \"60-dagars paus\" för att analysera ekonomiska effekter, säger Rubio",
           "url": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio"
         }
       ],
@@ -760,10 +798,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "kina",
         "ukraina",
-        "uk"
+        "uk",
+        "kina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -834,8 +872,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -871,10 +909,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1017,14 +1055,14 @@
       "timestamp": "2026-10-18T22:06:00+03:00",
       "title_sv": "USA återupptar underrättelsedelning med Ukraina efter tre dagars avbrott, Zelenskyy",
       "title_en": "U.S. resumes intelligence sharing with Ukraine after three-day interruption, Zelenskyy",
-      "summary_sv": "Ukrainas president Volodymyr Zelenskyy sa att USA hade återupptagit underrättelsedelning med Ukraina efter att tidigare ha avbrutit den, i en intervju med NBC:s Meet the Press den 18 oktober.",
+      "summary_sv": "Ukrainas president Volodymyr Zelenskyy sa att USA hade återupptagit underrättelsedelning med Ukraina efter att tidigare ha avbrutit den, talade i en intervju med NBC:s Meet the Press den 18 oktober.",
       "summary_en": "Ukrainian President Volodymyr Zelenskyy said the United States had resumed intelligence sharing with Ukraine after previously suspending it, speaking in an interview with NBC's Meet the Press on Oct. 18.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -1098,8 +1136,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -1244,7 +1282,7 @@
       "id": "evt-2026-10-18-b06b44",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T20:23:00+03:00",
-      "title_sv": "Drönare attackerar elektrisk transformatorstation i Rysslands Belgorod och utlöste eld",
+      "title_sv": "Drönare attackerar en elektrisk transformatorstation i Rysslands Belgorod och utlöste eld",
       "title_en": "Drone strikes electrical substation in Russia's Belgorod, sparking fire",
       "summary_sv": "En drönare träffade en elektrisk transformatorstation i den ryska staden Belgorod och utlöste en brand, rapporterade kanalen Exilenova+ Telegram den 18 oktober.",
       "summary_en": "A drone struck an electrical substation in the Russian city of Belgorod, sparking a fire, the Exilenova+ Telegram channel reported on Oct. 18.",
@@ -1252,8 +1290,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -1275,9 +1313,9 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Drönare",
+        "Ryskt",
         "Energi",
-        "Ryskt"
+        "Drönare"
       ]
     },
     {
@@ -1445,8 +1483,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1466,8 +1504,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Lviv",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
@@ -1483,8 +1521,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -1560,9 +1598,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "usa",
+        "ukraina",
+        "ryssland",
         "eu"
       ],
       "syfte": {
@@ -1599,10 +1637,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1714,10 +1752,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1738,8 +1776,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Energi"
+        "Energi",
+        "Drönare"
       ]
     },
     {
@@ -1790,9 +1828,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "usa",
+        "uk",
+        "ryssland",
         "eu",
         "ukraina"
       ],
@@ -1831,9 +1869,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "ukraina",
-        "usa"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1854,8 +1892,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Polen",
         "Drönare",
+        "Polen",
         "Infrastruktur"
       ]
     },
@@ -1865,16 +1903,16 @@
       "timestamp": "2026-10-18T16:28:18+00:00",
       "title_sv": "Varningar för ballistiska missiler är tillbaka, men Starlink-locket stannar, säger Zelenskyy: Ukrainas två amerikanska livlinor, en återställd",
       "title_en": "Ballistic missile warnings are back, but the Starlink cap stays, Zelenskyy says: Ukraine’s two US lifelines, one restored",
-      "summary_sv": "Ukrainska drönare förlorar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
+      "summary_sv": "Ukrainska drönare tappar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
       "summary_en": "Ukrainian drones still lose their connection above 161 km/h, too slow to catch Russia’s jet drones, he told NBC News.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1911,8 +1949,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1948,8 +1986,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -2138,9 +2176,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "usa",
+        "ukraina",
+        "ryssland",
         "eu"
       ],
       "syfte": {
@@ -2254,8 +2292,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -2277,8 +2315,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Svarta",
-        "Drönare"
+        "Drönare",
+        "Svarta"
       ]
     },
     {
@@ -2641,9 +2679,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "usa",
+        "uk",
+        "ryssland",
         "eu",
         "ukraina"
       ],
@@ -2681,10 +2719,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2798,10 +2836,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2831,16 +2869,16 @@
       "timestamp": "2026-10-18T12:57:24+00:00",
       "title_sv": "Drönarna flög 1 000 km. St. Petersburgs oljeterminal, bränsledepå och ett närliggande datacenter väntade i slutet",
       "title_en": "The drones flew 1,000 km. St. Petersburg’s oil terminal, fuel depot, and a nearby data center were waiting at the end",
-      "summary_sv": "Attacken kom en vecka in i ett USA-aviserat energistillestånd, under vilket Ryssland fortsatte att slå mot Ukrainas elnät.",
+      "summary_sv": "Attacken kom en vecka in i en USA-tillkännagiven energivapenvila, under vilken Ryssland fortsatte att slå mot Ukrainas elnät.",
       "summary_en": "The attack came a week into a US-announced energy truce, during which Russia kept striking Ukraine’s power grid.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2861,8 +2899,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Energi"
+        "Energi",
+        "Drönare"
       ]
     },
     {
@@ -3074,10 +3112,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3332,44 +3370,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-18-2a8f4a",
-      "date": "2026-10-18",
-      "timestamp": "2026-10-18T09:58:00+03:00",
-      "title_sv": "Drönare attackerar oljeanläggningar, Ozon-lager och VKontakte-datacenter i St. Petersburg",
-      "title_en": "Drones strike oil facilities, Ozon warehouse and VKontakte data center in St. Petersburg",
-      "summary_sv": "Natten till den 18 oktober i St. Petersburg bröt en brand ut vid en oljeterminal efter en drönareattack.",
-      "summary_en": "On the night of October 18 in St. Petersburg, a fire broke out at an oil terminal following a drone attack.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "usa",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "civil_infrastruktur",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4175563-drones-strike-oil-facilities-ozon-warehouse-and-vkontakte-data-center-in-st-petersburg.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Drönare",
-        "Infrastruktur"
-      ]
-    },
-    {
       "id": "evt-2026-10-18-6295ae",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T09:28:19+00:00",
@@ -3381,9 +3381,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
