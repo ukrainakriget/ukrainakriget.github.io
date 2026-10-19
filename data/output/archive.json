@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 2360,
-  "last_archived_rotation": "2026-10-19T18:31:28.334721+00:00",
+  "total_archived_events": 2362,
+  "last_archived_rotation": "2026-10-19T19:01:45.981196+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-92d4f6",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T21:45:00+03:00",
+      "title_sv": "Ukrainas FP-1 drönare träffade olja och digital infrastruktur i St. Petersburg",
+      "title_en": "Ukraine’s FP-1 drones hit oil and digital infrastructure in St. Petersburg",
+      "summary_sv": "Ukrainas försvarsstyrkor använde FP-1-drönare över natten den 18 oktober för att attackera flera olje- och digitala infrastrukturanläggningar i St. Petersburg, inklusive en oljeterminal, oljedepån Ruchi och ett VKontakte-datacenter.",
+      "summary_en": "Ukraine’s Defense Forces used FP-1 drones overnight on October 18 to strike several oil and digital infrastructure facilities in St. Petersburg, including an oil terminal, the Ruchi oil depot and a VKontakte data center.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175714-ukraines-fp1-drones-hit-oil-and-digital-infrastructure-in-st-petersburg.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-10-18-ae5808",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T21:37:00+03:00",
+      "title_sv": "\"Tacksamhet är inte underkastelse\": Ukrainas drönarbefälhavare Madyar kritiserar påtryckningar från partners",
+      "title_en": "'Gratitude is not submission': Ukraine's drone commander Madyar criticizes pressure from partners",
+      "summary_sv": "Ukrainas befälhavare för obemannade systemstyrkor Robert \"Madyar\" Brovdi kritiserade partner för att använda Kyjivs beroende av deras stöd för att påverka kriget, och betonade att tacksamhet för hjälp inte betyder underkastelse.",
+      "summary_en": "Ukraine's Unmanned Systems Forces commander Robert \"Madyar\" Brovdi criticized partners for using Kyiv's dependence on their support to influence the war, stressing that gratitude for assistance does not mean submission.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/ukraine-s-drone-commander-criticizes-partners-pressure-50651150.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Kyjiv",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-18-94ab02",
       "date": "2026-10-18",
@@ -666,11 +744,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -690,9 +768,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
+        "Robotanfall",
         "Ukraina",
-        "Robotanfall"
+        "Energi"
       ]
     },
     {
@@ -747,10 +825,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -770,9 +848,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Robotanfall",
         "Ukraina",
-        "Robotanfall"
+        "Drönare"
       ]
     },
     {
@@ -808,8 +886,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -824,8 +902,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -1014,10 +1092,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "eu",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1037,8 +1115,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -1130,9 +1208,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1152,8 +1230,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Ukraina",
+        "Svarta",
         "Drönare"
       ]
     },
@@ -1517,11 +1595,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1541,8 +1619,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Polen",
-        "Ukraina"
+        "Ukraina",
+        "Polen"
       ]
     },
     {
@@ -1557,10 +1635,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1580,9 +1658,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Lyman",
         "Ukraina",
-        "Lyman"
+        "Drönare"
       ]
     },
     {
@@ -2337,9 +2415,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
