@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T20:43:39.957418+00:00",
-  "total_active_events": 114,
+  "last_updated": "2026-10-19T21:01:51.583905+00:00",
+  "total_active_events": 113,
   "events": [
     {
       "id": "evt-2026-10-19-9eca8b",
@@ -15,9 +15,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -54,8 +54,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "uk",
-        "eu"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -75,9 +75,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Polen",
         "Civila mål",
-        "Ukraina",
-        "Polen"
+        "Ukraina"
       ]
     },
     {
@@ -93,8 +93,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -132,9 +132,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -171,8 +171,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -210,8 +210,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -248,8 +248,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -322,9 +322,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -346,8 +346,46 @@
       "tags": [
         "Charkiv",
         "Luftförsvar",
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-19-b0e2a2",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T20:49:00+00:00",
+      "title_sv": "Ukrainare dör eftersom USA begränsar underrättelsedelning, säger Zelensky-rådgivaren till BBC",
+      "title_en": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "summary_sv": "Serhii Beskrestnov säger att det inte har funnits tillräckligt med tid för att varna människor för inkommande missilattacker. Vita huset sa att det inte hade skett några förändringar av underrättelsedelning.",
+      "summary_en": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
         "Ukraina",
-        "Drönare"
+        "Robotanfall"
       ]
     },
     {
@@ -400,8 +438,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -463,49 +501,11 @@
       "relaterade_kallor": [
         {
           "kalla": "The Guardian (Ukraine)",
-          "titel": "Franska myndigheter tillkännager partiella utegångsförbud när premiärministern anklagar \"ultravänster\" för att utnyttja protester - Europa live",
+          "titel": "Franska myndigheter tillkännager partiellt utegångsförbud i Paris när premiärministern anklagar \"ultravänster\" för att utnyttja protester - Europa live",
           "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
         }
       ],
       "cluster_count": 2
-    },
-    {
-      "id": "evt-2026-10-19-b0e2a2",
-      "date": "2026-10-19",
-      "timestamp": "2026-10-19T20:13:27+00:00",
-      "title_sv": "Ukrainare dör eftersom USA begränsar underrättelsedelning, säger Zelensky-rådgivaren till BBC",
-      "title_en": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "summary_sv": "Serhii Beskrestnov säger att det inte har funnits tillräckligt med tid för att varna människor för inkommande missilattacker. Vita huset sa att det inte hade skett några förändringar av underrättelsedelning.",
-      "summary_en": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
-        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
-      },
-      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "BBC News (Europe)",
-      "kallurl": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Robotanfall",
-        "Ukraina"
-      ]
     },
     {
       "id": "evt-2026-10-19-954245",
@@ -519,11 +519,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "usa",
         "uk",
-        "eu",
-        "usa"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -544,8 +544,8 @@
       "arkiverad": false,
       "tags": [
         "Luftförsvar",
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -561,8 +561,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -601,8 +601,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -639,8 +639,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -677,8 +677,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -699,8 +699,8 @@
       "arkiverad": false,
       "tags": [
         "Charkiv",
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -752,8 +752,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -790,8 +790,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -812,8 +812,8 @@
       "arkiverad": false,
       "tags": [
         "Infrastruktur",
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -829,8 +829,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -866,12 +866,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
         "kina",
+        "usa",
         "uk",
-        "eu",
-        "usa"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -908,9 +908,9 @@
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -946,9 +946,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1061,8 +1061,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1093,16 +1093,16 @@
       "timestamp": "2026-10-19T16:39:00+03:00",
       "title_sv": "Ryssland har attackerat Ukrainas energiinfrastruktur varje dag sedan den 16 juli och orsakat massiv skada - Koretskyi",
       "title_en": "Russia has attacked Ukraine's energy infrastructure every day since July 16, causing massive damage — Koretskyi",
-      "summary_sv": "Ryssland har inlett mer än 2 000 attacker mot Ukrainas energiinfrastruktur sedan den 16 juli, men förberedelser och en motståndsplan hjälper landet att stå emot attackerna, sa premiärminister Serhiy Koretskyi till BBC News Ukraine den 19 oktober.",
+      "summary_sv": "Ryssland har inlett mer än 2 000 attacker mot Ukrainas energiinfrastruktur sedan den 16 juli, men förberedelser och en resiliensplan hjälper landet att stå emot attackerna, sa premiärminister Serhiy Koretskyi till BBC News Ukraine den 19 oktober.",
       "summary_en": "Russia has launched more than 2,000 strikes on Ukraine's energy infrastructure since July 16, but preparations and a resilience plan are helping the country withstand the attacks, Prime Minister Serhiy Koretskyi told BBC News Ukraine on Oct. 19.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1177,9 +1177,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1215,9 +1215,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1352,9 +1352,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Robotanfall"
       ]
     },
     {
@@ -1370,9 +1370,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1408,8 +1408,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1444,11 +1444,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
         "kina",
+        "usa",
         "uk",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1557,9 +1557,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1636,9 +1636,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1675,9 +1675,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1752,9 +1752,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
+        "ryssland",
         "usa",
-        "eu",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2606,9 +2606,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3424,8 +3424,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3445,8 +3445,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -3577,11 +3577,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "usa",
         "uk",
-        "eu",
-        "usa"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3602,9 +3602,9 @@
       "arkiverad": false,
       "tags": [
         "Energi",
-        "Ukraina",
+        "Polen",
         "Drönare",
-        "Polen"
+        "Ukraina"
       ]
     },
     {
@@ -3697,9 +3697,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3719,8 +3719,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Energi",
         "Kyjiv",
+        "Energi",
         "Ukraina",
         "Robotanfall"
       ]
@@ -3777,12 +3777,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
         "kina",
+        "usa",
         "uk",
-        "eu",
-        "usa"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3802,9 +3802,9 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
+        "Polen",
         "Ukraina",
-        "Polen"
+        "Robotanfall"
       ]
     },
     {
@@ -4234,9 +4234,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4257,45 +4257,6 @@
       "arkiverad": false,
       "tags": [
         "Infrastruktur",
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-10-18-a451b7",
-      "date": "2026-10-18",
-      "timestamp": "2026-10-18T23:53:00+03:00",
-      "title_sv": "Krigsuppdatering: 173 sammandrabbningar vid frontlinjen, hårdaste striderna i Pokrovsk-sektorn",
-      "title_en": "War update: 173 clashes on front line, fiercest fighting in Pokrovsk sector",
-      "summary_sv": "Den 18 oktober var det 173 stridsinsatser mellan Ukrainas försvarsstyrkor och ryska styrkor, där fienden gjorde flest attackförsök i Pokrovsk-sektorn, där de inledde 22 anfall.",
-      "summary_en": "On October 18, there were 173 combat engagements between Ukraine’s Defense Forces and Russian forces, with the enemy making the most attempts to attack in the Pokrovsk sector, where they launched 22 assaults.",
-      "location_name": "Pokrovsk-sektorn",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "ryssland",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4175727-war-update-173-clashes-on-front-line-fiercest-fighting-in-pokrovsk-sector.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Pokrovsk",
         "Ukraina"
       ]
     },
@@ -4369,9 +4330,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "kina",
         "eu",
-        "kina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
