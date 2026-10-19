@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 2340,
-  "last_archived_rotation": "2026-10-19T14:31:23.942148+00:00",
+  "total_archived_events": 2342,
+  "last_archived_rotation": "2026-10-19T14:59:49.648497+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-71b83f",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T17:43:00+03:00",
+      "title_sv": "Ukrainas flygvapen släpper video av stridspilot som skjuter ned ryska Geran-drönaren över Ukraina",
+      "title_en": "Ukraine's Air Force releases video of fighter pilot shooting down Russian Geran drone over Ukraine",
+      "summary_sv": "Ukrainas flygvapen släppte bilder som visar en ukrainsk stridspilot skjuta ner en rysk Geran-drönare.",
+      "summary_en": "Ukraine's Air Force released footage showing a Ukrainian fighter pilot shooting down a Russian Geran drone.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/ukrainian-fighter-pilot-shoots-down-russian-geran-drone-50651099.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-18-c6e3a0",
       "date": "2026-10-18",
@@ -537,6 +576,46 @@
       ]
     },
     {
+      "id": "evt-2026-10-18-6aedc1",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T14:31:30+00:00",
+      "title_sv": "Två dödades och minst 17 skadades när handeln mellan Ryssland och Ukraina slår mot kraftinfrastrukturen",
+      "title_en": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+      "summary_sv": "Ukraina använde mer än 1 000 drönare för att rikta in sig på ryska oljedepåer, logistikanläggningar och datacenter Två personer har dödats och minst 17 skadats när Ryssland och Ukraina fortsätter att handla med attacker mot varandras kraftinfrastruktur, efter sammanbrottet av Donald Trumps kortlivade och ensidigt deklarerade...",
+      "summary_en": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s short-lived and unilaterally declared “energy ceasefire”.One person...",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-18-b56f10",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T14:29:00+03:00",
@@ -743,11 +822,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "usa",
         "uk",
-        "eu",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -767,8 +846,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Polen"
+        "Polen",
+        "Ukraina"
       ]
     },
     {
@@ -783,10 +862,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -806,9 +885,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Lyman",
         "Drönare",
-        "Lyman"
+        "Ukraina"
       ]
     },
     {
@@ -900,10 +979,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -923,8 +1002,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -933,16 +1012,16 @@
       "timestamp": "2026-10-18T12:57:24+00:00",
       "title_sv": "Drönarna flög 1 000 km. St. Petersburgs oljeterminal, bränsledepå och ett närliggande datacenter väntade i slutet",
       "title_en": "The drones flew 1,000 km. St. Petersburg’s oil terminal, fuel depot, and a nearby data center were waiting at the end",
-      "summary_sv": "Attacken kom en vecka in i ett USA-aviserat energivapenstillestånd, under vilket Ryssland fortsatte att slå Ukrainas elnät.",
+      "summary_sv": "Attacken kom en vecka in i ett USA-aviserat energistillestånd, under vilket Ryssland fortsatte att slå mot Ukrainas elnät.",
       "summary_en": "The attack came a week into a US-announced energy truce, during which Russia kept striking Ukraine’s power grid.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -962,9 +1041,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Energi",
         "Drönare",
-        "Energi"
+        "Ukraina"
       ]
     },
     {
@@ -1176,10 +1255,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1199,8 +1278,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -1563,9 +1642,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ukraina",
-        "ryssland",
-        "uk"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2140,9 +2219,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2162,10 +2241,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
         "Svarta",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
