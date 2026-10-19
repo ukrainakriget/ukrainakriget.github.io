@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 2307,
-  "last_archived_rotation": "2026-10-19T08:32:23.824897+00:00",
+  "total_archived_events": 2309,
+  "last_archived_rotation": "2026-10-19T09:01:37.402362+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-569b15",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T11:59:00+03:00",
+      "title_sv": "Rysk beskjutning i Charkiv-regionen skadar 12 personer",
+      "title_en": "Russian shelling in Kharkiv region injures 12 people",
+      "summary_sv": "I Charkiv-regionen har 12 personer skadats under det senaste dygnet till följd av rysk beskjutning. Fienden besköt Charkiv och nio bosättningar i regionen.",
+      "summary_en": "In the Kharkiv region, 12 people were injured over the past day as a result of Russian shelling. The enemy shelled Kharkiv and nine settlements in the region.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175584-russian-shelling-in-kharkiv-region-injures-12-people.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Charkiv"
+      ]
+    },
+    {
+      "id": "evt-2026-10-18-5ef51e",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T11:38:00+03:00",
+      "title_sv": "Vita huset förklarar att uppehåll i ryska sanktioner är nödvändigt för fredsförhandlingar",
+      "title_en": "White House explains pause on sweeping Russia sanctions as necessary for peace negotiations",
+      "summary_sv": "Att införa nya sanktioner mot Ryssland nu skulle undergräva Washingtons ansträngningar att förmedla ett fredsavtal mellan Moskva och Kyjiv, sa Vita husets talesperson Taylor Rogers, rapporterade Axios den 18 oktober.",
+      "summary_en": "Imposing new sanctions on Russia now would undermine Washington's efforts to broker a peace deal between Moscow and Kyiv, White House spokesperson Taylor Rogers said, Axios reported on Oct. 18.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/new-russia-sanctions-would-hinder-peace-efforts-white-house-says-50651055.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-18-dd7941",
       "date": "2026-10-18",
@@ -863,9 +940,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -887,8 +964,8 @@
       "tags": [
         "Infrastruktur",
         "Ukraina",
-        "Svarta",
-        "Drönare"
+        "Drönare",
+        "Svarta"
       ]
     },
     {
