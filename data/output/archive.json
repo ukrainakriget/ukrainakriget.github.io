@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 2297,
-  "last_archived_rotation": "2026-10-19T05:34:36.086125+00:00",
+  "total_archived_events": 2298,
+  "last_archived_rotation": "2026-10-19T06:04:40.475131+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-7aef42",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T08:48:00+03:00",
+      "title_sv": "Ryska styrkor attackerade Dnipropetrovsk-regionen över 10 gånger under natten och skadade tre",
+      "title_en": "Russian forces attack Dnipropetrovsk region over 10 times overnight, injuring three",
+      "summary_sv": "Ryska styrkor attackerade Dnipropetrovsk-regionen mer än 10 gånger sedan kvällen och skadade tre personer.",
+      "summary_en": "Russian forces attacked the Dnipropetrovsk region more than 10 times since the evening, injuring three people.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175554-russian-forces-attack-dnipropetrovsk-region-over-10-times-overnight-injuring-three.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-18-add73c",
       "date": "2026-10-18",
@@ -478,9 +516,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -500,10 +538,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Drönare",
+        "Svarta",
         "Ukraina",
-        "Svarta"
+        "Infrastruktur"
       ]
     },
     {
@@ -1179,9 +1217,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
