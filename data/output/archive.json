@@ -1,6 +1,6 @@
 {
-  "total_archived_events": 2375,
-  "last_archived_rotation": "2026-10-19T23:31:24.614593+00:00",
+  "total_archived_events": 2376,
+  "last_archived_rotation": "2026-10-19T23:37:06.720538+00:00",
   "events": [
     {
       "id": "evt-2026-10-19-0b4d9c",
@@ -211,10 +211,53 @@
       "cluster_count": 2
     },
     {
+      "id": "evt-2026-10-18-808a2f",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T23:29:53+00:00",
+      "title_sv": "Krigsgenomgång i Ukraina: Trump anklagar Zelenskyy för att inte vilja avsluta kriget medan fejden mullrar",
+      "title_en": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
+      "summary_sv": "Trump försvarar beslutet att avstå från vissa sanktioner mot Ryssland; Litauen avbryter attacken mot Starlink-webbplatsen; Kyjiv träffar en annan oljeterminal.",
+      "summary_en": "Trump defends decision to waive some sanctions on Russia; Lithuania foils attack on Starlink site; Kyiv hits another oil terminal.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "usa",
+        "ukraina",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/19/ukraine-war-briefing-trump-accuses-zelenskyy-of-not-wanting-to-end-war-as-feud-rumbles-on",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Kyjiv",
+        "Robotanfall",
+        "Civila mål"
+      ]
+    },
+    {
       "id": "evt-2026-10-18-2a8d76",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T23:28:45+00:00",
-      "title_sv": "EU:s tullar syftar till att Kina ska drabba Ukraina, säger stålchefen",
+      "title_sv": "EU:s tullar syftar till att Kina slår mot Ukraina, säger stålchefen",
       "title_en": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "summary_sv": "Chefen för ett av Ukrainas största stålföretag säger att landet har \"bundits ihop\" i åtgärder som syftar till att stävja billig import.",
       "summary_en": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
@@ -222,10 +265,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "eu",
         "kina",
-        "uk",
-        "eu"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1252,9 +1295,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ryssland",
         "uk",
+        "usa",
         "ukraina",
         "eu"
       ],
@@ -1276,9 +1319,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Robotanfall",
         "Ukraina",
-        "Energi",
-        "Robotanfall"
+        "Energi"
       ]
     },
     {
@@ -1327,15 +1370,15 @@
       "timestamp": "2026-10-18T16:28:18+00:00",
       "title_sv": "Varningar för ballistiska missiler är tillbaka, men Starlink-locket stannar, säger Zelenskyy: Ukrainas två amerikanska livlinor, en återställd",
       "title_en": "Ballistic missile warnings are back, but the Starlink cap stays, Zelenskyy says: Ukraine’s two US lifelines, one restored",
-      "summary_sv": "Ukrainska drönare förlorar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
+      "summary_sv": "Ukrainska drönare tappar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
       "summary_en": "Ukrainian drones still lose their connection above 161 km/h, too slow to catch Russia’s jet drones, he told NBC News.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "ryssland",
+        "usa",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -1356,9 +1399,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -1394,8 +1437,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -1404,14 +1447,14 @@
       "timestamp": "2026-10-18T16:18:46+00:00",
       "title_sv": "£2,5 miljarder Chelsea-fond kan hjälpa barn globalt om Ed Miliband säkrar sin frigivning | Bokstäver",
       "title_en": "£2.5bn Chelsea fund could help children globally if Ed Miliband secures its release | Letters",
-      "summary_sv": "George Graham från Save the Children UK säger att regeringen har en tydlig möjlighet att agera och se till att offer för konflikter får hjälp Mitt i anklagelserna om rådgivare som hanterar Roman Abramovichs affärsangelägenheter (Roman Abramovich hjälper förfalskade pappersarbete för att dölja tillgångar och undvika skatt, enligt uppgifter den 12...",
+      "summary_sv": "George Graham från Save the Children UK säger att regeringen har en tydlig möjlighet att agera och se till att konfliktoffer får hjälp Mitt i anklagelserna om rådgivare som hanterar Roman Abramovichs affärsangelägenheter (Roman Abramovich hjälper förfalskade pappersarbete för att dölja tillgångar och undvika skatt, enligt uppgifter den 12...",
       "summary_en": "George Graham of Save the Children UK says the government has a clear opportunity to act and ensure that victims of conflict are helped Amid allegations about advisers dealing with Roman Abramovich’s business affairs (Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest, 12 October), another issue demands...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -1600,10 +1643,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "ryssland",
-        "eu"
+        "usa",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1716,9 +1759,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1738,9 +1781,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Svarta",
-        "Drönare"
+        "Svarta"
       ]
     },
     {
@@ -2103,9 +2146,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ryssland",
         "uk",
+        "usa",
         "ukraina",
         "eu"
       ],
@@ -2143,9 +2186,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "ryssland",
+        "usa",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -2166,9 +2209,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Lyman",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Lyman"
       ]
     },
     {
