@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 2287,
-  "last_archived_rotation": "2026-10-19T03:34:44.859499+00:00",
+  "total_archived_events": 2289,
+  "last_archived_rotation": "2026-10-19T04:04:57.109896+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-215be4",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T06:40:00+03:00",
+      "title_sv": "Kvinna dödad i rysk attack mot Zaporizjzja",
+      "title_en": "Woman killed in Russian attack on Zaporizhzhia",
+      "summary_sv": "Ett bostadshus i Zaporizjzja blev påkörd, en ung kvinna dödades.",
+      "summary_en": "A residential building in Zaporizhzhia was hit, a young woman was killed.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175539-woman-killed-in-russian-attack-on-zaporizhzhia.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Zaporizjzja"
+      ]
+    },
+    {
+      "id": "evt-2026-10-18-757364",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T06:40:00+03:00",
+      "title_sv": "Woman killed, two injured in Russian attack on Zaporizjzja",
+      "title_en": "Woman killed, two injured in Russian attack on Zaporizhzhia",
+      "summary_sv": "A residential building in Zaporizjzja was hit; a young woman was killed and two other people were injured.",
+      "summary_en": "A residential building in Zaporizhzhia was hit; a young woman was killed and two other people were injured.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175539-woman-killed-in-russian-attack-on-zaporizhzhia.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Zaporizjzja",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-18-30edc7",
       "date": "2026-10-18",
@@ -786,10 +864,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -809,8 +887,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
+        "Ukraina",
         "Drönare"
       ]
     },
@@ -1560,10 +1638,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "eu",
+        "usa",
         "ukraina",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1583,8 +1661,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1674,8 +1752,8 @@
       "parter_intressenter": [
         "ryssland",
         "eu",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1749,11 +1827,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
+        "usa",
         "eu",
         "ukraina",
-        "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
