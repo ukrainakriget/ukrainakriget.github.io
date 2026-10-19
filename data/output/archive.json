@@ -1,7 +1,82 @@
 {
-  "total_archived_events": 2304,
-  "last_archived_rotation": "2026-10-19T07:34:23.499407+00:00",
+  "total_archived_events": 2306,
+  "last_archived_rotation": "2026-10-19T08:04:42.854559+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-2f68ef",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T10:58:00+03:00",
+      "title_sv": "Rysk beskjutning i Chernihiv-regionen skadar en person",
+      "title_en": "Russian shelling in Chernihiv region injures one person",
+      "summary_sv": "Ryska trupper beskjuter Liubetsk-samhället i Chernihiv-regionen och skadade en kvinna.",
+      "summary_en": "Russian troops shelled the Liubetsk community in the Chernihiv region, injuring a woman.",
+      "location_name": "Tjernihiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175566-russian-shelling-in-chernihiv-region-injures-one-person.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Tjernihiv",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-18-09b0ef",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T10:51:00+03:00",
+      "title_sv": "Lettland och Litauen deklarerar luftvarningar efter att oidentifierad drönare upptäckts i det baltiska luftrummet",
+      "title_en": "Latvia and Lithuania declare air alerts after unidentified drone spotted in Baltic airspace",
+      "summary_sv": "Lettland och Litauen utfärdade varningar för flyganfall över ett oidentifierat föremål, vilket föranledde utplaceringen av allierade militära flygplan, rapporterade den litauiska sändaren LRT den 18 oktober.",
+      "summary_en": "Latvia and Lithuania issued air raid alerts over an unidentified object, prompting the deployment of allied military aircraft, Lithuanian broadcaster LRT reported on Oct. 18.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/latvia-lithuania-issue-air-alerts-over-unknown-object-50651049.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-18-61cc2e",
       "date": "2026-10-18",
@@ -749,9 +824,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -771,8 +846,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
         "Ukraina",
+        "Svarta",
         "Drönare",
         "Infrastruktur"
       ]
@@ -1449,10 +1524,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
