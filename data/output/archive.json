@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 2356,
-  "last_archived_rotation": "2026-10-19T17:02:04.552741+00:00",
+  "total_archived_events": 2358,
+  "last_archived_rotation": "2026-10-19T17:31:22.260285+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-18-083816",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T20:31:00+03:00",
+      "title_sv": "Rysk UAV-attack träffade bil i Charkiv-regionen och skadade två personer",
+      "title_en": "Russian UAV strike hits car in Kharkiv region, injuring two people",
+      "summary_sv": "Två personer skadades i byn Staryi Saltiv i Charkiv-regionen till följd av en attack av en rysk drönare.",
+      "summary_en": "Two people were injured in the village of Staryi Saltiv in the Kharkiv region as a result of a strike by a Russian drone.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175702-russian-uav-strike-hits-car-in-kharkiv-region-injuring-two-people.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-10-18-b06b44",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T20:23:00+03:00",
+      "title_sv": "Drone strikes electrical substation in Russia's Belgorod, sparking fire",
+      "title_en": "Drone strikes electrical substation in Russia's Belgorod, sparking fire",
+      "summary_sv": "A drone struck an electrical substation in the Russian city of Belgorod, sparking a fire, the Exilenova+ Telegram channel reported on Oct. 18.",
+      "summary_en": "A drone struck an electrical substation in the Russian city of Belgorod, sparking a fire, the Exilenova+ Telegram channel reported on Oct. 18.",
+      "location_name": "Ryskt gränsområde",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/drone-strikes-electrical-substation-in-belgorod-sparks-fire-50651149.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ryskt",
+        "Ukraina",
+        "Energi",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-18-50b20c",
       "date": "2026-10-18",
@@ -512,11 +591,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ryssland",
-        "uk",
+        "ukraina",
+        "usa",
         "eu",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -536,9 +615,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Energi",
         "Ukraina",
-        "Robotanfall",
-        "Energi"
+        "Robotanfall"
       ]
     },
     {
@@ -692,8 +771,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -860,10 +939,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "ryssland",
         "usa",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -998,8 +1077,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Svarta",
+        "Ukraina",
         "Drönare"
       ]
     },
@@ -1363,11 +1442,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ryssland",
-        "uk",
+        "ukraina",
+        "usa",
         "eu",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1387,8 +1466,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Polen"
+        "Polen",
+        "Ukraina"
       ]
     },
     {
