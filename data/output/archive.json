@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 2479,
-  "last_archived_rotation": "2026-10-20T20:01:34.858216+00:00",
+  "total_archived_events": 2480,
+  "last_archived_rotation": "2026-10-20T20:32:00.905492+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-9eca8b",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T23:10:00+03:00",
+      "title_sv": "Russian attack on Kyiv region enterprise kills one, injures six",
+      "title_en": "Russian attack on Kyiv region enterprise kills one, injures six",
+      "summary_sv": "A man was killed and six people were injured in a Russian attack on an enterprise in the Obukhiv district of the Kyiv region.",
+      "summary_en": "A man was killed and six people were injured in a Russian attack on an enterprise in the Obukhiv district of the Kyiv region.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4176072-russian-attack-on-kyiv-region-enterprise-kills-one-injures-six.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-10-19-6a53a1",
       "date": "2026-10-19",
@@ -3620,10 +3659,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "kina",
-        "usa",
         "ryssland",
+        "ukraina",
+        "usa",
+        "kina",
         "eu"
       ],
       "syfte": {
