@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 2460,
-  "last_archived_rotation": "2026-10-20T15:23:07.200872+00:00",
+  "total_archived_events": 2461,
+  "last_archived_rotation": "2026-10-20T15:31:20.637940+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-aebed1",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T18:29:00+03:00",
+      "title_sv": "Zelenskyy rapporterar fortsatta Starlink-fel vid 130–161 km/h längs fronten",
+      "title_en": "Zelenskyy reports continued Starlink failures at 130–161 km/h along the front",
+      "summary_sv": "Ukrainsk utrustning som använder Starlink fortsätter att sluta fungera i hastigheter på 130–161 km/h i olika sektorer av fronten, rapporterade Ukrainas president Volodymyr Zelenskyy på sociala medier den 19 oktober efter en briefing från den ukrainska försvarsmaktens överbefälhavare Mykhailo Drapatyi.",
+      "summary_en": "Ukrainian equipment using Starlink continues to stop working at speeds of 130–161 km/h in various sectors of the front, Ukrainian President Volodymyr Zelenskyy reported on social media on Oct. 19 after a briefing from Ukrainian Armed Forces Commander-in-Chief Mykhailo Drapatyi.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/zelenskyy-starlink-restrictions-still-disrupt-ukraine-s-drones-at-speeds-of-130-161-km-h-50651462.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-19-3b0704",
       "date": "2026-10-19",
@@ -2892,12 +2930,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "kina",
-        "ryssland",
-        "usa",
         "uk",
-        "eu",
-        "ukraina"
+        "usa",
+        "ryssland",
+        "kina",
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
