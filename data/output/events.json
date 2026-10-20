@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-10-20T00:31:19.256653+00:00",
-  "total_active_events": 117,
+  "last_updated": "2026-10-20T01:01:40.666182+00:00",
+  "total_active_events": 119,
   "events": [
+    {
+      "id": "evt-2026-10-20-7d1cd0",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T03:31:00+03:00",
+      "title_sv": "Ryska satellitmanövrar farligt nära en viktig källa till ukrainska underrättelser",
+      "title_en": "Russian satellite maneuvers dangerously close to vital source of Ukrainian intel",
+      "summary_sv": "Den ryska militärsatelliten Kosmos-2612 kom inom 26 meter från ICEYE-X36, en kommersiell radarbildsatellit som drivs av det finska företaget ICEYE som förser Ukraina med satellitbilder för underrättelseändamål.",
+      "summary_en": "Russian military satellite Kosmos-2612 came within 26 meters of ICEYE-X36, a commercial radar-imaging satellite operated by Finnish company ICEYE that provides Ukraine with satellite imagery for intelligence purposes.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "eu",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-satellite-maneuvers-dangerously-close-to-iceye-x36-50651534.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-20-1b3172",
       "date": "2026-10-20",
@@ -15,10 +54,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa",
         "uk",
-        "eu"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -53,9 +92,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -93,9 +132,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -131,9 +170,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -198,6 +237,49 @@
       ]
     },
     {
+      "id": "evt-2026-10-20-d56fc8",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T00:44:45+00:00",
+      "title_sv": "Krigsbriefing i Ukraina: Zelenskyy hävdar att USA medvetet försenar leveranser av interceptormissiler till Kyjiv",
+      "title_en": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
+      "summary_sv": "Ukrainas president säger till amerikanska senatorer att de försenade missilerna redan har betalats av europeiska länder, mitt i växande klyftor.",
+      "summary_en": "Ukrainian president tells US senators the delayed missiles have already been paid for by European countries, amid growing rift.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "eu",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/20/ukraine-war-briefing-zelenskyy-claims-us-deliberately-delaying-interceptor-missile-deliveries-to-kyiv",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Energi",
+        "Kyjiv",
+        "Robotanfall"
+      ]
+    },
+    {
       "id": "evt-2026-10-20-ceb9c9",
       "date": "2026-10-20",
       "timestamp": "2026-10-20T00:41:00+03:00",
@@ -209,9 +291,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -283,9 +365,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -320,9 +402,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -357,9 +439,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -396,9 +478,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -435,9 +517,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "uk",
-        "ukraina",
-        "eu"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -474,9 +556,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -513,9 +595,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -551,9 +633,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -590,9 +672,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -613,8 +695,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Cherson",
-        "Civila mål"
+        "Civila mål",
+        "Cherson"
       ]
     },
     {
@@ -741,8 +823,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -777,9 +859,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -802,8 +884,8 @@
       "tags": [
         "Ukraina",
         "Luftförsvar",
-        "Charkiv",
-        "Drönare"
+        "Drönare",
+        "Charkiv"
       ]
     },
     {
@@ -818,9 +900,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -856,8 +938,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1011,10 +1093,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa",
         "uk",
-        "eu"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1051,9 +1133,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1075,8 +1157,8 @@
       "tags": [
         "Ukraina",
         "Kyjiv",
-        "Luftförsvar",
-        "Robotanfall"
+        "Robotanfall",
+        "Luftförsvar"
       ]
     },
     {
@@ -1242,9 +1324,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1303,8 +1385,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Infrastruktur",
-        "Drönare"
+        "Drönare",
+        "Infrastruktur"
       ]
     },
     {
@@ -1357,12 +1439,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "kina",
-        "usa",
+        "ukraina",
         "uk",
-        "eu"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1436,9 +1518,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -1822,8 +1904,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1974,8 +2056,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2126,9 +2208,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -2165,9 +2247,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -2242,9 +2324,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "ryssland",
         "ukraina",
-        "eu",
         "usa"
       ],
       "syfte": {
@@ -3060,9 +3142,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -3878,9 +3960,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4033,10 +4115,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa",
         "uk",
-        "eu"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4057,9 +4139,9 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
+        "Polen",
         "Energi",
-        "Drönare",
-        "Polen"
+        "Drönare"
       ]
     },
     {
@@ -4151,9 +4233,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "ukraina",
-        "uk",
         "usa"
       ],
       "syfte": {
@@ -4232,12 +4314,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "kina",
-        "usa",
+        "ukraina",
         "uk",
-        "eu"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4258,8 +4340,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Robotanfall",
-        "Polen"
+        "Polen",
+        "Robotanfall"
       ]
     },
     {
