@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 2376,
-  "last_archived_rotation": "2026-10-20T00:01:39.317467+00:00",
+  "total_archived_events": 2378,
+  "last_archived_rotation": "2026-10-20T00:31:19.256653+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-727800",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T03:27:00+03:00",
+      "title_sv": "Schema för strömavbrott kommer att gälla i flera regioner på måndag",
+      "title_en": "Power outage schedules to apply in several regions on Monday",
+      "summary_sv": "Elförbrukningen kommer att vara begränsad i flera regioner i Ukraina måndagen den 19 oktober från 06:00 till 23:59.",
+      "summary_en": "Electricity consumption will be restricted in several regions of Ukraine on Monday, October 19, from 6:00 to 23:59.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4175715-power-outage-schedules-to-apply-in-several-regions-on-monday.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-10-19-0b4d9c",
       "date": "2026-10-19",
@@ -108,6 +145,45 @@
       "kalla": "Ukrinform",
       "kallurl": "https://www.ukrinform.net/rubric-society/4175542-kramatorsk-authorities-debunk-fake-claim-about-property-seizures-for-afu.html",
       "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-19-4f62ab",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T00:06:25+00:00",
+      "title_sv": "Inuti den skuggiga världen av anti-Putins sabotage inifrån Ryssland",
+      "title_en": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "summary_sv": "Två män berättar om det arbete de säger sig ha gjort för att stödja ukrainsk underrättelsetjänst under kriget.",
+      "summary_en": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
         "Ukraina",
@@ -222,11 +298,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "ryssland",
         "usa",
         "uk",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -265,10 +341,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "kina",
         "uk",
+        "ukraina",
         "eu",
-        "ukraina"
+        "kina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1295,11 +1371,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "ryssland",
         "usa",
         "uk",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1376,9 +1452,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "ryssland",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -1400,8 +1476,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Robotanfall"
+        "Robotanfall",
+        "Drönare"
       ]
     },
     {
@@ -1416,8 +1492,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1453,9 +1529,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
+        "usa",
         "ukraina",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1644,8 +1720,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ryssland",
-        "eu",
         "ukraina",
+        "eu",
         "usa"
       ],
       "syfte": {
@@ -1781,9 +1857,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Ukraina",
-        "Svarta"
+        "Svarta",
+        "Drönare"
       ]
     },
     {
@@ -2146,11 +2222,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "ryssland",
         "usa",
         "uk",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2186,9 +2262,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "ryssland",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -2210,8 +2286,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Lyman"
+        "Lyman",
+        "Drönare"
       ]
     },
     {
