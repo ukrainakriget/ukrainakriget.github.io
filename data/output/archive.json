@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 2382,
-  "last_archived_rotation": "2026-10-20T04:44:48.868206+00:00",
+  "total_archived_events": 2383,
+  "last_archived_rotation": "2026-10-20T05:01:32.134261+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-06b538",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T07:57:00+03:00",
+      "title_sv": "Zelensky: Redo att träffa amerikanska förhandlare",
+      "title_en": "Zelensky: Ready to meet with U.S. negotiators",
+      "summary_sv": "Volodymyr Zelensky uppgav att det ukrainska förhandlingsteamet hade fått en signal från amerikansk sida som tyder på en vilja att hålla ett möte, och att samtalen kan äga rum på tisdag eller onsdag.",
+      "summary_en": "Volodymyr Zelensky stated that the Ukrainian negotiating team had received a signal from the American side indicating a willingness to hold a meeting, and that the talks could take place on Tuesday or Wednesday.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4175739-zelensky-ready-to-meet-with-us-negotiators.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-19-75e012",
       "date": "2026-10-19",
@@ -307,7 +344,7 @@
       "id": "evt-2026-10-19-4f62ab",
       "date": "2026-10-19",
       "timestamp": "2026-10-19T00:06:25+00:00",
-      "title_sv": "Inuti den skuggiga världen av anti-Putins sabotage inifrån Ryssland",
+      "title_sv": "Inuti den skuggiga världen av anti-Putin-sabotage inifrån Ryssland",
       "title_en": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "summary_sv": "Två män berättar om det arbete de säger sig ha gjort för att stödja ukrainsk underrättelsetjänst under kriget.",
       "summary_en": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
@@ -315,9 +352,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "ryssland",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -450,11 +487,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland",
+        "usa",
         "uk",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -474,18 +511,18 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Drönare",
         "Civila mål",
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Drönare",
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-10-18-2a8d76",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T23:28:45+00:00",
-      "title_sv": "EU:s tullar syftar till att Kina slår mot Ukraina, säger stålchefen",
+      "title_sv": "EU:s tullar syftar till att Kina ska drabba Ukraina, säger stålchefen",
       "title_en": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "summary_sv": "Chefen för ett av Ukrainas största stålföretag säger att landet har \"bundits ihop\" i åtgärder som syftar till att stävja billig import.",
       "summary_en": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
@@ -493,9 +530,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "kina",
         "eu",
+        "kina",
+        "uk",
         "ukraina"
       ],
       "syfte": {
