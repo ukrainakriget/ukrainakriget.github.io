@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 2378,
-  "last_archived_rotation": "2026-10-20T01:31:26.625389+00:00",
+  "total_archived_events": 2379,
+  "last_archived_rotation": "2026-10-20T02:03:15.043882+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-9fc3f9",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T04:35:00+03:00",
+      "title_sv": "Ryska styrkor beskjuter Dnipropetrovsk-regionen mer än 20 gånger på en dag och skadade en person",
+      "title_en": "Russian forces shell Dnipropetrovsk region more than 20 times in one day, injuring one person",
+      "summary_sv": "Under hela dagen den 18 oktober slog den ryska armén fyra distrikt i Dnipropetrovsk-regionen mer än 20 gånger med hjälp av drönare, artilleri och flygbomber; en person skadades.",
+      "summary_en": "Throughout the day on October 18, the Russian army struck four districts of the Dnipropetrovsk region more than 20 times using drones, artillery, and aerial bombs; one person was wounded.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175707-russian-forces-shell-dnipropetrovsk-region-more-than-20-times-in-one-day-injuring-one-person.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-19-727800",
       "date": "2026-10-19",
@@ -155,7 +194,7 @@
       "id": "evt-2026-10-19-4f62ab",
       "date": "2026-10-19",
       "timestamp": "2026-10-19T00:06:25+00:00",
-      "title_sv": "Inuti den skuggiga världen av anti-Putin-sabotage inifrån Ryssland",
+      "title_sv": "Inuti den skuggiga världen av anti-Putins sabotage inifrån Ryssland",
       "title_en": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "summary_sv": "Två män berättar om det arbete de säger sig ha gjort för att stödja ukrainsk underrättelsetjänst under kriget.",
       "summary_en": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
@@ -163,10 +202,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "ukraina",
-        "uk"
+        "ryssland",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -186,8 +225,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -299,10 +338,10 @@
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "usa",
-        "ryssland",
         "ukraina",
-        "uk",
-        "eu"
+        "ryssland",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -322,9 +361,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina",
         "Drönare",
+        "Ukraina",
+        "Kyjiv",
         "Robotanfall",
         "Civila mål"
       ]
@@ -341,8 +380,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "uk",
         "eu",
         "kina"
       ],
@@ -364,8 +403,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1372,10 +1411,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "ryssland",
         "ukraina",
-        "uk",
-        "eu"
+        "ryssland",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1395,8 +1434,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Robotanfall",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -1446,16 +1485,16 @@
       "timestamp": "2026-10-18T16:28:18+00:00",
       "title_sv": "Varningar för ballistiska missiler är tillbaka, men Starlink-locket stannar, säger Zelenskyy: Ukrainas två amerikanska livlinor, en återställd",
       "title_en": "Ballistic missile warnings are back, but the Starlink cap stays, Zelenskyy says: Ukraine’s two US lifelines, one restored",
-      "summary_sv": "Ukrainska drönare förlorar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
+      "summary_sv": "Ukrainska drönare tappar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
       "summary_en": "Ukrainian drones still lose their connection above 161 km/h, too slow to catch Russia’s jet drones, he told NBC News.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "ukraina",
-        "uk"
+        "ryssland",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1475,8 +1514,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Robotanfall"
       ]
     },
@@ -1513,8 +1552,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -1529,9 +1568,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1551,8 +1590,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1719,10 +1758,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "ukraina",
-        "eu"
+        "ryssland",
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1742,8 +1781,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1835,9 +1874,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
+        "ukraina",
         "ryssland",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1857,9 +1896,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Svarta",
         "Drönare",
-        "Svarta"
+        "Ukraina"
       ]
     },
     {
