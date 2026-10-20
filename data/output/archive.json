@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 2476,
-  "last_archived_rotation": "2026-10-20T19:12:54.706478+00:00",
+  "total_archived_events": 2477,
+  "last_archived_rotation": "2026-10-20T19:31:29.697698+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-6b9800",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:23:00+03:00",
+      "title_sv": "Ukraina ska bestämma vilka fredsvillkor det kan acceptera, säger tyska utrikesministeriet",
+      "title_en": "Ukraine to decide what terms of peace it can accept, German Foreign Ministry says",
+      "summary_sv": "Tyskland stöder Ukrainas direkta deltagande i alla förhandlingar som syftar till att få ett slut på Rysslands aggression, eftersom det är upp till Ukraina självt att bestämma de fredsvillkor som landet kan acceptera.",
+      "summary_en": "Germany supports Ukraine’s direct participation in any negotiations aimed at ending Russia’s aggression, as it is for Ukraine itself to determine the terms of peace it can accept.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4176069-ukraine-to-decide-what-terms-of-peace-it-can-accept-german-foreign-ministry-says.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-19-b37cc7",
       "date": "2026-10-19",
@@ -3502,12 +3541,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "eu",
         "ukraina",
-        "kina",
         "usa",
-        "uk"
+        "kina",
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3527,9 +3566,9 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
+        "Polen",
         "Ukraina",
-        "Polen"
+        "Robotanfall"
       ]
     },
     {
