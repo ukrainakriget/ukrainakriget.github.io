@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 2379,
-  "last_archived_rotation": "2026-10-20T03:31:22.961913+00:00",
+  "total_archived_events": 2381,
+  "last_archived_rotation": "2026-10-20T04:01:36.021362+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-a7ae1e",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T06:58:00+03:00",
+      "title_sv": "Rysk missilattack mot Kyjiv dödar en person och skadar tre andra",
+      "title_en": "Russian missile attack on Kyiv kills one person and injures three others",
+      "summary_sv": "En person dödades och andra skadades till följd av en ballistisk attack av ryska styrkor mot huvudstaden.",
+      "summary_en": "One person was killed and others were injured as a result of a ballistic attack by Russian forces on the capital.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4175736-russian-missile-attack-on-kyiv-kills-one-person-and-injures-three-others.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv",
+        "Robotanfall"
+      ]
+    },
+    {
+      "id": "evt-2026-10-19-8a0cfe",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T06:34:00+03:00",
+      "title_sv": "Zelensky: Redo att ställa upp i valet innan kriget tar slut",
+      "title_en": "Zelensky: Ready to run in election before war ends",
+      "summary_sv": "Volodymyr Zelensky uppgav att om presidentvalet hölls under kriget skulle han ställa upp i det, eftersom han anser att det är sin plikt att försvara Ukraina tills fientligheternas slut.",
+      "summary_en": "Volodymyr Zelensky stated that if the presidential election were held during the war, he would run in it, as he considers it his duty to defend Ukraine until the end of hostilities.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4175735-zelensky-ready-to-run-in-election-before-war-ends.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-10-19-9fc3f9",
       "date": "2026-10-19",
@@ -194,7 +270,7 @@
       "id": "evt-2026-10-19-4f62ab",
       "date": "2026-10-19",
       "timestamp": "2026-10-19T00:06:25+00:00",
-      "title_sv": "Inuti den skuggiga världen av anti-Putin-sabotage inifrån Ryssland",
+      "title_sv": "Inuti den skuggiga världen av anti-Putins sabotage inifrån Ryssland",
       "title_en": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "summary_sv": "Två män berättar om det arbete de säger sig ha gjort för att stödja ukrainsk underrättelsetjänst under kriget.",
       "summary_en": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
@@ -202,10 +278,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -337,11 +413,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "eu",
+        "ryssland",
+        "uk",
         "ukraina",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -361,18 +437,18 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
         "Kyjiv",
-        "Robotanfall",
+        "Civila mål",
+        "Ukraina",
         "Drönare",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
       "id": "evt-2026-10-18-2a8d76",
       "date": "2026-10-18",
       "timestamp": "2026-10-18T23:28:45+00:00",
-      "title_sv": "EU:s tullar syftar till att Kina ska drabba Ukraina, säger stålchefen",
+      "title_sv": "EU-tullar som syftar till att Kina ska drabba Ukraina, säger stålchefen",
       "title_en": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "summary_sv": "Chefen för ett av Ukrainas största stålföretag säger att landet har \"bundits ihop\" i åtgärder som syftar till att stävja billig import.",
       "summary_en": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
@@ -380,10 +456,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "kina",
-        "eu",
         "uk",
-        "ukraina"
+        "ukraina",
+        "kina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1410,11 +1486,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "eu",
+        "ryssland",
+        "uk",
         "ukraina",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1434,9 +1510,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
         "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Energi"
       ]
     },
     {
@@ -1485,16 +1561,16 @@
       "timestamp": "2026-10-18T16:28:18+00:00",
       "title_sv": "Varningar för ballistiska missiler är tillbaka, men Starlink-locket stannar, säger Zelenskyy: Ukrainas två amerikanska livlinor, en återställd",
       "title_en": "Ballistic missile warnings are back, but the Starlink cap stays, Zelenskyy says: Ukraine’s two US lifelines, one restored",
-      "summary_sv": "Ukrainska drönare förlorar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
+      "summary_sv": "Ukrainska drönare tappar fortfarande sin anslutning över 161 km/h, för långsamma för att fånga Rysslands jetdrönare, sa han till NBC News.",
       "summary_en": "Ukrainian drones still lose their connection above 161 km/h, too slow to catch Russia’s jet drones, he told NBC News.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1514,8 +1590,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Ukraina",
+        "Robotanfall",
         "Drönare"
       ]
     },
@@ -1562,15 +1638,15 @@
       "timestamp": "2026-10-18T16:18:46+00:00",
       "title_sv": "£2,5 miljarder Chelsea-fond kan hjälpa barn globalt om Ed Miliband säkrar sin frigivning | Bokstäver",
       "title_en": "£2.5bn Chelsea fund could help children globally if Ed Miliband secures its release | Letters",
-      "summary_sv": "George Graham från Save the Children UK säger att regeringen har en tydlig möjlighet att agera och se till att offer för konflikter får hjälp Mitt i anklagelserna om rådgivare som hanterar Roman Abramovichs affärsangelägenheter (Roman Abramovich hjälper förfalskade pappersarbete för att dölja tillgångar och undvika skatt, enligt uppgifter den 12...",
+      "summary_sv": "George Graham från Save the Children UK säger att regeringen har en tydlig möjlighet att agera och se till att konfliktoffer får hjälp Mitt i anklagelserna om rådgivare som hanterar Roman Abramovichs affärsangelägenheter (Roman Abramovich hjälper förfalskade pappersarbete för att dölja tillgångar och undvika skatt, enligt uppgifter den 12...",
       "summary_en": "George Graham of Save the Children UK says the government has a clear opportunity to act and ensure that victims of conflict are helped Amid allegations about advisers dealing with Roman Abramovich’s business affairs (Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest, 12 October), another issue demands...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
