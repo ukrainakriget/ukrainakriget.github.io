@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 2464,
-  "last_archived_rotation": "2026-10-20T16:01:52.730367+00:00",
+  "total_archived_events": 2465,
+  "last_archived_rotation": "2026-10-20T16:31:41.351465+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-19-10a8e9",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T19:30:00+03:00",
+      "title_sv": "Ryska attacker i Cherson-regionen skadade sju personer under det senaste dygnet",
+      "title_en": "Russian attacks in Kherson region injure seven people over past day",
+      "summary_sv": "I Cherson-regionen skadades sju personer under dagen till följd av ryska attacker, inklusive en 17-årig pojke.",
+      "summary_en": "In the Kherson region, seven people were injured throughout the day as a result of Russian attacks, including a 17-year-old boy.",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4176028-russian-attacks-in-kherson-region-injure-seven-people-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Cherson",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-19-010f34",
       "date": "2026-10-19",
@@ -633,8 +671,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3043,12 +3081,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
-        "ukraina",
-        "eu",
         "usa",
-        "kina"
+        "ukraina",
+        "kina",
+        "ryssland",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3069,8 +3107,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Robotanfall",
-        "Polen"
+        "Polen",
+        "Robotanfall"
       ]
     },
     {
