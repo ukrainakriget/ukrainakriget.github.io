@@ -1,6 +1,6 @@
 {
-  "total_archived_events": 2643,
-  "last_archived_rotation": "2026-10-21T21:06:36.031888+00:00",
+  "total_archived_events": 2646,
+  "last_archived_rotation": "2026-10-21T21:35:39.121327+00:00",
   "events": [
     {
       "id": "evt-2026-10-20-274077",
@@ -419,6 +419,43 @@
       ]
     },
     {
+      "id": "evt-2026-10-20-a24ac2",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T21:27:39+00:00",
+      "title_sv": "Zelensky säger att amerikansk underrättelsetjänst \"fungerar nu\" efter samtal med Trumps sändebud i Oslo",
+      "title_en": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary_sv": "Ukraina hade anklagat USA för att undanhålla nyckelunderrättelser - ett påstående som avvisats som \"skandaliskt\" av Washington.",
+      "summary_en": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-20-987905",
       "date": "2026-10-20",
       "timestamp": "2026-10-20T21:27:00+03:00",
@@ -453,6 +490,90 @@
       "arkiverad": true,
       "tags": [
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-20-f9a48b",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T21:22:37+00:00",
+      "title_sv": "Rysk-ukrainska kriget, dag 1700: Trump säger att Ryssland har \"uppfört sig ganska anständigt\" mot Ukraina den dagen då en rysk drönare dödade sex personer i en park i Charkiv Oblast",
+      "title_en": "Russo-Ukrainian war, day 1700: Trump says Russia has “behaved quite decently” toward Ukraine on the day a Russian drone killed six people in a Kharkiv Oblast park",
+      "summary_sv": "USA återställde varningar för ballistiska missiler efter en veckas tystnad och Rubio säger att Starlink är fixat medan Kyjiv säger att det fortfarande klipper ut över 161 km/h, eftersom Ukraina träffade en Druzhba-dieseltank och Moskva hävde sitt bränsleexportförbud efter att de amerikanska sanktionerna lättade.",
+      "summary_en": "The US restored ballistic missile warnings after a week of silence and Rubio says Starlink is fixed while Kyiv says it still cuts out above 161 km/h, as Ukraine hit a Druzhba diesel tank and Moscow lifted its fuel export ban after US sanctions relief.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/21/russo-ukrainian-war-day-1700/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Infrastruktur",
+        "Kyjiv",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-10-20-b6bf44",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T21:22:37+00:00",
+      "title_sv": "Rysk-ukrainska kriget, dag 1700: Trump säger att Ryssland har varit \"bra\" mot Ukraina den dagen då en rysk drönare dödade sex människor i en park i Charkiv Oblast",
+      "title_en": "Russo-Ukrainian war, day 1700: Trump says Russia has been “fine” toward Ukraine on the day a Russian drone killed six people in a Kharkiv Oblast park",
+      "summary_sv": "USA återställde varningar för ballistiska missiler efter en veckas tystnad och Rubio säger att Starlink är fixat medan Kyjiv säger att det fortfarande går ut över 161 km/h, eftersom Ukraina träffade en Druzhba-dieseltank och Moskva hävde sitt bränsleexportförbud efter att USA:s sanktioner lättade.",
+      "summary_en": "The US restored ballistic missile warnings after a week of silence and Rubio says Starlink is fixed while Kyiv says it still cuts out above 161 km/h, as Ukraine hit a Druzhba diesel tank and Moscow lifted its fuel export ban after US sanctions relief.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/21/russo-ukrainian-war-day-1700/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Robotanfall",
+        "Ukraina",
+        "Kyjiv",
+        "Infrastruktur"
       ]
     },
     {
@@ -814,8 +935,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -927,10 +1048,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "uk",
-        "ukraina",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -950,9 +1071,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
+        "Ukraina",
         "Kyjiv",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
@@ -1584,10 +1705,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "ryssland",
         "uk",
-        "ukraina",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1607,9 +1728,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Ukraina",
-        "Odesa"
+        "Odesa",
+        "Infrastruktur"
       ]
     },
     {
@@ -1661,10 +1782,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "uk",
-        "ukraina",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2504,8 +2625,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
