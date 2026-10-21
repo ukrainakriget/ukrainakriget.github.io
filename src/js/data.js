@@ -538,6 +538,16 @@ const AppData = {
         "description_en": "Authoritative open-source frontline map documenting territorial control."
       },
       {
+        "id": "veckobrevskartan-hybrida-angrepp",
+        "name": "Visualisering av hybrida angrepp (Veckobrevskartan)",
+        "category": "osint",
+        "tier": "Interaktiv OSINT-karta & Databas",
+        "url": "https://veckobrevskartan.github.io/Datenbank-Hybride-Angriffe/",
+        "credibility": "Hög (Allianz für Europäische Sicherheit)",
+        "description_sv": "Interaktiv svensk kartvisualisering och sökbar databas över dokumenterade ryska och statliga hybridangrepp i Europa och globalt (sabotage, cyberattacker, spionage, desinformation och provokationer).",
+        "description_en": "Interactive Swedish map visualization and searchable database tracking documented Russian and state-sponsored hybrid warfare across Europe and globally."
+      },
+      {
         "id": "kyiv-independent",
         "name": "The Kyiv Independent",
         "category": "independent_media",
