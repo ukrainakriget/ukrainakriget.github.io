@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:31:38.799757+00:00",
+  "updated_at": "2026-10-22T10:01:54.624964+00:00",
   "daily_metrics": {
     "shahed_interception_rate_percent": 69.4,
     "cruise_missile_interception_rate_percent": 82.5,
@@ -8,13 +8,19 @@
       {
         "name_sv": "Kyjiv",
         "name_en": "Kyjiv",
-        "attacks_24h": 144,
+        "attacks_24h": 156,
         "intensity": "Högst"
       },
       {
         "name_sv": "Lviv",
         "name_en": "Lviv",
-        "attacks_24h": 42,
+        "attacks_24h": 36,
+        "intensity": "Högst"
+      },
+      {
+        "name_sv": "Dnipro",
+        "name_en": "Dnipro",
+        "attacks_24h": 30,
         "intensity": "Högst"
       },
       {
@@ -28,12 +34,6 @@
         "name_en": "Charkiv",
         "attacks_24h": 24,
         "intensity": "Hög"
-      },
-      {
-        "name_sv": "Poltava",
-        "name_en": "Poltava",
-        "attacks_24h": 24,
-        "intensity": "Hög"
       }
     ],
     "drones_down": 86,
@@ -42,8 +42,8 @@
   },
   "target_distribution_percent": {
     "helt_civila": 5,
-    "civil_infrastruktur": 24,
-    "energiproduktion": 8,
+    "civil_infrastruktur": 23,
+    "energiproduktion": 9,
     "krigsmaterielproduktion": 3,
     "militara_resurser": 43,
     "diplomatiskt_politiskt": 17
@@ -81,11 +81,11 @@
   },
   "russian_casualties_minfin": {
     "date": "2026-10-22",
-    "daily_personnel": 1280,
+    "daily_personnel": 2250,
     "daily_artillery": 44,
     "daily_drones": 1750,
     "daily_equipment_total": 2181,
-    "total_personnel": 1571820,
+    "total_personnel": 1572790,
     "source_url": "https://index.minfin.com.ua/en/russian-invading/casualties/"
   }
 }
