@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 2936,
-  "last_archived_rotation": "2026-10-23T16:02:31.000424+00:00",
+  "total_archived_events": 2938,
+  "last_archived_rotation": "2026-10-23T16:31:31.202184+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-22-129cff",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T19:21:00+03:00",
+      "title_sv": "Storbritannien avvisar Witkoffs karaktärisering av Putin som \"humanitär\"",
+      "title_en": "UK rejects Witkoff’s characterization of Putin as “humanitarian”",
+      "summary_sv": "Storbritannien avvisade karakteriseringen av Vladimir Putin som en \"humanitär\" som gavs av USA:s president Donald Trumps särskilda sändebud Steve Witkof under ett möte i St. Petersburg onsdagen den 21 oktober.",
+      "summary_en": "The UK rejected the characterization of Vladimir Putin as a \"humanitarian\" given by U.S. President Donald Trump's Special Envoy Steve Witkof during a meeting in St. Petersburg on Wednesday, October 21.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4177215-uk-rejects-witkoffs-characterization-of-putin-as-humanitarian.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-22-7c003d",
       "date": "2026-10-22",
@@ -968,6 +1005,47 @@
       "cluster_count": 2
     },
     {
+      "id": "evt-2026-10-22-e14c24",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T15:46:56+00:00",
+      "title_sv": "Ryssland bombarderar Kyjiv med missiler timmar efter att ha gått med på att återuppta samtalen med Ukraina",
+      "title_en": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+      "summary_sv": "Experter säger att Ryssland försöker förstöra energiinfrastruktur före vintern och att USA:s \"eftergivenhet och smicker\" inte kommer att uppnå fred.",
+      "summary_en": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiations after talks with the...",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall"
+      ]
+    },
+    {
       "id": "evt-2026-10-22-20c3f4",
       "date": "2026-10-22",
       "timestamp": "2026-10-22T15:31:00+03:00",
@@ -1402,9 +1480,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
+        "uk",
         "ryssland",
-        "usa",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1424,10 +1502,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
+        "Infrastruktur",
         "Kyjiv",
         "Ukraina",
-        "Infrastruktur"
+        "Robotanfall"
       ]
     },
     {
@@ -3621,9 +3699,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
+        "uk",
         "ryssland",
-        "usa",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
