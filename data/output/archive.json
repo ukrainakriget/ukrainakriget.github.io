@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 2831,
-  "last_archived_rotation": "2026-10-23T05:01:35.460900+00:00",
+  "total_archived_events": 2833,
+  "last_archived_rotation": "2026-10-23T05:31:33.428038+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-22-98f2f1",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T08:17:00+03:00",
+      "title_sv": "Drönare attackerar 75:e Arsenals vapenplats nära Moskva – OSINT-analys",
+      "title_en": "Drones strike 75th Arsenal arms site near Moscow — OSINT-analysis",
+      "summary_sv": "Drönare träffade den ryska militärens 75:e Arsenal-vapenfabrik i Serpukhov, visade en OSINT-analys av det oberoende nyhetsbyrån Astra den 22 oktober.",
+      "summary_en": "Drones struck the Russian military's 75th Arsenal weapons plant in Serpukhov, an OSINT analysis by Astra independent news outlet showed on Oct. 22.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/drones-strike-75th-arsenal-arms-hub-near-moscow-50652307.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-22-c69144",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T08:05:00+03:00",
+      "title_sv": "Ryska styrkor förlorar ytterligare 2 250 soldater i krig mot Ukraina det senaste dygnet",
+      "title_en": "Russian forces lose another 2,250 soldiers in war against Ukraine over past day",
+      "summary_sv": "Totala stridsförluster bland rysk militärpersonal från 24 februari 2022 till 22 oktober 2026 nådde cirka 1 571 820 personer, varav 2 250 fienden förlorade under de senaste 24 timmarna.",
+      "summary_en": "Total combat losses among Russian military personnel from February 24, 2022, to October 22, 2026, reached approximately 1,571,820 people, 2,250 of whom the enemy lost over the past 24 hours.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4176908-russian-forces-lose-another-2250-soldiers-in-war-against-ukraine-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-22-882f24",
       "date": "2026-10-22",
@@ -392,11 +469,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
-        "uk",
         "eu",
-        "ryssland"
+        "uk",
+        "ukraina",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -500,16 +577,16 @@
       "timestamp": "2026-10-22T01:16:20+00:00",
       "title_sv": "Putin beordrar frigivning av fängslad amerikan när han träffar Trumps sändebud för Ukraina-samtal",
       "title_en": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "summary_sv": "Ryssland frigör Stephen Hubbard efter amerikansk begäran medan Steve Witkoff hyllar Putin, efterlyst av ICC som krigsförbrytare, som en \"humanitär\" Vladimir Putin beordrade frigivningen av en amerikansk man från ett ryskt fängelse när han träffade Donald Trumps sändebud Steve Witkoff i St Petersburg i onsdags för nya samtal om att avsluta kriget i...",
+      "summary_sv": "Ryssland frigör Stephen Hubbard efter amerikansk begäran medan Steve Witkoff hyllar Putin, efterlyst av ICC som krigsförbrytare, som en \"humanitär\" Vladimir Putin beordrade frigivningen av en amerikansk man från ett ryskt fängelse när han träffade Donald Trumps sändebud Steve Witkoff i St Petersburg på onsdagen för nya samtal om att avsluta kriget...",
       "summary_en": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -544,10 +621,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1537,8 +1614,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -1725,10 +1802,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2373,10 +2450,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
