@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 2944,
-  "last_archived_rotation": "2026-10-23T17:01:37.103853+00:00",
+  "total_archived_events": 2946,
+  "last_archived_rotation": "2026-10-23T17:28:34.977244+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-22-286fe5",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T20:05:00+03:00",
+      "title_sv": "Rysk drönarattack skadar hem, bilar i Bucha-distriktet, lämnar en skadad",
+      "title_en": "Russian drone attack damages homes, cars in Bucha district, leaves one injured",
+      "summary_sv": "Privata hus och bilar skadades i en rysk drönareattack mot Kyjiv-regionens Bucha-distrikt, medan en 59-årig man skadades.",
+      "summary_en": "Private houses and cars were damaged in a Russian drone attack on Kyiv region’s Bucha district, while a 59-year-old man was injured.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177228-russian-drone-attack-damages-homes-cars-in-bucha-district-leaves-one-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-10-22-d8f36e",
       "date": "2026-10-22",
@@ -690,6 +729,44 @@
       ]
     },
     {
+      "id": "evt-2026-10-22-d18753",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T17:07:03+00:00",
+      "title_sv": "Tysklands mål för \"intensivt\" spionage, säger Merz efter misstänkt rysk spiongripande",
+      "title_en": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "summary_sv": "En ukrainsk man greps misstänkt för spioneri för Ryssland – ett av flera sådana fall i Tyskland i år.",
+      "summary_en": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-22-926fb7",
       "date": "2026-10-22",
       "timestamp": "2026-10-22T17:03:00+03:00",
@@ -818,11 +895,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "ryssland",
+        "eu",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1045,8 +1122,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -1243,15 +1320,15 @@
       "timestamp": "2026-10-22T15:46:56+00:00",
       "title_sv": "Ryssland bombarderar Kyjiv med missiler timmar efter att ha gått med på att återuppta samtalen med Ukraina",
       "title_en": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-      "summary_sv": "Experter säger att Ryssland försöker förstöra energiinfrastruktur före vintern och att USA:s \"eftergivenhet och smicker\" inte kommer att uppnå fred.",
+      "summary_sv": "Experter säger att Ryssland försöker förstöra energiinfrastrukturen före vintern och att USA:s \"eftergivenhet och smicker\" inte kommer att uppnå fred.",
       "summary_en": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiations after talks with the...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -1273,8 +1350,8 @@
       "arkiverad": true,
       "tags": [
         "Robotanfall",
-        "Kyjiv",
         "Civila mål",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -1480,7 +1557,7 @@
       "timestamp": "2026-10-22T15:01:35+00:00",
       "title_sv": "Den steniga kampanjen närmar sig sitt slut när Serbien förbereder sig för vattendelareval – som det hände",
       "title_en": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
-      "summary_sv": "Det är den sista dagen av valkampanjen i Serbien i dag inför söndagens hårt omtvistade parlamentsval. När vi väntar på Macron kommer de första detaljerna om den planerade polisresponsen på helgens protester fram. Junior inrikesminister Jean-Didier Berger sa att polisnärvaron kommer att vara \"20 % högre\" än förra...",
+      "summary_sv": "Det är den sista dagen av valkampanjen i Serbien i dag inför söndagens hårt omtvistade parlamentsval. När vi väntar på Macron kommer de första detaljerna om polisens planerade reaktion på helgens protester fram. Junior inrikesminister Jean-Didier Berger sa att polisnärvaron kommer att vara \"20 % högre\" än förra...",
       "summary_en": "It’s the last day of the electoral campaign in Serbia today ahead of this Sunday’s closely contested parliamentary election As we are waiting for Macron, first details of the planned police response to this weekend’s protests are emerging.Junior interior minister, Jean-Didier Berger, said that the police presence will be “20% higher” than last...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1713,8 +1790,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -1736,8 +1813,8 @@
       "arkiverad": true,
       "tags": [
         "Robotanfall",
-        "Kyjiv",
         "Infrastruktur",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -3932,8 +4009,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
         "usa"
       ],
       "syfte": {
