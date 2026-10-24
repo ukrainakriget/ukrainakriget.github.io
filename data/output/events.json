@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T01:02:30.633845+00:00",
+  "last_updated": "2026-10-24T01:31:23.153324+00:00",
   "total_active_events": 142,
   "events": [
     {
@@ -15,9 +15,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -53,9 +53,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -82,7 +82,7 @@
       "id": "evt-2026-10-24-1da75a",
       "date": "2026-10-24",
       "timestamp": "2026-10-24T02:28:00+03:00",
-      "title_sv": "Bilder visar kraftiga skador på rysk elektronikfabrik",
+      "title_sv": "Bilder visar stora skador på rysk elektronikfabrik",
       "title_en": "Images show heavy damage at Russian electronics plant",
       "summary_sv": "En ukrainsk missilattack Storm Shadow på Rysslands Orel skadade allvarligt minst en produktionshall vid Proton-fabriken, som tillverkar komponenter för ballistiska Iskander-missiler, rapporterade OSINT-projektet Exilenova+ den 23 oktober.",
       "summary_en": "A Ukrainian Storm Shadow missile strike on Russia’s Orel severely damaged at least one production hall at the Proton plant, which manufactures components for Iskander ballistic missiles, OSINT (open-source intelligence) project Exilenova+ reported on Oct. 23.",
@@ -91,9 +91,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -130,8 +130,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -160,7 +160,7 @@
       "timestamp": "2026-10-24T01:32:00+03:00",
       "title_sv": "Invånare i Charkiv dömd till 15 års fängelse för att ha tänt eld på Ukrzaliznytsia reläskåp",
       "title_en": "Kharkiv resident sentenced to 15 years in prison for setting fire to Ukrzaliznytsia relay cabinets",
-      "summary_sv": "En domstol har funnit en invånare i Charkiv skyldig till att ha satt eld på Ukrzaliznytsia (ukrainska järnvägar) på order från fiendens underrättelsetjänster och dömt honom till 15 års fängelse.",
+      "summary_sv": "En domstol har funnit en invånare i Charkiv skyldig till att ha satt eld på Ukrzaliznytsia (ukrainska järnvägar) anläggningar på order från fiendens underrättelsetjänster och dömt honom till 15 års fängelse.",
       "summary_en": "A court has found a Kharkiv resident guilty of setting fire to Ukrzaliznytsia (Ukrainian Railways) facilities on orders from enemy intelligence services and sentenced him to 15 years in prison.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
@@ -187,9 +187,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Charkiv",
         "Ukraina",
-        "Charkiv"
+        "Infrastruktur"
       ]
     },
     {
@@ -205,9 +205,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -228,6 +228,47 @@
       "arkiverad": false,
       "tags": [
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-24-8c9d33",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T01:20:54+00:00",
+      "title_sv": "Krigsbriefing i Ukraina: Ryska dieseltankfartyg på väg mot Nordamerika, säger Moskva, när USA försöker återuppliva fredssamtalen",
+      "title_en": "Ukraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks",
+      "summary_sv": "Tankfartyg ingår i affären mellan USA och Ryssland som kan se 500 000 ton bränsle levereras till världsmarknaden denna månad.",
+      "summary_en": "Tankers part of US-Russia deal that could see 500,000 metric tonnes of fuel supplied to world market this month.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "eu",
+        "uk",
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Civila mål",
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -271,7 +312,7 @@
       "id": "evt-2026-10-24-9c4123",
       "date": "2026-10-24",
       "timestamp": "2026-10-24T00:23:00+03:00",
-      "title_sv": "Regeringen slutför ändringar av mobiliseringsuppskjutning",
+      "title_sv": "Kabinettet slutför ändringar av mobiliseringsuppskov",
       "title_en": "Cabinet finalizes mobilization deferment changes",
       "summary_sv": "Ukrainas premiärminister Sergii Koretskyi sa att regeringen har slutfört ändringar i systemet för att befria arbetare från mobilisering.",
       "summary_en": "Ukrainian Prime Minister Sergii Koretskyi said the government has finalized changes to the system for exempting workers from mobilization.",
@@ -309,7 +350,7 @@
       "timestamp": "2026-10-23T23:59:00+03:00",
       "title_sv": "Generalstab: Ukraina kommer att implementera vapenvila i Oleshky-området med start den 27 oktober",
       "title_en": "General Staff: Ukraine to implement ceasefire in Oleshky area starting October 27",
-      "summary_sv": "Med start vid midnatt den 27 oktober genomför Ukraina en vapenvila i ett utpekat område för att genomföra en humanitär operation i den tillfälligt ockuperade staden Oleshky.",
+      "summary_sv": "Med start vid midnatt den 27 oktober genomför Ukraina en vapenvila i ett utsett område för att genomföra en humanitär operation i den tillfälligt ockuperade staden Oleshky.",
       "summary_en": "Starting at midnight on October 27, Ukraine is implementing a ceasefire in a designated area to conduct a humanitarian operation in the temporarily occupied town of Oleshky.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -351,11 +392,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
-        "ryssland",
+        "eu",
         "uk",
-        "eu"
+        "ryssland",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -429,9 +470,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -460,15 +501,15 @@
       "timestamp": "2026-10-23T22:57:00+03:00",
       "title_sv": "Zelensky: Rubio kommer att se över Starlinks restriktioner i Ukraina inom 48 till 72 timmar",
       "title_en": "Zelensky: Rubio to revisit Starlink restrictions in Ukraine within 48 to 72 hours",
-      "summary_sv": "President Volodymyr Zelensky uppgav att Ukraina testar Starlinks prestanda på olika områden, särskilt nära frontlinjerna, och räknar med ett beslut från den amerikanska administrationen och Space X att häva hastighetsbegränsningarna.",
+      "summary_sv": "President Volodymyr Zelensky uttalade att Ukraina testar Starlinks prestanda på olika områden, särskilt nära frontlinjerna, och räknar med ett beslut från den amerikanska administrationen och Space X att häva hastighetsbegränsningarna.",
       "summary_en": "President Volodymyr Zelensky stated that Ukraine is testing Starlink’s performance in various areas, particularly near the front lines, and is counting on a decision by the U.S. administration and Space X to lift the speed restrictions.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -504,9 +545,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -606,16 +647,16 @@
       "timestamp": "2026-10-23T21:39:00+03:00",
       "title_sv": "Zelensky: Ukraina redo för förhandlingar när som helst; Ryssland avgör om de äger rum",
       "title_en": "Zelensky: Ukraine ready for negotiations at any time; Russia determines whether they take place",
-      "summary_sv": "President Volodymyr Zelensky uttalade att Ukraina, USA och Ryssland har kommit överens om att hålla ett trilateralt möte på nivå med förhandlingsgrupper under första hälften av november.",
+      "summary_sv": "President Volodymyr Zelensky uppgav att Ukraina, USA och Ryssland har kommit överens om att hålla ett trilateralt möte på nivå med förhandlingsgrupper under första hälften av november.",
       "summary_en": "President Volodymyr Zelensky stated that Ukraine, the United States, and Russia have agreed to hold a trilateral meeting at the level of negotiating teams in the first half of November.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -650,11 +691,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
-        "ryssland",
+        "eu",
         "uk",
-        "eu"
+        "ryssland",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -691,8 +732,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -730,9 +771,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -759,7 +800,7 @@
       "id": "evt-2026-10-23-f3216b",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T21:18:46+00:00",
-      "title_sv": "Rysk fabrik som levererar komponenter till Iskander-missiler som enligt uppgift har träffats av ukrainska Storm Shadow-missiler",
+      "title_sv": "Rysk fabrik som levererar komponenter till Iskander-missiler som enligt uppgift träffats av ukrainska Storm Shadow-missiler",
       "title_en": "Russian plant supplying components for Iskander missiles reportedly struck by Ukrainian Storm Shadow missiles",
       "summary_sv": "OSINT-projekt rapporterade att en attack träffade Proton-fabriken i Orel, en anläggning vars elektroniska komponenter används i flera ryska vapensystem.",
       "summary_en": "OSINT projects reported that a strike hit the Proton plant in Orel, a facility whose electronic components are used in several Russian weapons systems.",
@@ -768,9 +809,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -827,8 +868,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -844,9 +885,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -904,8 +945,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -920,10 +961,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "kina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -960,9 +1001,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -982,9 +1023,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Odesa",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Odesa"
       ]
     },
     {
@@ -993,16 +1034,16 @@
       "timestamp": "2026-10-23T20:18:13+00:00",
       "title_sv": "Frigiven amerikansk medborgare torterades i ryskt fängelse, säger före detta ukrainska fångar",
       "title_en": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "summary_sv": "Ukrainare som fängslades tillsammans med amerikanen säger att de bevittnat misshandel och sexuell förnedring av ryska vakter under hans fängelse.",
+      "summary_sv": "Ukrainare som fängslades tillsammans med amerikanen säger att de sett att de har sett misshandel och sexuell förnedring av ryska vakter under hans fängelse.",
       "summary_en": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1038,8 +1079,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1074,9 +1115,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1096,8 +1137,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -1113,9 +1154,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1152,9 +1193,9 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1174,10 +1215,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Svarta",
+        "Infrastruktur",
         "Ukraina",
-        "Drönare",
-        "Infrastruktur"
+        "Svarta",
+        "Drönare"
       ]
     },
     {
@@ -1193,8 +1234,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1232,9 +1273,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1307,9 +1348,9 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1329,9 +1370,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Svarta",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Svarta"
       ]
     },
     {
@@ -1375,7 +1416,7 @@
       "id": "evt-2026-10-23-17d280",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T18:52:17+00:00",
-      "title_sv": "Ukraina säger att Starlink fortfarande är begränsad efter att Trump sa att gränserna hävdes",
+      "title_sv": "Ukraina säger att Starlink fortfarande begränsas efter att Trump sa att gränserna lyfts",
       "title_en": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "summary_sv": "Nätverket används av den ukrainska militären, säger källor, och Trump säger \"om det finns ett problem, jag ska lösa det\".",
       "summary_en": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
@@ -1384,8 +1425,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1457,8 +1498,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1488,16 +1529,16 @@
       "timestamp": "2026-10-23T18:38:00+03:00",
       "title_sv": "10-årig flicka från Kostiantynivka bortförd till Ryssland och placerad hos okänd man",
       "title_en": "10-year-old girl from Kostiantynivka abducted to Russia and placed with unknown man",
-      "summary_sv": "Ryska myndigheter förde bort 10-åriga Sofiia från Kostiantynivka i Donetsk oblast till Ryssland efter att hennes familj dödats under striderna, och placerade henne under förmyndarskap av en rysk man som hon aldrig träffat tidigare, rapporterade den ukrainska människorättsförespråkaren Oleksandra Dvoretska på Facebook den 22 oktober.",
+      "summary_sv": "Ryska myndigheter förde bort 10-åriga Sofiia från Kostiantynivka i Donetsk oblast till Ryssland efter att hennes familj dödats under striderna, och satte henne under förmyndarskap av en rysk man som hon aldrig träffat tidigare, rapporterade den ukrainska människorättsförespråkaren Oleksandra Dvoretska på Facebook den 22 oktober.",
       "summary_en": "Russian authorities abducted 10-year-old Sofiia from Kostiantynivka in Donetsk Oblast to Russia after her family was killed during the fighting, and placed her under the guardianship of a Russian man she had never met before, Ukrainian human rights advocate Oleksandra Dvoretska reported on Facebook on Oct. 22.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1533,9 +1574,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1608,10 +1649,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
         "eu",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1631,10 +1672,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Svarta",
+        "Infrastruktur",
         "Ukraina",
-        "Drönare",
-        "Infrastruktur"
+        "Svarta",
+        "Drönare"
       ]
     },
     {
@@ -1650,9 +1691,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1672,8 +1713,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Ukraina",
+        "Drönare",
         "Energi"
       ]
     },
@@ -1728,9 +1769,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2142,16 +2183,16 @@
       "timestamp": "2026-10-23T16:10:34+00:00",
       "title_sv": "Ryssland och Ukraina kommer överens om lokal vapenvila i Oleshky mitt i en fördjupad humanitär kris",
       "title_en": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-      "summary_sv": "Människor i den ryskockuperade staden som står inför allvarlig brist på mat, vatten och elektricitet, varav några rapporteras överleva på ogräs.",
+      "summary_sv": "Människor i den ryskockuperade staden som står inför allvarlig brist på mat, vatten och elektricitet, och några rapporteras överleva på ogräs. Vita huset har sagt att Ryssland och Ukraina har kommit överens om en vapenvila i den ryskockuperade staden Oleshky, där en allt djupare humanitär kris har gjort att tusentals civila kämpar för att överleva.",
       "summary_en": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians struggling to survive.In a...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2171,8 +2212,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -2188,9 +2229,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2210,9 +2251,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Luftförsvar",
         "Ukraina",
+        "Luftförsvar",
+        "Drönare",
         "Energi"
       ]
     },
@@ -2497,9 +2538,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2648,9 +2689,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2670,8 +2711,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi"
       ]
     },
@@ -2764,9 +2805,9 @@
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2786,8 +2827,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -4532,7 +4573,7 @@
       "timestamp": "2026-10-23T09:21:00+03:00",
       "title_sv": "Ukrainsk import av transformatorer och induktorer från Kina ökar kraftigt",
       "title_en": "Ukrainian imports of transformers and inductors from China surge",
-      "summary_sv": "Den ukrainska importen av transformatorer, induktorer och reaktorer ökade med 47,3 % till 1,14 miljarder dollar från januari till september jämfört med samma period 2025, rapporterade Interfax-Ukraina.",
+      "summary_sv": "Ukrainsk import av transformatorer, induktorer och reaktorer ökade med 47,3 % till 1,14 miljarder dollar från januari till september jämfört med samma period 2025, rapporterade Interfax-Ukraina.",
       "summary_en": "Ukrainian imports of transformers, inductors, and reactors jumped 47.3% to $1.14 billion from January through September compared to the same period in 2025, Interfax-Ukraine reported.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -4577,9 +4618,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5273,9 +5314,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
-        "ukraina",
         "usa",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5337,43 +5378,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-23-ca644d",
-      "date": "2026-10-23",
-      "timestamp": "2026-10-23T04:21:00+03:00",
-      "title_sv": "Rosneft fruktar långvariga skador från långvarigt krig i Ukraina – Bloomberg",
-      "title_en": "Rosneft fears long-term damage from prolonged war in Ukraine – Bloomberg",
-      "summary_sv": "Rosnefts chefer har uttryckt oro över att även några ytterligare månaders krig i Ukraina kan orsaka långsiktig skada på verksamheten.",
-      "summary_en": "Rosneft executives have expressed concern that even a few additional months of war in Ukraine could cause long-term damage to the business.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-economy/4177209-rosneft-fears-longterm-damage-from-prolonged-war-in-ukraine-bloomberg.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-10-23-7358c7",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T02:16:26+00:00",
@@ -5386,9 +5390,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5408,8 +5412,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Drönare"
       ]
     },
@@ -5425,11 +5429,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
-        "ryssland",
+        "eu",
         "uk",
-        "eu"
+        "ryssland",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -5449,11 +5453,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Kyjiv",
         "Robotanfall",
         "Ukraina",
-        "Energi"
+        "Energi",
+        "Drönare"
       ]
     }
   ],
