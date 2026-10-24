@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 3102,
-  "last_archived_rotation": "2026-10-24T20:48:42.807150+00:00",
+  "total_archived_events": 3104,
+  "last_archived_rotation": "2026-10-24T21:02:07.015319+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-23-7ac080",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T23:59:00+03:00",
+      "title_sv": "Generalstab: Ukraina kommer att implementera vapenvila i Oleshky-området med start den 27 oktober",
+      "title_en": "General Staff: Ukraine to implement ceasefire in Oleshky area starting October 27",
+      "summary_sv": "Med start vid midnatt den 27 oktober genomför Ukraina en vapenvila i ett utsett område för att genomföra en humanitär operation i den tillfälligt ockuperade staden Oleshky.",
+      "summary_en": "Starting at midnight on October 27, Ukraine is implementing a ceasefire in a designated area to conduct a humanitarian operation in the temporarily occupied town of Oleshky.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177661-general-staff-ukraine-to-implement-ceasefire-in-oleshky-area-starting-october-27.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-23-62c96c",
       "date": "2026-10-23",
@@ -305,6 +341,46 @@
       ]
     },
     {
+      "id": "evt-2026-10-23-cc2771",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T20:54:08+00:00",
+      "title_sv": "40 000 ton rysk diesel är på väg till New York – beräknas fyra dagar efter att amerikanerna röstade",
+      "title_en": "40,000 tons of Russian diesel are bound for New York—due four days after Americans vote",
+      "summary_sv": "Tankfartyget lastade vid en hamn i Östersjön Ukrainska drönare träffade i mars. Trump vill ha billigare diesel före mellanårsperioden.",
+      "summary_en": "The tanker loaded at a Baltic port Ukrainian drones struck in March. Trump wants cheaper diesel before the midterms.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/23/40000-tons-of-russian-diesel-are-bound-for-new-york-due-four-days-after-americans-vote/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
       "id": "evt-2026-10-23-b00054",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T20:40:00+03:00",
@@ -345,18 +421,18 @@
       "id": "evt-2026-10-23-ffdcb7",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T20:38:37+00:00",
-      "title_sv": "A modem from a Russian drone led reporters to its Chinese maker—which invoiced 500 for Russia’s drone plant",
+      "title_sv": "Ett modem från en rysk drönare ledde reportrar till dess kinesiska tillverkare - som fakturerade 500 för Rysslands drönaranläggning",
       "title_en": "A modem from a Russian drone led reporters to its Chinese maker—which invoiced 500 for Russia’s drone plant",
-      "summary_sv": "Posing as a Russian military supplier, journalists got a $2.87 million invoice, three bank accounts, and no pushback on military use.",
+      "summary_sv": "Journalisterna utgav sig för att vara en rysk militär leverantör och fick en faktura på 2,87 miljoner dollar, tre bankkonton och ingen återkallelse av militär användning.",
       "summary_en": "Posing as a Russian military supplier, journalists got a $2.87 million invoice, three bank accounts, and no pushback on military use.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "kina",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "kina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -376,9 +452,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -424,18 +500,18 @@
       "id": "evt-2026-10-23-468151",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T20:18:13+00:00",
-      "title_sv": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "title_sv": "Frigiven amerikansk medborgare torterades i ryskt fängelse, säger före detta ukrainska fångar",
       "title_en": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "summary_sv": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "summary_sv": "Ukrainare som fängslades tillsammans med amerikanen säger att de bevittnat misshandel och sexuell förnedring av ryska vakter under hans fängelse.",
       "summary_en": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -537,18 +613,18 @@
       "id": "evt-2026-10-23-ea0bd3",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T19:51:21+00:00",
-      "title_sv": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
+      "title_sv": "Melania Trump har hjälpt till att förmedla vapenvila i den ryskockuperade ukrainska staden, säger Vita huset – när det hände",
       "title_en": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
-      "summary_sv": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured.Police said a gunman had opened fire in...",
+      "summary_sv": "Invånare i Oleshky har uthärdat en förvärrad humanitär kris på grund av bristen på mat, elektricitet och andra resurser. Den franske premiärministern Sébastien Lecornu har precis utfärdat ett uttalande om en skottlossning i en stad väster om Paris i morse där en person dödades och fyra andra skadades.",
       "summary_en": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured.Police said a gunman had opened fire in...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -568,26 +644,26 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
       "id": "evt-2026-10-23-b0fe9f",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T19:46:25+00:00",
-      "title_sv": "Drone strike sinks cargo ship near Romania, killing Ukrainian sailor. Romanian President blames Russia",
+      "title_sv": "Droneattack sänker lastfartyg nära Rumänien och dödar ukrainsk sjöman. Rumäniens president skyller på Ryssland",
       "title_en": "Drone strike sinks cargo ship near Romania, killing Ukrainian sailor. Romanian President blames Russia",
-      "summary_sv": "The Khoryv capsized about 13 nautical miles off Romania’s coast, with nine crew members rescued and three still missing. The incident adds to a wave of attacks threatening Black Sea shipping and Ukraine’s export routes.",
+      "summary_sv": "Khoryv kapsejsade cirka 13 nautiska mil utanför Rumäniens kust, med nio besättningsmedlemmar räddade och tre fortfarande saknade. Incidenten lägger till en våg av attacker som hotar Svarta havets sjöfart och Ukrainas exportvägar.",
       "summary_en": "The Khoryv capsized about 13 nautical miles off Romania’s coast, with nine crew members rescued and three still missing. The incident adds to a wave of attacks threatening Black Sea shipping and Ukraine’s export routes.",
       "location_name": "Svarta havet",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -607,10 +683,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
-        "Infrastruktur",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur",
+        "Svarta"
       ]
     },
     {
@@ -731,18 +807,18 @@
       "id": "evt-2026-10-23-01377e",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T19:11:05+00:00",
-      "title_sv": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns",
+      "title_sv": "Rysslands attacker mot Svarta havet ökar risken för global svält, varnar tyska FM",
       "title_en": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns",
-      "summary_sv": "As Russian strikes increasingly threaten civilian vessels and Ukrainian grain exports, Germany’s foreign minister warned that shipping disruptions could leave vulnerable countries without essential food and fertilizers.",
+      "summary_sv": "Eftersom ryska attacker alltmer hotar civila fartyg och ukrainsk spannmålsexport, varnade Tysklands utrikesminister för att sjöfartsstörningar kan lämna sårbara länder utan nödvändig mat och gödningsmedel.",
       "summary_en": "As Russian strikes increasingly threaten civilian vessels and Ukrainian grain exports, Germany’s foreign minister warned that shipping disruptions could leave vulnerable countries without essential food and fertilizers.",
       "location_name": "Svarta havet",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -762,9 +838,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
+        "Ukraina",
         "Civila mål",
-        "Ukraina"
+        "Svarta"
       ]
     },
     {
@@ -808,17 +884,17 @@
       "id": "evt-2026-10-23-17d280",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T18:52:17+00:00",
-      "title_sv": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "title_sv": "Ukraina säger att Starlink fortfarande är begränsad efter att Trump sa att gränserna hävdes",
       "title_en": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary_sv": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "summary_sv": "Nätverket används av den ukrainska militären, säger källor, och Trump säger \"om det finns ett problem, jag ska lösa det\".",
       "summary_en": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -958,17 +1034,17 @@
       "id": "evt-2026-10-23-5ff537",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T18:37:33+00:00",
-      "title_sv": "Austria expels Russian Embassy and OSCE diplomats over suspected spying. Vienna remains a Russian spy hub",
+      "title_sv": "Österrike utvisar ryska ambassader och OSSE-diplomater på grund av misstänkt spionage. Wien är fortfarande ett ryskt spionnav",
       "title_en": "Austria expels Russian Embassy and OSCE diplomats over suspected spying. Vienna remains a Russian spy hub",
-      "summary_sv": "Austrian security authorities raised suspicions of espionage involving four Russian diplomats, prompting Vienna to declare them persona non grata.",
+      "summary_sv": "Österrikiska säkerhetsmyndigheter väckte misstankar om spionage med fyra ryska diplomater, vilket fick Wien att förklara dem som persona non grata.",
       "summary_en": "Austrian security authorities raised suspicions of espionage involving four Russian diplomats, prompting Vienna to declare them persona non grata.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1074,18 +1150,18 @@
       "id": "evt-2026-10-23-b40b5b",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T18:00:50+00:00",
-      "title_sv": "Russian Geran drone crashes in Moldova near homes and energy facility: Chisinau expels Russian diplomat",
+      "title_sv": "Ryska Geran drönare kraschar i Moldavien nära hem och energianläggning: Chisinau utvisar rysk diplomat",
       "title_en": "Russian Geran drone crashes in Moldova near homes and energy facility: Chisinau expels Russian diplomat",
-      "summary_sv": "President Maia Sandu condemned the latest incursion as Russia’s war on Ukraine increasingly threatens neighboring Moldova.",
+      "summary_sv": "President Maia Sandu fördömde det senaste intrånget då Rysslands krig mot Ukraina alltmer hotar grannlandet Moldavien.",
       "summary_en": "President Maia Sandu condemned the latest incursion as Russia’s war on Ukraine increasingly threatens neighboring Moldova.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1105,9 +1181,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Energi"
       ]
     },
     {
@@ -1573,18 +1649,18 @@
       "id": "evt-2026-10-23-0896fe",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T16:10:34+00:00",
-      "title_sv": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+      "title_sv": "Ryssland och Ukraina kommer överens om lokal vapenvila i Oleshky mitt i en fördjupad humanitär kris",
       "title_en": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-      "summary_sv": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians struggling to survive.In a...",
+      "summary_sv": "Människor i den ryskockuperade staden som står inför allvarlig brist på mat, vatten och elektricitet, varav några rapporteras överleva på ogräs.",
       "summary_en": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians struggling to survive.In a...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1604,26 +1680,26 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
       "id": "evt-2026-10-23-533220",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T16:07:15+00:00",
-      "title_sv": "Denmark rushes 50,000 cannon rounds to Ukraine to help F-16s hunt Russia’s advanced jet drones",
+      "title_sv": "Danmark rusar 50 000 kanonskott till Ukraina för att hjälpa F-16 att jaga Rysslands avancerade jetdrönare",
       "title_en": "Denmark rushes 50,000 cannon rounds to Ukraine to help F-16s hunt Russia’s advanced jet drones",
-      "summary_sv": "Ukrainian pilots are already using the 20-mm ammunition to intercept jet-powered attack drones, as Russia deploys faster targets that challenge Ukraine’s air defenses.",
+      "summary_sv": "Ukrainska piloter använder redan 20 mm ammunition för att fånga upp jetdrivna attackdrönare, eftersom Ryssland sätter in snabbare mål som utmanar Ukrainas luftförsvar.",
       "summary_en": "Ukrainian pilots are already using the 20-mm ammunition to intercept jet-powered attack drones, as Russia deploys faster targets that challenge Ukraine’s air defenses.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1643,10 +1719,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Luftförsvar",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Luftförsvar",
+        "Energi"
       ]
     },
     {
@@ -1921,18 +1997,18 @@
       "id": "evt-2026-10-23-c1c1fc",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T15:16:10+00:00",
-      "title_sv": "Ceasefire planned for occupied Oleshky as residents face starvation and blocked escape routes, White House announces",
+      "title_sv": "Vapenvila planerad för ockuperade Oleshky när invånarna möter svält och blockerade flyktvägar, meddelar Vita huset",
       "title_en": "Ceasefire planned for occupied Oleshky as residents face starvation and blocked escape routes, White House announces",
-      "summary_sv": "A truce announced by Melania Trump is due to take effect October 29, opening the way for humanitarian supplies and evacuations if Russia and Ukraine implement the agreement.",
+      "summary_sv": "En vapenvila som meddelats av Melania Trump kommer att träda i kraft den 29 oktober, vilket öppnar vägen för humanitära förnödenheter och evakueringar om Ryssland och Ukraina genomför avtalet.",
       "summary_en": "A truce announced by Melania Trump is due to take effect October 29, opening the way for humanitarian supplies and evacuations if Russia and Ukraine implement the agreement.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2072,18 +2148,18 @@
       "id": "evt-2026-10-23-1cf532",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T14:38:22+00:00",
-      "title_sv": "Finland gives Ukraine 10 diesel locomotives that keep trains running when Russian strikes cut the power",
+      "title_sv": "Finland ger Ukraina 10 diesellok som håller tågen igång när ryska attacker skär strömmen",
       "title_en": "Finland gives Ukraine 10 diesel locomotives that keep trains running when Russian strikes cut the power",
-      "summary_sv": "The engines come free from Finland’s state railway, part of a visit that also brought winter energy money and new defense, housing, and satellite deals for Kyiv.",
+      "summary_sv": "Motorerna kommer gratis från Finlands statliga järnväg, en del av ett besök som också gav vinterenergipengar och nya försvars-, bostäder- och satellitaffärer för Kyjiv.",
       "summary_en": "The engines come free from Finland’s state railway, part of a visit that also brought winter energy money and new defense, housing, and satellite deals for Kyiv.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2103,9 +2179,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Kyjiv",
-        "Energi",
-        "Ukraina"
+        "Energi"
       ]
     },
     {
@@ -2188,18 +2264,18 @@
       "id": "evt-2026-10-23-7fe8d9",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T14:27:42+00:00",
-      "title_sv": "Ukraine frees 270 from Russian captivity in “historic” prisoner swap, including 5 Olenivka survivors and American teacher Stephen Hubbard",
+      "title_sv": "Ukraina befriar 270 från rysk fångenskap i \"historiskt\" fångbyte, inklusive 5 Olenivka-överlevande och den amerikanske läraren Stephen Hubbard",
       "title_en": "Ukraine frees 270 from Russian captivity in “historic” prisoner swap, including 5 Olenivka survivors and American teacher Stephen Hubbard",
-      "summary_sv": "The latest exchange returned 261 military personnel and nine civilians. Some had been held since 2018, while many others were captured during the defense of Mariupol in 2022.",
+      "summary_sv": "Det senaste utbytet returnerade 261 militärer och nio civila. Några hade hållits hållna sedan 2018, medan många andra tillfångatogs under försvaret av Mariupol 2022.",
       "summary_en": "The latest exchange returned 261 military personnel and nine civilians. Some had been held since 2018, while many others were captured during the defense of Mariupol in 2022.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2219,8 +2295,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -4009,10 +4085,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4032,8 +4108,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
