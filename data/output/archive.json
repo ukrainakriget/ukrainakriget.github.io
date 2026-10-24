@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 3099,
-  "last_archived_rotation": "2026-10-24T20:04:57.104512+00:00",
+  "total_archived_events": 3101,
+  "last_archived_rotation": "2026-10-24T20:35:02.322645+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-23-62c96c",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T23:31:00+03:00",
+      "title_sv": "Zelensky: Ryssland för hybridkrig mot Europa för att undergräva biståndet till Ukraina",
+      "title_en": "Zelensky: Russia waging hybrid war against Europe to undermine aid to Ukraine",
+      "summary_sv": "President Volodymyr Zelensky uttalade att Ryssland för ett hybridkrig mot europeiska länder och attackerar dem med drönare för att försvaga stödet till Ukraina.",
+      "summary_en": "President Volodymyr Zelensky stated that Russia is waging a hybrid war against European countries, attacking them with drones in order to weaken support for Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "uk",
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177660-zelensky-russia-waging-hybrid-war-against-europe-to-undermine-aid-to-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-23-78333b",
       "date": "2026-10-23",
@@ -340,6 +381,44 @@
       ]
     },
     {
+      "id": "evt-2026-10-23-468151",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T20:18:13+00:00",
+      "title_sv": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "title_en": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "summary_sv": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "summary_en": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-23-2d5255",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T20:00:00+03:00",
@@ -426,10 +505,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -449,8 +528,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -465,10 +544,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -488,10 +567,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
-        "Ukraina",
+        "Infrastruktur",
         "Drönare",
-        "Infrastruktur"
+        "Ukraina",
+        "Svarta"
       ]
     },
     {
@@ -620,10 +699,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -643,9 +722,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Svarta",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Svarta"
       ]
     },
     {
@@ -697,9 +776,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -847,9 +926,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -963,10 +1042,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -986,9 +1065,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Energi",
         "Drönare",
-        "Energi"
+        "Ukraina"
       ]
     },
     {
@@ -1454,18 +1533,18 @@
       "id": "evt-2026-10-23-0896fe",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T16:10:34+00:00",
-      "title_sv": "Ryssland och Ukraina kommer överens om lokal vapenvila i Oleshky mitt i en fördjupad humanitär kris",
+      "title_sv": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
       "title_en": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-      "summary_sv": "Människor i den ryskockuperade staden som står inför allvarlig brist på mat, vatten och elektricitet, och några rapporteras överleva på ogräs. Vita huset har sagt att Ryssland och Ukraina har kommit överens om en vapenvila i den ryskockuperade staden Oleshky, där en allt djupare humanitär kris har gjort att tusentals civila kämpar för att överleva.",
+      "summary_sv": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians struggling to survive.In a...",
       "summary_en": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians struggling to survive.In a...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1485,8 +1564,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -1501,10 +1580,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1524,9 +1603,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare",
         "Energi",
+        "Drönare",
+        "Ukraina",
         "Luftförsvar"
       ]
     },
@@ -1810,10 +1889,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1961,10 +2040,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1984,9 +2063,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Energi",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -2077,10 +2156,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2100,8 +2179,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -3890,10 +3969,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
