@@ -1,7 +1,121 @@
 {
-  "total_archived_events": 3038,
-  "last_archived_rotation": "2026-10-24T11:31:37.867859+00:00",
+  "total_archived_events": 3041,
+  "last_archived_rotation": "2026-10-24T12:01:42.885852+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-23-5a3875",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:58:00+03:00",
+      "title_sv": "Droneattack riktar sig mot energiinfrastrukturanläggning i Lviv-regionen",
+      "title_en": "Drone attack targets energy infrastructure facility in Lviv region",
+      "summary_sv": "I Lviv-regionen attackerade en rysk drönare en energiinfrastrukturanläggning och lämnade 175 bosättningar utan ström.",
+      "summary_en": "In the Lviv region, a Russian drone attacked an energy infrastructure facility, leaving 175 settlements without power.",
+      "location_name": "Lviv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177469-drone-attack-targets-energy-infrastructure-facility-in-lviv-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Energi",
+        "Lviv"
+      ]
+    },
+    {
+      "id": "evt-2026-10-23-1bd4cf",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:58:00+03:00",
+      "title_sv": "Starlink-restriktioner gäller fortfarande i Ukraina eftersom Flash förklarar enstaka fall av ökade hastigheter",
+      "title_en": "Starlink restrictions remain in effect in Ukraine as Flash explains isolated cases of increased speeds",
+      "summary_sv": "Restriktioner för Starlink-satellitkommunikation kvarstår för Ukrainas försvarsstyrkor, rapporterade presidentens rådgivare Serhii Beskrestnov, känd som Flash, den 23 oktober.",
+      "summary_en": "Restrictions on Starlink satellite communications remain in effect for Ukraine's Defense Forces, presidential adviser Serhii Beskrestnov, known as Flash, reported on Oct. 23.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/starlink-restrictions-remain-in-place-for-ukrainian-forces-50652799.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-23-b6591e",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:32:00+03:00",
+      "title_sv": "Kommersiellt fartyg med ukrainska sjömän sjunker utanför Rumäniens kust; drönarattack inte uteslutet",
+      "title_en": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
+      "summary_sv": "Fredagen den 23 oktober sjönk handelsfartyget Khoryv, med ukrainska sjömän ombord, utanför den rumänska kusten.",
+      "summary_en": "On Friday, October 23, the commercial vessel Khoryv, with Ukrainian sailors on board, sank off the Romanian coast.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-23-c97d24",
       "date": "2026-10-23",
@@ -1556,9 +1670,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "ukraina",
+        "usa",
         "uk",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2252,8 +2366,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "ukraina",
         "eu",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -2439,9 +2553,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "ukraina",
+        "usa",
         "uk",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2462,8 +2576,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Kyjiv"
+        "Kyjiv",
+        "Drönare"
       ]
     },
     {
@@ -2509,17 +2623,17 @@
       "timestamp": "2026-10-23T01:33:43+00:00",
       "title_sv": "Krigsbriefing i Ukraina: Osäkerhet över Kyjivs Starlink-åtkomst efter att Trump hävdar att Musk återställt tjänsten",
       "title_en": "Ukraine war briefing: Uncertainty over Kyiv’s Starlink access after Trump claims Musk restored service",
-      "summary_sv": "USA:s president säger att Starshields militära kommunikationssystem är tillbaka, men avböjer att kommentera om han talade med Musk i frågan.",
+      "summary_sv": "USA:s president säger att Starshields militära kommunikationssystem är tillbaka, men avböjer att kommentera om han talat med Musk i frågan.",
       "summary_en": "US president says Starshield military communications system is back, but declines to comment on whether he spoke to Musk on the matter.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "uk",
-        "eu",
         "ukraina",
-        "usa"
+        "uk",
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2539,11 +2653,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Robotanfall",
         "Drönare",
+        "Kyjiv",
         "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
