@@ -1,7 +1,82 @@
 {
-  "last_updated": "2026-10-24T04:01:51.827732+00:00",
-  "total_active_events": 139,
+  "last_updated": "2026-10-24T04:31:19.926903+00:00",
+  "total_active_events": 138,
   "events": [
+    {
+      "id": "evt-2026-10-24-91dc57",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T07:25:00+03:00",
+      "title_sv": "Storskalig mörkläggning drabbar Krim efter drönarattack",
+      "title_en": "Large-scale blackout hits Crimea after drone attack",
+      "summary_sv": "En storskalig strömavbrott påverkade hela den tillfälligt ockuperade Krimhalvön över natten den 24 oktober. Ockupationsmyndigheterna rapporterade skador på energiinfrastrukturen över halvön.",
+      "summary_en": "A large-scale blackout affected the entire temporarily occupied Crimean peninsula overnight on October 24. The occupation authorities reported damage to energy infrastructure across the peninsula.",
+      "location_name": "Krym",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177692-largescale-blackout-hits-crimea-after-drone-attack.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Krym",
+        "Drönare",
+        "Energi",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-24-009826",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T06:58:00+03:00",
+      "title_sv": "En dödad, sex skadades i rysk flygattack mot Kramatorsk",
+      "title_en": "One killed, six injured in Russian airstrike on Kramatorsk",
+      "summary_sv": "Ryska styrkor släppte tre FAB-250 flygbomber på Kramatorsk på eftermiddagen den 23 oktober, och dödade en person och skadade sex andra, inklusive tre barn.",
+      "summary_en": "Russian forces dropped three FAB-250 aerial bombs on Kramatorsk on the afternoon of October 23, killing one person and injuring six others, including three children.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177691-one-killed-six-injured-in-russian-airstrike-on-kramatorsk.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-24-4dc829",
       "date": "2026-10-24",
@@ -14,11 +89,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -38,9 +113,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Luftförsvar",
         "Drönare",
-        "Ukraina",
-        "Luftförsvar"
+        "Ukraina"
       ]
     },
     {
@@ -162,7 +237,7 @@
       "id": "evt-2026-10-24-1da75a",
       "date": "2026-10-24",
       "timestamp": "2026-10-24T02:28:00+03:00",
-      "title_sv": "Bilder visar kraftiga skador på rysk elektronikfabrik",
+      "title_sv": "Bilder visar stora skador på rysk elektronikfabrik",
       "title_en": "Images show heavy damage at Russian electronics plant",
       "summary_sv": "En ukrainsk missilattack Storm Shadow på Rysslands Orel skadade allvarligt minst en produktionshall vid Proton-fabriken, som tillverkar komponenter för ballistiska Iskander-missiler, rapporterade OSINT-projektet Exilenova+ den 23 oktober.",
       "summary_en": "A Ukrainian Storm Shadow missile strike on Russia’s Orel severely damaged at least one production hall at the Proton plant, which manufactures components for Iskander ballistic missiles, OSINT (open-source intelligence) project Exilenova+ reported on Oct. 23.",
@@ -193,8 +268,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
+        "Ukraina",
         "Robotanfall"
       ]
     },
@@ -240,7 +315,7 @@
       "timestamp": "2026-10-24T01:32:00+03:00",
       "title_sv": "Invånare i Charkiv dömd till 15 års fängelse för att ha tänt eld på Ukrzaliznytsia reläskåp",
       "title_en": "Kharkiv resident sentenced to 15 years in prison for setting fire to Ukrzaliznytsia relay cabinets",
-      "summary_sv": "En domstol har funnit en invånare i Charkiv skyldig till att ha satt eld på Ukrzaliznytsia (ukrainska järnvägar) på order från fiendens underrättelsetjänster och dömt honom till 15 års fängelse.",
+      "summary_sv": "En domstol har funnit en invånare i Charkiv skyldig till att ha satt eld på Ukrzaliznytsia (ukrainska järnvägar) anläggningar på order från fiendens underrättelsetjänster och dömt honom till 15 års fängelse.",
       "summary_en": "A court has found a Kharkiv resident guilty of setting fire to Ukrzaliznytsia (Ukrainian Railways) facilities on orders from enemy intelligence services and sentenced him to 15 years in prison.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
@@ -267,9 +342,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Charkiv",
         "Infrastruktur",
-        "Ukraina",
-        "Charkiv"
+        "Ukraina"
       ]
     },
     {
@@ -314,7 +389,7 @@
       "id": "evt-2026-10-24-8c9d33",
       "date": "2026-10-24",
       "timestamp": "2026-10-24T01:20:54+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Ryska dieseltankers på väg mot Nordamerika, säger Moskva, när USA försöker återuppliva fredssamtalen",
+      "title_sv": "Krigsbriefing i Ukraina: Ryska dieseltankfartyg på väg mot Nordamerika, säger Moskva, när USA försöker återuppliva fredssamtalen",
       "title_en": "Ukraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks",
       "summary_sv": "Tankfartyg ingår i affären mellan USA och Ryssland som kan se 500 000 ton bränsle levereras till världsmarknaden denna månad.",
       "summary_en": "Tankers part of US-Russia deal that could see 500,000 metric tonnes of fuel supplied to world market this month.",
@@ -322,11 +397,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -346,9 +421,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Kyjiv",
         "Civila mål",
-        "Ukraina",
-        "Kyjiv"
+        "Ukraina"
       ]
     },
     {
@@ -383,8 +458,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
+        "Ukraina",
         "Poltava"
       ]
     },
@@ -472,11 +547,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -496,9 +571,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Drönare",
-        "Ukraina",
-        "Infrastruktur"
+        "Ukraina"
       ]
     },
     {
@@ -543,7 +618,7 @@
       "timestamp": "2026-10-23T23:02:16+00:00",
       "title_sv": "Ukraina bekämpar nu två fiender. En är Amerika",
       "title_en": "Ukraine now fights two enemies. One is America",
-      "summary_sv": "På två veckor sanktionerade Washington domstolen som åtalade Putin, avstod från sina egna sanktioner mot Ryssland och kallade honom humanitär.",
+      "summary_sv": "På två veckor sanktionerade Washington domstolen som åtala Putin, avstod från sina egna sanktioner mot Ryssland och kallade honom humanitär.",
       "summary_en": "In two weeks, Washington sanctioned the court prosecuting Putin, waived its own sanctions on Russia, and called him a humanitarian.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -581,7 +656,7 @@
       "timestamp": "2026-10-23T22:57:00+03:00",
       "title_sv": "Zelensky: Rubio kommer att se över Starlinks restriktioner i Ukraina inom 48 till 72 timmar",
       "title_en": "Zelensky: Rubio to revisit Starlink restrictions in Ukraine within 48 to 72 hours",
-      "summary_sv": "President Volodymyr Zelensky uppgav att Ukraina testar Starlinks prestanda på olika områden, särskilt nära frontlinjerna, och räknar med ett beslut från den amerikanska administrationen och Space X att häva hastighetsbegränsningarna.",
+      "summary_sv": "President Volodymyr Zelensky uttalade att Ukraina testar Starlinks prestanda på olika områden, särskilt nära frontlinjerna, och räknar med ett beslut från den amerikanska administrationen och Space X att häva hastighetsbegränsningarna.",
       "summary_en": "President Volodymyr Zelensky stated that Ukraine is testing Starlink’s performance in various areas, particularly near the front lines, and is counting on a decision by the U.S. administration and Space X to lift the speed restrictions.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -727,7 +802,7 @@
       "timestamp": "2026-10-23T21:39:00+03:00",
       "title_sv": "Zelensky: Ukraina redo för förhandlingar när som helst; Ryssland avgör om de äger rum",
       "title_en": "Zelensky: Ukraine ready for negotiations at any time; Russia determines whether they take place",
-      "summary_sv": "President Volodymyr Zelensky uttalade att Ukraina, USA och Ryssland har kommit överens om att hålla ett trilateralt möte på nivå med förhandlingsgrupper under första hälften av november.",
+      "summary_sv": "President Volodymyr Zelensky uppgav att Ukraina, USA och Ryssland har kommit överens om att hålla ett trilateralt möte på nivå med förhandlingsgrupper under första hälften av november.",
       "summary_en": "President Volodymyr Zelensky stated that Ukraine, the United States, and Russia have agreed to hold a trilateral meeting at the level of negotiating teams in the first half of November.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -771,11 +846,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -795,8 +870,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -833,9 +908,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Drönare",
-        "Ukraina",
-        "Infrastruktur"
+        "Ukraina"
       ]
     },
     {
@@ -987,9 +1062,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Drönare",
-        "Ukraina",
-        "Infrastruktur"
+        "Ukraina"
       ]
     },
     {
@@ -1035,14 +1110,14 @@
       "timestamp": "2026-10-23T20:38:37+00:00",
       "title_sv": "Ett modem från en rysk drönare ledde reportrar till dess kinesiska tillverkare - som fakturerade 500 för Rysslands drönaranläggning",
       "title_en": "A modem from a Russian drone led reporters to its Chinese maker—which invoiced 500 for Russia’s drone plant",
-      "summary_sv": "Journalisterna utgav sig för att vara en rysk militär leverantör och fick en faktura på 2,87 miljoner dollar, tre bankkonton och ingen återkallelse av militär användning.",
+      "summary_sv": "Journalisterna utgav sig för att vara en rysk militär leverantör och fick en faktura på 2,87 miljoner dollar, tre bankkonton och ingen återbetalning av militär användning.",
       "summary_en": "Posing as a Russian military supplier, journalists got a $2.87 million invoice, three bank accounts, and no pushback on military use.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "kina",
         "usa",
+        "kina",
         "ukraina",
         "ryssland"
       ],
@@ -1064,9 +1139,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Drönare",
-        "Ukraina",
-        "Infrastruktur"
+        "Ukraina"
       ]
     },
     {
@@ -1112,7 +1187,7 @@
       "id": "evt-2026-10-23-468151",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T20:18:13+00:00",
-      "title_sv": "Frigiven amerikansk medborgare torterades i ryskt fängelse, säger före detta ukrainska fångar",
+      "title_sv": "Frigiven amerikansk medborgare torterades i ryskt fängelse, säger tidigare ukrainska fångar",
       "title_en": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
       "summary_sv": "Ukrainare som fängslades tillsammans med amerikanen säger att de bevittnat misshandel och sexuell förnedring av ryska vakter under hans fängelse.",
       "summary_en": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
@@ -1217,8 +1292,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1256,8 +1331,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1295,10 +1370,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina",
         "Infrastruktur",
-        "Svarta"
+        "Svarta",
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1450,9 +1525,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Svarta",
         "Civila mål",
-        "Ukraina",
-        "Svarta"
+        "Ukraina"
       ]
     },
     {
@@ -1569,7 +1644,7 @@
       "id": "evt-2026-10-23-754293",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T18:38:00+03:00",
-      "title_sv": "Löner över marknaden, en återkopplingskultur och ett nytt tillvägagångssätt för talangförvärv: hur Philip Morris är tran",
+      "title_sv": "Löner över marknaden, en feedbackkultur och ett nytt tillvägagångssätt för talangförvärv: hur Philip Morris är tran",
       "title_en": "Above-Market Salaries, a Feedback Culture, and a New Approach to Talent Acquisition: How Philip Morris Is Tran",
       "summary_sv": "Philip Morris Ukraina tog förstaplatsen i rankingen av Ukrainas bästa arbetsgivare sammanställd av NV och Odgers. Resultaten tillkännagavs under evenemanget \"Business and New Challenges.",
       "summary_en": "Philip Morris Ukraine took first place in the ranking of Ukraine’s best employers compiled by NV and Odgers. The results were announced during the “Business and New Challenges. Dialogues with NV” event, which brought together representatives of leading Ukrainian and international companies to discuss how businesses are adapting to the new reality.",
@@ -1599,8 +1674,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1638,8 +1713,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1730,9 +1805,9 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "usa",
+        "eu",
         "ukraina",
-        "ryssland",
-        "eu"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1752,10 +1827,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina",
         "Infrastruktur",
-        "Svarta"
+        "Svarta",
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1794,8 +1869,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1871,8 +1946,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -2331,10 +2406,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Luftförsvar",
         "Drönare",
-        "Ukraina",
         "Energi",
-        "Luftförsvar"
+        "Ukraina"
       ]
     },
     {
@@ -2791,9 +2866,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
+        "Kyjiv",
         "Energi",
-        "Kyjiv"
+        "Ukraina"
       ]
     },
     {
@@ -4653,7 +4728,7 @@
       "timestamp": "2026-10-23T09:21:00+03:00",
       "title_sv": "Ukrainsk import av transformatorer och induktorer från Kina ökar kraftigt",
       "title_en": "Ukrainian imports of transformers and inductors from China surge",
-      "summary_sv": "Den ukrainska importen av transformatorer, induktorer och reaktorer ökade med 47,3 % till 1,14 miljarder dollar från januari till september jämfört med samma period 2025, rapporterade Interfax-Ukraina.",
+      "summary_sv": "Ukrainsk import av transformatorer, induktorer och reaktorer ökade med 47,3 % till 1,14 miljarder dollar från januari till september jämfört med samma period 2025, rapporterade Interfax-Ukraina.",
       "summary_en": "Ukrainian imports of transformers, inductors, and reactors jumped 47.3% to $1.14 billion from January through September compared to the same period in 2025, Interfax-Ukraine reported.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -4720,8 +4795,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -5150,46 +5225,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-23-dbbbfd",
-      "date": "2026-10-23",
-      "timestamp": "2026-10-23T07:28:00+03:00",
-      "title_sv": "Ukrainas försvarsstyrkor har neutraliserat 408 000 ryska drönare sedan början av året",
-      "title_en": "Ukraine’s Defense Forces neutralize 408,000 Russian drones since start of year",
-      "summary_sv": "Enheter från Ukrainas försvarsstyrkor har träffat 408 000 ryska obemannade flygfarkoster sedan början av året.",
-      "summary_en": "Units of Ukraine’s Defense Forces have struck 408,000 Russian unmanned aerial vehicles since the beginning of the year.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "uk",
-        "ukraina",
-        "ryssland",
-        "usa",
-        "eu"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4177317-ukraines-defense-forces-neutralize-408000-russian-drones-since-start-of-year.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Drönare"
-      ]
-    },
-    {
       "id": "evt-2026-10-23-8bf0ac",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T07:25:59+00:00",
@@ -5230,82 +5265,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-23-e3d041",
-      "date": "2026-10-23",
-      "timestamp": "2026-10-23T07:05:00+03:00",
-      "title_sv": "Ingen förhandlad fred möjlig när Putin sitter vid makten – President för Hudsoninstitutet",
-      "title_en": "No negotiated peace possible while Putin in power – Hudson Institute President",
-      "summary_sv": "Den ryske presidenten Vladimir Putins styre är beroende av att kriget fortsätter, så västvärlden behöver en strategi fokuserad på att stärka Ukraina, avskräcka Ryssland och förbereda förändringar efter att Putin lämnar makten.",
-      "summary_en": "Russian President Vladimir Putin’s rule depends on continuing the war, so the West needs a strategy focused on strengthening Ukraine, deterring Russia and preparing for change after Putin leaves power.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "uk",
-        "ukraina",
-        "usa",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
-        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
-      },
-      "egenskaper_anfallsmal": "energiproduktion",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-polytics/4177315-no-negotiated-peace-possible-while-putin-in-power-hudson-institute-president.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Energi"
-      ]
-    },
-    {
-      "id": "evt-2026-10-23-5e591a",
-      "date": "2026-10-23",
-      "timestamp": "2026-10-23T06:01:57+02:00",
-      "title_sv": "Granskning: Så trappar Ryssland upp våldsamma hybridattackerna",
-      "title_en": "Review: How Russia is Stepping Up Violent Hybrid Attacks",
-      "summary_sv": "Under det senaste halvåret har över 50 fysiska hybridattacker riktats mot Europa – där spåren leder till Ryssland. Det visar en ny sammanställning från europeiska Public Service-bolag som SVT kan publicera i dag.",
-      "summary_en": "In the past six months, over 50 physical hybrid attacks have been directed at Europe - where the traces lead to Russia. This is shown by a new compilation from European Public Service companies that SVT can publish today.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ryssland",
-      "parter_intressenter": [
-        "ukraina",
-        "eu",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "SVT Nyheter",
-      "kallurl": "https://www.svt.se/nyheter/inrikes/granskning-sa-trappar-ryssland-upp-valdsamma-hybridattackerna",
-      "kallkategori": "Svensk Public Service",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-10-23-7aaf88",
       "date": "2026-10-23",
       "timestamp": "2026-10-23T06:00:03+00:00",
@@ -5318,9 +5277,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
+        "eu",
         "uk",
-        "ukraina",
-        "eu"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5340,8 +5299,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     }
   ],
