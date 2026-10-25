@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-25T09:31:18.943542+00:00",
-  "total_active_events": 58,
+  "last_updated": "2026-10-25T10:02:01.806228+00:00",
+  "total_active_events": 59,
   "events": [
+    {
+      "id": "evt-2026-10-25-8f8e7e",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T11:38:00+02:00",
+      "title_sv": "Zelensky: Ryssland avfyrar 1 600 guidade bomber, 48 missiler och nästan 2 300 attackdrönare mot Ukraina på en vecka",
+      "title_en": "Zelensky: Russia launches 1,600 guided bombs, 48 missiles and nearly 2,300 attack drones at Ukraine in one week",
+      "summary_sv": "Bara denna vecka har Ryssland avfyrat cirka 1 600 guidade flygbomber, 48 missiler av olika typer – inklusive ballistiska missiler – och nästan 2 300 attackdrönare mot Ukraina.",
+      "summary_en": "This week alone, Russia has fired approximately 1,600 guided aerial bombs, 48 missiles of various types—including ballistic missiles—and nearly 2,300 attack drones at Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177961-zelensky-russia-launches-1600-guided-bombs-48-missiles-and-nearly-2300-attack-drones-at-ukraine-in-one-week.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Robotanfall",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-25-5f3172",
       "date": "2026-10-25",
@@ -14,10 +54,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -42,6 +82,45 @@
       ]
     },
     {
+      "id": "evt-2026-10-25-8046e3",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T11:04:00+02:00",
+      "title_sv": "Rysk drönare attackerar köpcentrum i Poltava",
+      "title_en": "Russian drone strikes shopping center in Poltava",
+      "summary_sv": "I Poltava träffade en rysk drönare ett köpcentrum.",
+      "summary_en": "In Poltava, a Russian drone struck a shopping center.",
+      "location_name": "Poltava",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177953-russian-drone-strikes-shopping-center-in-poltava.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Poltava",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
       "id": "evt-2026-10-25-1fc96b",
       "date": "2026-10-25",
       "timestamp": "2026-10-25T10:30:00+02:00",
@@ -54,8 +133,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -93,8 +172,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -114,9 +193,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Charkiv",
         "Energi",
+        "Ukraina",
         "Drönare"
       ]
     },
@@ -133,8 +212,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -171,8 +250,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -209,8 +288,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -239,18 +318,18 @@
       "id": "evt-2026-10-25-7e55db",
       "date": "2026-10-25",
       "timestamp": "2026-10-25T09:09:00+02:00",
-      "title_sv": "Krigsuppdatering: 193 stridsdrabbningar på frontlinjen under det senaste dygnet, Ryssland pressar hårdast på tre axlar",
+      "title_sv": "Krigsuppdatering: 193 stridssammandrabbningar på frontlinjen under det senaste dygnet, Ryssland pressar hårdast på tre axlar",
       "title_en": "War update: 193 combat clashes on front line over past day, Russia presses hardest on three axes",
-      "summary_sv": "Ukrainas försvarsstyrkor inledde 193 stridsdrabbningar med ryska inkräktare längs frontlinjen den 24 oktober.",
+      "summary_sv": "Ukrainas försvarsstyrkor deltog i 193 stridsdrabbningar med ryska inkräktare längs frontlinjen den 24 oktober.",
       "summary_en": "Ukraine's Defense Forces engaged in 193 combat clashes with Russian invaders along the front line on October 24.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -285,9 +364,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "usa",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -322,11 +401,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
+        "uk",
         "eu",
         "usa",
-        "uk"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -363,10 +442,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -395,15 +474,15 @@
       "timestamp": "2026-10-25T08:06:00+02:00",
       "title_sv": "Ryska inkräktare attackerar Mykolaiv-regionen med drönare under det senaste dygnet och orsakar skada",
       "title_en": "Russian invaders attack Mykolaiv region with drones over past day, causing damage",
-      "summary_sv": "Ryska styrkor attackerade Mykolaiv-regionen med UAV av Shahed-typ och FPV-drönare under det senaste dygnet och orsakade skador.",
+      "summary_sv": "Ryska styrkor attackerade Mykolaiv-regionen med Shahed-typ UAV och FPV-drönare under det senaste dygnet och orsakade skada.",
       "summary_en": "Russian forces attacked the Mykolaiv region with Shahed-type UAVs and FPV drones over the past day, causing damage.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -433,15 +512,15 @@
       "timestamp": "2026-10-25T08:03:06+00:00",
       "title_sv": "Full fart återvände till Ukrainas satellitlänkar på lördagsmorgonen. \"Vi upprätthöll helt enkelt våra villkor\", hävdar Musk efter att ha skyllt på Washington i 10 dagar",
       "title_en": "Full speed returned to Ukraine’s satellite links on Saturday morning. “We simply enforced our terms,” Musk claims after blaming Washington for 10 days",
-      "summary_sv": "Space X-ägaren, som tidigare sagt att den amerikanska regeringen bestämmer sådana gränser, skrev att hans företag hade täppt till en lucka som han säger att ukrainska trupper använde för drönareattacker.",
+      "summary_sv": "Space X-ägaren, som tidigare sagt att den amerikanska regeringen bestämmer sådana gränser, skrev att hans företag hade täppt till en lucka som han säger att ukrainska trupper använde för drönarattacker.",
       "summary_en": "The Space X owner, who had earlier said the US government decides such limits, wrote that his company had closed a gap he says Ukrainian troops used for drone strikes.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "uk",
         "usa",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -477,10 +556,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -507,17 +586,17 @@
       "id": "evt-2026-10-25-ade974",
       "date": "2026-10-25",
       "timestamp": "2026-10-25T07:23:00+02:00",
-      "title_sv": "Musk hävdar att Ukraina brutit mot Starlinks användarvillkor, \"Flash\" svarar",
+      "title_sv": "Musk hävdar att Ukraina har brutit mot Starlinks användarvillkor, \"Flash\" svarar",
       "title_en": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
-      "summary_sv": "Space X-ägaren Elon Musk har sagt att det aldrig har varit tillåtet att använda det civila Starlink-systemet för att utföra drönanattacker \"för att döda människor.\"",
+      "summary_sv": "Space X-ägaren Elon Musk har sagt att det aldrig har varit tillåtet att använda det civila Starlink-systemet för att utföra drönsattacker \"för att döda människor.\"",
       "summary_en": "Space X owner Elon Musk has said that using the civilian Starlink system to carry out drone attacks \"to kill people has never been allowed.\"",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "usa",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -554,9 +633,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "uk",
         "eu",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -592,10 +671,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -630,8 +709,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -667,8 +746,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -787,11 +866,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
+        "uk",
         "eu",
         "usa",
-        "uk"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1090,15 +1169,15 @@
       "timestamp": "2026-10-24T21:25:58+00:00",
       "title_sv": "Ukrainas militär säger att Starlink-satellitförbindelsen är stabil efter de senaste restriktioner",
       "title_en": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-      "summary_sv": "Men Elon Musk, vars företag Space X äger Starlink, anklagar den ukrainska militären för att ha brutit mot företagets villkor. Ukrainas militär har en \"stabil koppling till Starlink\", sade den ukrainska regeringen, 10 dagar efter att dess förmåga att använda satellitkommunikationssystemet plötsligt begränsades.",
+      "summary_sv": "Men Elon Musk, vars företag Space X äger Starlink, anklagar den ukrainska militären för att ha brutit mot företagets villkor. Ukrainas militär har en \"stabil koppling till Starlink\", sa den ukrainska regeringen, 10 dagar efter att dess förmåga att använda satellitkommunikationssystemet plötsligt begränsades.",
       "summary_en": "But Elon Musk, whose company Space X owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system was suddenly restricted.But hours after the announcement, Space X CEO Elon...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "uk",
         "usa",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1171,10 +1250,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1195,8 +1274,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Drönare"
       ]
     },
     {
@@ -1286,10 +1365,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1310,8 +1389,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Drönare"
       ]
     },
     {
@@ -1441,11 +1520,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
+        "uk",
         "eu",
         "usa",
-        "uk"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1560,10 +1639,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1712,8 +1791,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1733,10 +1812,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare",
         "Robotanfall",
-        "Infrastruktur"
+        "Ukraina",
+        "Infrastruktur",
+        "Drönare"
       ]
     },
     {
@@ -1905,10 +1984,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1928,8 +2007,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -1982,8 +2061,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2092,14 +2171,14 @@
       "timestamp": "2026-10-24T13:41:00+03:00",
       "title_sv": "En fågel i handen: Hur Ukrainas Sokil-drönare kunde förbättra slagfältsspaningen",
       "title_en": "A bird in the hand: How Ukraine's Sokil drone could improve battlefield reconnaissance",
-      "summary_sv": "Ukraina kodifierade Sokil fastvingade spaningsdrönare våren 2026, utvecklad för att göra operativ spaning mer tillgänglig och allmänt tillgänglig.",
+      "summary_sv": "Ukraina kodifierade Sokils fastvingade spaningsdrönare våren 2026, utvecklad för att göra operativ spaning mer tillgänglig och allmänt tillgänglig.",
       "summary_en": "Ukraine codified the Sokil fixed-wing reconnaissance drone in spring 2026, developed to make operational reconnaissance more accessible and widely available.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2161,44 +2240,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-24-38e161",
-      "date": "2026-10-24",
-      "timestamp": "2026-10-24T12:58:00+03:00",
-      "title_sv": "Ryska styrkor attackerar kritisk och civil infrastruktur i Zhytomyr-regionen",
-      "title_en": "Russian forces attack critical and civilian infrastructure in Zhytomyr region",
-      "summary_sv": "Natten mellan den 23 och 24 oktober attackerade Ryska federationens väpnade styrkor kritiska och civila infrastrukturanläggningar i Zhytomyr-regionen.",
-      "summary_en": "On the night of October 23–24, the Russian Federation’s armed forces attacked critical and civilian infrastructure facilities in the Zhytomyr region.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "ukraina",
-        "usa",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4177767-russian-forces-attack-critical-and-civilian-infrastructure-in-zhytomyr-region.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Civila mål",
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-10-24-a8f47c",
       "date": "2026-10-24",
       "timestamp": "2026-10-24T12:12:40+00:00",
@@ -2210,8 +2251,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
