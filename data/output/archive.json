@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 3152,
-  "last_archived_rotation": "2026-10-25T13:01:36.595900+00:00",
+  "total_archived_events": 3154,
+  "last_archived_rotation": "2026-10-25T13:31:19.341940+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-24-34a1b7",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T16:29:00+03:00",
+      "title_sv": "Fyra personer skadades i en rysk drönarattack i Nikopol-distriktet, inklusive barn",
+      "title_en": "Four people injured in Russian drone attack in Nikopol district, including child",
+      "summary_sv": "Fyra personer, inklusive ett barn, skadades i en rysk drönareattack i Pokrovske-samhället, Nikopol-distriktet.",
+      "summary_en": "Four people, including a child, were injured in a Russian drone attack in the Pokrovske community, Nikopol district.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177810-four-people-injured-in-russian-drone-attack-in-nikopol-district-including-child.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Pokrovsk"
+      ]
+    },
+    {
+      "id": "evt-2026-10-24-a08042",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T16:08:00+03:00",
+      "title_sv": "Ukrainska, rumänska premiärminister diskuterar försvar, energi, logistik",
+      "title_en": "Ukrainian, Romanian PMs discuss defense, energy, logistics",
+      "summary_sv": "Ukrainian Prime Minister Sergii Koretskyi in a phone call with his Romanian counterpart Luca Niculescu proposed establishing cooperation through intergovernmental consultations and invited him to Ukraine.",
+      "summary_en": "Ukrainian Prime Minister Sergii Koretskyi in a phone call with his Romanian counterpart Luca Niculescu proposed establishing cooperation through intergovernmental consultations and invited him to Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4177806-ukrainian-romanian-pms-discuss-defense-energy-logistics.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-10-24-a14d9f",
       "date": "2026-10-24",
@@ -91,10 +168,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -114,8 +191,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -168,8 +245,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -278,14 +355,14 @@
       "timestamp": "2026-10-24T13:41:00+03:00",
       "title_sv": "En fågel i handen: Hur Ukrainas Sokil-drönare kunde förbättra slagfältsspaningen",
       "title_en": "A bird in the hand: How Ukraine's Sokil drone could improve battlefield reconnaissance",
-      "summary_sv": "Ukraina kodifierade Sokil fastvingade spaningsdrönare våren 2026, utvecklad för att göra operativ spaning mer tillgänglig och allmänt tillgänglig.",
+      "summary_sv": "Ukraina kodifierade Sokils fastvingade spaningsdrönare våren 2026, utvecklad för att göra operativ spaning mer tillgänglig och allmänt tillgänglig.",
       "summary_en": "Ukraine codified the Sokil fixed-wing reconnaissance drone in spring 2026, developed to make operational reconnaissance more accessible and widely available.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -435,8 +512,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1057,9 +1134,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1079,8 +1156,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
