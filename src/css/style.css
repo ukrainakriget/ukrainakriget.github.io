@@ -273,6 +273,12 @@ body {
   border-color: var(--ua-blue-light);
 }
 
+.status-refresh-btn:focus-visible,
+.lang-btn:focus-visible {
+  outline: 2px solid var(--ua-blue-light);
+  outline-offset: 2px;
+}
+
 /* Nav Tabs */
 .site-nav {
   background: transparent;
@@ -313,6 +319,13 @@ body {
 .nav-tab-btn.active {
   color: var(--ua-blue-light);
   border-bottom-color: var(--ua-blue-light);
+}
+
+.nav-tab-btn:focus-visible {
+  outline: 2px solid var(--ua-blue-light);
+  outline-offset: -2px;
+  border-radius: var(--radius-sm);
+  color: #fff;
 }
 
 /* Main Container */
@@ -1103,6 +1116,7 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
+  html { scroll-padding-top: 175px; }
   .site-header { padding: 0; }
   .header-inner { flex-direction: column; align-items: stretch; gap: 0.75rem; padding: 0.75rem 1rem; }
   .nav-inner { padding: 0 1rem; }

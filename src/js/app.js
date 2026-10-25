@@ -258,7 +258,13 @@ window.App = {
     if (tab === "dashboard") tab = "events";
     this.activeTab = tab;
     document.querySelectorAll(".nav-tab-btn").forEach(btn => {
-      btn.classList.toggle("active", btn.getAttribute("data-tab") === tab);
+      const isActive = btn.getAttribute("data-tab") === tab;
+      btn.classList.toggle("active", isActive);
+      if (isActive) {
+        btn.setAttribute("aria-current", "page");
+      } else {
+        btn.removeAttribute("aria-current");
+      }
     });
 
     document.querySelectorAll(".tab-content-section").forEach(sec => {

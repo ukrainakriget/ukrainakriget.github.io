@@ -28,6 +28,7 @@ const translations = {
     langButton: "English",
     
     // Navigation
+    mainNavAria: "Huvudkategorier och vyer",
     navEvents: "Aktuella händelser",
     navSituation: "Lägesbild",
     navDashboard: "Aktuella händelser",
@@ -217,6 +218,7 @@ const translations = {
     langButton: "Svenska",
     
     // Navigation
+    mainNavAria: "Main categories and views",
     navEvents: "Current events",
     navSituation: "Situational picture",
     navDashboard: "Current events",
@@ -433,6 +435,14 @@ function applyTranslations() {
     const key = el.getAttribute("data-i18n-title");
     if (dict[key]) {
       el.title = dict[key];
+    }
+  });
+
+  // Elements with data-i18n-aria-label attribute
+  document.querySelectorAll("[data-i18n-aria-label]").forEach(el => {
+    const key = el.getAttribute("data-i18n-aria-label");
+    if (dict[key]) {
+      el.setAttribute("aria-label", dict[key]);
     }
   });
 

@@ -53,9 +53,9 @@
     </div>
 
     <!-- Navigation Bar (integrerad i sidhuvudet så den alltid är synlig vid scrollning) -->
-    <nav class="site-nav">
-      <div class="nav-inner">
-        <button class="nav-tab-btn active" data-tab="events" data-i18n="navEvents">Aktuella händelser</button>
+    <nav class="site-nav" aria-label="Huvudkategorier och vyer" data-i18n-aria-label="mainNavAria">
+      <div class="nav-inner" role="tablist">
+        <button class="nav-tab-btn active" data-tab="events" data-i18n="navEvents" aria-current="page">Aktuella händelser</button>
         <button class="nav-tab-btn" data-tab="situation" data-i18n="navSituation">Lägesbild</button>
         <button class="nav-tab-btn" data-tab="timeline" data-i18n="navTimeline">Flerdimensionellt filter</button>
         <button class="nav-tab-btn" data-tab="analyses" data-i18n="navAnalyses">Analyser och expertbedömningar</button>
