@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3163,
-  "last_archived_rotation": "2026-10-25T16:01:28.901803+00:00",
+  "total_archived_events": 3164,
+  "last_archived_rotation": "2026-10-25T16:11:27.389639+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-24-791e09",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T19:07:00+03:00",
+      "title_sv": "Drönare attackerar industricentrum i ryska Omsk – sociala medier",
+      "title_en": "Drones attack industrial hub in Russia's Omsk – social media",
+      "summary_sv": "Drönare har attackerat ett industricentrum i den ryska staden Omsk, som ligger mer än 2 500 km från Ukraina.",
+      "summary_en": "Drones have attacked an industrial hub in the Russian city of Omsk, located more than 2,500 km from Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177846-drones-attack-industrial-hub-in-russias-omsk-social-media.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-24-c46c1b",
       "date": "2026-10-24",
@@ -1483,9 +1522,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "uk",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
