@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 3168,
-  "last_archived_rotation": "2026-10-25T17:52:39.235871+00:00",
+  "total_archived_events": 3170,
+  "last_archived_rotation": "2026-10-25T18:01:33.376096+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-24-a2dcf0",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T20:58:00+03:00",
+      "title_sv": "Russian airstrikes on Sloviansk injure two people and damage buildings",
+      "title_en": "Russian airstrikes on Sloviansk injure two people and damage buildings",
+      "summary_sv": "The Russians attacked Sloviansk in the Donetsk region with high-explosive bombs, damaging residential and administrative buildings, an infrastructure facility, and two educational institutions; at least two people were wounded.",
+      "summary_en": "The Russians attacked Sloviansk in the Donetsk region with high-explosive bombs, damaging residential and administrative buildings, an infrastructure facility, and two educational institutions; at least two people were wounded.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177867-russian-airstrikes-on-sloviansk-injure-two-people-and-damage-buildings.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-10-24-de9d79",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T20:58:00+03:00",
+      "title_sv": "Drönare attackerar en stor kemisk fabrik och OZON logistiknav i ryska Omsk",
+      "title_en": "Drones attack major chemical plant and OZON logistics hub in Russia's Omsk",
+      "summary_sv": "Drönare attackerade kemiska fabriken Omsky Kauchuk i Omsk, Ryssland, mer än 2 500 kilometer från Ukraina, rapporterade Exilenova+ OSINT-projektet den 24 oktober.",
+      "summary_en": "Drones attacked the Omsky Kauchuk chemical plant in Omsk, Russia, more than 2,500 kilometers from Ukraine, the Exilenova+ OSINT project reported on Oct. 24.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/drones-attack-chemical-plant-in-russia-s-omsk-reports-say-50653085.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-24-d99223",
       "date": "2026-10-24",
@@ -1674,9 +1752,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
