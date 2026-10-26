@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 3190,
-  "last_archived_rotation": "2026-10-26T07:01:32.794586+00:00",
+  "total_archived_events": 3192,
+  "last_archived_rotation": "2026-10-26T07:31:45.580522+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-25-600ebd",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T09:30:00+02:00",
+      "title_sv": "Rysk drönare attackerar fem våningar högt bostadshus i Vinnytsia, sex skadade",
+      "title_en": "Russian drone strikes five-story apartment building in Vinnytsia, six injured",
+      "summary_sv": "Ryska styrkor attackerade ett femvånings bostadshus i Vinnytsia med en drönare och skadade sex personer.",
+      "summary_en": "Russian forces attacked a five-story residential building in Vinnytsia with a drone, injuring six people.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177926-russian-drone-strikes-fivestory-apartment-building-in-vinnytsia-six-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-10-25-7e55db",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T09:09:00+02:00",
+      "title_sv": "Krigsuppdatering: 193 stridssammandrabbningar på frontlinjen under det senaste dygnet, Ryssland pressar hårdast på tre axlar",
+      "title_en": "War update: 193 combat clashes on front line over past day, Russia presses hardest on three axes",
+      "summary_sv": "Ukrainas försvarsstyrkor deltog i 193 stridsdrabbningar med ryska inkräktare längs frontlinjen den 24 oktober.",
+      "summary_en": "Ukraine's Defense Forces engaged in 193 combat clashes with Russian invaders along the front line on October 24.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177924-war-update-193-combat-clashes-on-front-line-over-past-day-russia-presses-hardest-on-three-axes.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-25-c72379",
       "date": "2026-10-25",
@@ -441,10 +518,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "eu",
+        "usa",
         "uk",
+        "ukraina",
         "ryssland"
       ],
       "syfte": {
@@ -466,10 +543,10 @@
       "arkiverad": true,
       "tags": [
         "Civila mål",
+        "Drönare",
         "Robotanfall",
-        "Ukraina",
         "Kyjiv",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -750,8 +827,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
