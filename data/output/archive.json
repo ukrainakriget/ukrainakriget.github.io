@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 3184,
-  "last_archived_rotation": "2026-10-26T04:31:23.027915+00:00",
+  "total_archived_events": 3185,
+  "last_archived_rotation": "2026-10-26T05:01:39.510205+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-25-21feeb",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T06:56:00+02:00",
+      "title_sv": "Cirka 63 % av tyskarna stöder att bibehålla eller öka militärt bistånd till Ukraina",
+      "title_en": "About 63% of Germans support maintaining or increasing military aid to Ukraine",
+      "summary_sv": "I Tyskland stöder 63 % av medborgarna att bibehålla eller öka den nuvarande nivån av militärt stöd till Ukraina från europeiska länder, medan 32 % förordar en minskning.",
+      "summary_en": "In Germany, 63% of citizens support maintaining or increasing the current level of military support for Ukraine from European countries, while 32% favor reducing it.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4177901-about-63-of-germans-support-maintaining-or-increasing-military-aid-to-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-25-adc6d3",
       "date": "2026-10-25",
@@ -209,10 +247,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "ukraina",
         "ryssland",
+        "eu",
+        "usa",
         "uk"
       ],
       "syfte": {
@@ -233,11 +271,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Kyjiv",
-        "Ukraina",
         "Robotanfall",
-        "Civila mål"
+        "Drönare",
+        "Civila mål",
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -512,15 +550,15 @@
       "timestamp": "2026-10-24T21:25:58+00:00",
       "title_sv": "Ukrainas militär säger att Starlink-satellitförbindelsen är stabil efter de senaste restriktioner",
       "title_en": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-      "summary_sv": "Men Elon Musk, vars företag Space X äger Starlink, anklagar den ukrainska militären för att ha brutit mot företagets villkor. Ukrainas militär har en \"stabil koppling till Starlink\", sa den ukrainska regeringen, 10 dagar efter att dess förmåga att använda satellitkommunikationssystemet plötsligt begränsades.",
+      "summary_sv": "Men Elon Musk, vars företag Space X äger Starlink, anklagar den ukrainska militären för att ha brutit mot företagets villkor. Ukrainas militär har en \"stabil koppling till Starlink\", sade den ukrainska regeringen, 10 dagar efter att dess förmåga att använda satellitkommunikationssystemet plötsligt begränsades.",
       "summary_en": "But Elon Musk, whose company Space X owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system was suddenly restricted.But hours after the announcement, Space X CEO Elon...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
