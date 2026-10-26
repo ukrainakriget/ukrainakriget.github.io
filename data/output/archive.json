@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 3225,
-  "last_archived_rotation": "2026-10-26T15:01:45.242042+00:00",
+  "total_archived_events": 3227,
+  "last_archived_rotation": "2026-10-26T15:31:31.157443+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-25-9d6ff4",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T17:27:00+02:00",
+      "title_sv": "Kyjiv planerar att lägga till mer än 1,5 GW termisk produktionskapacitet",
+      "title_en": "Kyiv plans to add more than 1.5 GW of thermal generation capacity",
+      "summary_sv": "Kyjiv planerar att lägga mer än 1,5 GW extra termisk produktionskapacitet online, inklusive installation av reservpannhus.",
+      "summary_en": "Kyiv plans to bring more than 1.5 GW of additional thermal generation capacity online, including the installation of backup boiler houses.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4178024-kyiv-plans-to-add-more-than-15-gw-of-thermal-generation-capacity.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-25-bbe4b5",
       "date": "2026-10-25",
@@ -386,6 +423,46 @@
         "Ukraina",
         "Energi",
         "Robotanfall"
+      ]
+    },
+    {
+      "id": "evt-2026-10-25-c2e49f",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T15:22:13+00:00",
+      "title_sv": "Ukraina attackerar rysk fabrik som levererar batterier till ballistiska missiler och glidbomber med Storm Shadow-missiler, rapporterar OSINT – ytterligare en träff på Rysslands vapenförsörjningskedja",
+      "title_en": "Ukraine strikes Russian plant supplying batteries for ballistic missiles and glide bombs with Storm Shadow missiles, OSINT reports – another hit on Russia’s weapons supply chain",
+      "summary_sv": "Anläggningen är enligt uppgift Rysslands enda tillverkare av batterier för flygbombstyrningsmoduler och en nyckelleverantör av specialiserade kraftkällor för missilsystem som används i attacker mot Ukraina.",
+      "summary_en": "The plant is reportedly Russia’s only producer of batteries for glide bomb guidance modules and a key supplier of specialized power sources for missile systems used in attacks on Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/25/ukraine-strikes-russian-plant-supplying-batteries-for-ballistic-missiles-and-glide-bombs/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1140,10 +1217,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "ukraina",
-        "usa"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1164,8 +1241,8 @@
       "arkiverad": true,
       "tags": [
         "Civila mål",
-        "Charkiv",
-        "Ukraina"
+        "Ukraina",
+        "Charkiv"
       ]
     },
     {
@@ -1295,8 +1372,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
