@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 3187,
-  "last_archived_rotation": "2026-10-26T06:01:48.760892+00:00",
+  "total_archived_events": 3188,
+  "last_archived_rotation": "2026-10-26T06:08:59.391927+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-25-a4e6ca",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T08:06:00+02:00",
+      "title_sv": "Ryska inkräktare attackerar Mykolaiv-regionen med drönare under det senaste dygnet och orsakar skada",
+      "title_en": "Russian invaders attack Mykolaiv region with drones over past day, causing damage",
+      "summary_sv": "Ryska styrkor attackerade Mykolaiv-regionen med UAV av Shahed-typ och FPV-drönare under det senaste dygnet och orsakade skada.",
+      "summary_en": "Russian forces attacked the Mykolaiv region with Shahed-type UAVs and FPV drones over the past day, causing damage.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4177907-russian-invaders-attack-mykolaiv-region-with-drones-over-past-day-causing-damage.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-10-25-8428d2",
       "date": "2026-10-25",
@@ -326,9 +364,9 @@
       "parter_intressenter": [
         "usa",
         "uk",
-        "ukraina",
         "ryssland",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -349,10 +387,10 @@
       "arkiverad": true,
       "tags": [
         "Robotanfall",
-        "Civila mål",
+        "Ukraina",
         "Drönare",
         "Kyjiv",
-        "Ukraina"
+        "Civila mål"
       ]
     },
     {
@@ -633,9 +671,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "uk",
-        "ukraina",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
