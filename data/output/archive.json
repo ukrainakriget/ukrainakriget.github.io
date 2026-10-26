@@ -1,6 +1,6 @@
 {
-  "total_archived_events": 3180,
-  "last_archived_rotation": "2026-10-26T02:31:18.985417+00:00",
+  "total_archived_events": 3181,
+  "last_archived_rotation": "2026-10-26T03:01:43.683578+00:00",
   "events": [
     {
       "id": "evt-2026-10-25-b897a1",
@@ -85,6 +85,49 @@
         }
       ],
       "cluster_count": 2
+    },
+    {
+      "id": "evt-2026-10-25-fff32c",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T02:37:44+00:00",
+      "title_sv": "Krigsbriefing i Ukraina: Kyjiv riktar sig till det ryskockuperade Krim när Storbritannien och Frankrike genomför gemensamma militärövningar",
+      "title_en": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
+      "summary_sv": "Krim-attacker orsakar vatten- och strömavbrott; krigsspel utformat för att visa hur Nato-länder kunde försvaras mitt i rädslan för rysk aggression.",
+      "summary_en": "Crimea strikes cause water and power cuts; war game designed to show how Nato countries could be defended amid fears of Russian aggression.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/25/ukraine-war-briefing-kyiv-targets-russian-occupied-crimea-as-uk-and-france-conduct-joint-military-exercise",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Civila mål",
+        "Ukraina",
+        "Robotanfall",
+        "Kyjiv"
+      ]
     },
     {
       "id": "evt-2026-10-25-05c258",
@@ -358,14 +401,14 @@
       "timestamp": "2026-10-24T21:25:58+00:00",
       "title_sv": "Ukrainas militär säger att Starlink-satellitförbindelsen är stabil efter de senaste restriktioner",
       "title_en": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-      "summary_sv": "Men Elon Musk, vars företag Space X äger Starlink, anklagar den ukrainska militären för att ha brutit mot företagets villkor. Ukrainas militär har en \"stabil koppling till Starlink\", sa den ukrainska regeringen, 10 dagar efter att dess förmåga att använda satellitkommunikationssystemet plötsligt begränsades.",
+      "summary_sv": "Men Elon Musk, vars företag Space X äger Starlink, anklagar den ukrainska militären för att ha brutit mot företagets villkor. Ukrainas militär har en \"stabil koppling till Starlink\", sade den ukrainska regeringen, 10 dagar efter att dess förmåga att använda satellitkommunikationssystemet plötsligt begränsades.",
       "summary_en": "But Elon Musk, whose company Space X owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system was suddenly restricted.But hours after the announcement, Space X CEO Elon...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
