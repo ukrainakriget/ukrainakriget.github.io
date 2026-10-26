@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 3206,
-  "last_archived_rotation": "2026-10-26T11:01:41.228348+00:00",
+  "total_archived_events": 3207,
+  "last_archived_rotation": "2026-10-26T11:31:31.000797+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-25-8df8af",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T13:27:00+02:00",
+      "title_sv": "Rysk attack skadar industrianläggning och hus i Vinnytsia oblast",
+      "title_en": "Russian attack damages industrial facility and house in Vinnytsia Oblast",
+      "summary_sv": "En civil industrianläggning och ett privat hus skadades i Vinnytsia oblast i en rysk attack på morgonen den 25 oktober, enligt den regionala militärguvernören Natalia Zabolotna.",
+      "summary_en": "A civilian industrial facility and a private house were damaged in Vinnytsia Oblast in a Russian attack on the morning of Oct. 25, according to regional military governor Natalia Zabolotna.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-attack-on-vinnytsia-oblast-industrial-facility-and-private-home-damaged-50653171.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-10-25-4a8d1a",
       "date": "2026-10-25",
@@ -427,8 +465,8 @@
       "arkiverad": true,
       "tags": [
         "Civila mål",
-        "Ukraina",
-        "Charkiv"
+        "Charkiv",
+        "Ukraina"
       ]
     },
     {
@@ -734,8 +772,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1060,11 +1098,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "eu",
+        "usa",
+        "ryssland",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1085,10 +1123,10 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
-        "Ukraina",
         "Kyjiv",
+        "Robotanfall",
         "Civila mål",
-        "Robotanfall"
+        "Ukraina"
       ]
     },
     {
