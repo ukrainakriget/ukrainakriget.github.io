@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 3260,
-  "last_archived_rotation": "2026-10-27T05:01:50.914522+00:00",
+  "total_archived_events": 3262,
+  "last_archived_rotation": "2026-10-27T05:31:25.929121+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-26-25697b",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T07:28:00+02:00",
+      "title_sv": "Trump-administrationen stöder Orbán för FN:s generalsekreterare – media",
+      "title_en": "Trump Administration backs Orbán for UN Secretary-General – media",
+      "summary_sv": "Trump-administrationen stöder Ungerns förre premiärminister Viktor Orbán för posten som FN:s generalsekreterare, i hopp om att säkra stöd från Ryssland och Kina, enligt mediarapporter.",
+      "summary_en": "The Trump Administration is backing former Hungarian Prime Minister Viktor Orbán for the post of UN Secretary-General, hoping to secure support from Russia and China, according to media reports.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "kina",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4178104-trump-administration-backs-orban-for-un-secretarygeneral-media.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-26-8da83b",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T07:05:00+02:00",
+      "title_sv": "Rysk attack mot Zaporizjzja skadar två, skadar hem och fordon",
+      "title_en": "Russian strike on Zaporizhzhia injures two, damages homes and vehicles",
+      "summary_sv": "Två personer skadades, privata hem och fordon skadades och en brand bröt ut efter en rysk attack mot Zaporizjzja.",
+      "summary_en": "Two people were injured, private homes and vehicles were damaged, and a fire broke out following a Russian strike on Zaporizhzhia.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178103-russian-strike-on-zaporizhzhia-injures-two-damages-homes-and-vehicles.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Zaporizjzja"
+      ]
+    },
     {
       "id": "evt-2026-10-26-3201ce",
       "date": "2026-10-26",
@@ -236,11 +314,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "eu",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -260,11 +338,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
         "Ukraina",
-        "Kyjiv",
+        "Civila mål",
         "Drönare",
-        "Robotanfall"
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
