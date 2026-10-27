@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 3257,
-  "last_archived_rotation": "2026-10-27T02:31:34.787150+00:00",
+  "total_archived_events": 3258,
+  "last_archived_rotation": "2026-10-27T03:01:37.749418+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-26-f111ac",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T04:50:00+02:00",
+      "title_sv": "Zelensky: Bipartisan stöd för Ukraina i USA växer sig starkare",
+      "title_en": "Zelensky: Bipartisan support for Ukraine in U.S. grows stronger",
+      "summary_sv": "Stödet för Ukraina i USA bland republikaner och demokrater är nu starkare än det har varit det senaste och ett halvt året.",
+      "summary_en": "Support for Ukraine in the U.S. among Republicans and Democrats is now stronger than it has been in the past year and a half.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4178090-zelensky-bipartisan-support-for-ukraine-in-us-grows-stronger.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-26-ba6bfa",
       "date": "2026-10-26",
@@ -122,10 +159,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "eu",
         "ukraina",
-        "ryssland",
         "uk"
       ],
       "syfte": {
@@ -146,10 +183,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Civila mål",
+        "Drönare",
         "Robotanfall",
         "Ukraina",
-        "Drönare",
-        "Civila mål",
         "Kyjiv"
       ]
     },
