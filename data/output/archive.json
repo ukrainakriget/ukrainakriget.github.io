@@ -1,7 +1,42 @@
 {
-  "total_archived_events": 3262,
-  "last_archived_rotation": "2026-10-27T05:36:58.863235+00:00",
+  "total_archived_events": 3263,
+  "last_archived_rotation": "2026-10-27T06:01:36.285279+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-26-6db270",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T07:50:00+02:00",
+      "title_sv": "Vučić medger nederlag i parlamentsvalet",
+      "title_en": "Vučić concedes defeat in Parliamentary election",
+      "summary_sv": "Aleksandar Vučić, som tills nyligen var Serbiens president, har medgett att hans parti förlorade parlamentsvalet till en studentledd proteströrelse.",
+      "summary_en": "Aleksandar Vučić, who until recently served as Serbia’s President, has conceded that his party lost the parliamentary election to a student-led protest movement.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4178107-vucic-concedes-defeat-in-parliamentary-election.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-26-25697b",
       "date": "2026-10-26",
@@ -314,11 +349,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
-        "usa",
         "ryssland",
-        "eu"
+        "uk",
+        "eu",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -338,10 +373,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare",
         "Kyjiv",
+        "Drönare",
         "Civila mål",
+        "Ukraina",
         "Robotanfall"
       ]
     },
