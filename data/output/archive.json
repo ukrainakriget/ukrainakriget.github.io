@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3366,
-  "last_archived_rotation": "2026-10-27T21:01:57.123793+00:00",
+  "total_archived_events": 3367,
+  "last_archived_rotation": "2026-10-27T21:29:12.240275+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-26-1e95df",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:28:00+02:00",
+      "title_sv": "Rysk attack mot energianläggning i Chernivtsi-regionen orsakar strömavbrott",
+      "title_en": "Russian attack on energy facility in Chernivtsi region causes power outages",
+      "summary_sv": "I Chernivtsi-regionen skadades en kraftanläggning när skräp från en rysk militär jetdriven drönare föll, vilket orsakade ett strömavbrott för konsumenterna.",
+      "summary_en": "In the Chernivtsi region, a power facility was damaged when debris from a Russian military jet-powered drone fell, causing a power outage for consumers.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178429-russian-attack-on-energy-facility-in-chernivtsi-region-causes-power-outages.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Drönare",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-26-906691",
       "date": "2026-10-26",
@@ -1241,8 +1280,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "eu",
-        "usa"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1927,11 +1966,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
-        "eu",
         "ukraina",
-        "uk"
+        "usa",
+        "uk",
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1951,8 +1990,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -3388,11 +3427,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
-        "eu",
         "ukraina",
-        "uk"
+        "usa",
+        "uk",
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
