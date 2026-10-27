@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 3259,
-  "last_archived_rotation": "2026-10-27T04:31:18.871144+00:00",
+  "total_archived_events": 3260,
+  "last_archived_rotation": "2026-10-27T05:01:50.914522+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-26-3201ce",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T06:42:00+02:00",
+      "title_sv": "Ryska styrkor attackerar energianläggning i Khmelnytskyi-regionen",
+      "title_en": "Russian forces attack energy facility in Khmelnytskyi region",
+      "summary_sv": "Ryska styrkor attackerade en energianläggning i Kamianets-Podilskyi-distriktet i Khmelnytskyi-regionen och orsakade akuta strömavbrott.",
+      "summary_en": "Russian forces attacked an energy facility in the Kamianets-Podilskyi district of the Khmelnytskyi region, causing emergency power outages.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178102-russian-forces-attack-energy-facility-in-khmelnytskyi-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-26-2f7d0a",
       "date": "2026-10-26",
@@ -198,11 +236,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "eu",
         "usa",
-        "uk",
-        "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -222,10 +260,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Civila mål",
-        "Drönare",
+        "Ukraina",
         "Kyjiv",
+        "Drönare",
         "Robotanfall"
       ]
     },
