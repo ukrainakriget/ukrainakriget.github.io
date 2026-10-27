@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3371,
-  "last_archived_rotation": "2026-10-27T23:32:47.458265+00:00",
+  "total_archived_events": 3372,
+  "last_archived_rotation": "2026-10-27T23:45:12.505056+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-2263e7",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T01:34:00+02:00",
+      "title_sv": "Partisaner samlar in underrättelser om säkerhet vid transformatorstationen i det ryskockuperade Dzhankoi",
+      "title_en": "Partisans gather intelligence on security at substation in Russian-occupied Dzhankoi",
+      "summary_sv": "En agent för ATESH-partisanrörelsen som tjänstgör i den ryska väpnade styrkan har tillhandahållit information om säkerhetsarrangemangen vid transformatorstationen Vostochnaya (Dzhankoi-transformatorstationen) på det tillfälligt ockuperade Krim, som bevakas av ryska trupper.",
+      "summary_en": "An agent of the ATESH partisan movement serving in the Russian Armed Forces has provided information on the security arrangements at the Vostochnaya substation (Dzhankoi substation) in temporarily occupied Crimea, which is guarded by Russian troops.",
+      "location_name": "Krym",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178158-partisans-gather-intelligence-on-security-at-substation-in-russianoccupied-dzhankoi.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi",
+        "Krym"
+      ]
+    },
     {
       "id": "evt-2026-10-27-f2331d",
       "date": "2026-10-27",
@@ -1432,8 +1471,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2118,11 +2157,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "eu",
         "ryssland",
+        "eu",
         "usa",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
