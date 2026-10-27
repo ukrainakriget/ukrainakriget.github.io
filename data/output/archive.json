@@ -1,7 +1,82 @@
 {
-  "total_archived_events": 3275,
-  "last_archived_rotation": "2026-10-27T07:47:35.533678+00:00",
+  "total_archived_events": 3277,
+  "last_archived_rotation": "2026-10-27T08:02:01.447339+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-26-1ae55c",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T09:50:00+02:00",
+      "title_sv": "Ryska styrkor slog igen köpcentret i Zaporizjzja och utlöste eld",
+      "title_en": "Russian forces hit shopping mall in Zaporizhzhia again, sparking fire",
+      "summary_sv": "Ryska styrkor slog igen ett köpcentrum i Zaporizjzja och utlöste en brand.",
+      "summary_en": "Russian forces struck a shopping mall in Zaporizhzhia again, sparking a fire.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178130-russian-forces-hit-shopping-mall-in-zaporizhzhia-again-sparking-fire.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Zaporizjzja",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-26-8507a5",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T09:50:00+02:00",
+      "title_sv": "Kyjiv oblast tredubblar takten för att befästa 110 kV kraftstationer för vintern",
+      "title_en": "Kyiv Oblast triples pace of fortifying 110 kV power substations for winter",
+      "summary_sv": "Takten i byggnadsarbetena för att befästa 110 k V elektriska transformatorstationer och andra kritiska infrastrukturanläggningar över Kyjiv oblast har ökat mer än tredubblats under de senaste två veckorna, meddelade ministeriet för infrastruktur den 23 oktober.",
+      "summary_en": "The pace of construction works to fortify 110 k V electrical substations and other critical infrastructure facilities across Kyiv Oblast has surged more than threefold over the past two weeks, Infrastructure Ministry announced on Oct. 23.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/business/kyiv-oblast-triples-power-substations-fortification-effort-50653304.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-10-26-f75e7a",
       "date": "2026-10-26",
@@ -816,9 +891,9 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "ryssland",
         "uk",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -838,11 +913,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Robotanfall",
+        "Kyjiv",
         "Civila mål",
         "Drönare",
-        "Ukraina",
-        "Robotanfall",
-        "Kyjiv"
+        "Ukraina"
       ]
     },
     {
