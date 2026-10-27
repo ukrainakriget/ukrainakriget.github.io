@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 3369,
-  "last_archived_rotation": "2026-10-27T22:31:36.626249+00:00",
+  "total_archived_events": 3371,
+  "last_archived_rotation": "2026-10-27T23:01:50.796285+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-f2331d",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T00:38:00+02:00",
+      "title_sv": "Polsk Sejm-talare: Hotet från Ryssland växer",
+      "title_en": "Polish Sejm Speaker: Threat from Russia is growing",
+      "summary_sv": "Den polske Sejm-talaren Włodzimierz Czarzasty har krävt att Rysslands agerande ska övervakas dagligen och säger att hotet från Moskva växer, även om det inte finns någon anledning till panik.",
+      "summary_en": "Polish Sejm Speaker Włodzimierz Czarzasty has called for Russia’s actions to be monitored on a daily basis, saying the threat from Moscow is growing, although there is no reason to panic.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4178105-polish-sejm-speaker-threat-from-russia-is-growing.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-26-bd6fc1",
       "date": "2026-10-26",
@@ -185,6 +222,44 @@
       "effekt_maluppfyllnad": "delvis",
       "kalla": "The New Voice of Ukraine",
       "kallurl": "https://english.nv.ua/nation/analyst-zelenskyy-now-avoids-unpopular-war-issues-50653589.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-26-4b92c2",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T22:35:10+00:00",
+      "title_sv": "Rysk-ukrainska kriget, dag 1706: På två veckor sanktionerade Washington domstol mot Putin, avstod från sina egna sanktioner mot Ryssland och kallade honom humanitär",
+      "title_en": "Russo-Ukrainian war, day 1706: In two weeks, Washington sanctioned court prosecuting Putin, waived its own sanctions on Russia, and called him humanitarian",
+      "summary_sv": "I Bryssel planeras säkerhetssamtal om Ukraina till den 27 eller 28 oktober.",
+      "summary_en": "In Brussels, security talks on Ukraine are planned for 27 or 28 October.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/27/russo-ukrainian-war-day-1706-in-two-weeks-washington-sanctioned-court-prosecuting-putin-waived-its-own-sanctions-on-russia-and-called-him-humanitarian/",
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
@@ -1356,9 +1431,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "eu",
-        "usa"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2043,9 +2118,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "eu",
+        "ryssland",
         "ukraina",
         "uk"
       ],
