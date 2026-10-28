@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3381,
-  "last_archived_rotation": "2026-10-28T04:31:23.858534+00:00",
+  "total_archived_events": 3382,
+  "last_archived_rotation": "2026-10-28T05:01:34.713692+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-9f0b6c",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T06:58:00+02:00",
+      "title_sv": "Melania Trumps chefsrådgivare: Ryssland lovar att respektera Oleshky-invånarnas evakueringsval",
+      "title_en": "Melania Trump’s chief adviser: Russia pledges to respect Oleshky residents’ evacuation choices",
+      "summary_sv": "Ryssland har försäkrat Ukraina och USA att de kommer att respektera valet av invånare i den tillfälligt ockuperade staden Oleshky i Cherson-regionen angående deras evakueringsdestination.",
+      "summary_en": "Russia has assured Ukraine and the United States that it will respect the choice of residents of the temporarily occupied town of Oleshky in the Kherson region regarding their evacuation destination.",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4178445-melania-trumps-chief-adviser-russia-pledges-to-respect-oleshky-residents-evacuation-choices.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Cherson"
+      ]
+    },
     {
       "id": "evt-2026-10-27-2f5c1f",
       "date": "2026-10-27",
@@ -352,11 +391,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
-        "uk",
         "eu",
-        "ukraina"
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -376,10 +415,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Kyjiv",
         "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
