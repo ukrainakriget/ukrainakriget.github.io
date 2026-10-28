@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 3384,
-  "last_archived_rotation": "2026-10-28T06:01:38.224665+00:00",
+  "total_archived_events": 3386,
+  "last_archived_rotation": "2026-10-28T06:23:44.745444+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-e7f65f",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T08:08:00+02:00",
+      "title_sv": "Konotop går in på fjärde dagen av total blackout med noll återhämtningstid",
+      "title_en": "Konotop enters fourth day of total blackout with zero recovery timeline",
+      "summary_sv": "Ryska drönareattacker lämnade Konotop utan elektricitet för en fjärde dag i rad utan någon tidslinje för återställning, sa borgmästare Artem Semenikhin den 27 oktober.",
+      "summary_en": "Russian drone strikes left Konotop without electricity for a fourth straight day with no restoration timeline, Mayor Artem Semenikhin said on Oct. 27.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/konotop-enters-fourth-day-of-blackout-mayor-50653623.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Energi",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-27-cfa3a9",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T08:07:00+02:00",
+      "title_sv": "Rysk nattattack mot Kyjiv orsakar flera träffar, bland annat på administrativ byggnad",
+      "title_en": "Russian nighttime attack on Kyiv causes several hits, including on administrative building",
+      "summary_sv": "Som ett resultat av ännu en ballistisk attack från ryska styrkor i Podilsky-distriktet i huvudstaden, träffades en administrativ byggnad.",
+      "summary_en": "As a result of yet another ballistic attack by Russian forces in the Podilsky district of the capital, an administrative building was hit.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178465-russian-nighttime-attack-on-kyiv-causes-several-hits-including-on-administrative-building.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-27-832c21",
       "date": "2026-10-27",
@@ -464,17 +542,17 @@
       "id": "evt-2026-10-27-28492d",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T01:30:27+00:00",
-      "title_sv": "Ukraina krigsgenomgång: Ryssland attackerar Kyjiv timmar innan vapenstilleståndet börjar i den krigshärjade staden Oleshky",
+      "title_sv": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
       "title_en": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
-      "summary_sv": "Zelenskyy säger att ballistiska missiler träffar trånga områden utan militära anläggningar i närheten; vapenvila kommer mitt i rapporter om växande humanitär kris.",
+      "summary_sv": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis.",
       "summary_en": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
+        "ryssland",
+        "uk",
         "eu",
         "usa"
       ],
@@ -496,10 +574,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Robotanfall",
         "Drönare",
-        "Ukraina"
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
