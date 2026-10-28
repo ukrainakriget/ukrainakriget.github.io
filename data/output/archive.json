@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 3380,
-  "last_archived_rotation": "2026-10-28T04:01:47.857474+00:00",
+  "total_archived_events": 3381,
+  "last_archived_rotation": "2026-10-28T04:31:23.858534+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-2f5c1f",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T06:29:00+02:00",
+      "title_sv": "Zelensky fattar beslut om nationell säkerhets- och försvarsstrategi om nationell säkerhetsstrategi",
+      "title_en": "Zelensky enacts NSDC decision on national security strategy",
+      "summary_sv": "President Volodymyr Zelensky har antagit beslutet från Nationella säkerhets- och försvarsrådet \"Om uppdatering av Ukrainas nationella säkerhetsstrategi.\"",
+      "summary_en": "President Volodymyr Zelensky has enacted the decision of the National Security and Defense Council “On Updating Ukraine’s National Security Strategy.”",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4178442-zelensky-enacts-nsdc-decision-on-national-security-strategy.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-27-27d214",
       "date": "2026-10-27",
@@ -316,11 +352,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
-        "ukraina",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -340,10 +376,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
-        "Robotanfall",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
