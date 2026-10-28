@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 3383,
-  "last_archived_rotation": "2026-10-28T05:35:50.530652+00:00",
+  "total_archived_events": 3384,
+  "last_archived_rotation": "2026-10-28T06:01:38.224665+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-832c21",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T07:44:00+02:00",
+      "title_sv": "Zelenskij efter rysk attack mot Kyjiv: Förseningar i luftvärnsstöd Ukraina möjliggör terrorism",
+      "title_en": "Zelensky after Russian strike on Kyiv: Delays in air defense support Ukraine enable terrorism",
+      "summary_sv": "Mitt i det ständiga hotet från ryska luftattacker tjänar konstgjorda förseningar i leveransen av luftförsvarssystem för att skydda Ukraina bara till att underblåsa terrorn.",
+      "summary_en": "Amid the constant threat of Russian airstrikes, artificial delays in the delivery of air defense systems to protect Ukraine only serve to fuel terror.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178448-zelensky-after-russian-strike-on-kyiv-delays-in-air-defense-support-ukraine-enable-terrorism.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Luftförsvar",
+        "Kyjiv",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-10-27-a127f9",
       "date": "2026-10-27",
@@ -432,10 +473,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "usa",
-        "eu",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -455,9 +496,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Kyjiv",
         "Robotanfall",
         "Drönare",
-        "Kyjiv",
         "Ukraina"
       ]
     },
