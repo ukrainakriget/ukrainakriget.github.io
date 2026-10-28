@@ -1,7 +1,42 @@
 {
-  "total_archived_events": 3377,
-  "last_archived_rotation": "2026-10-28T01:31:33.079822+00:00",
+  "total_archived_events": 3378,
+  "last_archived_rotation": "2026-10-28T02:01:44.765647+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-80ad01",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T03:32:00+02:00",
+      "title_sv": "Ekonomiministeriet reviderar återigen BNP-prognosen för 2026 nedåt",
+      "title_en": "Economy Ministry again revises 2026 GDP forecast downward",
+      "summary_sv": "Ekonomiministeriet reviderar återigen sin prognos för BNP-tillväxten 2026, denna gång mot en lägre uppskattning.",
+      "summary_en": "The Ministry of Economy is once again revising its forecast for GDP growth in 2026, this time toward a lower estimate.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4178224-economy-ministry-again-revises-2026-gdp-forecast-downward.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-27-dd3bf4",
       "date": "2026-10-27",
@@ -198,7 +233,7 @@
       "id": "evt-2026-10-27-28492d",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T01:30:27+00:00",
-      "title_sv": "Ukrainas krigsgenomgång: Ryssland attackerar Kyjiv timmar innan vapenstilleståndet börjar i den krigshärjade staden Oleshky",
+      "title_sv": "Ukraina krigsgenomgång: Ryssland attackerar Kyjiv timmar innan vapenstilleståndet börjar i den krigshärjade staden Oleshky",
       "title_en": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
       "summary_sv": "Zelenskyy säger att ballistiska missiler träffar trånga områden utan militära anläggningar i närheten; vapenvila kommer mitt i rapporter om växande humanitär kris.",
       "summary_en": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis.",
@@ -206,11 +241,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "uk",
         "ukraina",
         "usa",
-        "ryssland",
-        "uk",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -230,10 +265,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina",
         "Drönare",
-        "Kyjiv"
+        "Ukraina",
+        "Kyjiv",
+        "Robotanfall"
       ]
     },
     {
@@ -1665,9 +1700,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "ukraina",
         "eu",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2352,11 +2387,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "uk",
         "ukraina",
         "usa",
-        "ryssland",
-        "uk",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
