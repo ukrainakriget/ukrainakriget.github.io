@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 3494,
-  "last_archived_rotation": "2026-10-28T19:31:38.490747+00:00",
+  "total_archived_events": 3496,
+  "last_archived_rotation": "2026-10-28T20:01:43.576392+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-070bcf",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T21:42:00+02:00",
+      "title_sv": "Zelensky: Ryssland avfyrar över 100 ballistiska missiler mot Kyjiv, regionen på två veckor",
+      "title_en": "Zelensky: Russia fires over 100 ballistic missiles at Kyiv, region in two weeks",
+      "summary_sv": "Under de senaste två veckorna har Ryssland använt mer än 100 ballistiska missiler för att attackera Kyjiv och Kyjiv-regionen. Ukraina saknar för närvarande missiler för sina Patriot-luftförsvarssystem, samtidigt som leveranser av bistånd försenas.",
+      "summary_en": "Over the past two weeks, Russia has used more than 100 ballistic missiles to strike Kyiv and the Kyiv region. Ukraine currently lacks missiles for its Patriot air defense systems, while deliveries of aid are being delayed.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178769-zelensky-russia-fires-over-100-ballistic-missiles-at-kyiv-region-in-two-weeks.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv",
+        "Robotanfall",
+        "Luftförsvar"
+      ]
+    },
     {
       "id": "evt-2026-10-27-959bec",
       "date": "2026-10-27",
@@ -341,6 +382,44 @@
       "tags": [
         "Ukraina",
         "Cherson"
+      ]
+    },
+    {
+      "id": "evt-2026-10-27-14db6f",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T19:57:44+00:00",
+      "title_sv": "Ukraina säger att de har avslutat sin del av FREYJA, Europas gemensamma antiballistiska projekt. Partners arbete pågår fortfarande",
+      "title_en": "Ukraine says it has finished its part of FREYJA, Europe’s joint anti-ballistic project. Partners’ work is still underway",
+      "summary_sv": "Zelenskyy berättade för ABC News den 23 oktober att Ukraina bara fick 24 US Patriot-interceptors från USA på tre månader.",
+      "summary_en": "Zelenskyy told ABC News on 23 October that Ukraine got only 24 US Patriot interceptors from the US in three months.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "eu",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/27/ukraine-says-it-has-finished-its-part-of-freyja-europes-joint-anti-ballistic-project-partners-work-is-still-underway/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
       ]
     },
     {
@@ -698,9 +777,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
+        "uk",
         "ukraina",
-        "uk"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1002,11 +1081,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
+        "uk",
         "eu",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1026,8 +1105,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Cherson",
         "Drönare",
+        "Cherson",
         "Civila mål",
         "Ukraina"
       ]
@@ -1314,11 +1393,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
+        "uk",
         "eu",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3557,11 +3636,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
+        "uk",
         "eu",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3581,10 +3660,10 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Kyjiv",
-        "Ukraina",
-        "Robotanfall"
+        "Infrastruktur",
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
