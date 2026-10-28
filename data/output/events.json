@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T01:02:01.788629+00:00",
-  "total_active_events": 139,
+  "last_updated": "2026-10-28T01:31:33.079822+00:00",
+  "total_active_events": 138,
   "events": [
     {
       "id": "evt-2026-10-28-afe515",
@@ -8,17 +8,17 @@
       "timestamp": "2026-10-28T02:49:00+02:00",
       "title_sv": "EU är fortfarande starkt polariserat mot att återuppta rysk gasimport, säger experten",
       "title_en": "EU remains firmly polarized against resuming Russian gas imports, expert says",
-      "summary_sv": "Oberoende av USA:s vändningar till Kreml har EU för närvarande en fast konsensus om att stoppa importen av rysk gas, sa den tidigare ukrainska ambassadören i EU, Kostiantyn Yelisieiev, till NV Radio den 27 oktober.",
+      "summary_sv": "Oberoende av USA:s vändningar till Kreml, har EU för närvarande en fast konsensus om att stoppa importen av rysk gas, sa den tidigare ukrainska ambassadören i EU, Kostiantyn Yelisieiev, till NV Radio den 27 oktober.",
       "summary_en": "Regardless of U.S. overtures to the Kremlin, the European Union currently has a firm consensus on ending imports of Russian gas, former Ukrainian ambassador to the EU Kostiantyn Yelisieiev told NV Radio on Oct. 27.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -38,8 +38,48 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-28-ac0f5c",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T02:27:00+02:00",
+      "title_sv": "Premiärminister Koretskyi beställer snabbare reparationer av Kyjivs södra bro",
+      "title_en": "PM Koretskyi orders faster repairs to Kyiv’s Southern Bridge",
+      "summary_sv": "Ministerkabinettet har instruerat ministeriet för återhämtning, infrastruktur och transport att påskynda reparationerna av Kyjivs södra bron, som skadades i en rysk missilattack över natten den 27 oktober.",
+      "summary_en": "The Cabinet of Ministers has instructed the Ministry for Recovery, Infrastructure and Transport to speed up repairs to Kyiv’s Southern Bridge, which was damaged in a Russian missile attack overnight on October 27.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-vidbudova/4178603-pm-koretskyi-orders-faster-repairs-to-kyivs-southern-bridge.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
@@ -75,9 +115,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Kupiansk",
         "Ukraina",
-        "Kupiansk"
+        "Infrastruktur"
       ]
     },
     {
@@ -92,8 +132,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -130,9 +170,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -153,9 +193,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Robotanfall",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -170,9 +210,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -208,8 +248,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -230,8 +270,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
         "Ukraina",
+        "Civila mål",
         "Charkiv"
       ]
     },
@@ -247,8 +287,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -269,8 +309,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -285,9 +325,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -308,10 +348,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Robotanfall",
         "Ukraina",
-        "Energi"
+        "Energi",
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
@@ -326,9 +366,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -349,8 +389,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Pokrovsk",
-        "Ukraina"
+        "Ukraina",
+        "Pokrovsk"
       ]
     },
     {
@@ -359,15 +399,15 @@
       "timestamp": "2026-10-27T23:00:15+00:00",
       "title_sv": "Ryssland ersätter ukrainare med ryska bosättare i ockuperade Kherson oblast; endast 10–20 % av befolkningen före kriget finns kvar, säger Ukraina",
       "title_en": "Russia replaces Ukrainians with Russian settlers in occupied Kherson Oblast; only 10–20% of pre-war population remains, Ukraine says",
-      "summary_sv": "Ryssland tvingar ukrainare från sina hem samtidigt som de erbjuder ryska lärare och medicinsk personal ekonomiska incitament att bosätta sig i det ockuperade Kherson oblast, säger Ukrainas militära underrättelsetjänst.",
+      "summary_sv": "Ryssland tvingar ukrainare från sina hem samtidigt som de erbjuder ryska lärare och sjukvårdspersonal ekonomiska incitament att bosätta sig i det ockuperade Kherson oblast, säger Ukrainas militära underrättelsetjänst.",
       "summary_en": "Russia is forcing Ukrainians from their homes while offering Russian teachers and medical workers financial incentives to settle in occupied Kherson Oblast, Ukraine’s military intelligence says.",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -432,7 +472,7 @@
       "id": "evt-2026-10-27-cf7641",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T22:51:00+02:00",
-      "title_sv": "Rumänien slår sönder det Rysslandsdrivna sabotagenätverket bakom försök till mordbrand vid vapenfabrik",
+      "title_sv": "Rumänien slår sönder Rysslandsägda sabotagenätverk bakom försök till mordbrand vid vapenfabrik",
       "title_en": "Romania busts Russia-run sabotage network behind attempted arson at arms plant",
       "summary_sv": "Rumäniens utrikesministerium kallade den ryske ambassadören den 27 oktober för att uttrycka en stark protest mot ett försök till mordbrand vid Carfils vapenfabrik i Brasov den 14 september, meddelade utrikesminister Dan Neculaescu i ett Twitter-inlägg.",
       "summary_en": "Romania’s Foreign Ministry summoned the Russian ambassador on Oct. 27 to express a strong protest over an attempted arson attack at the Carfil arms plant in Brasov on Sept. 14, Foreign Minister Dan Neculaescu announced in a Twitter post.",
@@ -440,8 +480,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -471,15 +511,15 @@
       "timestamp": "2026-10-27T22:28:00+02:00",
       "title_sv": "Premiärminister Koretskyi diskuterar EU-integrationsstöd, energistöd till Ukraina med Litauens Seimas-talare",
       "title_en": "PM Koretskyi discusses EU integration support, energy assistance for Ukraine with Lithuanian Seimas Speaker",
-      "summary_sv": "Ukrainas premiärminister Sergii Koretskyi diskuterade stöd för Ukrainas europeiska integration, ytterligare bidrag till energistödsfonden och förstärkning av transportinfrastrukturen under ett möte med Litauens Seimas talman Juozas Olekas.",
+      "summary_sv": "Ukrainas premiärminister Sergii Koretskyi diskuterade stöd för Ukrainas europeiska integration, ytterligare bidrag till energistödfonden och förstärkning av transportinfrastrukturen under ett möte med Litauens Seimas talman Juozas Olekas.",
       "summary_en": "Prime Minister of Ukraine Sergii Koretskyi discussed support for Ukraine’s European integration, additional contributions to the Energy Support Fund and strengthening transport infrastructure during a meeting with Lithuanian Seimas Speaker Juozas Olekas.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "uk",
+        "usa",
+        "eu",
         "ukraina"
       ],
       "syfte": {
@@ -508,7 +548,7 @@
       "id": "evt-2026-10-27-422fbe",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T22:21:42+00:00",
-      "title_sv": "Finlands och Norges ledare ringer sällsynt direkt till Putin och bryter med västvärldens diplomatiska isolering av den ryske ledaren för att påverka fredssamtalen i Ukraina",
+      "title_sv": "Finlands och Norges ledare ringer sällsynt direkt till Putin och bryter med västvärldens diplomatiska isolering av den ryska ledaren för att påverka fredssamtalen i Ukraina",
       "title_en": "Finland and Norway leaders make rare direct call to Putin, breaking with the West’s diplomatic isolation of the Russian leader to influence Ukraine peace talks",
       "summary_sv": "De nordiska ledarna efterlyste nedtrappning inför fredssamtalen i november, och Zelenskyy sa att de pressade Putin över attackerna mot Ukrainas energiinfrastruktur. Kreml upprepade att varje uppgörelse måste ta hänsyn till Rysslands krav.",
       "summary_en": "The Nordic leaders called for de-escalation ahead of November peace talks, with Zelenskyy saying they pressed Putin over attacks on Ukraine’s energy infrastructure. The Kremlin reiterated that any settlement must account for Russia’s demands.",
@@ -516,9 +556,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -547,7 +587,7 @@
       "id": "evt-2026-10-27-61ea64",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T22:05:00+02:00",
-      "title_sv": "Europa måste vara involverat i beslut om att få ett slut på kriget – Zelensky",
+      "title_sv": "Europa måste vara involverat i besluten om att få ett slut på kriget – Zelensky",
       "title_en": "Europe must be involved in decisions on ending war – Zelensky",
       "summary_sv": "Ukraina förväntar sig trilaterala samtal med ukrainska, amerikanska och ryska representanter i november. Europa måste involveras i den diplomatiska processen och delta i besluten om att avsluta kriget.",
       "summary_en": "Ukraine expects trilateral talks involving Ukrainian, U.S. and Russian representatives in November. Europe must be involved in the diplomatic process and take part in decisions on ending the war.",
@@ -555,11 +595,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -594,9 +634,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -617,10 +657,10 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Ukraina",
         "Luftförsvar",
-        "Kyjiv",
         "Robotanfall",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -635,8 +675,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -657,8 +697,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -667,7 +707,7 @@
       "timestamp": "2026-10-27T21:29:00+02:00",
       "title_sv": "Premiärminister Koretskyi tillkännager tak för taxipriser i Kyjiv",
       "title_en": "PM Koretskyi announces caps on taxi fares in Kyiv",
-      "summary_sv": "Ukrainas infrastrukturdepartement och ekonomidepartement har undertecknat ett memorandum med färdtjänsten Bolt, Uklon, Uber och OPTI för att förhindra kraftiga höjningar av taxipriserna i Kyjiv under flyglarm och avbrott i kollektivtrafiken.",
+      "summary_sv": "Ukrainas infrastrukturministerium och ekonomidepartement har undertecknat ett memorandum med färdtjänsten Bolt, Uklon, Uber och OPTI för att förhindra kraftiga höjningar av taxipriserna i Kyjiv under varningar om flyganfall och avbrott i kollektivtrafiken.",
       "summary_en": "Ukraine’s Infrastructure Ministry and Economy Ministry have signed a memorandum with ride hailing services Bolt, Uklon, Uber, and OPTI to prevent sharp increases in taxi fares in Kyiv during air raid alerts and interruptions to public transportation.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
@@ -694,9 +734,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -711,9 +751,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -750,9 +790,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -783,15 +823,15 @@
       "timestamp": "2026-10-27T20:50:00+02:00",
       "title_sv": "Expert förklarar hur FSB kunde vända på Putin och utnyttja Ukraina misslyckades att använda",
       "title_en": "Expert explains how FSB could turn on Putin and leverage Ukraine failed to use",
-      "summary_sv": "Vadym Denysenko, chef för analyscentret Dilova Stolytsya, pratade med Radio NV den 25 oktober om hur och varför Rysslands FSB Federal Security Service kunde störta diktatorn Vladimir Putin, och vilken diplomatisk fördel Ukraina misslyckades med att utnyttja.",
+      "summary_sv": "Vadym Denysenko, chef för analyscentret Dilova Stolytsya, talade med Radio NV den 25 oktober om hur och varför Rysslands FSB Federal Security Service kunde störta diktatorn Vladimir Putin, och vilken diplomatisk fördel Ukraina misslyckades med att utnyttja.",
       "summary_en": "Vadym Denysenko, head of the analytical center Dilova Stolytsya, spoke with Radio NV on Oct. 25 about how and why Russia’s FSB Federal Security Service could topple dictator Vladimir Putin, and which diplomatic advantage Ukraine failed to exploit.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -862,8 +902,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -884,8 +924,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -900,9 +940,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -923,10 +963,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Kyjiv",
         "Ukraina",
-        "Energi"
+        "Energi",
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
@@ -941,9 +981,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -979,8 +1019,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -1001,8 +1041,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1017,8 +1057,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -1076,9 +1116,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1093,9 +1133,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "uk",
+        "usa",
+        "eu",
         "ukraina"
       ],
       "syfte": {
@@ -1131,9 +1171,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -1154,8 +1194,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Kupiansk"
+        "Kupiansk",
+        "Ukraina"
       ]
     },
     {
@@ -1207,9 +1247,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -1230,8 +1270,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1322,11 +1362,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1346,9 +1386,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -1383,9 +1423,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -1466,7 +1506,7 @@
       "id": "evt-2026-10-27-ba0d64",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T18:28:23+00:00",
-      "title_sv": "Norges och Finlands ledare har ett sällsynt samtal med Putin",
+      "title_sv": "Norges och Finlands ledare har sällsynta samtal med Putin",
       "title_en": "Norway and Finland leaders hold rare call with Putin",
       "summary_sv": "Ett slut på konflikten i Ukraina \"kommer inte att uppnås genom tystnad\", sade Finlands president Alexander Stubb.",
       "summary_en": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
@@ -1505,17 +1545,17 @@
       "timestamp": "2026-10-27T18:27:00+02:00",
       "title_sv": "Tusk uttrycker försiktig optimism om fredssamtalen i Abu Dhabi, varnar för Rysslands mål",
       "title_en": "Tusk voices cautious optimism on Abu Dhabi peace talks, warns of Russia’s aims",
-      "summary_sv": "Polens premiärminister Donald Tusk uttryckte försiktig optimism om utsikterna för konstruktiva eldupphörsamtal planerade till den 4 november i Abu Dhabi, samtidigt som han varnade för att hysa illusioner om Rysslands avsikter och betonade att det europeiska stödet till Ukraina förblir oförändrat, rapporterade det polska nyhetsmagasinet Onet den 27...",
+      "summary_sv": "Polens premiärminister Donald Tusk uttryckte försiktig optimism om utsikterna för konstruktiva eldupphörsamtal planerade till den 4 november i Abu Dhabi, samtidigt som han varnade för att hysa illusioner om Rysslands avsikter och betonade att det europeiska stödet till Ukraina förblir oförändrat, rapporterade det polska nyhetsbyrån Onet den 27...",
       "summary_en": "Polish Prime Minister Donald Tusk expressed cautious optimism about the prospects for constructive ceasefire talks scheduled for Nov. 4 in Abu Dhabi, while warning against harboring illusions about Russia’s intentions and stressing that European support for Ukraine remains unchanged, Polish news outlet Onet reported on Oct. 27.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1535,8 +1575,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1620,15 +1660,15 @@
       "timestamp": "2026-10-27T18:07:00+02:00",
       "title_sv": "Rysk attack skadar två lyceum, stadion, minst sex flervåningsbyggnader i Dnipro",
       "title_en": "Russian attack damages two lyceums, stadium, at least six multi-story buildings in Dnipro",
-      "summary_sv": "Minst sex flervåningsbyggnader och två lyceum skadades i Dnipros Samarskyi-distrikt, och ytan på en stadion brann ut efter en rysk attack den 27 oktober, enligt regional guvernör Oleksandr Hanzha och Dnipros borgmästare Borys Filatov.",
+      "summary_sv": "Minst sex flervåningsbyggnader och två lyceum skadades i Dnipros Samarskyi-distrikt, och ytan på en stadion brann ut efter en rysk attack den 27 oktober, enligt regional guvernör Oleksandr Hanzha och Dnipro borgmästare Borys Filatov.",
       "summary_en": "At least six multi-story buildings and two lyceums were damaged in Dnipro's Samarskyi district, and the surface of a stadium burned out after a Russian attack on Oct. 27, according to regional governor Oleksandr Hanzha and Dnipro Mayor Borys Filatov.",
       "location_name": "Dnipro",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "eu",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -1649,9 +1689,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Dnipro"
       ]
     },
     {
@@ -1778,11 +1818,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1802,10 +1842,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Civila mål",
         "Cherson",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål",
+        "Drönare"
       ]
     },
     {
@@ -1968,15 +2008,15 @@
       "timestamp": "2026-10-27T16:35:01+00:00",
       "title_sv": "Ryssland attackerar förlagslagret i Charkiv på ukrainska språkdagen, vilket bidrar till en kampanj mot ukrainsk litteratur och kultur",
       "title_en": "Russia strikes publishing house warehouse in Kharkiv on Ukrainian Language Day, adding to a campaign against Ukrainian literature and culture",
-      "summary_sv": "Förlaget bedömer förluster efter att attacken störde dess planerade releaser den 5 november, eftersom upprepade ryska attacker förstör böcker och skadar Ukrainas förlagsindustri.",
+      "summary_sv": "Förlaget bedömer förlusterna efter att attacken störde dess planerade releaser den 5 november, eftersom upprepade ryska attacker förstör böcker och skadar Ukrainas förlagsindustri.",
       "summary_en": "The publisher is assessing losses after the attack disrupted its planned 5 November releases, as repeated Russian strikes destroy books and damage Ukraine’s publishing industry.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -2090,11 +2130,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2114,8 +2154,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -2247,9 +2287,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -2270,9 +2310,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
+        "Ukraina",
         "Luftförsvar",
-        "Ukraina"
+        "Drönare"
       ]
     },
     {
@@ -2364,8 +2404,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -2386,8 +2426,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2479,8 +2519,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -2501,8 +2541,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -2548,20 +2588,20 @@
       "id": "evt-2026-10-27-2f783e",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T14:52:36+00:00",
-      "title_sv": "Ukrainsk underrättelsetjänst säger att ryska missiltillverkare använder utrustning från sju länder – och de kinesiska maskinerna körs på europeiska, japanska och taiwanesiska delar",
+      "title_sv": "Ukrainsk underrättelsetjänst säger att ryska missiltillverkare använder redskap från sju länder – och de kinesiska maskinerna körs på europeiska, japanska och taiwanesiska delar",
       "title_en": "Ukrainian intelligence says Russia’s missile makers use gear from seven countries—and the Chinese machines run on European, Japanese, and Taiwanese parts",
-      "summary_sv": "Den ukrainska underrättelsetjänsten listade 30 utlandstillverkade föremål vid ryska vapenfabriker den 26 oktober, 17 av dem tillverkade utanför Kina.",
+      "summary_sv": "Ukrainsk underrättelsetjänst listade 30 utlandstillverkade föremål vid ryska vapenfabriker den 26 oktober, 17 av dem tillverkade utanför Kina.",
       "summary_en": "Ukrainian intelligence listed 30 foreign-made items at Russian arms plants on 26 October, 17 of them made outside China.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
-        "ryssland",
-        "usa",
         "kina",
-        "uk"
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2581,8 +2621,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2673,8 +2713,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "uk",
+        "eu",
         "ukraina"
       ],
       "syfte": {
@@ -2704,15 +2744,15 @@
       "timestamp": "2026-10-27T14:27:15+00:00",
       "title_sv": "Han körde taxi i Jakarta och arbetade en gång i USA. Ryssland tränade honom som kulspruteskytt i en och en halv vecka och skickade honom sedan in i hans första och sista strid",
       "title_en": "He drove a taxi in Jakarta and once worked in the US. Russia trained him as a machine gunner for a week and a half, then sent him into his first and last battle",
-      "summary_sv": "Ukrainas militära underrättelsetjänst säger att ryska rekryterare nådde indonesaren genom hans jobbsökning och flyttade honom från ett kontraktsundertecknande nära Moskva till fronten på några veckor.",
+      "summary_sv": "Ukrainas militära underrättelsetjänst säger att ryska rekryterare nådde indonesaren genom hans jobbsökande och flyttade honom från ett kontraktsundertecknande nära Moskva till fronten på några veckor.",
       "summary_en": "Ukraine’s military intelligence says Russian recruiters reached the Indonesian through his job search and moved him from a contract signing near Moscow to the front in a matter of weeks.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -2733,8 +2773,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -3171,9 +3211,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "uk",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -3194,8 +3234,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Kupiansk"
+        "Kupiansk",
+        "Ukraina"
       ]
     },
     {
@@ -4333,11 +4373,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4357,10 +4397,10 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Kyjiv",
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
@@ -5256,47 +5296,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-27-dd3bf4",
-      "date": "2026-10-27",
-      "timestamp": "2026-10-27T03:23:00+02:00",
-      "title_sv": "Ryssland träffar universitetscampus i Kyjiv",
-      "title_en": "Russia hits university campus in Kyiv",
-      "summary_sv": "Ryska ballistiska missiler träffade marken för ett universitet i Kyjiv och närliggande områden på kvällen den 26 oktober, inklusive området kring Kyotoparken, en tunnelbanestation, och bostadshus, sade Ukrainas president Volodymyr Zelenskyy.",
-      "summary_en": "Russian ballistic missiles struck the grounds of a university in Kyiv and nearby areas on the evening of Oct. 26, including the area around Kyoto Park, a subway station, and residential buildings, Ukrainian President Volodymyr Zelenskyy said.",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ryssland",
-        "usa",
-        "uk",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/russia-hits-university-campus-in-kyiv-50653606.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Robotanfall",
-        "Civila mål",
-        "Kyjiv",
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-10-27-a14f8a",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T02:58:48+00:00",
@@ -5331,48 +5330,6 @@
       "tags": [
         "Ukraina",
         "Civila mål"
-      ]
-    },
-    {
-      "id": "evt-2026-10-27-28492d",
-      "date": "2026-10-27",
-      "timestamp": "2026-10-27T01:30:27+00:00",
-      "title_sv": "Ukrainas krigsgenomgång: Ryssland attackerar Kyjiv timmar innan vapenstilleståndet börjar i den krigshärjade staden Oleshky",
-      "title_en": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
-      "summary_sv": "Zelenskyy säger att ballistiska missiler träffar trånga områden utan militära anläggningar i närheten; vapenvila kommer mitt i rapporter om växande humanitär kris.",
-      "summary_en": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis.",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ryssland",
-      "parter_intressenter": [
-        "eu",
-        "ukraina",
-        "ryssland",
-        "usa",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "operationellt_mal",
-        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
-        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
-      },
-      "egenskaper_anfallsmal": "krigsmaterielproduktion",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "The Guardian (Ukraine)",
-      "kallurl": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Drönare",
-        "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
       ]
     }
   ],

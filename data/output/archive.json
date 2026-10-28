@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 3375,
-  "last_archived_rotation": "2026-10-28T01:02:01.788629+00:00",
+  "total_archived_events": 3377,
+  "last_archived_rotation": "2026-10-28T01:31:33.079822+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-dd3bf4",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T03:23:00+02:00",
+      "title_sv": "Ryssland träffar universitetscampus i Kyjiv",
+      "title_en": "Russia hits university campus in Kyiv",
+      "summary_sv": "Ryska ballistiska missiler träffade marken för ett universitet i Kyjiv och närliggande områden på kvällen den 26 oktober, inklusive området kring Kyotoparken, en tunnelbanestation, och bostadshus, sade Ukrainas president Volodymyr Zelenskyy.",
+      "summary_en": "Russian ballistic missiles struck the grounds of a university in Kyiv and nearby areas on the evening of Oct. 26, including the area around Kyoto Park, a subway station, and residential buildings, Ukrainian President Volodymyr Zelenskyy said.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russia-hits-university-campus-in-kyiv-50653606.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Civila mål",
+        "Kyjiv",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-27-11736b",
       "date": "2026-10-27",
@@ -151,6 +192,48 @@
         "Ukraina",
         "Energi",
         "Krym"
+      ]
+    },
+    {
+      "id": "evt-2026-10-27-28492d",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T01:30:27+00:00",
+      "title_sv": "Ukrainas krigsgenomgång: Ryssland attackerar Kyjiv timmar innan vapenstilleståndet börjar i den krigshärjade staden Oleshky",
+      "title_en": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+      "summary_sv": "Zelenskyy säger att ballistiska missiler träffar trånga områden utan militära anläggningar i närheten; vapenvila kommer mitt i rapporter om växande humanitär kris.",
+      "summary_en": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Ukraina",
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
@@ -1582,8 +1665,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "usa",
+        "eu",
         "ukraina"
       ],
       "syfte": {
@@ -2269,11 +2352,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2293,8 +2376,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
