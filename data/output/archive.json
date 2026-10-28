@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 3512,
-  "last_archived_rotation": "2026-10-28T23:12:03.383888+00:00",
+  "total_archived_events": 3514,
+  "last_archived_rotation": "2026-10-28T23:32:16.991694+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-28-fdd5b9",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T01:32:00+02:00",
+      "title_sv": "Soldat som innehade ensam position i 491 dagar nominerad till titeln Hero of Ukraine",
+      "title_en": "Soldier who held position alone for 491 days nominated for Hero of Ukraine title",
+      "summary_sv": "Verkhovna Rada stödde en vädjan till presidenten att tilldela titeln Ukrainas hjälte till soldaten Kostiantyn Vlasenko, som hade en stridsposition i Kupiansk-sektorn i 491 dagar och evakuerades efter att ha lidit allvarliga skador under en unik flygevakueringsoperation.",
+      "summary_en": "The Verkhovna Rada supported an appeal to the President to award the title of Hero of Ukraine to serviceman Kostiantyn Vlasenko, who held a combat position in the Kupiansk sector for 491 days and was evacuated after suffering severe injuries during a unique aerial evacuation operation.",
+      "location_name": "Kupiansk",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178572-soldier-who-held-position-alone-for-491-days-nominated-for-hero-of-ukraine-title.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Kupiansk",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-28-cb64ce",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T01:30:00+02:00",
+      "title_sv": "USA funderar på att häva sanktionerna mot Putins \"slaskfond\" - NYT",
+      "title_en": "U.S. mulls lifting sanctions on Putin’s ‘slush fund’ — NYT",
+      "summary_sv": "Donald Trumps administration överväger att häva sanktionerna mot den ryska direktinvesteringsfonden (RDIF), som amerikanska tjänstemän länge har sett som ett av Kremls mest kraftfulla verktyg för att utöva internationellt inflytande, rapporterade The New York Times den 27 oktober, med hänvisning till källor.",
+      "summary_en": "Donald Trump’s administration is considering lifting sanctions on the Russian Direct Investment Fund (RDIF), which U.S. officials have long viewed as one of the Kremlin’s most powerful tools for exerting international influence, The New York Times reported on Oct. 27, citing sources.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/u-s-mulls-lifting-sanctions-on-putin-s-slush-fund-50653964.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-10-28-c0d27b",
       "date": "2026-10-28",
@@ -398,10 +474,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "ryssland",
-        "usa"
+        "ukraina",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -702,7 +778,7 @@
       "id": "evt-2026-10-27-c06194",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T20:42:38+00:00",
-      "title_sv": "Vad vi vet om vapenvila mellan Ukraina och Ryssland i Oleshky, förmedlad av Melania Trump",
+      "title_sv": "Vad vi vet om Ukraina-Ryssland vapenvila i Oleshky, förmedlad av Melania Trump",
       "title_en": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
       "summary_sv": "Den ryskockuperade staden Oleshky har inte haft elektricitet, gas eller vatten på tre år, eftersom invånarna rapporterade att de måste äta ogräs för att överleva.",
       "summary_en": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
@@ -710,10 +786,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "ryssland",
-        "usa"
+        "ukraina",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -733,8 +809,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1396,9 +1472,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1701,10 +1777,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
-        "ukraina",
         "eu",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1726,8 +1802,8 @@
       "tags": [
         "Civila mål",
         "Ukraina",
-        "Drönare",
-        "Cherson"
+        "Cherson",
+        "Drönare"
       ]
     },
     {
@@ -2013,10 +2089,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
-        "ukraina",
         "eu",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2036,8 +2112,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
