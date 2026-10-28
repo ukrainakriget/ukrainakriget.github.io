@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 3398,
-  "last_archived_rotation": "2026-10-28T08:02:09.583495+00:00",
+  "total_archived_events": 3400,
+  "last_archived_rotation": "2026-10-28T08:31:37.262606+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-27-fe41be",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T10:12:00+02:00",
+      "title_sv": "Rumänien avslöjar ryskt koordinerat sabotagenätverk som misstänks ha anlagt eld nära försvarsanläggningen",
+      "title_en": "Romania uncovers Russian-coordinated sabotage network suspected of setting fire near defense facility",
+      "summary_sv": "Rumäniens underrättelsetjänst sa på måndagen att den hade identifierat ett sabotagenätverk som samordnats av Ryssland, som man trodde var ansvarigt för en brand i september på en industriplats i centrala Rumänien nära ett statligt vapenföretag.",
+      "summary_en": "Romania's Intelligence Service said on Monday it had identified a sabotage network coordinated by Russia, which it believed was responsible for a fire in September at an industrial site in central Romania near a state-owned weapons company.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178509-romania-uncovers-russiancoordinated-sabotage-network-suspected-of-setting-fire-near-defense-facility.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-27-1f680e",
       "date": "2026-10-27",
@@ -464,6 +501,44 @@
       "arkiverad": true,
       "tags": [
         "Lviv",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-27-574820",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T08:10:27+00:00",
+      "title_sv": "Trump-administrationen stöder Orbán, som blockerade ett EU-lån på 90 miljarder euro till Ukraina, för FN:s generalsekreterare och räknar med stöd från Moskva och Peking, säger WSJ",
+      "title_en": "The Trump administration is backing Orbán, who blocked a €90 billion EU loan to Ukraine, for UN secretary-general and is counting on support from Moscow and Beijing, WSJ says",
+      "summary_sv": "Orbán indikerade att han var villig att överväga nomineringen men inte ville delta i loppet utan att vara säker på att han kunde vinna, enligt WSJ:s redaktion.",
+      "summary_en": "Orbán indicated that he was willing to consider the nomination but did not want to enter the race without being confident he could win, according to the WSJ’s editorial board.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "eu",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/27/the-trump-administration-is-backing-orban-who-blocked-a-e90-billion-eu-loan-to-ukraine-for-un-secretary-general-and-is-counting-on-support-from-moscow-and-beijing-wsj-says/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
         "Ukraina",
         "Infrastruktur"
       ]
@@ -1016,11 +1091,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "eu",
+        "ukraina",
         "usa",
         "ryssland",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1040,10 +1115,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv",
         "Drönare",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
