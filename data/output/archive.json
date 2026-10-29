@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 3515,
-  "last_archived_rotation": "2026-10-29T00:01:56.951448+00:00",
+  "total_archived_events": 3516,
+  "last_archived_rotation": "2026-10-29T00:31:29.181483+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-28-ac0f5c",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T02:27:00+02:00",
+      "title_sv": "Premiärminister Koretskyi beställer snabbare reparationer av Kyjivs södra bro",
+      "title_en": "PM Koretskyi orders faster repairs to Kyiv’s Southern Bridge",
+      "summary_sv": "Ministerkabinettet har instruerat ministeriet för återhämtning, infrastruktur och transport att påskynda reparationerna av Kyjivs södra bron, som skadades i en rysk missilattack över natten den 27 oktober.",
+      "summary_en": "The Cabinet of Ministers has instructed the Ministry for Recovery, Infrastructure and Transport to speed up repairs to Kyiv’s Southern Bridge, which was damaged in a Russian missile attack overnight on October 27.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-vidbudova/4178603-pm-koretskyi-orders-faster-repairs-to-kyivs-southern-bridge.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Infrastruktur",
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-10-28-fdd5b9",
       "date": "2026-10-28",
@@ -515,10 +555,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
-        "usa",
         "uk",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -538,8 +578,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Cherson",
         "Ukraina",
+        "Cherson",
         "Infrastruktur"
       ]
     },
@@ -819,7 +859,7 @@
       "id": "evt-2026-10-27-c06194",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T20:42:38+00:00",
-      "title_sv": "Vad vi vet om Ukraina-Ryssland vapenvila i Oleshky, förmedlad av Melania Trump",
+      "title_sv": "Vad vi vet om vapenvila mellan Ukraina och Ryssland i Oleshky, förmedlad av Melania Trump",
       "title_en": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
       "summary_sv": "Den ryskockuperade staden Oleshky har inte haft elektricitet, gas eller vatten på tre år, eftersom invånarna rapporterade att de måste äta ogräs för att överleva.",
       "summary_en": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
@@ -827,10 +867,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
-        "usa",
         "uk",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1505,7 +1545,7 @@
       "id": "evt-2026-10-27-ba0d64",
       "date": "2026-10-27",
       "timestamp": "2026-10-27T18:28:23+00:00",
-      "title_sv": "Norges och Finlands ledare har ett sällsynt samtal med Putin",
+      "title_sv": "Norges och Finlands ledare har sällsynta samtal med Putin",
       "title_en": "Norway and Finland leaders hold rare call with Putin",
       "summary_sv": "Ett slut på konflikten i Ukraina \"kommer inte att uppnås genom tystnad\", sade Finlands president Alexander Stubb.",
       "summary_en": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
@@ -1513,9 +1553,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1818,10 +1858,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "ukraina",
-        "ryssland",
+        "uk",
         "usa",
-        "uk"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1841,10 +1881,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Cherson",
         "Ukraina",
         "Civila mål",
-        "Drönare"
+        "Drönare",
+        "Cherson"
       ]
     },
     {
@@ -2130,10 +2170,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "ukraina",
-        "ryssland",
+        "uk",
         "usa",
-        "uk"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2153,8 +2193,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
