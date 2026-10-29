@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 3533,
-  "last_archived_rotation": "2026-10-29T07:01:51.338996+00:00",
+  "total_archived_events": 3535,
+  "last_archived_rotation": "2026-10-29T07:31:31.920953+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-28-36034e",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T09:30:00+02:00",
+      "title_sv": "Zelensky: Ukraina får i genomsnitt bara 12 Patriot-missiler per månad i år",
+      "title_en": "Zelensky: Ukraine receives average of just 12 Patriot missiles per month this year",
+      "summary_sv": "President Volodymyr Zelensky uppgav att Ukraina i år får i genomsnitt endast 12 missiler per månad för sina Patriot-system.",
+      "summary_en": "President Volodymyr Zelensky stated that this year, Ukraine is receiving an average of only 12 missiles per month for its Patriot systems.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4178835-zelensky-ukraine-receives-average-of-just-12-patriot-missiles-per-month-this-year.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-28-08e02d",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T09:14:00+02:00",
+      "title_sv": "Rysk attack träffar bostadshus i Charkiv och skadade två",
+      "title_en": "Russian strike hits apartment building in Kharkiv, injuring two",
+      "summary_sv": "Ryska styrkor slog ett bostadshus i Charkivs Osnovianskyi-distrikt den 27 oktober, rapporterade borgmästare Ihor Terekhov.",
+      "summary_en": "Russian forces struck an apartment building in Kharkiv’s Osnovianskyi district on October 27, Mayor Ihor Terekhov reported.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russia-bombs-apartment-building-in-kharkiv-injuring-two-50654004.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Charkiv"
+      ]
+    },
     {
       "id": "evt-2026-10-28-16ef21",
       "date": "2026-10-28",
@@ -671,11 +748,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
-        "uk",
         "usa",
-        "ryssland"
+        "ukraina",
+        "eu",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -695,11 +772,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
-        "Kyjiv",
         "Energi",
-        "Robotanfall"
+        "Robotanfall",
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1215,10 +1292,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ukraina",
         "usa",
         "ryssland",
-        "uk",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1239,8 +1316,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Infrastruktur",
-        "Cherson"
+        "Cherson",
+        "Infrastruktur"
       ]
     },
     {
@@ -1527,10 +1604,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "usa",
         "ryssland",
-        "uk",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
