@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 3554,
-  "last_archived_rotation": "2026-10-29T09:53:55.851438+00:00",
+  "total_archived_events": 3556,
+  "last_archived_rotation": "2026-10-29T10:02:21.497412+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-28-2b6548",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T12:00:00+02:00",
+      "title_sv": "Ryssland kan neka Oleshky-bor att återvända till Ukraina genom att kalla dem \"ryska medborgare\"",
+      "title_en": "Russia may deny Oleshky residents return to Ukraine by calling them 'Russian citizens'",
+      "summary_sv": "Ett av huvudproblemen med evakueringsoperationen i Oleshky i Kherson Oblast är hur Ryssland kommer att behandla ukrainare, enligt rapporten den 27 oktober från USA-baserade Institute for the Study of War (ISW).",
+      "summary_en": "One of the main problems with the evacuation operation in Oleshky in Kherson Oblast is how Russia will treat Ukrainians, according to the Oct. 27 report from the U.S.-based Institute for the Study of War (ISW).",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/fate-of-residents-remains-unknown-following-ceasefire-and-evacuation-in-oleshky-50654081.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Cherson",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-28-2dc427",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T11:58:00+02:00",
+      "title_sv": "Trump säger att Zelensky och Putin kommer att träffas \"mycket snart\"",
+      "title_en": "Trump says Zelensky and Putin will meet “very soon”",
+      "summary_sv": "USA:s president Donald Trump uppgav att ett möte mellan Ukrainas president Volodymyr Zelensky och Rysslands ledare Vladimir Putin väntas äga rum inom kort.",
+      "summary_en": "U.S. President Donald Trump stated that a meeting between Ukrainian President Volodymyr Zelensky and Russian leader Vladimir Putin is expected to take place soon.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4178904-trump-says-zelensky-and-putin-will-meet-very-soon.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-28-749ad8",
       "date": "2026-10-28",
@@ -1467,17 +1545,17 @@
       "timestamp": "2026-10-28T01:39:58+00:00",
       "title_sv": "Krigsbriefing i Ukraina: Kyjiv återtar territorium, säger Zelenskyy, när nordiska ledare uppmanar Putin att avsluta konflikten",
       "title_en": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
-      "summary_sv": "Ukrainas president säger att Kyjivs slagfält ⁠position starkast ⁠ på ett tag.",
+      "summary_sv": "Den ukrainska presidenten säger att Kyjivs slagfältsposition är starkast på ett tag.",
       "summary_en": "Ukrainian president says Kyiv’s battlefield ⁠position strongest ⁠in some ​time.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
+        "ryssland",
+        "eu",
         "ukraina",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1497,11 +1575,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Energi",
-        "Drönare",
         "Ukraina",
-        "Robotanfall"
+        "Drönare",
+        "Kyjiv",
+        "Robotanfall",
+        "Energi"
       ]
     },
     {
@@ -2040,8 +2118,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Ukraina",
+        "Infrastruktur",
         "Cherson"
       ]
     },
