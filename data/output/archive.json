@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 3657,
-  "last_archived_rotation": "2026-10-30T04:31:28.810653+00:00",
+  "total_archived_events": 3658,
+  "last_archived_rotation": "2026-10-30T05:01:50.116631+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-29-74c688",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T06:39:00+02:00",
+      "title_sv": "Militär personal kan beställa NRK amfibiefordon genom Brave1 Market",
+      "title_en": "Military personnel can order NRK amphibious vehicles through Brave1 Market",
+      "summary_sv": "En ny klass av markbaserade robotsystem — amfibiska markbaserade robotsystem — är nu tillgänglig på Brave1 Market-plattformen för militären.",
+      "summary_en": "A new class of ground-based robotic systems—amphibious ground-based robotic systems—is now available on the Brave1 Market platform for the military.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179207-military-personnel-can-order-nrk-amphibious-vehicles-through-brave1-market.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Robotanfall"
+      ]
+    },
     {
       "id": "evt-2026-10-29-02b960",
       "date": "2026-10-29",
@@ -239,11 +276,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "eu",
         "ukraina",
-        "ryssland",
-        "usa"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -263,8 +300,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Civila mål",
+        "Kyjiv",
         "Drönare",
         "Ukraina"
       ]
@@ -1274,8 +1311,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1539,9 +1576,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
