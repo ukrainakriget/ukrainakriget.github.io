@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T20:31:36.840832+00:00",
-  "total_active_events": 130,
+  "last_updated": "2026-10-30T20:45:23.721123+00:00",
+  "total_active_events": 129,
   "events": [
     {
       "id": "evt-2026-10-30-4820ea",
@@ -14,8 +14,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -50,8 +50,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -73,9 +73,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
+        "Energi",
         "Ukraina",
-        "Energi"
+        "Robotanfall"
       ]
     },
     {
@@ -90,8 +90,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -126,8 +126,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -154,6 +154,51 @@
       ]
     },
     {
+      "id": "evt-2026-10-30-8e4c0d",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T20:41:51+00:00",
+      "title_sv": "De ströp oss, säger grundaren av den ryska tidningen stängd under påtryckningar från myndigheterna",
+      "title_en": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsbyråerna i Ryssland under de senaste tre decennierna.",
+      "summary_en": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från BBC News (Europe) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from BBC News (Europe) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "BBC News (Europe)",
+          "titel": "De ströp oss, säger grundaren av den ryska tidningen stängd under påtryckningar från myndigheterna",
+          "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
       "id": "evt-2026-10-30-d7cf6c",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T20:33:00+02:00",
@@ -165,11 +210,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina",
-        "eu"
+        "usa",
+        "ryssland",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -190,8 +235,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -206,8 +251,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -227,9 +272,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
+        "Energi",
         "Ukraina",
-        "Energi"
+        "Dnipro"
       ]
     },
     {
@@ -238,14 +283,14 @@
       "timestamp": "2026-10-30T20:01:00+02:00",
       "title_sv": "Ukraina uppmanar till ett akut möte i FN:s säkerhetsråd för nya ryska attacker",
       "title_en": "Ukraine calls for emergency UN Security Council meeting over new Russian attacks",
-      "summary_sv": "Andrii Melnyk, Ukrainas ständiga representant vid FN, uppgav att Ukraina kallar till ett akut möte i FN:s säkerhetsråd som svar på Rysslands senaste attacker mot civilbefolkningen.",
+      "summary_sv": "Andrii Melnyk, Ukrainas ständiga representant vid FN, uppgav att Ukraina uppmanar till ett krismöte i FN:s säkerhetsråd som svar på Rysslands senaste attacker mot civilbefolkningen.",
       "summary_en": "Andrii Melnyk, Ukraine’s Permanent Representative to the UN, stated that Ukraine is calling for an emergency meeting of the UN Security Council in response to Russia’s latest attacks on the civilian population.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -283,8 +328,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -319,8 +364,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "eu",
         "usa"
       ],
@@ -342,8 +387,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Polen"
+        "Polen",
+        "Ukraina"
       ]
     },
     {
@@ -381,8 +426,8 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -397,8 +442,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -436,8 +481,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -496,9 +541,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
         "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Dnipro"
       ]
     },
     {
@@ -513,8 +558,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "eu",
         "usa"
       ],
@@ -537,8 +582,8 @@
       "arkiverad": false,
       "tags": [
         "Luftförsvar",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -553,8 +598,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -592,8 +637,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -630,8 +675,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "eu",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -728,15 +773,15 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
-        "Ukraina"
+        "Ukraina",
+        "Dnipro"
       ]
     },
     {
       "id": "evt-2026-10-30-0d8c4e",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T17:57:00+02:00",
-      "title_sv": "Ryskt Su-57 stridsflygplan fattas eld på militärflygfältet i Astrakhan oblast - OSINT",
+      "title_sv": "Ryskt stridsflygplan av typen Su-57 fattas eld på militärflygfältet i Astrakhan oblast - OSINT",
       "title_en": "Russian Su-57 fighter jet catches fire at military airfield in Astrakhan Oblast — OSINT",
       "summary_sv": "Ett ryskt Su-57 femte generationens flerrollsstridsflygplan fattade eld på ett militärt flygfält i Akhtubinsk, Astrakhan Oblast, ukrainska OSINT-projektet Absolutely Reliable Source rapporterade den 30 oktober.",
       "summary_en": "A Russian Su-57 fifth-generation multirole fighter jet caught fire at a military airfield in Akhtubinsk, Astrakhan Oblast, Ukrainian OSINT project Absolutely Reliable Source reported on Oct. 30.",
@@ -744,8 +789,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -783,8 +828,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -816,7 +861,7 @@
       "id": "evt-2026-10-30-934658",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T17:47:00+02:00",
-      "title_sv": "Eld förstör tre fordon på Rheinmetall drönartestplats; polisen misstänker mordbrand",
+      "title_sv": "Eld förstör tre fordon på Rheinmetall drönartestplatsen; polisen misstänker mordbrand",
       "title_en": "Fire destroys three vehicles at Rheinmetall drone test site; police suspect arson",
       "summary_sv": "Tre byggfordon förstördes i en brand på en Rheinmetall-byggarbetsplats nära Kassel flygplats i den tyska delstaten Hessen, rapporterade Der Spiegel den 30 oktober.",
       "summary_en": "Three construction vehicles were destroyed in a fire at a Rheinmetall construction site near Kassel Airport in the German state of Hesse, Der Spiegel reported on Oct. 30.",
@@ -862,8 +907,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -885,8 +930,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Svarta"
+        "Svarta",
+        "Ukraina"
       ]
     },
     {
@@ -901,8 +946,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -940,8 +985,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -978,8 +1023,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1040,8 +1085,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Charkiv",
-        "Ukraina"
+        "Ukraina",
+        "Charkiv"
       ]
     },
     {
@@ -1056,8 +1101,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1093,8 +1138,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1117,8 +1162,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Cherson",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Cherson"
       ]
     },
     {
@@ -1133,8 +1178,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1209,8 +1254,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1247,8 +1292,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1271,8 +1316,8 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1287,8 +1332,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1349,9 +1394,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
         "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Dnipro"
       ]
     },
     {
@@ -1366,8 +1411,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "eu",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1404,8 +1449,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1429,8 +1474,8 @@
       "tags": [
         "Drönare",
         "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1445,8 +1490,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -1559,8 +1604,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -1598,8 +1643,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -1829,8 +1874,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "eu",
         "usa"
       ],
@@ -1852,9 +1897,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
+        "Polen",
         "Ukraina",
-        "Polen"
+        "Civila mål"
       ]
     },
     {
@@ -2060,7 +2105,7 @@
       "id": "evt-2026-10-30-a5e97e",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T13:57:16+00:00",
-      "title_sv": "Dussintals ryska drönare föll mot kanontorn över Kyjiv på en månad, säger Ukrainas försvarsministerium",
+      "title_sv": "Dussintals ryska drönare föll mot pistoltorn över Kyjiv på en månad, säger Ukrainas försvarsministerium",
       "title_en": "Dozens of Russian drones fell to gun turrets over Kyiv in a month, Ukraine’s Defense Ministry says",
       "summary_sv": "Ministeriet krediterar också torn med 60+ mål i ett privat projekt – siffran den gav den 14 oktober för alla privata team.",
       "summary_en": "The ministry also credits turrets with 60+ targets in a private project—the figure it gave on 14 October for all private teams.",
@@ -2068,8 +2113,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -2140,7 +2185,7 @@
       "timestamp": "2026-10-30T13:40:41+00:00",
       "title_sv": "Ett annat ryskt \"state-of-the-art\" Su-57-jaktplan brann vid Akhtubinsk, uppenbarligen utan att någon skjutit på det",
       "title_en": "Another Russian “state-of-the-art” Su-57 fighter burned at Akhtubinsk, apparently without anyone shooting at it",
-      "summary_sv": "Ett fel vid motorstart är den rapporterade orsaken, vilket lämnar ett brännärr synligt från omloppsbanan och en smygjet färre i Rysslands lilla flotta.",
+      "summary_sv": "Ett fel vid motorstart är den rapporterade orsaken, vilket lämnar ett brännmärke synligt från omloppsbanan och en smygjet färre i Rysslands lilla flotta.",
       "summary_en": "A malfunction at engine start is the reported cause, leaving a burn scar visible from orbit and one fewer stealth jet in Russia’s small fleet.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2184,12 +2229,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina",
+        "usa",
+        "ryssland",
+        "eu",
         "kina",
-        "eu"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2336,8 +2381,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -2450,8 +2495,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "eu",
         "usa"
       ],
@@ -2473,8 +2518,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2604,8 +2649,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -2628,8 +2673,8 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2973,43 +3018,6 @@
         "Robotanfall",
         "Civila mål",
         "Kyjiv",
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-10-30-95d8f5",
-      "date": "2026-10-30",
-      "timestamp": "2026-10-30T11:23:06+00:00",
-      "title_sv": "Den framstående ryska tidningen läggs ner under påtryckningar från myndigheterna",
-      "title_en": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsmedierna i Ryssland under de senaste tre decennierna.",
-      "summary_en": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "BBC News (Europe)",
-      "kallurl": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
         "Ukraina"
       ]
     },
@@ -3497,8 +3505,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "ryssland",
         "usa"
       ],
@@ -3955,14 +3963,14 @@
       "timestamp": "2026-10-30T08:00:49+00:00",
       "title_sv": "Trumps utrikespolitik, från Ukraina till Iran, väckte rädsla för tredje världskriget. Amerikanerna är på väg att säga sitt",
       "title_en": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
-      "summary_sv": "Väljare som stödde USA:s president i förra valet säger att de inte kan rösta på honom i dag: \"Detta är en styggelse\" Utanför det ukrainska utbildnings- och kulturcentret i en lugn Pennsylvania-förort till Jenkintown, i utkanten av Philadelphia, uttryckte en banderoll okvalificerad tacksamhet: \"Tack USA för att du stöder Ukraina.\"",
+      "summary_sv": "Väljare som stödde den amerikanska presidenten i förra valet säger att de inte kan rösta på honom i dag: \"Detta är en styggelse\" Utanför det ukrainska utbildnings- och kulturcentret i en lugn Pennsylvania-förort till Jenkintown, i utkanten av Philadelphia, uttryckte en banderoll okvalificerad tacksamhet: \"Tack USA för att du stöder Ukraina.\"",
       "summary_en": "Voters who backed the US president in the last election are saying they can’t vote for him today: ‘This is an abomination’Outside the Ukrainian educational and cultural center in a quiet Pennsylvania suburb of Jenkintown, on the outskirts of Philadelphia, a banner expressed unqualified gratitude: “Thank you USA for supporting Ukraine.”Inside,...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "uk",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -4498,11 +4506,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
-        "ukraina",
-        "eu"
+        "usa",
+        "ryssland",
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -4522,11 +4530,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Kyjiv",
         "Civila mål",
-        "Ukraina",
-        "Robotanfall"
+        "Kyjiv",
+        "Robotanfall",
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -4832,41 +4840,6 @@
       "kalla": "The New Voice of Ukraine",
       "kallurl": "https://english.nv.ua/nation/sybiha-putin-received-zelenskyy-s-proposal-to-meet-50654654.html",
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-10-29-aa96d5",
-      "date": "2026-10-29",
-      "timestamp": "2026-10-29T22:45:00+02:00",
-      "title_sv": "Routes to Oleshky cleared of mines, humanitarian convoy ready to depart – Lubinets",
-      "title_en": "Routes to Oleshky cleared of mines, humanitarian convoy ready to depart – Lubinets",
-      "summary_sv": "Preparations for the humanitarian mission to Oleshky are nearing completion: the designated routes have been cleared of mines, and the humanitarian convoy has been assembled and is ready to depart.",
-      "summary_en": "Preparations for the humanitarian mission to Oleshky are nearing completion: the designated routes have been cleared of mines, and the humanitarian convoy has been assembled and is ready to depart.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4179547-routes-to-oleshky-cleared-of-mines-humanitarian-convoy-ready-to-depart-lubinets.html",
-      "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
         "Ukraina"
