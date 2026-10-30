@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 3666,
-  "last_archived_rotation": "2026-10-30T07:02:04.134103+00:00",
+  "total_archived_events": 3667,
+  "last_archived_rotation": "2026-10-30T07:31:39.266175+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-29-a229d5",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T09:15:00+02:00",
+      "title_sv": "Saltivka-skolan skadades när ryska drönare träffade flera Charkiv-webbplatser",
+      "title_en": "Saltivka school damaged as Russian drones hit multiple Kharkiv sites",
+      "summary_sv": "Ryska drönareattacker drabbade Charkiv över natten, skadade en utbildningsanläggning och antände bränder i två distrikt, rapporterade borgmästare Ihor Terekhov den 29 oktober.",
+      "summary_en": "Russian drone strikes hit Kharkiv overnight, damaging an educational facility and igniting blazes across two districts, Mayor Ihor Terekhov reported on Oct. 29.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-drones-slam-school-in-kharkiv-spark-fire-50654374.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Drönare",
+        "Charkiv"
+      ]
+    },
     {
       "id": "evt-2026-10-29-d2a8fc",
       "date": "2026-10-29",
@@ -585,9 +625,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "ryssland",
+        "ukraina",
+        "uk",
         "usa",
         "eu"
       ],
@@ -609,10 +649,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Drönare",
-        "Civila mål",
-        "Ukraina"
+        "Kyjiv",
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -1619,9 +1659,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "uk",
         "ukraina",
-        "usa",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
