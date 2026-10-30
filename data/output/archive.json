@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 3656,
-  "last_archived_rotation": "2026-10-30T03:31:34.844266+00:00",
+  "total_archived_events": 3657,
+  "last_archived_rotation": "2026-10-30T04:01:35.652033+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-29-02b960",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T05:39:00+02:00",
+      "title_sv": "Tyskland och Japan bekräftar åtagandet om fortsatt stöd till Ukraina",
+      "title_en": "Germany and Japan reaffirm commitment to continued support for Ukraine",
+      "summary_sv": "Tyskland och Japan har bekräftat sitt åtagande att fortsätta stödet till Ukraina och arbeta nära tillsammans för att uppnå en rättvis och varaktig fred.",
+      "summary_en": "Germany and Japan have reaffirmed their commitment to continuing support for Ukraine and working closely together to achieve a just and lasting peace.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4179170-germany-and-japan-reaffirm-commitment-to-continued-support-for-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-29-15949f",
       "date": "2026-10-29",
@@ -201,11 +239,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu",
-        "uk"
+        "uk",
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -225,10 +263,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare",
+        "Civila mål",
         "Kyjiv",
-        "Civila mål"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1235,9 +1273,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "usa",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1257,8 +1295,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1492,7 +1530,7 @@
       "id": "evt-2026-10-28-f12d70",
       "date": "2026-10-28",
       "timestamp": "2026-10-28T18:32:38+00:00",
-      "title_sv": "Putin hyllar Elon Musks \"geni\" mitt i planerna på den ryska versionen av Starlink",
+      "title_sv": "Putin hyllar Elon Musks \"genialitet\" mitt i planerna på den ryska versionen av Starlink",
       "title_en": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
       "summary_sv": "Ryssland planerar att bygga en egen version av den amerikanska miljardärens satellitkommunikation för att hjälpa till att attackera Ukraina Vladimir Putin berömde Elon Musks geni och sa att han var i kontakt med Starlinks kontrollerande aktieägare när Ryssland utvecklar sin egen satellitkommunikation för sin militär att använda mot Ukraina.",
       "summary_en": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine.The Russian president, speaking at a summit...",
@@ -1500,10 +1538,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
