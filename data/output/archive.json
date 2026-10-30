@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 3659,
-  "last_archived_rotation": "2026-10-30T05:35:12.585056+00:00",
+  "total_archived_events": 3661,
+  "last_archived_rotation": "2026-10-30T06:05:10.340384+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-29-2e96c5",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T07:59:00+02:00",
+      "title_sv": "Ryska styrkor attackerar utbildningsinstitution i Charkiv",
+      "title_en": "Russian forces strike educational institution in Kharkiv",
+      "summary_sv": "Ryssarna inledde drönsattacker mot distrikten Kholodnogorsk och Saltiv i Charkiv.",
+      "summary_en": "The Russians launched drone strikes on the Kholodnogorsk and Saltiv districts of Kharkiv.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179219-russian-forces-strike-educational-institution-in-kharkiv.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-29-c7c222",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T07:36:00+02:00",
+      "title_sv": "Ukraina strävar efter att utöka deltagandet i specialtribunal om rysk aggression, säger Karasevych",
+      "title_en": "Ukraine seeks to expand participation in special tribunal on Russian aggression, Karasevych says",
+      "summary_sv": "Ukraina arbetar för att utöka den geografiska representationen av stater i specialtribunalen om Rysslands aggressionsbrott.",
+      "summary_en": "Ukraine is working to expand the geographic representation of states in the special tribunal on Russia’s crime of aggression.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4179212-ukraine-seeks-to-expand-participation-in-special-tribunal-on-russian-aggression-karasevich-says.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-29-a9a12c",
       "date": "2026-10-29",
@@ -316,11 +393,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
-        "ukraina",
+        "uk",
         "eu",
-        "uk"
+        "ryssland",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -340,10 +417,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Kyjiv",
         "Civila mål",
-        "Ukraina"
+        "Kyjiv",
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1372,8 +1449,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1615,10 +1692,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "uk",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
