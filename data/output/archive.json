@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3785,
-  "last_archived_rotation": "2026-10-31T04:31:49.957683+00:00",
+  "total_archived_events": 3786,
+  "last_archived_rotation": "2026-10-31T05:02:02.621028+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-fe7da9",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T06:41:00+02:00",
+      "title_sv": "Russian forces attack industrial facility in Kremenchuk district",
+      "title_en": "Russian forces attack industrial facility in Kremenchuk district",
+      "summary_sv": "Russian forces attacked an industrial facility in the Kremenchuk district, Poltava region.",
+      "summary_en": "Russian forces attacked an industrial facility in the Kremenchuk district, Poltava region.",
+      "location_name": "Poltava",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179580-russian-forces-attack-industrial-facility-in-kremenchuk-district.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Poltava",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-30-a5c5cf",
       "date": "2026-10-30",
@@ -320,11 +359,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "eu"
+        "usa",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -344,11 +383,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Drönare",
-        "Ukraina",
         "Civila mål",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall",
+        "Drönare"
       ]
     },
     {
@@ -1231,8 +1270,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Cherson",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
@@ -1492,9 +1531,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
