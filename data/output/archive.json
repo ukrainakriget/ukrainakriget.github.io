@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 3890,
-  "last_archived_rotation": "2026-10-31T19:31:44.822970+00:00",
+  "total_archived_events": 3892,
+  "last_archived_rotation": "2026-10-31T20:01:46.737194+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-4820ea",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T22:00:00+02:00",
+      "title_sv": "Lubinets föreslår att humanitära uppdrag som samordnas av Melania Trump ska bli regelbundna",
+      "title_en": "Lubinets proposes making humanitarian missions coordinated by Melania Trump regular",
+      "summary_sv": "Den ukrainske människorättskommissionären Dmytro Lubinets har föreslagit att humanitära uppdrag som samordnas av USA:s första dam Melania Trump ska bli ett regelbundet initiativ.",
+      "summary_en": "Ukrainian Human Rights Commissioner Dmytro Lubinets has proposed making humanitarian missions coordinated by U.S. First Lady Melania Trump a regular initiative.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179907-lubinets-proposes-making-humanitarian-missions-coordinated-by-melania-trump-regular.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-30-0bc12c",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T21:33:00+02:00",
+      "title_sv": "Zelensky: Ryssland avfyrade 17 ballistiska missiler över natten, tog inga steg mot nedtrappning i energisektorn",
+      "title_en": "Zelensky: Russia fired 17 ballistic missiles overnight, took no steps toward de-escalation in energy sector",
+      "summary_sv": "Ukrainas president Volodymyr Zelensky har sagt att Ryssland avfyrade 17 ballistiska missiler mot Ukraina under en enda natt, med energiinfrastruktur som fortfarande är huvudmålet för attackerna.",
+      "summary_en": "Ukrainian President Volodymyr Zelensky has said that Russia fired 17 ballistic missiles at Ukraine in a single night, with energy infrastructure remaining the main target of the attacks.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179903-zelensky-russia-fired-17-ballistic-missiles-overnight-took-no-steps-toward-deescalation-in-energy-sector.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi",
+        "Robotanfall"
+      ]
+    },
     {
       "id": "evt-2026-10-30-f74827",
       "date": "2026-10-30",
@@ -699,7 +775,7 @@
       "id": "evt-2026-10-30-001ca5",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T17:48:38+00:00",
-      "title_sv": "Ryssland använde allt utom kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
+      "title_sv": "Ryssland använde allt annat än kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
       "title_en": "Russia used everything but nuclear weapons against civilians in Ukraine’s Kherson Oblast, its governor says. Drones strike up to 6,500 times weekly",
       "summary_sv": "140 000 invånare bor i Cherson.",
       "summary_en": "140,000 residents stay in Kherson.",
@@ -708,9 +784,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -730,10 +806,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
+        "Cherson",
         "Drönare",
         "Ukraina",
-        "Cherson"
+        "Civila mål"
       ]
     },
     {
@@ -896,16 +972,16 @@
       "timestamp": "2026-10-30T17:13:48+00:00",
       "title_sv": "Evakuering av civila börjar i den belägrade ukrainska staden Oleshky",
       "title_en": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpoperation, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
+      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpinsats, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
       "summary_en": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war.The city, which lies on the...",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -925,9 +1001,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
+        "Cherson",
         "Ukraina",
-        "Cherson"
+        "Civila mål"
       ]
     },
     {
@@ -974,7 +1050,7 @@
       "timestamp": "2026-10-30T16:58:59+00:00",
       "title_sv": "Drönare har inte dödat stridsvagnar: ukrainsk analytiker säger att Operation Vivaldi visar Nato hur man får pansar att fungera igen",
       "title_en": "Drones have not killed tank: Ukrainian analyst says Operation Vivaldi shows NATO how to make armor work again",
-      "summary_sv": "Natos krigsspel övertygade en del om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
+      "summary_sv": "Natos krigsspel övertygade vissa om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
       "summary_en": "NATO war games convinced some that drones have made the tank obsolete, but Ukraine’s Operation Vivaldi shows armor still works.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1172,9 +1248,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1194,9 +1270,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Kyjiv",
         "Robotanfall",
-        "Kyjiv"
+        "Ukraina"
       ]
     },
     {
@@ -1290,10 +1366,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "eu",
-        "usa",
-        "ryssland"
+        "ukraina",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1329,9 +1405,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1351,10 +1427,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina",
+        "Kyjiv",
         "Robotanfall",
-        "Kyjiv"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1484,9 +1560,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1717,8 +1793,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1753,8 +1829,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "eu",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -1776,9 +1852,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
+        "Polen",
         "Ukraina",
-        "Polen"
+        "Civila mål"
       ]
     },
     {
@@ -3385,9 +3461,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
