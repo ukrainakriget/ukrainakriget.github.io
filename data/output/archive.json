@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 3897,
-  "last_archived_rotation": "2026-10-31T21:31:33.221784+00:00",
+  "total_archived_events": 3899,
+  "last_archived_rotation": "2026-10-31T21:54:03.411625+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-473863",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T23:54:00+02:00",
+      "title_sv": "Rysk attack slår ut strömmen vid kritiska infrastrukturanläggningar i Kyjiv, stör vattenförsörjningen",
+      "title_en": "Russian attack knocks out power at critical infrastructure facilities in Kyiv, disrupts water supply",
+      "summary_sv": "Flera kritiska infrastrukturanläggningar i Kyjiv har lämnats utan ström efter en rysk flygattack, vilket har orsakat avbrott i stadens vattenförsörjning.",
+      "summary_en": "Several critical infrastructure facilities in Kyiv have been left without power following a Russian air attack, causing disruptions to the city's water supply.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179921-russian-attack-knocks-out-power-at-critical-infrastructure-facilities-in-kyiv-disrupts-water-supply.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-10-30-66f507",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T23:45:00+02:00",
+      "title_sv": "Ryssland använder Oleshky som propagandapropaganda, erkänner Newsmax-rapporten",
+      "title_en": "Russia uses Oleshky as propaganda prop, Newsmax report admits",
+      "summary_sv": "Newsmax-reportern Shelby Wilder sa att nätverkets besättning var i Oleshky, i Ukrainas Kherson-oblast, för att fungera som \"oberoende observatörer\". Hon sa att Ryssland använde den humanitära operationen som en \"propagandamöjlighet\".",
+      "summary_en": "Newsmax reporter Shelby Wilder said the network’s crew was in Oleshky, in Ukraine’s Kherson Oblast, to serve as “independent observers.” She said Russia was using the humanitarian operation as a “propaganda opportunity.”",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russia-uses-oleshky-as-propaganda-prop-newsmax-50654998.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur",
+        "Cherson"
+      ]
+    },
     {
       "id": "evt-2026-10-30-6182fb",
       "date": "2026-10-30",
@@ -321,8 +400,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -967,7 +1046,7 @@
       "id": "evt-2026-10-30-001ca5",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T17:48:38+00:00",
-      "title_sv": "Ryssland använde allt utom kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
+      "title_sv": "Ryssland använde allt annat än kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
       "title_en": "Russia used everything but nuclear weapons against civilians in Ukraine’s Kherson Oblast, its governor says. Drones strike up to 6,500 times weekly",
       "summary_sv": "140 000 invånare bor i Cherson.",
       "summary_en": "140,000 residents stay in Kherson.",
@@ -976,8 +1055,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
@@ -998,9 +1077,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Cherson",
         "Drönare",
         "Civila mål",
+        "Cherson",
         "Ukraina"
       ]
     },
@@ -1164,15 +1243,15 @@
       "timestamp": "2026-10-30T17:13:48+00:00",
       "title_sv": "Evakuering av civila börjar i den belägrade ukrainska staden Oleshky",
       "title_en": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpoperation, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
+      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpinsats, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
       "summary_en": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war.The city, which lies on the...",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
@@ -1193,8 +1272,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Cherson",
         "Civila mål",
+        "Cherson",
         "Ukraina"
       ]
     },
@@ -1242,7 +1321,7 @@
       "timestamp": "2026-10-30T16:58:59+00:00",
       "title_sv": "Drönare har inte dödat stridsvagnar: ukrainsk analytiker säger att Operation Vivaldi visar Nato hur man får pansar att fungera igen",
       "title_en": "Drones have not killed tank: Ukrainian analyst says Operation Vivaldi shows NATO how to make armor work again",
-      "summary_sv": "Natos krigsspel övertygade en del om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
+      "summary_sv": "Natos krigsspel övertygade vissa om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
       "summary_en": "NATO war games convinced some that drones have made the tank obsolete, but Ukraine’s Operation Vivaldi shows armor still works.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1440,8 +1519,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
@@ -1463,8 +1542,8 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1558,10 +1637,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "eu",
         "ryssland",
-        "usa",
         "ukraina",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1597,8 +1676,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
@@ -1619,10 +1698,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Drönare",
-        "Robotanfall",
-        "Ukraina"
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1752,8 +1831,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
@@ -1774,8 +1853,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1790,8 +1869,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
+        "usa",
         "uk"
       ],
       "syfte": {
@@ -1985,8 +2064,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
