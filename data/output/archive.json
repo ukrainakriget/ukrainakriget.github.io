@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 3775,
-  "last_archived_rotation": "2026-10-30T23:31:34.384466+00:00",
+  "total_archived_events": 3776,
+  "last_archived_rotation": "2026-10-31T00:01:46.828846+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-89cadb",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T01:46:00+02:00",
+      "title_sv": "SBU häktar förare misstänkt för att ha styrt ryska attacker mot Kyjiv-regionens värmekraftverk",
+      "title_en": "SBU detains driver suspected of directing Russian attacks on Kyiv' regions thermal power plants",
+      "summary_sv": "Ukrainas säkerhetstjänst (SBU) underrättelsetjänstemän har gripit en förare av ett logistikföretag i Kyjiv-regionen misstänkt för att ha hjälpt till att rikta ryska attacker mot lokala energianläggningar i ledning av Rysslands federala säkerhetstjänst (FSB).",
+      "summary_en": "The Security Service of Ukraine (SBU) counterintelligence officers have detained a logistics company driver in the Kyiv region suspected of helping direct Russian strikes on local energy facilities at the direction of Russia's Federal Security Service (FSB).",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179321-sbu-detains-driver-suspected-of-directing-russian-attacks-on-kyiv-regions-thermal-power-plants.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-10-30-c39854",
       "date": "2026-10-30",
@@ -2373,7 +2413,7 @@
       "id": "evt-2026-10-29-f34e75",
       "date": "2026-10-29",
       "timestamp": "2026-10-29T14:17:35+00:00",
-      "title_sv": "Rysk drönareattack på den ukrainska tågstationen dödar minst 14, säger tjänstemän",
+      "title_sv": "Rysk drönarattack på den ukrainska tågstationen dödar minst 14, säger tjänstemän",
       "title_en": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "summary_sv": "Minst 14 andra skadades i attacken i centrala Dnipro, inklusive en 11-årig pojke.",
       "summary_en": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
@@ -2381,10 +2421,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2405,8 +2445,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Infrastruktur",
         "Drönare",
+        "Infrastruktur",
         "Dnipro"
       ]
     },
@@ -2854,9 +2894,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
         "usa",
+        "ryssland",
         "eu",
         "uk"
       ],
