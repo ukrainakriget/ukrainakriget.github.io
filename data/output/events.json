@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T17:02:12.461323+00:00",
-  "total_active_events": 92,
+  "last_updated": "2026-10-31T17:31:32.910805+00:00",
+  "total_active_events": 90,
   "events": [
     {
       "id": "evt-2026-10-31-fe07e4",
@@ -14,8 +14,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -36,8 +36,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Dnipro",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -53,8 +53,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -112,8 +112,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -129,8 +129,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "eu",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -150,9 +150,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Luftförsvar",
+        "Robotanfall",
         "Ukraina",
-        "Robotanfall"
+        "Luftförsvar"
       ]
     },
     {
@@ -167,11 +167,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "eu",
+        "ukraina",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -206,8 +206,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -228,16 +228,16 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
+        "Dnipro",
         "Ukraina",
-        "Dnipro"
+        "Civila mål"
       ]
     },
     {
       "id": "evt-2026-10-31-eb689a",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T17:32:00+02:00",
-      "title_sv": "500 Patriot-interceptors skulle hålla i ungefär tre månader, och leveransen kan ta år – Defense Express",
+      "title_sv": "500 Patriot-interceptorer skulle hålla i ungefär tre månader, och leveransen kan ta år – Defense Express",
       "title_en": "500 Patriot interceptors would last about three months, and delivery may take years – Defense Express",
       "summary_sv": "Tillverkning och leverans till Ukraina av 500 PAC-3 MSE-interceptormissiler för Patriot-jord-till-luft-missilsystem kan ta flera år, rapporterade Defence Express den 31 oktober.",
       "summary_en": "Production and delivery to Ukraine of 500 PAC-3 MSE interceptor missiles for Patriot surface-to-air missile systems may take several years, Defense Express reported on Oct. 31.",
@@ -266,25 +266,65 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Robotanfall",
+        "Ukraina",
         "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-31-524103",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T17:20:33+00:00",
+      "title_sv": "Ukraina för ut människor och deras husdjur från ockuperade Oleshky under den längsta vapenvilan sedan 2022, från 94-åring till ett-åring",
+      "title_en": "Ukraine brings people and their pets out of occupied Oleshky under longest ceasefire since 2022, from 94-year-old to one-year-old",
+      "summary_sv": "I åratal levde civila i den ryskockuperade Oleshky under beskjutning och drönare, avskurna från mat och vatten. Ukraina har nu evakuerat dem under den längsta vapenvilan sedan 2022, i ett uppdrag som dess ombudsman säger att det möjliggjordes av USA:s första dam Melania Trump.",
+      "summary_en": "For years, civilians in Russian-occupied Oleshky lived under shelling and drones, cut off from food and water. Ukraine has now evacuated them under the longest ceasefire since 2022, in a mission its ombudsman says was made possible by US First Lady Melania Trump.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/31/ukraine-brings-people-and-their-pets-out-of-occupied-oleshky-under-longest-ceasefire-since-2022-from-94-year-old-to-one-year-old/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
       "id": "evt-2026-10-31-651dfc",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T17:12:00+02:00",
-      "title_sv": "Myndigheterna i Cherson varnar invånarna för möjliga ryska provokationer",
+      "title_sv": "Khersons myndigheter varnar invånarna för möjliga ryska provokationer",
       "title_en": "Kherson authorities warn residents of possible Russian provocations",
-      "summary_sv": "Khersons myndigheter har varnat lokala invånare för möjliga ryska provokationer under den aviserade vapenvilan och uppmanat dem att vara särskilt vaksamma och försiktiga den 1 november.",
+      "summary_sv": "Myndigheterna i Cherson har varnat lokala invånare för möjliga ryska provokationer under den aviserade vapenvilan och uppmanat dem att vara särskilt vaksamma och försiktiga den 1 november.",
       "summary_en": "Kherson authorities have warned local residents of possible Russian provocations during the announced ceasefire and urged them to remain especially vigilant and cautious on November 1.",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -305,8 +345,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -393,8 +433,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -467,8 +507,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -490,8 +530,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -506,8 +546,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -544,11 +584,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "eu",
+        "ukraina",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -605,8 +645,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -622,9 +662,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "eu",
         "usa",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -644,8 +684,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -660,8 +700,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -682,8 +722,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
@@ -693,7 +733,7 @@
       "timestamp": "2026-10-31T15:12:03+00:00",
       "title_sv": "Den ukrainska överbefälhavaren Drapatyi lanserar en reform av utkast till medicinska nämnder för att sluta skicka sjuka till krig och utrota korruption",
       "title_en": "Ukrainian Commander-in-Chief Drapatyi launches reform of draft medical boards to stop sending sick to war and root out corruption",
-      "summary_sv": "Ordningen den 28 oktober medför noggrann uppföljning av beslut, granskning av fall då olämplig och regelbunden utbildning för styrelseledamöter.",
+      "summary_sv": "Ordern den 28 oktober innebär noggrann uppföljning av avgöranden, granskning av fall då de inte är lämpliga och regelbunden utbildning för styrelseledamöter.",
       "summary_en": "The 28 October order brings close monitoring of rulings, scrutiny of fit-then-unfit cases and regular training for board members.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -730,17 +770,17 @@
       "timestamp": "2026-10-31T15:00:00+02:00",
       "title_sv": "Obemannade systemstyrkor kan stå för 40 % av alla ryska trupper som neutraliserades i oktober – Överste Veres",
       "title_en": "Unmanned Systems Forces could account for 40% of all Russian troops neutralized in October – Colonel Veres",
-      "summary_sv": "Beslutet att inrätta Unmanned Systems Forces (USF) för den ukrainska försvarsmakten 2024 var det rätta, och dess resultat är uppenbara varje månad. Bara i oktober kunde denna gren av militären stå för 40 % av alla neutraliserade ryska trupper.",
+      "summary_sv": "Beslutet att inrätta Unmanned Systems Forces (USF) för den ukrainska försvarsmakten 2024 var det rätta, och dess resultat är uppenbara varje månad. Bara i oktober kunde denna gren av militären stå för 40 % av alla ryska trupper som neutraliserades.",
       "summary_en": "The decision to establish the Unmanned Systems Forces (USF) of the Ukrainian Armed Forces in 2024 was the right one, and its results are evident every month. In October alone, this branch of the military could account for 40% of all Russian troops neutralized.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "eu",
+        "ukraina",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -925,8 +965,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -963,8 +1003,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -987,8 +1027,8 @@
       "arkiverad": false,
       "tags": [
         "Ryskt",
-        "Ukraina",
         "Robotanfall",
+        "Ukraina",
         "Drönare"
       ]
     },
@@ -1005,8 +1045,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "eu",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1042,8 +1082,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -1064,8 +1104,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Dnipro",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -1120,8 +1160,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -1142,8 +1182,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Dnipro",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -1197,8 +1237,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -1220,8 +1260,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -1312,8 +1352,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -1335,9 +1375,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Energi",
-        "Drönare"
+        "Energi"
       ]
     },
     {
@@ -1533,7 +1573,7 @@
       "id": "evt-2026-10-31-e9d93f",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T10:41:00+02:00",
-      "title_sv": "Drönare attackerar Rysslands Bashkortostan över en natt; Ufa-raffinaderiet drabbades troligen",
+      "title_sv": "Drönare attackerar Rysslands Bashkortostan över natten; Ufa-raffinaderiet drabbades troligen",
       "title_en": "Drones attack Russia's Bashkortostan overnight; Ufa refinery likely struck",
       "summary_sv": "Explosioner hörde i Rysslands republik Bashkortostan över natten till den 31 oktober. Lokalbefolkningen rapporterade om en drönareattack.",
       "summary_en": "Explosions rang out in Russia's Republic of Bashkortostan overnight into Oct. 31. Locals reported a drone attack.",
@@ -1541,8 +1581,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -1563,8 +1603,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
@@ -1655,8 +1695,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -1678,10 +1718,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Charkiv",
         "Ukraina",
-        "Energi",
-        "Drönare"
+        "Energi"
       ]
     },
     {
@@ -1734,8 +1774,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "uk",
         "eu"
       ],
@@ -1757,9 +1797,9 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare",
         "Polen",
+        "Drönare",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
@@ -2086,8 +2126,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -2305,7 +2345,7 @@
       "id": "evt-2026-10-31-043803",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T04:26:03+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Moskvas Lavrov avvisade G20 i Atlanta",
+      "title_sv": "Ukrainas krigsgenomgång: Moskvas Lavrov avvisade G20 i Atlanta",
       "title_en": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta",
       "summary_sv": "Den ryske utrikesministern kritiserades hårt av EU:s utrikeschef och planerna på det traditionella \"familjefotot\" övergavs.",
       "summary_en": "Russian foreign minister heavily criticised by EU foreign policy chief, and plans for the traditional ‘family photo’ abandoned.",
@@ -2313,11 +2353,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "eu",
+        "ukraina",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2338,9 +2378,9 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
         "Civila mål",
         "Ukraina",
+        "Robotanfall",
         "Drönare"
       ]
     },
@@ -2545,8 +2585,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -2568,8 +2608,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -2850,14 +2890,14 @@
       "timestamp": "2026-10-30T23:19:41+00:00",
       "title_sv": "Pensionerad Michigan-lärare som släpptes från ryskt fängelse trodde att han aldrig skulle bli fri",
       "title_en": "Retired Michigan teacher released from Russian prison believed he would never be freed",
-      "summary_sv": "Stephen Hubbard sa att först när han fördes från Moskva till St Petersburg trodde han att han skulle \"åka någonstans\". I sina första kommentarer sedan han nyligen släpptes från ett ryskt fängelse sa en pensionerad lärare från Michigan att han bara trodde att han skulle bli fri när han fick nya kläder.",
+      "summary_sv": "Stephen Hubbard sa att först när han fördes från Moskva till St Petersburg trodde han att han skulle \"åka någonstans\". I sina första kommentarer sedan han nyligen släpptes från ett ryskt fängelse sa en pensionerad lärare i Michigan att han bara trodde att han skulle bli fri när han fick nya kläder.",
       "summary_en": "Stephen Hubbard said that only when he was being taken from Moscow to St Petersburg did he believe he was ‘going somewhere’In his first comments since recently being released from a Russian prison, a retired Michigan teacher said he only believed he would be freed when he got new clothes.Stephen Hubbard, 74, remarked on Friday that he had heard...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -3193,14 +3233,14 @@
       "timestamp": "2026-10-30T20:41:51+00:00",
       "title_sv": "De ströp oss, säger grundaren av den ryska tidningen stängd under påtryckningar från myndigheterna",
       "title_en": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsbyråerna i Ryssland under de senaste tre decennierna.",
+      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsmedierna i Ryssland under de senaste tre decennierna.",
       "summary_en": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -3379,83 +3419,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-30-e64ace",
-      "date": "2026-10-30",
-      "timestamp": "2026-10-30T19:28:00+02:00",
-      "title_sv": "Kosiniak-Kamysz: Polen överför två MiG-29:or till Ukraina efter att de når slutet av sin livslängd",
-      "title_en": "Kosiniak-Kamysz: Poland transfers two MiG-29s to Ukraine after they reach end of their service life",
-      "summary_sv": "De två Mi G-29 stridsflygplan som Polen överför till Ukraina har nått slutet av sin livslängd och kunde inte längre användas av den polska militären. Istället kommer den polska militären att ta emot obemannade flygsystem.",
-      "summary_en": "The two Mi G-29 fighter jets that Poland is transferring to Ukraine have reached the end of their service life and could no longer be used by the Polish military. Instead, the Polish military will receive unmanned aerial systems.",
-      "location_name": "Polen & västra gränsen",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "uk",
-        "usa",
-        "eu",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-defense/4179857-kosiniakkamysz-poland-transfers-two-mig29s-to-ukraine-after-they-reach-end-of-their-service-life.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Polen"
-      ]
-    },
-    {
-      "id": "evt-2026-10-30-01d00e",
-      "date": "2026-10-30",
-      "timestamp": "2026-10-30T18:08:39+01:00",
-      "title_sv": "Drama under G20 – gruppfoto ställs in: ”Nej!”",
-      "title_en": "Drama at G20 - group photo canceled: \"No!\"",
-      "summary_sv": "Det blir inget lyckligt familjefoto för G20. USA har ställt in det planerade gruppfotot vid G20-mötet i Atlanta – efter europiska protester. Anledningen? Rysslands utrikesminister Sergej Lavrov.",
-      "summary_en": "There will be no happy family photo for the G20. The US has canceled the planned group photo at the G20 meeting in Atlanta - after European protests. The reason? Russian Foreign Minister Sergei Lavrov.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ryssland",
-      "parter_intressenter": [
-        "ryssland",
-        "usa",
-        "ukraina",
-        "eu"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "SVT Nyheter",
-      "kallurl": "https://www.svt.se/nyheter/utrikes/drama-under-g20-gruppfoto-stalls-in-nej",
-      "kallkategori": "Svensk Public Service",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-10-30-001ca5",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T17:48:38+00:00",
@@ -3467,8 +3430,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa",
         "uk"
       ],
@@ -3490,50 +3453,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
-        "Ukraina",
         "Cherson",
-        "Drönare"
-      ]
-    },
-    {
-      "id": "evt-2026-10-30-bc3648",
-      "date": "2026-10-30",
-      "timestamp": "2026-10-30T17:13:48+00:00",
-      "title_sv": "Evakuering av civila börjar i den belägrade ukrainska staden Oleshky",
-      "title_en": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpoperation, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
-      "summary_en": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war.The city, which lies on the...",
-      "location_name": "Cherson",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "usa",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The Guardian (Ukraine)",
-      "kallurl": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Civila mål",
+        "Drönare",
         "Ukraina",
-        "Cherson"
+        "Civila mål"
       ]
     }
   ],
