@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 3795,
-  "last_archived_rotation": "2026-10-31T06:58:01.886209+00:00",
+  "total_archived_events": 3796,
+  "last_archived_rotation": "2026-10-31T07:01:46.756581+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-f6ce83",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T09:00:00+02:00",
+      "title_sv": "Krigsuppdatering: Över 200 sammandrabbningar längs frontlinjen när ryska styrkor attackerar i åtta sektorer",
+      "title_en": "War update: Over 200 clashes along front line as Russian forces attack in eight sectors",
+      "summary_sv": "Totalt 211 stridsinsatser registrerades längs frontlinjen den 29 oktober. De tyngsta striderna ägde rum i sektorerna Kostiantynivka, Pokrovsk och Huliaipole.",
+      "summary_en": "A total of 211 combat engagements were recorded along the front line on October 29. The heaviest fighting took place in the Kostiantynivka, Pokrovsk and Huliaipole sectors.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179606-war-update-over-200-clashes-along-front-line-as-russian-forces-attack-in-eight-sectors.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Pokrovsk"
+      ]
+    },
     {
       "id": "evt-2026-10-30-db0480",
       "date": "2026-10-30",
@@ -713,9 +751,9 @@
       "parter_intressenter": [
         "ukraina",
         "usa",
-        "uk",
         "eu",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -735,10 +773,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
+        "Robotanfall",
         "Civila mål",
         "Drönare",
-        "Robotanfall",
-        "Ukraina",
         "Kyjiv"
       ]
     },
@@ -1623,8 +1661,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Infrastruktur",
-        "Cherson"
+        "Cherson",
+        "Infrastruktur"
       ]
     },
     {
@@ -1883,8 +1921,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
