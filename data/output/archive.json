@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3784,
-  "last_archived_rotation": "2026-10-31T04:01:33.597001+00:00",
+  "total_archived_events": 3785,
+  "last_archived_rotation": "2026-10-31T04:31:49.957683+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-a5c5cf",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T06:20:00+02:00",
+      "title_sv": "Russian attacks leave over 350,000 without power in Dnipro and surrounding area",
+      "title_en": "Russian attacks leave over 350,000 without power in Dnipro and surrounding area",
+      "summary_sv": "More than 350,000 consumers in Dnipro and surrounding settlements have been left without electricity following Russian attacks.",
+      "summary_en": "More than 350,000 consumers in Dnipro and surrounding settlements have been left without electricity following Russian attacks.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179579-russian-attacks-leave-over-350000-without-power-in-dnipro-and-surrounding-area.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi",
+        "Dnipro"
+      ]
+    },
     {
       "id": "evt-2026-10-30-c6b59b",
       "date": "2026-10-30",
@@ -281,11 +320,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "ukraina",
         "uk",
-        "eu",
         "ryssland",
-        "usa"
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -305,11 +344,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
-        "Ukraina",
-        "Kyjiv",
         "Robotanfall",
-        "Drönare"
+        "Drönare",
+        "Ukraina",
+        "Civila mål",
+        "Kyjiv"
       ]
     },
     {
@@ -1192,9 +1231,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Infrastruktur"
       ]
     },
     {
@@ -1453,9 +1492,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
