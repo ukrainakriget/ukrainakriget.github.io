@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T20:01:46.737194+00:00",
+  "last_updated": "2026-10-31T20:31:48.107809+00:00",
   "total_active_events": 99,
   "events": [
     {
@@ -14,10 +14,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
-        "usa"
+        "eu",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -53,8 +53,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -127,8 +127,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -150,8 +150,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -204,9 +204,9 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -231,10 +231,47 @@
       ]
     },
     {
+      "id": "evt-2026-10-31-3a7961",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T20:07:09+00:00",
+      "title_sv": "Ukrainas militära ledarskap skakar om: två nya Donbas- och Centerkommandon, färre rapporter - men luckor kvarstår, säger befälhavaren",
+      "title_en": "Ukraine’s military leadership shake-up: two new Donbas and Center commands, fewer reports — but gaps remain, commander says",
+      "summary_sv": "Ukrainas armé kördes från toppen i \"manuellt läge\". Dess nya chef börjar dela den makten, säger en frontlinjeofficer.",
+      "summary_en": "Ukraine’s army was run from the top in “manual mode.” Its new chief is starting to share that power, a front-line officer says.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/10/31/ukraines-military-leadership-shake-up-two-new-donbas-and-center-commands-fewer-reports-but-gaps-remain-commander-says/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-10-31-98070b",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T19:53:00+02:00",
-      "title_sv": "Drönarskräp faller på köpcentret i Kyjivs Obolonskyi-distrikt, kvinna skadad",
+      "title_sv": "Drönarskräp faller på köpcentrets lokaler i Kyjivs Obolonskyi-distrikt, kvinna skadad",
       "title_en": "Drone debris falls on shopping mall premises in Kyiv's Obolonskyi district, woman injured",
       "summary_sv": "Skräp från en rysk drönare föll på marken för ett köpcentrum i Kyjivs Obolonskyi-distrikt och skadade en kvinna.",
       "summary_en": "Debris from a Russian drone fell on the grounds of a shopping mall in Kyiv's Obolonskyi district, injuring a woman.",
@@ -243,8 +280,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -265,15 +302,15 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
       "id": "evt-2026-10-31-35f761",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T19:42:00+02:00",
-      "title_sv": "Turkiet och Europa kan vara involverade i samtalen mellan Ukraina och USA, säger Zelenskyy",
+      "title_sv": "Turkiet och Europa kan vara inblandade i samtalen mellan Ukraina och USA, säger Zelenskyy",
       "title_en": "Turkey and Europe could be involved in Ukraine-U.S.-Russia talks, Zelenskyy says",
       "summary_sv": "President Volodymyr Zelenskyy och Turkiets president Recep Tayyip Erdogan diskuterade förberedelserna för ett trilateralt möte som involverar Ukraina, USA och Ryssland som är planerat till första hälften av november, sa den ukrainske ledaren vid en presskonferens i Istanbul den 31 oktober.",
       "summary_en": "President Volodymyr Zelenskyy and Turkish President Recep Tayyip Erdogan discussed preparations for a trilateral meeting involving Ukraine, the United States and Russia that is planned for the first half of November, the Ukrainian leader said at a news conference in Istanbul on Oct. 31.",
@@ -281,11 +318,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -321,8 +358,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -358,9 +395,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -426,7 +463,7 @@
       "id": "evt-2026-10-31-2f7d0f",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T19:17:22+00:00",
-      "title_sv": "Oleshky-evakuerade återförenas med familjer efter att vapenvilan tillåter korsning tillbaka till Ukraina",
+      "title_sv": "Oleshky-evakuerade återförenas med familjer efter att vapenvilan tillåter att korsa tillbaka till Ukraina",
       "title_en": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
       "summary_sv": "Invånare i närliggande byar kantar motorvägen och viftar med flaggor för att hälsa de evakuerades konvoj från den ryskockuperade staden Evakuerade från ryskockuperade Oleshky har återförenats med sina familjer efter att ha korsat in i ukrainskt hållet territorium på lördagen.",
       "summary_en": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied city Evacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under the most significant truce...",
@@ -434,11 +471,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -510,8 +547,8 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -541,16 +578,16 @@
       "timestamp": "2026-10-31T18:49:20+00:00",
       "title_sv": "\"Europeiska länder måste lära sig\": Ukrainsk försvarsteknikchef varnar Europa för kostsamma försvarsmisstag",
       "title_en": "“European countries need to learn”: Ukrainian defense-tech CEO warns Europe against costly defense mistakes",
-      "summary_sv": "Kostnaden för att motverka ett lufthot måste motsvara kostnaderna för hotet.",
+      "summary_sv": "Kostnaden för att motverka ett lufthot måste motsvara kostnaden för hotet.",
       "summary_en": "The cost of countering an air threat must match the cost of the threat.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "usa",
-        "uk"
+        "eu",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -586,8 +623,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -608,8 +645,8 @@
       "arkiverad": false,
       "tags": [
         "Energi",
-        "Dnipro",
-        "Ukraina"
+        "Ukraina",
+        "Dnipro"
       ]
     },
     {
@@ -625,8 +662,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -662,8 +699,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -699,8 +736,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -722,8 +759,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -732,17 +769,17 @@
       "timestamp": "2026-10-31T17:57:00+02:00",
       "title_sv": "Kallas anklagar Lavrov för att ljuga vid G20:s utrikesministermöte",
       "title_en": "Kallas accuses Lavrov of lying at G20 foreign ministers’ meeting",
-      "summary_sv": "Europeiska unionens höga representant för utrikesfrågor och säkerhetspolitik Kaja Kallas anklagade Rysslands utrikesminister Sergey Lavrov för att ljuga vid ett möte med G20:s utrikesministrar i Atlanta, särskilt angående kriget i Ukraina.",
+      "summary_sv": "Europeiska unionens höge representant för utrikesfrågor och säkerhetspolitik Kaja Kallas anklagade Rysslands utrikesminister Sergey Lavrov för att ljuga vid ett möte med G20:s utrikesministrar i Atlanta, särskilt angående kriget i Ukraina.",
       "summary_en": "European Union High Representative for Foreign Affairs and Security Policy Kaja Kallas accused Russian Foreign Minister Sergey Lavrov of lying at a meeting of G20 foreign ministers in Atlanta, particularly over the war in Ukraine.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -777,11 +814,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -875,8 +912,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -892,8 +929,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -913,16 +950,16 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Dnipro"
       ]
     },
     {
       "id": "evt-2026-10-31-eb689a",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T17:32:00+02:00",
-      "title_sv": "500 Patriot-interceptors skulle hålla i ungefär tre månader, och leveransen kan ta år – Defense Express",
+      "title_sv": "500 Patriot-interceptorer skulle hålla i ungefär tre månader, och leveransen kan ta år – Defense Express",
       "title_en": "500 Patriot interceptors would last about three months, and delivery may take years – Defense Express",
       "summary_sv": "Tillverkning och leverans till Ukraina av 500 PAC-3 MSE-interceptormissiler för Patriot-jord-till-luft-missilsystem kan ta flera år, rapporterade Defence Express den 31 oktober.",
       "summary_en": "Production and delivery to Ukraine of 500 PAC-3 MSE interceptor missiles for Patriot surface-to-air missile systems may take several years, Defense Express reported on Oct. 31.",
@@ -969,9 +1006,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -991,9 +1028,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Drönare"
       ]
     },
     {
@@ -1009,8 +1046,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1038,7 +1075,7 @@
       "id": "evt-2026-10-31-eceadc",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T16:55:47+00:00",
-      "title_sv": "Känslosamma återseenden med nära och kära för Oleshky-evakuerade",
+      "title_sv": "Känslomässiga återseenden med nära och kära för Oleshky-evakuerade",
       "title_en": "Emotional reunions with loved ones for Oleshky evacuees",
       "summary_sv": "BBC:s Dan Johnson reste till den norra ukrainska gränsen till Vitryssland efter att evakuerade Oleshky-bor anlände i bussar och ambulanser efter en tillfällig vapenvila.",
       "summary_en": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
@@ -1046,10 +1083,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "usa",
-        "uk"
+        "eu",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1157,8 +1194,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1194,8 +1231,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1231,9 +1268,9 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1270,9 +1307,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1344,10 +1381,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "usa",
-        "uk"
+        "eu",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1538,8 +1575,8 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1559,8 +1596,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Infrastruktur",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -1649,8 +1686,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1727,8 +1764,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -1844,8 +1881,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1866,8 +1903,8 @@
       "arkiverad": false,
       "tags": [
         "Energi",
-        "Dnipro",
-        "Ukraina"
+        "Ukraina",
+        "Dnipro"
       ]
     },
     {
@@ -1921,9 +1958,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2036,9 +2073,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2059,8 +2096,8 @@
       "arkiverad": false,
       "tags": [
         "Energi",
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -2457,10 +2494,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
-        "uk"
+        "eu",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2480,10 +2517,10 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Infrastruktur",
         "Polen",
-        "Ukraina"
+        "Infrastruktur",
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -2810,9 +2847,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2921,7 +2958,7 @@
       "timestamp": "2026-10-31T06:00:38+00:00",
       "title_sv": "Kan diplomatin ta tillbaka kontrollen när Trump fläktar lågorna i en värld i brand?",
       "title_en": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
-      "summary_sv": "Mitt i kaoset, förödelsen och kriget som orsakats av en nyckfull och amoralisk president i USA, vaknar länder upp till farorna med att bli utestängda och missbrukade av Amerika. Aldrig har det funnits en tid då världen har varit mer sammankopplad än nu.",
+      "summary_sv": "Mitt i kaoset, förödelsen och kriget som orsakats av en nyckfull och amoralisk president i USA, håller länder på att vakna upp till farorna med att bli utestängda och missbrukade av Amerika. Aldrig har det funnits en tid då världen har varit mer sammankopplad än nu.",
       "summary_en": "Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by America Never has there been a time when the world has been more interconnected than now.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -3028,7 +3065,7 @@
       "id": "evt-2026-10-31-043803",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T04:26:03+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Moskvas Lavrov avvisade G20 i Atlanta",
+      "title_sv": "Ukrainas krigsgenomgång: Moskvas Lavrov avvisade G20 i Atlanta",
       "title_en": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta",
       "summary_sv": "Den ryske utrikesministern kritiserades hårt av EU:s utrikeschef och planerna på det traditionella \"familjefotot\" övergavs.",
       "summary_en": "Russian foreign minister heavily criticised by EU foreign policy chief, and plans for the traditional ‘family photo’ abandoned.",
@@ -3036,11 +3073,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
         "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3060,11 +3097,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Robotanfall",
         "Drönare",
         "Kyjiv",
-        "Robotanfall",
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -3269,9 +3306,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3571,7 +3608,7 @@
       "id": "evt-2026-10-30-e26205",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T23:19:41+00:00",
-      "title_sv": "Pensionerad Michigan-lärare som släpptes från ryskt fängelse trodde att han aldrig skulle bli frigiven",
+      "title_sv": "Pensionerad Michigan-lärare som släpptes från ryskt fängelse trodde att han aldrig skulle bli fri",
       "title_en": "Retired Michigan teacher released from Russian prison believed he would never be freed",
       "summary_sv": "Stephen Hubbard sa att först när han fördes från Moskva till St Petersburg trodde han att han skulle \"åka någonstans\". I sina första kommentarer sedan han nyligen släpptes från ett ryskt fängelse sa en pensionerad lärare i Michigan att han bara trodde att han skulle bli fri när han fick nya kläder.",
       "summary_en": "Stephen Hubbard said that only when he was being taken from Moscow to St Petersburg did he believe he was ‘going somewhere’In his first comments since recently being released from a Russian prison, a retired Michigan teacher said he only believed he would be freed when he got new clothes.Stephen Hubbard, 74, remarked on Friday that he had heard...",
@@ -3580,8 +3617,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3682,45 +3719,6 @@
       ]
     },
     {
-      "id": "evt-2026-10-30-75daec",
-      "date": "2026-10-30",
-      "timestamp": "2026-10-30T22:27:00+02:00",
-      "title_sv": "USA godkänner potentiell försäljning av 500 Patriot-missiler till Ukraina för 2,1 miljarder dollar",
-      "title_en": "US approves potential $2.1B sale of 500 Patriot missiles to Ukraine",
-      "summary_sv": "Det amerikanska utrikesdepartementet har godkänt den potentiella försäljningen till Ukraina av 500 PAC-3 MSE-missiler för Patriot-luftförsvarssystem, värderade till totalt 2,1 miljarder dollar.",
-      "summary_en": "The U.S. Department of State has approved the potential sale to Ukraine of 500 PAC-3 MSE missiles for Patriot air defense systems, valued at a total of $2.1 billion.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4179909-us-approves-potential-21b-sale-of-500-patriot-missiles-to-ukraine.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Luftförsvar",
-        "Robotanfall",
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-10-30-94ba36",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T22:20:52+00:00",
@@ -3765,15 +3763,15 @@
       "timestamp": "2026-10-30T20:41:51+00:00",
       "title_sv": "De ströp oss, säger grundaren av den ryska tidningen stängd under påtryckningar från myndigheterna",
       "title_en": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsbyråerna i Ryssland under de senaste tre decennierna.",
+      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsmedierna i Ryssland under de senaste tre decennierna.",
       "summary_en": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",

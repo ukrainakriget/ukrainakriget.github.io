@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3892,
-  "last_archived_rotation": "2026-10-31T20:01:46.737194+00:00",
+  "total_archived_events": 3893,
+  "last_archived_rotation": "2026-10-31T20:31:48.107809+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-75daec",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T22:27:00+02:00",
+      "title_sv": "USA godkänner potentiell försäljning av 500 Patriot-missiler till Ukraina för 2,1 miljarder dollar",
+      "title_en": "US approves potential $2.1B sale of 500 Patriot missiles to Ukraine",
+      "summary_sv": "Det amerikanska utrikesdepartementet har godkänt den potentiella försäljningen till Ukraina av 500 PAC-3 MSE-missiler för Patriot-luftförsvarssystem, värderade till totalt 2,1 miljarder dollar.",
+      "summary_en": "The U.S. Department of State has approved the potential sale to Ukraine of 500 PAC-3 MSE missiles for Patriot air defense systems, valued at a total of $2.1 billion.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179909-us-approves-potential-21b-sale-of-500-patriot-missiles-to-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Luftförsvar",
+        "Robotanfall",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-30-4820ea",
       "date": "2026-10-30",
@@ -775,7 +814,7 @@
       "id": "evt-2026-10-30-001ca5",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T17:48:38+00:00",
-      "title_sv": "Ryssland använde allt annat än kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
+      "title_sv": "Ryssland använde allt utom kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
       "title_en": "Russia used everything but nuclear weapons against civilians in Ukraine’s Kherson Oblast, its governor says. Drones strike up to 6,500 times weekly",
       "summary_sv": "140 000 invånare bor i Cherson.",
       "summary_en": "140,000 residents stay in Kherson.",
@@ -784,9 +823,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -807,9 +846,9 @@
       "arkiverad": true,
       "tags": [
         "Cherson",
-        "Drönare",
         "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Drönare"
       ]
     },
     {
@@ -972,16 +1011,16 @@
       "timestamp": "2026-10-30T17:13:48+00:00",
       "title_sv": "Evakuering av civila börjar i den belägrade ukrainska staden Oleshky",
       "title_en": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpinsats, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
+      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpoperation, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
       "summary_en": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war.The city, which lies on the...",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1050,7 +1089,7 @@
       "timestamp": "2026-10-30T16:58:59+00:00",
       "title_sv": "Drönare har inte dödat stridsvagnar: ukrainsk analytiker säger att Operation Vivaldi visar Nato hur man får pansar att fungera igen",
       "title_en": "Drones have not killed tank: Ukrainian analyst says Operation Vivaldi shows NATO how to make armor work again",
-      "summary_sv": "Natos krigsspel övertygade vissa om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
+      "summary_sv": "Natos krigsspel övertygade en del om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
       "summary_en": "NATO war games convinced some that drones have made the tank obsolete, but Ukraine’s Operation Vivaldi shows armor still works.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1077,8 +1116,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1248,9 +1287,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1270,8 +1309,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Robotanfall",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -1366,10 +1405,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "ryssland",
-        "usa"
+        "eu",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1405,9 +1444,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1427,10 +1466,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Robotanfall",
-        "Drönare",
-        "Ukraina"
+        "Kyjiv",
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1560,9 +1599,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1599,8 +1638,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1793,8 +1832,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3461,9 +3500,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
