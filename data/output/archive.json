@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 3805,
-  "last_archived_rotation": "2026-10-31T08:01:45.117282+00:00",
+  "total_archived_events": 3807,
+  "last_archived_rotation": "2026-10-31T08:31:35.502008+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-30-be3e59",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T10:30:00+02:00",
+      "title_sv": "Ryska drönare attackerar fyra distrikt i Kyjiv-regionen under de senaste 24 timmarna",
+      "title_en": "Russian drones attack four districts of Kyiv region over past 24 hours",
+      "summary_sv": "Efterdyningarna av ryska drönarattacker rapporterades i fyra distrikt i Kyjiv-regionen under det senaste dygnet.",
+      "summary_en": "The aftermath of Russian drone attacks was reported in four districts of the Kyiv region over the past 24 hours.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179631-russian-drones-attack-four-districts-of-kyiv-region-over-past-24-hours.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Kyjiv",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-10-30-e13313",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T10:07:00+02:00",
+      "title_sv": "Elva personer kvarstår på sjukhus efter rysk attack mot Dnipro järnvägsstation",
+      "title_en": "Eleven people remain hospitalized after Russian strike on Dnipro railway station",
+      "summary_sv": "Elva personer som skadades i en rysk attack mot järnvägsstationen i Dnipro ligger kvar på stadens sjukhus.",
+      "summary_en": "Eleven people injured in a Russian attack on the Dnipro railway station remain in city hospitals.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179627-eleven-people-remain-hospitalized-after-russian-strike-on-dnipro-railway-station.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Dnipro",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-30-8375dd",
       "date": "2026-10-30",
@@ -581,8 +660,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1096,9 +1175,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
         "uk",
         "ryssland",
+        "eu",
         "usa",
         "ukraina"
       ],
@@ -1120,11 +1199,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Civila mål",
-        "Robotanfall",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
