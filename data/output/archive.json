@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 3998,
-  "last_archived_rotation": "2026-11-01T21:31:29.510831+00:00",
+  "total_archived_events": 3999,
+  "last_archived_rotation": "2026-11-01T22:01:54.366149+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-31-05e3a2",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T23:55:00+02:00",
+      "title_sv": "Zelensky skisserar möjliga datum för trilateralt möte mellan Ukraina, USA, Ryssland",
+      "title_en": "Zelensky outlines possible dates for trilateral meeting between Ukraine, US, Russia",
+      "summary_sv": "Trilaterala samtal på teknisk nivå mellan Ukraina, USA och Ryssland kan äga rum i Abu Dhabi den 6-10 november, även om det exakta datumet och platsen ännu inte har fastställts.",
+      "summary_en": "Technical-level trilateral talks between Ukraine, the United States and Russia could take place in Abu Dhabi on November 6-10, although the exact date and venue have not yet been finalized.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4180138-zelensky-outlines-possible-dates-for-trilateral-meeting-between-ukraine-us-russia.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-31-e599fa",
       "date": "2026-10-31",
@@ -474,8 +512,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -495,8 +533,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -626,10 +664,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -695,7 +733,7 @@
       "id": "evt-2026-10-31-2f7d0f",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T19:17:22+00:00",
-      "title_sv": "Oleshky-evakuerade återförenas med familjer efter att vapenvilan tillåter korsning tillbaka till Ukraina",
+      "title_sv": "Oleshky-evakuerade återförenas med familjer efter att vapenvilan tillåter att korsa tillbaka till Ukraina",
       "title_en": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
       "summary_sv": "Invånare i närliggande byar kantar motorvägen och viftar med flaggor för att hälsa de evakuerades konvoj från den ryskockuperade staden Evakuerade från ryskockuperade Oleshky har återförenats med sina familjer efter att ha korsat in i ukrainskt hållet territorium på lördagen.",
       "summary_en": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied city Evacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under the most significant truce...",
@@ -703,11 +741,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "eu",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -742,8 +780,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -810,15 +848,15 @@
       "timestamp": "2026-10-31T18:49:20+00:00",
       "title_sv": "\"Europeiska länder måste lära sig\": Ukrainsk försvarsteknikchef varnar Europa för kostsamma försvarsmisstag",
       "title_en": "“European countries need to learn”: Ukrainian defense-tech CEO warns Europe against costly defense mistakes",
-      "summary_sv": "Kostnaden för att motverka ett lufthot måste motsvara kostnaderna för hotet.",
+      "summary_sv": "Kostnaden för att motverka ett lufthot måste motsvara kostnaden för hotet.",
       "summary_en": "The cost of countering an air threat must match the cost of the threat.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "usa",
         "uk",
-        "ukraina",
         "eu"
       ],
       "syfte": {
@@ -1046,11 +1084,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "eu",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1070,8 +1108,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1122,8 +1160,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1237,10 +1275,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1307,7 +1345,7 @@
       "id": "evt-2026-10-31-eceadc",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T16:55:47+00:00",
-      "title_sv": "Känslosamma återseenden med nära och kära för Oleshky-evakuerade",
+      "title_sv": "Känslomässiga återseenden med nära och kära för Oleshky-evakuerade",
       "title_en": "Emotional reunions with loved ones for Oleshky evacuees",
       "summary_sv": "BBC:s Dan Johnson reste till den norra ukrainska gränsen till Vitryssland efter att evakuerade Oleshky-bor anlände i bussar och ambulanser efter en tillfällig vapenvila.",
       "summary_en": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
@@ -1315,9 +1353,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "ukraina",
         "usa",
         "uk",
-        "ukraina",
         "eu"
       ],
       "syfte": {
@@ -1691,8 +1729,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2189,10 +2227,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
