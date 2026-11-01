@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 3912,
-  "last_archived_rotation": "2026-11-01T03:01:39.022786+00:00",
+  "total_archived_events": 3913,
+  "last_archived_rotation": "2026-11-01T03:31:32.718893+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-31-f0eb8b",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T05:26:00+02:00",
+      "title_sv": "Merz tillkännager Coalition of the Willing möte i Berlin",
+      "title_en": "Merz announces Coalition of the Willing meeting in Berlin",
+      "summary_sv": "Tysklands förbundskansler Friedrich Merz har bjudit in medlemmar i Coalition of the Willing till ett möte i Berlin i november för att samordna ytterligare stöd till Ukraina.",
+      "summary_en": "German Chancellor Friedrich Merz has invited members of the Coalition of the Willing to a meeting in Berlin in November to coordinate further support for Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4179912-merz-announces-coalition-of-the-willing-meeting-in-berlin.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-31-bac050",
       "date": "2026-10-31",
@@ -239,10 +276,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -262,8 +299,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -542,7 +579,7 @@
       "id": "evt-2026-10-30-e26205",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T23:19:41+00:00",
-      "title_sv": "Pensionerad Michigan-lärare som släpptes från ryskt fängelse trodde att han aldrig skulle bli frigiven",
+      "title_sv": "Pensionerad Michigan-lärare som släpptes från ryskt fängelse trodde att han aldrig skulle bli fri",
       "title_en": "Retired Michigan teacher released from Russian prison believed he would never be freed",
       "summary_sv": "Stephen Hubbard sa att först när han fördes från Moskva till St Petersburg trodde han att han skulle \"åka någonstans\". I sina första kommentarer sedan han nyligen släpptes från ett ryskt fängelse sa en pensionerad lärare i Michigan att han bara trodde att han skulle bli fri när han fick nya kläder.",
       "summary_en": "Stephen Hubbard said that only when he was being taken from Moscow to St Petersburg did he believe he was ‘going somewhere’In his first comments since recently being released from a Russian prison, a retired Michigan teacher said he only believed he would be freed when he got new clothes.Stephen Hubbard, 74, remarked on Friday that he had heard...",
@@ -550,9 +587,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "ryssland",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -887,15 +924,15 @@
       "timestamp": "2026-10-30T20:41:51+00:00",
       "title_sv": "De ströp oss, säger grundaren av den ryska tidningen stängd under påtryckningar från myndigheterna",
       "title_en": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsbyråerna i Ryssland under de senaste tre decennierna.",
+      "summary_sv": "Novaya Gazeta har varit en av de mest uppmärksammade oberoende nyhetsmedierna i Ryssland under de senaste tre decennierna.",
       "summary_en": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "ryssland",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1540,7 +1577,7 @@
       "id": "evt-2026-10-30-001ca5",
       "date": "2026-10-30",
       "timestamp": "2026-10-30T17:48:38+00:00",
-      "title_sv": "Ryssland använde allt annat än kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
+      "title_sv": "Ryssland använde allt utom kärnvapen mot civila i Ukrainas Kherson oblast, säger dess guvernör. Drönare attackerar upp till 6 500 gånger i veckan",
       "title_en": "Russia used everything but nuclear weapons against civilians in Ukraine’s Kherson Oblast, its governor says. Drones strike up to 6,500 times weekly",
       "summary_sv": "140 000 invånare bor i Cherson.",
       "summary_en": "140,000 residents stay in Kherson.",
@@ -1548,10 +1585,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1571,10 +1608,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Cherson",
-        "Civila mål",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Cherson",
+        "Civila mål"
       ]
     },
     {
@@ -1737,16 +1774,16 @@
       "timestamp": "2026-10-30T17:13:48+00:00",
       "title_sv": "Evakuering av civila börjar i den belägrade ukrainska staden Oleshky",
       "title_en": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpinsats, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
+      "summary_sv": "Humanitär konvoj för mat och medicin till den ryskhållna staden där människor har lidit allvarlig brist Människor som bor i den belägrade ryskhållna staden Oleshky i södra Ukraina evakuerades på fredagen som en del av en gemensam hjälpoperation, den första i sitt slag på fyra år och åtta månader av krig. Staden, som ligger på...",
       "summary_en": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war.The city, which lies on the...",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1766,9 +1803,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Cherson",
-        "Civila mål",
-        "Ukraina"
+        "Civila mål"
       ]
     },
     {
@@ -1815,7 +1852,7 @@
       "timestamp": "2026-10-30T16:58:59+00:00",
       "title_sv": "Drönare har inte dödat stridsvagnar: ukrainsk analytiker säger att Operation Vivaldi visar Nato hur man får pansar att fungera igen",
       "title_en": "Drones have not killed tank: Ukrainian analyst says Operation Vivaldi shows NATO how to make armor work again",
-      "summary_sv": "Natos krigsspel övertygade vissa om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
+      "summary_sv": "Natos krigsspel övertygade en del om att drönare har gjort tanken föråldrad, men Ukrainas operation Vivaldi visar att rustning fortfarande fungerar.",
       "summary_en": "NATO war games convinced some that drones have made the tank obsolete, but Ukraine’s Operation Vivaldi shows armor still works.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1842,8 +1879,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -2012,10 +2049,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2035,9 +2072,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Ukraina",
         "Robotanfall",
-        "Kyjiv",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -2131,10 +2168,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
+        "ukraina",
         "usa",
-        "ryssland",
-        "ukraina"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2169,10 +2206,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2192,10 +2229,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Kyjiv",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
@@ -2324,10 +2361,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2347,8 +2384,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -2363,9 +2400,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "uk",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
