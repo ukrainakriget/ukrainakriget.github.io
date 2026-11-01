@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 3926,
-  "last_archived_rotation": "2026-11-01T07:34:41.564057+00:00",
+  "total_archived_events": 3928,
+  "last_archived_rotation": "2026-11-01T08:04:59.177765+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-31-d3615f",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T10:00:00+02:00",
+      "title_sv": "Ryska styrkor som använder legosoldater bildar Afrika och Asien i angrepp på Huliaipole front - militär",
+      "title_en": "Russian forces using mercenaries form Africa and Asia in assaults on Huliaipole front – military",
+      "summary_sv": "Ryska styrkor sätter in rekryterade legosoldater från afrikanska och asiatiska länder i angrepp på Huliaipole-sektorn i frontlinjen.",
+      "summary_en": "Russian forces are deploying recruited mercenaries from African and Asian countries in assaults on the Huliaipole sector of the front line.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179966-russian-forces-using-mercenaries-form-africa-and-asia-in-assaults-on-huliaipole-front-military.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-31-763c89",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T09:52:00+02:00",
+      "title_sv": "Infrastruktur skadad i Dnipro, drönare träffar bostäder i Charkiv, människor skadades i rysk attack",
+      "title_en": "Infrastructure facility damaged in Dnipro, drone hits housing in Kharkiv, people injured in Russian attack",
+      "summary_sv": "Ryska styrkor attackerade ukrainska städer med jetdrivna drönare över natten till den 31 oktober. Explosioner hördes i Dnipro, Charkiv, Sumy och andra städer.",
+      "summary_en": "Russian forces attacked Ukrainian cities with jet-powered drones overnight into Oct. 31. Explosions were heard in Dnipro, Kharkiv, Sumy and other cities.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-attack-by-jet-powered-uavs-on-dnipro-kharkiv-and-sumy-explosions-and-fires-overnight-50655093.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Charkiv",
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-10-31-c7f30c",
       "date": "2026-10-31",
@@ -325,10 +403,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
+        "usa",
         "ryssland",
-        "usa"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -443,8 +521,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -553,10 +631,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "usa",
+        "uk",
         "eu",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -576,11 +654,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
-        "Civila mål",
+        "Robotanfall",
+        "Kyjiv",
         "Drönare",
-        "Robotanfall"
+        "Civila mål"
       ]
     },
     {
@@ -784,10 +862,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
+        "usa",
         "ryssland",
-        "usa"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1095,9 +1173,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1438,9 +1516,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
