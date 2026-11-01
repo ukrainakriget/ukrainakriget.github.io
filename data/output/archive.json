@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 3933,
-  "last_archived_rotation": "2026-11-01T09:12:24.786942+00:00",
+  "total_archived_events": 3934,
+  "last_archived_rotation": "2026-11-01T09:31:27.001991+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-31-b32e08",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T11:15:00+02:00",
+      "title_sv": "Ryska styrkor inleder dubbel attack mot Charkiv med Banderol-missiler",
+      "title_en": "Russian forces launch double strike on Kharkiv with Banderol missiles",
+      "summary_sv": "Ryska styrkor har träffat två distrikt i Charkiv med Banderol-missiler.",
+      "summary_en": "Russian forces have struck two districts of Kharkiv with Banderol missiles.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179981-russian-forces-launch-double-strike-on-kharkiv-with-banderol-missiles.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Robotanfall",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-10-31-de0c1c",
       "date": "2026-10-31",
@@ -590,10 +629,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -708,8 +747,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -817,11 +856,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "eu",
         "ukraina",
-        "usa"
+        "usa",
+        "eu",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -841,11 +880,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Civila mål",
-        "Drönare",
         "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall",
+        "Drönare"
       ]
     },
     {
@@ -1049,10 +1088,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1072,8 +1111,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1360,9 +1399,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
