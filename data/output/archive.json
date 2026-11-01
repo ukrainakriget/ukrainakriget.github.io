@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 3916,
-  "last_archived_rotation": "2026-11-01T05:05:03.613016+00:00",
+  "total_archived_events": 3918,
+  "last_archived_rotation": "2026-11-01T05:34:46.865656+00:00",
   "events": [
+    {
+      "id": "evt-2026-10-31-fc0738",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T07:30:00+02:00",
+      "title_sv": "Kanada ska ge 500 miljoner euro för att stödja Ukraina",
+      "title_en": "Canada to provide €500 million to support Ukraine",
+      "summary_sv": "Kanada kommer att bidra till Ukrainas stödlån från EU för 2026–2027 och kommer att anslå 500 miljoner euro.",
+      "summary_en": "Canada will contribute to the Ukraine Support Loan provided by the EU for 2026–2027 and will allocate €500 million.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4179945-canada-to-provide-500-million-to-support-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-10-31-67363f",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T07:08:00+02:00",
+      "title_sv": "Tre skadade, hem skadade i rysk drönarattack mot Charkiv",
+      "title_en": "Three injured, homes damaged in Russian drone strike on Kharkiv",
+      "summary_sv": "Tre personer skadades och 10 bostadshus skadades i en rysk dröneratack mot Charkiv.",
+      "summary_en": "Three people were injured and 10 residential buildings were damaged in a Russian drone strike on Kharkiv.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4179940-three-injured-homes-damaged-in-russian-drone-strike-on-kharkiv.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Drönare",
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-10-31-90ff58",
       "date": "2026-10-31",
@@ -168,8 +246,8 @@
       "parter_intressenter": [
         "usa",
         "eu",
-        "uk",
         "ukraina",
+        "uk",
         "ryssland"
       ],
       "syfte": {
@@ -191,8 +269,8 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
-        "Drönare",
         "Ukraina",
+        "Drönare",
         "Robotanfall",
         "Civila mål"
       ]
@@ -398,10 +476,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -421,8 +499,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -709,9 +787,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
+        "usa",
         "ryssland",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1052,9 +1130,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "usa",
         "ryssland",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1707,10 +1785,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1730,10 +1808,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Ukraina",
-        "Cherson",
-        "Civila mål"
+        "Civila mål",
+        "Drönare",
+        "Cherson"
       ]
     },
     {
