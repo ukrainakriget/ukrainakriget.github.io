@@ -1,7 +1,81 @@
 {
-  "total_archived_events": 4059,
-  "last_archived_rotation": "2026-11-02T15:31:46.783839+00:00",
+  "total_archived_events": 4061,
+  "last_archived_rotation": "2026-11-02T16:02:02.213152+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-e1da20",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T17:58:00+02:00",
+      "title_sv": "Ryska attacker lämnar 650 bosättningar i Zhytomyr oblast utan ström",
+      "title_en": "Russian attacks leave 650 settlements in Zhytomyr Oblast without power",
+      "summary_sv": "Ryska styrkor attackerade energiinfrastruktur i Zhytomyr Oblast över natten till den 1 november. De senaste attackerna lämnade mer än 650 bosättningar i regionen utan ström, enligt regional guvernör Vitalii Bunechko.",
+      "summary_en": "Russian forces attacked energy infrastructure in Zhytomyr Oblast overnight into Nov. 1. The latest strikes left more than 650 settlements in the region without power, according to regional governor Vitalii Bunechko.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/over-650-villages-left-without-power-after-russian-attack-on-zhytomyr-oblast-50655274.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-dccd71",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T17:54:00+02:00",
+      "title_sv": "Kroppen av civila som hållits på sjukhus i sex månader överfördes från Oleshky till Henichesk – journalist",
+      "title_en": "Bodies of civilians kept in hospital for six months transferred from Oleshky to Henichesk – journalist",
+      "summary_sv": "Kroppen av 47 civila dödade i den tillfälligt ockuperade staden Oleshky har förts till Henichesk efter att ha förvarats i källaren på ett sjukhus i sex månader.",
+      "summary_en": "The bodies of 47 civilians killed in the temporarily occupied city of Oleshky have been taken to Henichesk after being stored in the basement of a hospital for six months.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180289-bodies-of-civilians-kept-in-hospital-for-six-months-transferred-from-oleshky-to-henichesk-journalist.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-084d6a",
       "date": "2026-11-01",
@@ -1591,10 +1665,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "ryssland",
-        "uk"
+        "uk",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2084,10 +2158,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "eu",
         "ryssland",
+        "usa",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -2108,11 +2182,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Kyjiv",
-        "Robotanfall",
         "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Drönare",
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
