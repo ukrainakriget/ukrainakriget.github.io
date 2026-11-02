@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 4029,
-  "last_archived_rotation": "2026-11-02T10:01:57.521302+00:00",
+  "total_archived_events": 4031,
+  "last_archived_rotation": "2026-11-02T10:31:39.405136+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-81f0f6",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T12:23:00+02:00",
+      "title_sv": "Barn skadades i rysk drönareattack i Poltava-regionen",
+      "title_en": "Child injured in Russian drone attack in Poltava region",
+      "summary_sv": "Skräp från en rysk drönare skadade ett hus i Reshetylivka-samhället i Poltava-regionen och skadade ett barn.",
+      "summary_en": "Debris from a Russian drone damaged a house in the Reshetylivka community in the Poltava region, injuring a child.",
+      "location_name": "Poltava",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180224-child-injured-in-russian-drone-attack-in-poltava-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Poltava",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-43cd33",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T12:05:00+02:00",
+      "title_sv": "Russia tries to portray Ukraine's long-range strikes as obstacle to negotiations",
+      "title_en": "Russia tries to portray Ukraine's long-range strikes as obstacle to negotiations",
+      "summary_sv": "The Kremlin is trying to portray Ukraine's long-range strikes on Russian territory as an obstacle to peace negotiations. It is another attempt by the Kremlin to baselessly shift blame to Kyiv for its own refusal to participate constructively in the talks, analysts at the U.S.-based Institute for the Study of War (ISW) said in their Oct. 31 report.",
+      "summary_en": "The Kremlin is trying to portray Ukraine's long-range strikes on Russian territory as an obstacle to peace negotiations. It is another attempt by the Kremlin to baselessly shift blame to Kyiv for its own refusal to participate constructively in the talks, analysts at the U.S.-based Institute for the Study of War (ISW) said in their Oct. 31 report.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/negotiations-between-ukraine-u-s-and-russia-kremlin-accuses-kyiv-of-strikes-against-russia-50655241.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-b267cb",
       "date": "2026-11-01",
@@ -441,9 +520,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
+        "uk",
+        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -934,10 +1013,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "uk",
         "eu",
         "usa",
-        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -959,10 +1038,10 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
+        "Robotanfall",
         "Ukraina",
         "Kyjiv",
-        "Civila mål",
-        "Robotanfall"
+        "Civila mål"
       ]
     },
     {
@@ -1240,9 +1319,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
+        "uk",
+        "usa",
         "ukraina"
       ],
       "syfte": {
