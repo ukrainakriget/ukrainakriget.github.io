@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 4044,
-  "last_archived_rotation": "2026-11-02T13:01:57.904389+00:00",
+  "total_archived_events": 4046,
+  "last_archived_rotation": "2026-11-02T13:32:50.230692+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-351b0a",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T15:24:00+02:00",
+      "title_sv": "Zelensky: Ukrainska styrkor befriade mer territorium i oktober än vad ryska inkräktare tog",
+      "title_en": "Zelensky: Ukrainian forces liberated more territory in October than Russian invaders seized",
+      "summary_sv": "I oktober 2026 tillfogade Ukrainas försvarsstyrkor rekordförluster för den ryska armén sedan starten av det fullskaliga kriget och befriade 96,2 kvadratkilometer av ukrainskt territorium – 10,4 kvadratkilometer mer än vad ryska styrkor lyckades fånga under samma period.",
+      "summary_en": "In October 2026, Ukraine's Defense Forces inflicted record losses on the Russian army since the start of the full-scale war and liberated 96.2 square kilometers of Ukrainian territory – 10.4 square kilometers more than Russian forces managed to capture during the same period.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180268-zelensky-ukrainian-forces-liberated-more-territory-in-october-than-russian-invaders-seized.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-92bb74",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T15:02:00+02:00",
+      "title_sv": "510 people killed by mines and explosive objects in Ukraine since Russia's invasion began, including 26 children",
+      "title_en": "510 people killed by mines and explosive objects in Ukraine since Russia's invasion began, including 26 children",
+      "summary_sv": "Since the start of Russia's full-scale military invasion, 1,757 people in Ukraine have been harmed by mines and other explosive objects. Of them, 510 died, and another 1,247 were injured, Ukraine's Defense Ministry reported on Oct. 31.",
+      "summary_en": "Since the start of Russia's full-scale military invasion, 1,757 people in Ukraine have been harmed by mines and other explosive objects. Of them, 510 died, and another 1,247 were injured, Ukraine's Defense Ministry reported on Oct. 31.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/number-of-ukrainian-casualties-from-landmine-explosions-ukraine-s-defense-ministry-releases-data-50655260.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-bb4295",
       "date": "2026-11-01",
@@ -480,9 +557,9 @@
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -502,8 +579,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Charkiv"
+        "Charkiv",
+        "Ukraina"
       ]
     },
     {
@@ -1023,9 +1100,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1515,11 +1592,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
-        "uk",
+        "usa",
         "ryssland",
-        "usa"
+        "uk",
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1539,11 +1616,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Robotanfall",
         "Ukraina",
         "Kyjiv",
-        "Robotanfall",
-        "Civila mål"
+        "Civila mål",
+        "Drönare"
       ]
     },
     {
