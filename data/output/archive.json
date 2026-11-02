@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 4010,
-  "last_archived_rotation": "2026-11-02T05:01:40.219683+00:00",
+  "total_archived_events": 4011,
+  "last_archived_rotation": "2026-11-02T05:31:32.059547+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-965536",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T07:22:00+02:00",
+      "title_sv": "Zelensky tackar Melania Trump för medling för att säkra vapenvila i Oleshky",
+      "title_en": "Zelensky thanks Melania Trump for mediation in securing ceasefire in Oleshky",
+      "summary_sv": "Ukrainas president Volodymyr Zelensky har tackat USA:s första dam Melania Trump för hennes medling i att arrangera en vapenvila i den tillfälligt ockuperade staden Oleshky och sagt att Ukraina skulle stödja fortsättningen av initiativet.",
+      "summary_en": "Ukrainian President Volodymyr Zelensky has thanked U.S. First Lady Melania Trump for her mediation in arranging a ceasefire in the temporarily occupied city of Oleshky and said Ukraine would support the continuation of the initiative.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4180158-zelensky-thanks-melania-trump-for-mediation-in-securing-ceasefire-in-oleshky.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-089c56",
       "date": "2026-11-01",
@@ -200,11 +237,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
+        "eu",
         "usa",
         "uk",
-        "eu",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -224,11 +261,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
+        "Robotanfall",
         "Drönare",
-        "Ukraina",
+        "Civila mål",
         "Kyjiv",
-        "Robotanfall"
+        "Ukraina"
       ]
     },
     {
@@ -506,9 +543,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
+        "ukraina",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1079,9 +1116,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
+        "ukraina",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1156,11 +1193,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
+        "eu",
         "usa",
         "uk",
-        "eu",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1499,11 +1536,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
+        "eu",
         "usa",
         "uk",
-        "eu",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1569,7 +1606,7 @@
       "timestamp": "2026-10-31T17:50:41+00:00",
       "title_sv": "En ny ukrainsk tung brigad får de stridsvagnar som blir över. De flesta av armén har ont om rustningar och trupper också",
       "title_en": "A new Ukrainian heavy brigade is getting whatever tanks are left over. Most of the army is short of armor and troops, too",
-      "summary_sv": "Och detta är utan tvekan den främsta drivkraften för Ukrainas robotik- och drönarstrategi",
+      "summary_sv": "Och detta är utan tvekan den främsta drivkraften bakom Ukrainas robotik- och drönarstrategi",
       "summary_en": "And this is arguably the main driver of Ukraine's robotics and drone strategy",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1597,8 +1634,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Robotanfall",
-        "Drönare"
+        "Drönare",
+        "Robotanfall"
       ]
     },
     {
