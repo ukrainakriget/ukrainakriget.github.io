@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 4018,
-  "last_archived_rotation": "2026-11-02T07:42:05.267139+00:00",
+  "total_archived_events": 4020,
+  "last_archived_rotation": "2026-11-02T08:04:57.521306+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-c126bc",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T09:55:00+02:00",
+      "title_sv": "Ryssland attackerar Ukraina med 433 drönare, 64 av dem jetdrivna",
+      "title_en": "Russia attacks Ukraine with 433 drones, 64 of them jet-powered",
+      "summary_sv": "Ryska styrkor attackerade Ukraina med 433 attackdrönare över natten till den 1 november (med början kl. 18.00 den 31 oktober). Drönarna inkluderade Shaheds (64 av dem jetdrivna), Gerberas och lockbetsdrönare av Parodiya-typ, enligt flygvapnets morgonrapport.",
+      "summary_en": "Russian forces attacked Ukraine with 433 strike drones overnight into Nov. 1 (starting at 6 p.m. on Oct. 31). The drones included Shaheds (64 of them jet-powered), Gerberas, and Parodiya-type decoy drones, according to the Air Force's morning report.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/shahed-and-gerbera-drone-attack-large-scale-strike-on-ukraine-air-defense-operations-continue-50655235.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-7bbb97",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T09:46:00+02:00",
+      "title_sv": "Drönare attackerar Lukoil-raffinaderiet i Ryssland",
+      "title_en": "Drones attack Lukoil refinery in Russia",
+      "summary_sv": "En industrianläggning i Kstovo-distriktet fick betydande skada i en drönareattack mot Rysslands Nizhny Novgorod-region över natten den 1 november.",
+      "summary_en": "An industrial facility in the Kstovo district sustained significant damage in a drone attack on Russia's Nizhny Novgorod region overnight on November 1.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180179-drones-attack-lukoil-refinery-in-russia.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-c9a3ea",
       "date": "2026-11-01",
@@ -509,10 +588,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "uk",
         "ryssland",
         "usa",
-        "eu"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -532,11 +611,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Civila mål",
         "Ukraina",
         "Robotanfall",
-        "Kyjiv"
+        "Kyjiv",
+        "Drönare",
+        "Civila mål"
       ]
     },
     {
@@ -814,10 +893,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "uk",
-        "ryssland"
+        "ukraina",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1235,8 +1314,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
