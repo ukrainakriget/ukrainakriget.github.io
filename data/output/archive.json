@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 4003,
-  "last_archived_rotation": "2026-11-02T01:01:45.785462+00:00",
+  "total_archived_events": 4004,
+  "last_archived_rotation": "2026-11-02T01:31:21.248403+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-0a9436",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T03:24:00+02:00",
+      "title_sv": "Zelensky tilldelar 733 tjänstemedlemmar, inklusive 255 postumt",
+      "title_en": "Zelensky awards 733 service members, including 255 posthumously",
+      "summary_sv": "Ukrainas president Volodymyr Zelensky har tilldelat statlig utmärkelse till 733 tjänstemedlemmar, varav 255 postumt.",
+      "summary_en": "Ukrainian President Volodymyr Zelensky has awarded state honors to 733 service members, including 255 posthumously.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4180023-zelensky-awards-733-service-members-including-255-posthumously.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-8d1488",
       "date": "2026-11-01",
@@ -240,10 +277,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -682,8 +719,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -813,10 +850,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -890,11 +927,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "usa",
         "eu",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1003,10 +1040,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "ukraina",
-        "uk",
-        "usa"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1233,11 +1270,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "usa",
         "eu",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1257,8 +1294,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1303,7 +1340,7 @@
       "timestamp": "2026-10-31T17:50:41+00:00",
       "title_sv": "En ny ukrainsk tung brigad får de stridsvagnar som blir över. De flesta av armén har ont om rustningar och trupper också",
       "title_en": "A new Ukrainian heavy brigade is getting whatever tanks are left over. Most of the army is short of armor and troops, too",
-      "summary_sv": "Och detta är utan tvekan den främsta drivkraften bakom Ukrainas robotik- och drönarstrategi",
+      "summary_sv": "Och detta är utan tvekan den främsta drivkraften för Ukrainas robotik- och drönarstrategi",
       "summary_en": "And this is arguably the main driver of Ukraine's robotics and drone strategy",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1424,10 +1461,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ryssland",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1447,9 +1484,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Civila mål",
-        "Ukraina",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -1494,7 +1531,7 @@
       "id": "evt-2026-10-31-eceadc",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T16:55:47+00:00",
-      "title_sv": "Känslomässiga återseenden med nära och kära för Oleshky-evakuerade",
+      "title_sv": "Känslosamma återseenden med nära och kära för Oleshky-evakuerade",
       "title_en": "Emotional reunions with loved ones for Oleshky evacuees",
       "summary_sv": "BBC:s Dan Johnson reste till den norra ukrainska gränsen till Vitryssland efter att evakuerade Oleshky-bor anlände i bussar och ambulanser efter en tillfällig vapenvila.",
       "summary_en": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
@@ -1502,10 +1539,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "ukraina",
-        "uk",
-        "usa"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1872,7 +1909,7 @@
       "timestamp": "2026-10-31T15:12:03+00:00",
       "title_sv": "Den ukrainska överbefälhavaren Drapatyi lanserar en reform av utkast till medicinska nämnder för att sluta skicka sjuka till krig och utrota korruption",
       "title_en": "Ukrainian Commander-in-Chief Drapatyi launches reform of draft medical boards to stop sending sick to war and root out corruption",
-      "summary_sv": "Ordern den 28 oktober innebär noggrann uppföljning av avgöranden, granskning av fall då de inte är lämpliga och regelbunden utbildning för styrelseledamöter.",
+      "summary_sv": "Ordningen den 28 oktober medför noggrann uppföljning av beslut, granskning av fall då olämplig och regelbunden utbildning för styrelseledamöter.",
       "summary_en": "The 28 October order brings close monitoring of rulings, scrutiny of fit-then-unfit cases and regular training for board members.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
