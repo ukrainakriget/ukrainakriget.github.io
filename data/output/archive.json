@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 4005,
-  "last_archived_rotation": "2026-11-02T03:31:27.122634+00:00",
+  "total_archived_events": 4006,
+  "last_archived_rotation": "2026-11-02T04:01:44.686978+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-f4c3d5",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T05:35:00+02:00",
+      "title_sv": "Fyra dödade, inklusive barn, i bil- och lastbilskollision i Dnipro",
+      "title_en": "Four killed, including child, in car and truck collision in Dnipro",
+      "summary_sv": "Fyra personer, inklusive ett barn, har dödats i en trafikolycka i Dnipro.",
+      "summary_en": "Four people, including a child, have been killed in a road accident in Dnipro.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-emergencies/4180130-four-killed-including-child-in-car-and-truck-collision-in-dnipro.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-1ecf4f",
       "date": "2026-11-01",
@@ -315,10 +351,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -736,8 +772,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -757,8 +793,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -888,10 +924,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -965,11 +1001,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "ryssland",
         "uk",
-        "eu"
+        "ukraina",
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1004,8 +1040,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1078,10 +1114,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "eu"
+        "eu",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1308,11 +1344,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "ryssland",
         "uk",
-        "eu"
+        "ukraina",
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1332,8 +1368,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1384,8 +1420,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1405,9 +1441,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Robotanfall"
       ]
     },
     {
@@ -1499,10 +1535,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1522,8 +1558,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
         "Ukraina",
+        "Civila mål",
         "Drönare"
       ]
     },
@@ -1577,10 +1613,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "eu"
+        "eu",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
