@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 4036,
-  "last_archived_rotation": "2026-11-02T11:34:48.941245+00:00",
+  "total_archived_events": 4037,
+  "last_archived_rotation": "2026-11-02T12:01:59.835303+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-a21e55",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T13:48:00+02:00",
+      "title_sv": "Drönare kränker moldaviskt luftrum två gånger under en massiv rysk attack mot Ukraina",
+      "title_en": "Drones violate Moldovan airspace twice during massive Russian attack on Ukraine",
+      "summary_sv": "Två drönare upptäcktes i moldaviskt luftrum lördagen den 31 oktober, mitt i en massiv rysk attack mot Ukraina.",
+      "summary_en": "Two drones were detected in Moldovan airspace on Saturday, October 31, amid a massive Russian attack on Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180243-drones-violate-moldovan-airspace-twice-during-massive-russian-attack-on-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-b475da",
       "date": "2026-11-01",
@@ -721,8 +760,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "usa",
         "ryssland",
+        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -1205,19 +1244,19 @@
       "id": "evt-2026-11-01-190ecc",
       "date": "2026-11-01",
       "timestamp": "2026-11-01T04:17:51+00:00",
-      "title_sv": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
+      "title_sv": "Krigsbriefing i Ukraina: Oleshky vapenvila visar att nedtrappning är möjlig, säger Zelenskyy",
       "title_en": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
-      "summary_sv": "Ukrainian president says Moscow must be shown that support for Kyiv will not diminish; US says interest also growing for limited Black Sea ceasefire.",
+      "summary_sv": "Ukrainas president säger att Moskva måste visas att stödet för Kyjiv inte kommer att minska; USA säger att intresset också ökar för en begränsad vapenvila vid Svarta havet.",
       "summary_en": "Ukrainian president says Moscow must be shown that support for Kyiv will not diminish; US says interest also growing for limited Black Sea ceasefire.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
         "ryssland",
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1237,9 +1276,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Drönare",
         "Robotanfall",
+        "Kyjiv",
         "Ukraina",
         "Civila mål"
       ]
