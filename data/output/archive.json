@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 4022,
-  "last_archived_rotation": "2026-11-02T08:31:50.790478+00:00",
+  "total_archived_events": 4024,
+  "last_archived_rotation": "2026-11-02T09:01:46.794482+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-be59dc",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T10:52:00+02:00",
+      "title_sv": "Ryska styrkor attackerar energiinfrastruktur i Zhytomyr-regionen och lämnar över 650 bosättningar utan ström",
+      "title_en": "Russian forces strike energy infrastructure in Zhytomyr region, leaving over 650 settlements without power",
+      "summary_sv": "Ryska styrkor har attackerat energiinfrastruktur i Zhytomyr-regionen och lämnat mer än 650 bosättningar utan elektricitet.",
+      "summary_en": "Russian forces have attacked energy infrastructure in the Zhytomyr region, leaving more than 650 settlements without electricity.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180198-russian-forces-strike-energy-infrastructure-in-zhytomyr-region-leaving-over-650-settlements-without-power.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-0e72b7",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T10:37:00+02:00",
+      "title_sv": "Akuta strömavbrott infördes i Kyjiv på grund av ryska attacker",
+      "title_en": "Emergency power outages introduced in Kyiv because of Russian attacks",
+      "summary_sv": "Nödströmavbrott infördes i Kyjiv den 1 november på grund av fortsatta attacker mot energisystemet. Enligt DTEK, Ukrainas största privata energibolag, är scheman för rullande avbrott inte i kraft.",
+      "summary_en": "Emergency power outages were introduced in Kyiv on Nov. 1, because of continuing attacks on the energy system. Rolling outage schedules are not in effect, according to DTEK, Ukraine's largest private energy company.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/emergency-power-outages-introduced-in-kyiv-after-attack-on-power-grid-disrupts-schedules-50655236.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-11-01-5a3e62",
       "date": "2026-11-01",
@@ -664,11 +742,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "ryssland",
+        "uk",
         "eu",
-        "uk"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -689,8 +767,8 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
         "Ukraina",
+        "Robotanfall",
         "Civila mål",
         "Drönare"
       ]
@@ -971,9 +1049,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "ryssland",
+        "ukraina",
         "uk",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
