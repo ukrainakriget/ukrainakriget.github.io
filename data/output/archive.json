@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 4063,
-  "last_archived_rotation": "2026-11-02T16:33:06.721220+00:00",
+  "total_archived_events": 4065,
+  "last_archived_rotation": "2026-11-02T17:01:52.781907+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-3148f0",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T18:50:00+02:00",
+      "title_sv": "Marine Corps spox: Vapenvila i Oleshky holding, vi är förberedda på alla eventualiteter",
+      "title_en": "Marine Corps spox: Ceasefire in Oleshky holding, we are prepared for any eventuality",
+      "summary_sv": "Vapenvilan på plats för det humanitära uppdraget i staden Oleshky fortsätter att gälla, och marinkårens enheter och andra enheter inom Ukrainas försvarsstyrkor förbereder sig för varje eventualitet.",
+      "summary_en": "The ceasefire in place for the humanitarian mission in the city of Oleshky remains in effect, and Marine Corps units and other units of Ukraine's Defense Forces are preparing for any eventuality.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180295-marine-corps-spox-ceasefire-in-oleshky-holding-we-are-prepared-for-any-eventuality.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-33346e",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T18:44:00+02:00",
+      "title_sv": "Ukrainas drönarstyrkor träffade ryska mål var 41:e sekund i oktober, säger befälhavaren",
+      "title_en": "Ukraine's drone forces hit Russian target every 41 seconds in October, commander says",
+      "summary_sv": "I oktober träffade enheter från Unmanned Systems Forces (USF) i genomsnitt ett fiendemål var 41:e sekund och en rysk soldat var 159:e sekund. Oktober var också en rekordmånad för förluster som tillfogats rysk armépersonal, sade Robert \"Magyar\" Brovdi, befälhavaren för de obemannade systemstyrkorna, den 1 november.",
+      "summary_en": "In October, units of the Unmanned Systems Forces (USF) on average hit an enemy target every 41 seconds, and a Russian soldier every 159 seconds. October was also a record month for losses inflicted on Russian army personnel, Robert “Magyar” Brovdi, the commander of the Unmanned Systems Forces, said on Nov. 1.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/ukraine-s-unmanned-systems-forces-report-record-losses-for-russian-armed-forces-in-october-2026-50655275.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-5b0429",
       "date": "2026-11-01",
@@ -1739,10 +1815,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
