@@ -1,7 +1,128 @@
 {
-  "total_archived_events": 4033,
-  "last_archived_rotation": "2026-11-02T11:04:42.698059+00:00",
+  "total_archived_events": 4036,
+  "last_archived_rotation": "2026-11-02T11:34:48.941245+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-b475da",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T13:30:00+02:00",
+      "title_sv": "Ukraine's General Staff tallies Russian frontline losses over past day",
+      "title_en": "Ukraine's General Staff tallies Russian frontline losses over past day",
+      "summary_sv": "Over the past day, the Russian army lost about 1,670 troops. From Feb. 24, 2022, through Oct. 31, 2026, the aggressor’s total losses are estimated at 1,588,170 people, Ukraine's General Staff reported.",
+      "summary_en": "Over the past day, the Russian army lost about 1,670 troops. From Feb. 24, 2022, through Oct. 31, 2026, the aggressor’s total losses are estimated at 1,588,170 people, Ukraine's General Staff reported.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/general-staff-of-ukraine-s-armed-forces-reports-record-russian-armed-forces-casualties-50655258.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-d97e7e",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T13:27:00+02:00",
+      "title_sv": "Zelensky rapporterar attacker mot rysk försvarsindustri, luftförsvarstillgångar värda 70 miljoner dollar",
+      "title_en": "Zelensky reports strikes on Russian defense industry plant, air defense assets worth $70 million",
+      "summary_sv": "Ukrainas försvarsstyrkor träffade den kemiska fabriken Kamensky i den ryska Rostov-regionen, som är involverad i missiltillverkning, såväl som ett Pantsir-S2 luftförsvarssystem och ett ledningsfordon i S-400 Triumf-systemet. Det totala värdet av de drabbade luftvärnstillgångarna uppskattas till cirka 70 miljoner dollar.",
+      "summary_en": "Ukraine’s Defense Forces struck the Kamensky chemical plant in Russia’s Rostov region, which is involved in missile production, as well as a Pantsir-S2 air defense system and a command-and-staff vehicle of the S-400 Triumf system. The total value of the air defense assets hit is estimated at approximately $70 million.",
+      "location_name": "Ryskt gränsområde",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180240-zelensky-reports-strikes-on-russian-defense-industry-plant-air-defense-assets-worth-70-million.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Luftförsvar",
+        "Ukraina",
+        "Ryskt",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-7ec93f",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T13:05:00+02:00",
+      "title_sv": "Rysk drönarattack skadar hem, lager och fordon i Lviv-samhället",
+      "title_en": "Russian drone attack damages homes, warehouse and vehicles in Lviv community",
+      "summary_sv": "Ryska drönareattacker har skadat bostadshus, ett lager och fordon i Lviv-samhället.",
+      "summary_en": "Russian drone attacks have damaged residential buildings, a warehouse and vehicles in the Lviv community.",
+      "location_name": "Lviv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180237-russian-drone-attack-damages-homes-warehouse-and-vehicles-in-lviv-community.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Drönare",
+        "Lviv"
+      ]
+    },
     {
       "id": "evt-2026-11-01-6c5dd9",
       "date": "2026-11-01",
@@ -599,9 +720,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
         "uk",
+        "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -1092,9 +1213,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "eu",
+        "ryssland",
+        "ukraina",
         "uk",
         "usa"
       ],
@@ -1116,10 +1237,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
         "Drönare",
         "Robotanfall",
+        "Ukraina",
         "Civila mål"
       ]
     },
