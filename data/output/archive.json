@@ -1,7 +1,125 @@
 {
-  "total_archived_events": 4015,
-  "last_archived_rotation": "2026-11-02T07:01:48.845218+00:00",
+  "total_archived_events": 4018,
+  "last_archived_rotation": "2026-11-02T07:34:40.292064+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-c9a3ea",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T09:25:00+02:00",
+      "title_sv": "Krigsuppdatering: 264 sammandrabbningar på frontlinjerna under det senaste dygnet, Pokrovsk-sektorn hetaste",
+      "title_en": "War update: 264 clashes on front lines over past day, Pokrovsk sector hottest",
+      "summary_sv": "Totalt 264 stridsinsatser mellan Ukrainas försvarsstyrkor och ryska trupper registrerades vid frontlinjen den 31 oktober.",
+      "summary_en": "A total of 264 combat engagements between Ukraine's Defense Forces and Russian troops were recorded on the front line on October 31.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180173-war-update-264-clashes-on-front-lines-over-past-day-pokrovsk-sector-hottest.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Pokrovsk"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-a81bdc",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T09:12:00+02:00",
+      "title_sv": "Ryssland inleder en massiv morgondrönsattack mot Ukraina",
+      "title_en": "Russia launches massive morning drone attack on Ukraine",
+      "summary_sv": "Ryssland har attackerat Ukraina med Shahed-kamikaze-drönare och guidade flygbomber sedan kvällen den 31 oktober och in på morgonen den 1 november. Larm för flyganfall utropades i Kyjiv och ett antal regioner.",
+      "summary_en": "Russia has been attacking Ukraine with Shahed kamikaze drones and guided aerial bombs since the evening of Oct. 31 and into the morning of Nov. 1. Air raid alerts were declared in Kyiv and a number of regions.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-attacks-on-ukraine-overnight-into-november-1-details-50655233.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Kyjiv",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-a728b1",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T09:03:00+02:00",
+      "title_sv": "Nästan 100 000 konsumenter är fortfarande utan ström i Dnipropetrovsk-regionen efter ryska attacker",
+      "title_en": "Nearly 100,000 consumers remain without power in Dnipropetrovsk region following Russian attacks",
+      "summary_sv": "Nästan 100 000 konsumenter i Dnipropetrovsk-regionen är fortfarande utan elektricitet efter ryska attacker.",
+      "summary_en": "Nearly 100,000 consumers in the Dnipropetrovsk region remain without electricity following Russian attacks.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180169-nearly-100000-consumers-remain-without-power-in-dnipropetrovsk-region-following-russian-attacks.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Dnipro",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-11-01-95a839",
       "date": "2026-11-01",
@@ -382,19 +500,19 @@
       "id": "evt-2026-11-01-190ecc",
       "date": "2026-11-01",
       "timestamp": "2026-11-01T04:17:51+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Oleshky vapenvila visar att nedtrappning är möjlig, säger Zelenskyy",
+      "title_sv": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
       "title_en": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
-      "summary_sv": "Ukrainas president säger att Moskva måste visas att stödet för Kyjiv inte kommer att minska; USA säger att intresset också ökar för en begränsad vapenvila vid Svarta havet.",
+      "summary_sv": "Ukrainian president says Moscow must be shown that support for Kyiv will not diminish; US says interest also growing for limited Black Sea ceasefire.",
       "summary_en": "Ukrainian president says Moscow must be shown that support for Kyiv will not diminish; US says interest also growing for limited Black Sea ceasefire.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "eu",
+        "ukraina",
         "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -416,9 +534,9 @@
       "tags": [
         "Kyjiv",
         "Civila mål",
-        "Robotanfall",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Robotanfall"
       ]
     },
     {
@@ -688,9 +806,9 @@
       "id": "evt-2026-10-31-cacb5d",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T23:11:03+00:00",
-      "title_sv": "De flesta ukrainska brigader har brist på trupper. En som fyllde dess led hjälper till att pressa Ryssland tillbaka i Operation Vivaldi.",
+      "title_sv": "Most Ukrainian brigades are short of troops. One that filled its ranks is helping push Russia back in Operation Vivaldi.",
       "title_en": "Most Ukrainian brigades are short of troops. One that filled its ranks is helping push Russia back in Operation Vivaldi.",
-      "summary_sv": "Den brigaden är den 125:e tungmekaniserade, ett sällsynt undantag i en armé där nästan varje enhet kämpar korthändigt, och dess vändning är en anledning till att Operation Vivaldi fungerade.",
+      "summary_sv": "That brigade is the 125th Heavy Mechanized, a rare exception in an army where almost every unit fights short-handed, and its turnaround is one reason Operation Vivaldi worked.",
       "summary_en": "That brigade is the 125th Heavy Mechanized, a rare exception in an army where almost every unit fights short-handed, and its turnaround is one reason Operation Vivaldi worked.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1109,9 +1227,9 @@
       "id": "evt-2026-10-31-3a7961",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T20:07:09+00:00",
-      "title_sv": "Ukrainas militära ledarskap skakar om: två nya Donbas- och Centerkommandon, färre rapporter - men luckor kvarstår, säger befälhavaren",
+      "title_sv": "Ukraine’s military leadership shake-up: two new Donbas and Center commands, fewer reports — but gaps remain, commander says",
       "title_en": "Ukraine’s military leadership shake-up: two new Donbas and Center commands, fewer reports — but gaps remain, commander says",
-      "summary_sv": "Ukrainas armé kördes från toppen i \"manuellt läge\". Dess nya chef börjar dela den makten, säger en frontlinjeofficer.",
+      "summary_sv": "Ukraine’s army was run from the top in “manual mode.” Its new chief is starting to share that power, a front-line officer says.",
       "summary_en": "Ukraine’s army was run from the top in “manual mode.” Its new chief is starting to share that power, a front-line officer says.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1138,8 +1256,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
