@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 4024,
-  "last_archived_rotation": "2026-11-02T09:01:46.794482+00:00",
+  "total_archived_events": 4027,
+  "last_archived_rotation": "2026-11-02T09:31:50.869124+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-97ba3b",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T11:20:00+02:00",
+      "title_sv": "Drönare attackerar Kstovo-raffinaderiet i Ryssland, stor brand utbryter",
+      "title_en": "Drones attack Kstovo refinery in Russia, large fire erupts",
+      "summary_sv": "Drönare attackerade oljeraffinaderiet Lukoil-Nizhegorodnefteorgsintez i staden Kstovo i Rysslands Nizhny Novgorod Oblast över natten till den 1 november, enligt övervakningskanaler, inklusive Exilenova+.",
+      "summary_en": "Drones attacked the Lukoil-Nizhegorodnefteorgsintez oil refinery in the town of Kstovo in Russia's Nizhny Novgorod Oblast overnight into Nov. 1, according to monitoring channels, including Exilenova+.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/drone-attack-on-lukoil-nizhegorodnafteorgsintez-causes-fire-and-explosions-in-kstovo-50655239.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-628c69",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T11:15:00+02:00",
+      "title_sv": "Ryska drönareattacker skadar energianläggningar i Kyjiv-regionen, skadar kvinna",
+      "title_en": "Russian drone attacks damage energy facilities in Kyiv region, injure woman",
+      "summary_sv": "Ryska drönare attackerade Kyjiv-regionen under dagen, med skador rapporterade i sex distrikt och en kvinna skadades.",
+      "summary_en": "Russian drones attacked the Kyiv region over the course of the day, with damage reported in six districts and a woman injured.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180200-russian-drone-attacks-damage-energy-facilities-in-kyiv-region-injure-woman.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv",
+        "Drönare",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-11-01-be59dc",
       "date": "2026-11-01",
@@ -273,6 +352,44 @@
       "tags": [
         "Ukraina",
         "Pokrovsk"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-62e615",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T09:16:09+00:00",
+      "title_sv": "Ukraina: Ett av Rysslands största raff bombat – rekordförluster för Ryssland i oktober",
+      "title_en": "Ukraina: Ett av Rysslands största raff bombat – rekordförluster för Ryssland i oktober",
+      "summary_sv": "Det stora raffinaderiet i Kstovo, ett av Rysslands största, bombades i Nizjnji Novgorod Oblast i natt. Oktober månad innebar rekordförluster för Ryssland med 54 400 man och avslutades med krigets tredje blodigaste dag för ryssarna.",
+      "summary_en": "Det stora raffinaderiet i Kstovo, ett av Rysslands största, bombades i Nizjnji Novgorod Oblast i natt. Oktober månad innebar rekordförluster för Ryssland med 54 400 man och avslutades med krigets tredje blodigaste dag för ryssarna.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Lars Wilderäng (Cornucopia.se)",
+      "kallurl": "https://cornucopia.se/2026/11/ukraina-ett-av-rysslands-storsta-raff-bombat-rekordforluster-for-ryssland-i-oktober/",
+      "kallkategori": "Militäranalytiker & författare",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
       ]
     },
     {
@@ -744,9 +861,9 @@
       "parter_intressenter": [
         "ryssland",
         "uk",
-        "eu",
         "ukraina",
-        "usa"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -766,11 +883,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
+        "Drönare",
         "Ukraina",
-        "Robotanfall",
+        "Kyjiv",
         "Civila mål",
-        "Drönare"
+        "Robotanfall"
       ]
     },
     {
@@ -1048,10 +1165,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "uk",
-        "ryssland"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
