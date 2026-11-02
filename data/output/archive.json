@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 4042,
-  "last_archived_rotation": "2026-11-02T12:31:37.290465+00:00",
+  "total_archived_events": 4044,
+  "last_archived_rotation": "2026-11-02T13:01:57.904389+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-bb4295",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T14:58:00+02:00",
+      "title_sv": "Rysk drönarattack skadar två personer i Kyjiv-regionen, skadar hem och fordon",
+      "title_en": "Russian drone attack injures two people in Kyiv region, damages homes and vehicles",
+      "summary_sv": "Två män skadades i en rysk drönareattack i Kyjiv-regionen på morgonen den 1 november.",
+      "summary_en": "Two men were injured in a Russian drone attack in the Kyiv region in the morning of November 1.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180261-russian-drone-attack-injures-two-people-in-kyiv-region-damages-homes-and-vehicles.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Kyjiv"
+      ]
+    },
+    {
+      "id": "evt-2026-11-01-444a50",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T14:36:00+02:00",
+      "title_sv": "Ryska styrkor attackerar industrianläggning i Dnipro och utlöste eld",
+      "title_en": "Russian forces attack industrial facility in Dnipro, sparking fire",
+      "summary_sv": "Ryska styrkor attackerade en industrianläggning i Dnipro och orsakade en brand.",
+      "summary_en": "Russian forces attacked an industrial facility in Dnipro, causing a fire.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180253-russian-forces-attack-industrial-facility-in-dnipro-sparking-fire.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-01-49965f",
       "date": "2026-11-01",
@@ -402,10 +479,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "uk",
-        "usa",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -482,8 +559,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -945,10 +1022,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "uk",
-        "usa",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1438,11 +1515,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "eu",
-        "usa",
+        "ukraina",
         "uk",
-        "ukraina"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1462,11 +1539,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Robotanfall",
         "Kyjiv",
-        "Civila mål",
-        "Drönare"
+        "Robotanfall",
+        "Civila mål"
       ]
     },
     {
