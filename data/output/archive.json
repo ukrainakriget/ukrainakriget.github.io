@@ -1,7 +1,49 @@
 {
-  "total_archived_events": 4069,
-  "last_archived_rotation": "2026-11-02T18:02:12.908816+00:00",
+  "total_archived_events": 4070,
+  "last_archived_rotation": "2026-11-02T18:19:18.790309+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-01-7d7c35",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T20:18:00+02:00",
+      "title_sv": "Ukrainas luftvärn slog ner 274 ryska drönare, sex banderoler på söndagen",
+      "title_en": "Ukraine’s air defenses down 274 Russian drones, six Banderols on Sunday",
+      "summary_sv": "Ukrainas luftförsvar neutraliserade 274 drönare och sex S8000 Banderol/Dan-T jetdrivna svävande ammunition som användes av ryska styrkor för att attackera Ukraina under dagen den 1 november.",
+      "summary_en": "Ukraine’s air defenses neutralized 274 drones and six S8000 Banderol/Dan-T jet-powered loitering munitions used by Russian forces to attack Ukraine during the day on November 1.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "ukraina",
+        "uk",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180314-ukraines-air-defenses-down-274-russian-drones-six-banderols-on-sunday.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi",
+        "Drönare",
+        "Luftförsvar"
+      ]
+    },
     {
       "id": "evt-2026-11-01-7b5ed3",
       "date": "2026-11-01",
@@ -388,10 +430,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -411,10 +453,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Energi",
         "Kyjiv",
-        "Energi"
+        "Ukraina"
       ]
     },
     {
@@ -1969,10 +2011,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
