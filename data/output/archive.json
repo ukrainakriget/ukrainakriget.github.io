@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 4205,
-  "last_archived_rotation": "2026-11-03T19:02:38.652124+00:00",
+  "total_archived_events": 4206,
+  "last_archived_rotation": "2026-11-03T19:33:15.390504+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-02-395439",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T21:21:00+02:00",
+      "title_sv": "Zaporizjzja-regionen utropar sorgedag för offren för Komyshuvakha-attacken",
+      "title_en": "Zaporizhzhia region declares Day of Mourning for victims of Komyshuvakha attack",
+      "summary_sv": "Den 3 november har förklarats som en sorgedag i Zaporizjzja-regionen för de dödade i attacken mot Komyshuvakha tidigare i morse.",
+      "summary_en": "November 3 has been declared a Day of Mourning in the Zaporizhzhia region for those killed in the attack on Komyshuvakha earlier this morning.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4180664-zaporizhzhia-region-declares-day-of-mourning-for-victims-of-komyshuvakha-attack.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Zaporizjzja"
+      ]
+    },
     {
       "id": "evt-2026-11-02-d8f8de",
       "date": "2026-11-02",
@@ -893,7 +929,7 @@
       "id": "evt-2026-11-02-73cca1",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T17:33:19+00:00",
-      "title_sv": "Striderna återvänder till Cherson-regionen efter den längsta vapenvilan i Ukraina kriget",
+      "title_sv": "Striderna återvänder till Kherson-regionen efter den längsta vapenvilan i Ukraina kriget",
       "title_en": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
       "summary_sv": "Även om det saknar motstycke, har den sex dagar långa vapenvilan inte gjort mycket för att förändra den bredare banan för ett krig som fortsätter att pågå.",
       "summary_en": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
@@ -922,8 +958,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -1274,16 +1310,16 @@
       "timestamp": "2026-11-02T16:17:14+00:00",
       "title_sv": "Ikea bland butiker som drabbats av cyberhacker i kylskåp – Europa live",
       "title_en": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-      "summary_sv": "Stormarknader över hela Europa har upplevt temperaturkontrollinblandning. De falska kärnvapenhoten mot Ukraina kom när Ryssland återupptog sina attacker mot den södra staden Cherson, bara timmar efter slutet av en vapenvila under vilken hundratals människor evakuerades från den närliggande Kreml-kontrollerade staden Oleshky.Khersons...",
+      "summary_sv": "Stormarknader över hela Europa har upplevt temperaturkontrollinblandning. De falska kärnvapenhoten mot Ukraina kom när Ryssland återupptog sina attacker mot den södra staden Cherson, bara timmar efter slutet av en vapenvila under vilken hundratals människor evakuerades från den närliggande Kreml-kontrollerade staden Oleshky.Khersons militära...",
       "summary_en": "Supermarkets across Europe have experienced temperature-control meddling The fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.Kherson’s military...",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "uk",
         "usa",
+        "ryssland",
+        "ukraina",
         "eu"
       ],
       "syfte": {
@@ -1305,9 +1341,9 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
-        "Ukraina",
+        "Cherson",
         "Civila mål",
-        "Cherson"
+        "Ukraina"
       ]
     },
     {
@@ -1816,10 +1852,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland",
-        "uk"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3285,7 +3321,7 @@
       "id": "evt-2026-11-02-8e6019",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T11:11:28+00:00",
-      "title_sv": "Hackare skickar falska nukleära hotvarningar till Ukrainas nödapp",
+      "title_sv": "Hackare skickar falsk varning för kärnvapenhot till Ukrainas nödapp",
       "title_en": "Hackers send fake nuclear threat alert to Ukraine emergency app",
       "summary_sv": "Invånare i Kyjiv varnade också för kemiska attacker och strider från gata till gata i falska meddelanden som skickats av okänd part. Okända hackare har riktat in sig på Ukrainas rikstäckande mobilapp för nödvarning och skickat invånare i Kyjiv en varning om att de löper risk för en förestående kärnvapenattack.",
       "summary_en": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party Unknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending residents in Kyiv a warning that they were at risk of an imminent nuclear strike.The app reported a high possibility of nuclear radiation late...",
@@ -3314,8 +3350,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Infrastruktur",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -3839,8 +3875,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
