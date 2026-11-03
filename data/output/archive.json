@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 4085,
-  "last_archived_rotation": "2026-11-03T02:01:46.732278+00:00",
+  "total_archived_events": 4086,
+  "last_archived_rotation": "2026-11-03T02:33:17.128159+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-02-95bca8",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T04:25:00+02:00",
+      "title_sv": "Hackare bryter mot Rysslands statistikbyrå, skaffar data om ryska förluster i Ukraina",
+      "title_en": "Hackers breach Russia's statistics agency, obtain data on Russian losses in Ukraine",
+      "summary_sv": "Den vitryska hacktivistgruppen Cyber ​​Partisans har tillsammans med hackergruppen Silent Crow tagit på sig ansvaret för att ha brutit mot den interna IT-infrastrukturen hos Rysslands Federal State Statistics Service (Rosstat).",
+      "summary_en": "Belarusian hacktivist group Cyber Partisans, together with the hacker group Silent Crow, have claimed responsibility for breaching the internal IT infrastructure of Russia's Federal State Statistics Service (Rosstat).",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ukrainas_granser",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180280-hackers-breach-russias-statistics-agency-obtain-data-on-russian-losses-in-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-02-ed8c78",
       "date": "2026-11-02",
@@ -177,10 +215,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -200,11 +238,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Kyjiv",
-        "Drönare",
+        "Energi",
         "Ukraina",
-        "Energi"
+        "Robotanfall",
+        "Drönare"
       ]
     },
     {
@@ -1013,10 +1051,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1036,8 +1074,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Energi",
+        "Drönare",
         "Kyjiv",
         "Ukraina"
       ]
