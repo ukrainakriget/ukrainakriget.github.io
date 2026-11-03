@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 4081,
-  "last_archived_rotation": "2026-11-02T23:31:31.016502+00:00",
+  "total_archived_events": 4082,
+  "last_archived_rotation": "2026-11-03T00:01:44.630545+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-02-a1c035",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T01:33:00+02:00",
+      "title_sv": "Ukrainian judoka Savytskyi wins bronze at Grand Slam in UAE",
+      "title_en": "Ukrainian judoka Savytskyi wins bronze at Grand Slam in UAE",
+      "summary_sv": "The latest 2026 Grand Slam tournament was held in Abu Dhabi, United Arab Emirates, with 11 Ukrainian judokas competing.",
+      "summary_en": "The latest 2026 Grand Slam tournament was held in Abu Dhabi, United Arab Emirates, with 11 Ukrainian judokas competing.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-sports/4180205-ukrainian-judoka-savytskyi-wins-bronze-at-grand-slam-in-uae.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-02-24f593",
       "date": "2026-11-02",
@@ -845,10 +882,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -868,9 +905,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
+        "Drönare",
         "Energi"
       ]
     },
