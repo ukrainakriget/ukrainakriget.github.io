@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 4091,
-  "last_archived_rotation": "2026-11-03T05:34:52.002182+00:00",
+  "total_archived_events": 4092,
+  "last_archived_rotation": "2026-11-03T06:05:21.422189+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-02-9db678",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T07:56:00+02:00",
+      "title_sv": "Luftförsvaret har sänkt 154 av 193 drönare som använts av Ryssland för att attackera Ukraina sedan kvällen",
+      "title_en": "Air defenses down 154 out of 193 drones used by Russia to attack Ukraine since evening",
+      "summary_sv": "Ukrainas luftförsvarsstyrkor neutraliserade 154 av de 193 drönare som använts av ryska trupper för att attackera Ukraina sedan kvällen den 1 november.",
+      "summary_en": "Ukraine's air defense forces neutralized 154 out of the 193 drones used by Russian troops to attack Ukraine since the evening of November 1.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "eu",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180368-air-defenses-down-154-out-of-193-drones-used-by-russia-to-attack-ukraine-since-evening.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Luftförsvar",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-11-02-e93c94",
       "date": "2026-11-02",
@@ -401,10 +442,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "ryssland",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -424,11 +465,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
         "Drönare",
+        "Kyjiv",
         "Robotanfall",
-        "Ukraina",
-        "Kyjiv"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
