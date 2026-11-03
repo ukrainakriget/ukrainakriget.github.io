@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-11-03T04:01:44.467580+00:00",
-  "total_active_events": 148,
+  "last_updated": "2026-11-03T04:31:31.640057+00:00",
+  "total_active_events": 149,
   "events": [
+    {
+      "id": "evt-2026-11-03-f0bf17",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T06:23:00+02:00",
+      "title_sv": "Charkiv drabbats av rysk attack, sjukvårdsinrättning drabbad, rapporterade offer",
+      "title_en": "Kharkiv hit by Russian attack, medical facility struck, casualties reported",
+      "summary_sv": "Ryska styrkor inledde en massiv attack mot Charkiv med ballistiska missiler och guidade flygbomber, där en av attackerna träffade en medicinsk anläggning i Nemyshlianskyi-distriktet och lämnade människor skadade.",
+      "summary_en": "Russian forces launched a massive attack on Kharkiv with ballistic missiles and guided aerial bombs, with one of the strikes hitting a medical facility in the Nemyshlianskyi district, leaving people injured.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180723-kharkiv-hit-by-russian-attack-medical-facility-struck-casualties-reported.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Robotanfall",
+        "Charkiv"
+      ]
+    },
+    {
+      "id": "evt-2026-11-03-f2ac84",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T05:32:00+02:00",
+      "title_sv": "Upp till fyra grupper av strömavbrott planerade över Ukraina på tisdag – Ukrenergo",
+      "title_en": "Up to four groups of power cuts scheduled across Ukraine on Tuesday – Ukrenergo",
+      "summary_sv": "Restriktioner för elförbrukning kommer att gälla i vissa regioner i Ukraina tisdagen den 3 november från kl. 00.00 till 23.59.",
+      "summary_en": "Electricity consumption restrictions will be in effect in some regions of Ukraine on Tuesday, November 3, from 00:00 to 23:59.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4180677-up-to-four-groups-of-power-cuts-scheduled-across-ukraine-on-tuesday-ukrenergo.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-03-e5c959",
       "date": "2026-11-03",
@@ -49,8 +126,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -87,9 +164,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -109,9 +186,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Ukraina",
-        "Cherson",
-        "Infrastruktur"
+        "Cherson"
       ]
     },
     {
@@ -127,9 +204,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -165,8 +242,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -186,9 +263,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Odesa",
+        "Infrastruktur",
         "Ukraina",
-        "Infrastruktur"
+        "Odesa"
       ]
     },
     {
@@ -197,15 +274,15 @@
       "timestamp": "2026-11-03T02:00:38+00:00",
       "title_sv": "Ukraina krigsgenomgång: USA ska medla samtal med Kyjiv och Moskva i Abu Dhabi nästa vecka, säger Witkoff",
       "title_en": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
-      "summary_sv": "Nedtrappning, säkerhet efter kriget och humanitära insatser på dagordningen för trilaterala samtal.",
+      "summary_sv": "Nedtrappning, efterkrigssäkerhet och humanitära insatser på dagordningen för trilaterala samtal.",
       "summary_en": "De-escalation, post-war security and humanitarian efforts on the agenda of trilateral talks.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "eu",
-        "uk",
         "ukraina",
         "usa"
       ],
@@ -245,9 +322,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -284,9 +361,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -306,8 +383,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Odesa",
-        "Ukraina"
+        "Ukraina",
+        "Odesa"
       ]
     },
     {
@@ -316,16 +393,16 @@
       "timestamp": "2026-11-03T01:13:52+00:00",
       "title_sv": "Ryska bombningar av ukrainskt hjälpcenter dödar minst 26, säger Kyjiv",
       "title_en": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-      "summary_sv": "Den ukrainske presidenten Zelenskyy säger att attacken mot biståndscentralen var \"olycklig\" och visar att Ryssland inte vill deeskalera Ryssland på måndagen bombade ett hjälpmedelsdistributionscenter och angränsande skyddsrum i södra Ukraina och dödade minst 26 människor, sade Ukrainas president Volodymyr Zelenskyy och landets räddningstjänst.",
+      "summary_sv": "Den ukrainske presidenten Zelenskyy säger att attacken mot hjälpcentralen var \"olycklig\" och visar att Ryssland inte vill trappa ned Ryssland på måndagen bombade ett hjälpmedelsdistributionscenter och angränsande skyddsrum i södra Ukraina och dödade minst 26 människor, sade Ukrainas president Volodymyr Zelenskyy och landets räddningstjänst.",
       "summary_en": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate Russia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and the country’s emergency services said.Emergency services said two...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -363,9 +440,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -401,9 +478,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -431,7 +508,7 @@
       "id": "evt-2026-11-03-799971",
       "date": "2026-11-03",
       "timestamp": "2026-11-03T00:26:00+02:00",
-      "title_sv": "Bearbetningen av oljeväxter i Ukraina fortsätter att expandera under krigstid",
+      "title_sv": "Ukrainsk oljefröbearbetning fortsätter att expandera under krigstid",
       "title_en": "Ukrainian oilseed processing keeps expanding in wartime",
       "summary_sv": "Oljefröbearbetningsindustrin är en av få sektorer i Ukrainas ekonomi som har utökat sin produktionskapacitet under det rysk-ukrainska kriget.",
       "summary_en": "The oilseed-processing industry is one of the few sectors of Ukraine’s economy to have expanded its production capacity during the Russo–Ukrainian war.",
@@ -439,9 +516,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -476,9 +553,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -514,8 +591,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -587,8 +664,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -608,8 +685,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -625,8 +702,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -636,9 +713,9 @@
       "egenskaper_anfallsmal": "helt_civila",
       "niva_vetskap_sannolikhet": {
         "procent": 95,
-        "niva": "bekraftad",
-        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från Ukrinform samt räddningstjänsten DSNS.",
-        "motivering_en": "Confirmed by 2 corroborating reports from Ukrinform and official emergency services."
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
       },
       "effekt_maluppfyllnad": "delvis",
       "kalla": "Ukrinform",
@@ -646,23 +723,10 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
         "Ukraina",
+        "Civila mål",
         "Zaporizjzja"
-      ],
-      "relaterade_kallor": [
-        {
-          "kalla": "Ukrinform",
-          "titel": "Dödssiffran efter ryska attacker mot skolan i Komyshuvakha stiger till 24",
-          "url": "https://www.ukrinform.net/rubric-ato/4180689-death-toll-from-russian-strikes-on-school-in-komyshuvakha-rises-to-24.html"
-        },
-        {
-          "kalla": "Ukrinform",
-          "titel": "Dödssiffran efter rysk attack mot skolan i Komyshuvakha stiger till 24",
-          "url": "https://www.ukrinform.net/rubric-ato/4180656-death-toll-from-russian-strike-on-school-in-komyshuvakha-rises-to-24.html"
-        }
-      ],
-      "cluster_count": 2
+      ]
     },
     {
       "id": "evt-2026-11-02-51192d",
@@ -677,9 +741,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -709,16 +773,16 @@
       "timestamp": "2026-11-02T22:47:00+02:00",
       "title_sv": "Ryska styrkor lär sig att dölja elektroniska krigföringssystem på parkeringsplatser och bilsläp – Flash",
       "title_en": "Russian forces learn to conceal electronic warfare systems in parking lots and car trailers — Flash",
-      "summary_sv": "Ryska styrkor använder i allt större utsträckning satellitsystem för elektronisk krigföring för att störa Starlink-kommunikation och har blivit skickliga på att dölja dem, sade den ukrainska presidentens teknikrådgivare Serhii Beskrestnov den 2 november.",
+      "summary_sv": "Ryska styrkor använder alltmer satellitsystem för elektronisk krigföring för att störa Starlink-kommunikation och har blivit skickliga på att dölja dem, sade den ukrainska presidentens teknikrådgivare Serhii Beskrestnov den 2 november.",
       "summary_en": "Russian forces are increasingly deploying satellite electronic warfare systems to disrupt Starlink communications and have become adept at concealing them, Ukrainian presidential technology adviser Serhii Beskrestnov said on Nov. 2.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -755,9 +819,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -777,8 +841,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -793,9 +857,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -825,16 +889,16 @@
       "timestamp": "2026-11-02T22:19:51+00:00",
       "title_sv": "Rysk-ukrainska kriget, dag 1713: Ukraina träffar Samara Oil-navet och blandar upp till hälften av rysk råoljeexport",
       "title_en": "Russo-Ukrainian war, day 1713: Ukraine hits Samara Oil hub blending up to half of Russian crude exports",
-      "summary_sv": "Ryssland slog till mot en skola i Komyshuvakha, Zaporizjzja oblast, där civila hade fått hjälp och dödade 26 människor.",
+      "summary_sv": "Ryssland slog till i en skola i Komyshuvakha, Zaporizjzja oblast, där civila hade tagit emot hjälp och dödade 26 människor.",
       "summary_en": "Russia struck a school in Komyshuvakha, Zaporizhzhia Oblast, where civilians had been receiving aid, killing 26 people.",
       "location_name": "Zaporizjzja",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -871,8 +935,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -908,9 +972,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -930,8 +994,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -947,8 +1011,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -985,9 +1049,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1009,8 +1073,8 @@
       "tags": [
         "Kyjiv",
         "Ukraina",
-        "Civila mål",
-        "Drönare"
+        "Drönare",
+        "Civila mål"
       ]
     },
     {
@@ -1101,8 +1165,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1139,8 +1203,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1175,8 +1239,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1196,8 +1260,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1212,8 +1276,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1330,9 +1394,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1352,8 +1416,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Energi",
+        "Ukraina",
         "Drönare"
       ]
     },
@@ -1408,9 +1472,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "eu",
-        "uk",
         "ukraina",
         "usa"
       ],
@@ -1448,9 +1512,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1470,8 +1534,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1603,9 +1667,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1625,8 +1689,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1758,8 +1822,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2055,16 +2119,16 @@
       "id": "evt-2026-11-02-73cca1",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T17:33:19+00:00",
-      "title_sv": "Striderna återvänder till Kherson-regionen efter den längsta vapenvilan i Ukraina kriget",
+      "title_sv": "Striderna återvänder till Kherson-regionen efter den längsta vapenvilan i Ukraina",
       "title_en": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary_sv": "Även om det saknar motstycke, har den sex dagar långa vapenvilan inte gjort mycket för att förändra den bredare banan för ett krig som fortsätter att pågå.",
+      "summary_sv": "Även om det saknar motstycke, har den sex dagar långa vapenvilan inte gjort mycket för att förändra den bredare banan för ett krig som fortsätter att mala på.",
       "summary_en": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2214,10 +2278,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "uk",
         "eu",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2237,8 +2301,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -2442,9 +2506,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "eu",
-        "uk",
         "ukraina",
         "usa"
       ],
@@ -2467,9 +2531,9 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Civila mål",
+        "Drönare",
         "Cherson",
-        "Drönare"
+        "Civila mål"
       ]
     },
     {
@@ -2553,7 +2617,7 @@
       "id": "evt-2026-11-02-c4eeb5",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T15:43:53+00:00",
-      "title_sv": "\"40 % är ett argument. Det tyngsta\": Den ukrainska högsta brigadchefen säger att drönarenheter skjuter i höjden när de får köpa det de behöver",
+      "title_sv": "\"40 % är ett argument. Det tyngsta\": ukrainsk högsta brigadchef säger att drönarenheter skjuter i höjden när de får köpa det de behöver",
       "title_en": "“40% is an argument. The weightiest”: Ukrainian top brigade commander says drone units soar once allowed to buy what they need",
       "summary_sv": "Överste Kyrylo Veres säger att det lönar sig att stå upp för de obemannade systemstyrkorna 2024.",
       "summary_en": "Colonel Kyrylo Veres says standing up the Unmanned Systems Forces in 2024 is paying off.",
@@ -2561,8 +2625,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2786,8 +2850,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2931,7 +2995,7 @@
       "id": "evt-2026-11-02-496b7d",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T14:43:55+00:00",
-      "title_sv": "Ukraina förvandlar gamla BTR till en rullande bomb – sedan körde den rakt in på ryska linjer, säger bataljonschefen",
+      "title_sv": "Ukraina förvandlar gamla BTR till en rullande bomb – sedan körde den rakt in i ryska linjer, säger bataljonschefen",
       "title_en": "Ukraine turns old BTR into rolling bomb — then drove it straight into Russian lines, battalion commander says",
       "summary_sv": "En soldat gick en gång i flera dagar för att hämta ammunition under övervakningsdrönare.",
       "summary_en": "A soldier once walked for days to fetch ammunition under watching drones.",
@@ -2940,9 +3004,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -2979,9 +3043,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3134,10 +3198,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "uk",
         "eu",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3404,9 +3468,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "uk",
         "ryssland",
         "eu",
-        "uk",
         "ukraina",
         "usa"
       ],
@@ -3639,8 +3703,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3661,9 +3725,9 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Civila mål",
+        "Drönare",
         "Cherson",
-        "Drönare"
+        "Civila mål"
       ]
     },
     {
@@ -3760,9 +3824,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3782,9 +3846,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Ukraina",
-        "Drönare",
-        "Infrastruktur"
+        "Drönare"
       ]
     },
     {
@@ -3868,16 +3932,16 @@
       "timestamp": "2026-11-02T12:44:38+00:00",
       "title_sv": "Drönare träffade Rysslands oljenav Samara som blandar Uralexport av råolja – första attacken där sedan 11 oktober",
       "title_en": "Drones hit Russia’s Samara oil hub that blends Urals export crude—first strike there since 11 October",
-      "summary_sv": "Ukrainas generalstab säger att stationen blandar en råkvalitet som utgör så mycket som hälften av Rysslands oljeexport.",
+      "summary_sv": "Ukrainas generalstab säger att stationen blandar en råolja som utgör så mycket som hälften av Rysslands oljeexport.",
       "summary_en": "Ukraine’s General Staff says the station blends a crude grade that makes up as much as half of Russia’s oil exports.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3897,9 +3961,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Ukraina",
-        "Drönare",
-        "Infrastruktur"
+        "Drönare"
       ]
     },
     {
@@ -4447,7 +4511,7 @@
       "id": "evt-2026-11-02-8e6019",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T11:11:28+00:00",
-      "title_sv": "Hackare skickar falsk varning för kärnvapenhot till Ukrainas nödapp",
+      "title_sv": "Hackare skickar falska nukleära hotvarningar till Ukrainas nödapp",
       "title_en": "Hackers send fake nuclear threat alert to Ukraine emergency app",
       "summary_sv": "Invånare i Kyjiv varnade också för kemiska attacker och strider från gata till gata i falska meddelanden som skickats av okänd part. Okända hackare har riktat in sig på Ukrainas rikstäckande mobilapp för nödvarning och skickat invånare i Kyjiv en varning om att de löper risk för en förestående kärnvapenattack.",
       "summary_en": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party Unknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending residents in Kyiv a warning that they were at risk of an imminent nuclear strike.The app reported a high possibility of nuclear radiation late...",
@@ -4455,8 +4519,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5001,8 +5065,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5675,42 +5739,6 @@
       "tags": [
         "Ukraina",
         "Svarta"
-      ]
-    },
-    {
-      "id": "evt-2026-11-02-5d26dd",
-      "date": "2026-11-02",
-      "timestamp": "2026-11-02T06:25:00+02:00",
-      "title_sv": "Lubinets tillkännager slutet på vapenvilan i Oleshky",
-      "title_en": "Lubinets announces end of ceasefire in Oleshky",
-      "summary_sv": "Vapenvilan som hade gällt från 27 oktober till 1 november i området runt den tillfälligt ockuperade staden Oleshky i Cherson-regionen för att tillåta en humanitär operation, har upphört.",
-      "summary_en": "The ceasefire that had been in effect from October 27 to November 1 in the area around the temporarily occupied city of Oleshky, Kherson region, to allow a humanitarian operation, has ended.",
-      "location_name": "Cherson",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-society/4180361-lubinets-announces-end-of-ceasefire-in-oleshky.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Cherson",
-        "Ukraina"
       ]
     }
   ],
