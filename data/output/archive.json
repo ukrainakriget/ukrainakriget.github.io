@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 4184,
-  "last_archived_rotation": "2026-11-03T16:16:40.206344+00:00",
+  "total_archived_events": 4186,
+  "last_archived_rotation": "2026-11-03T16:32:25.416873+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-02-476b6d",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T18:22:00+02:00",
+      "title_sv": "Skadetalet efter rysk attack mot Chuhuiv stiger till sju",
+      "title_en": "Injury toll after Russian attack on Chuhuiv rises to seven",
+      "summary_sv": "Antalet personer som skadats i ryska attacker mot staden Chuhuiv i Charkiv-regionen har stigit till sju.",
+      "summary_en": "The number of people injured in Russian strikes on the city of Chuhuiv in the Kharkiv region has risen to seven.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180616-injury-toll-after-russian-attack-on-chuhuiv-rises-to-seven.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Charkiv"
+      ]
+    },
     {
       "id": "evt-2026-11-02-8c6758",
       "date": "2026-11-02",
@@ -495,6 +533,48 @@
       "tags": [
         "Ukraina",
         "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-11-02-7c9929",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:17:14+00:00",
+      "title_sv": "Ikea bland butiker som drabbats av cyberhacker i kylskåp – Europa live",
+      "title_en": "Ikea among shops affected by fridge cyber-hacks – Europe live",
+      "summary_sv": "Stormarknader över hela Europa har upplevt temperaturkontrollinblandning. De falska kärnvapenhoten mot Ukraina kom när Ryssland återupptog sina attacker mot den södra staden Cherson, bara timmar efter slutet av en vapenvila under vilken hundratals människor evakuerades från den närliggande Kreml-kontrollerade staden Oleshky.Khersons militära...",
+      "summary_en": "Supermarkets across Europe have experienced temperature-control meddling The fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.Kherson’s military...",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "ukraina",
+        "usa",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Civila mål",
+        "Cherson"
       ]
     },
     {
@@ -995,18 +1075,18 @@
       "id": "evt-2026-11-02-3bcdcd",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T14:35:01+00:00",
-      "title_sv": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "title_sv": "Falska kärnvapenvarningar utfärdade efter att ukrainska och ryska luftvarningsappar hackade",
       "title_en": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "summary_sv": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+      "summary_sv": "Ingen av regeringen har bekräftat vem som var ansvarig för cyberattackerna på söndagskvällen.",
       "summary_en": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "ryssland",
-        "usa"
+        "usa",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2472,16 +2552,16 @@
       "id": "evt-2026-11-02-8e6019",
       "date": "2026-11-02",
       "timestamp": "2026-11-02T11:11:28+00:00",
-      "title_sv": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+      "title_sv": "Hackare skickar falska nukleära hotvarningar till Ukrainas nödapp",
       "title_en": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-      "summary_sv": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party Unknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending residents in Kyiv a warning that they were at risk of an imminent nuclear strike.The app reported a high possibility of nuclear radiation late...",
+      "summary_sv": "Invånare i Kyjiv varnade också för kemiska attacker och strider från gata till gata i falska meddelanden som skickats av okänd part. Okända hackare har riktat in sig på Ukrainas rikstäckande mobilapp för nödvarning och skickat invånare i Kyjiv en varning om att de löper risk för en förestående kärnvapenattack.",
       "summary_en": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party Unknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending residents in Kyiv a warning that they were at risk of an imminent nuclear strike.The app reported a high possibility of nuclear radiation late...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2502,8 +2582,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Infrastruktur",
-        "Kyjiv"
+        "Kyjiv",
+        "Infrastruktur"
       ]
     },
     {
@@ -3025,9 +3105,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "uk",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
