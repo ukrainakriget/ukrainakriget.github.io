@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 4098,
-  "last_archived_rotation": "2026-11-03T07:05:09.863305+00:00",
+  "total_archived_events": 4100,
+  "last_archived_rotation": "2026-11-03T07:18:40.806349+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-02-63e795",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T09:15:00+02:00",
+      "title_sv": "Ryska attacker över natten skadade fyra civila och skadade bostadshus i Odesa",
+      "title_en": "Russian overnight strikes wound four civilians, damage residential homes in Odesa",
+      "summary_sv": "Ryska attacker mot Odesa skadade fyra civila och skadade bostadshus över natten, rapporterade stadens militärförvaltningschef Serhiy Lysak den 2 november.",
+      "summary_en": "Russian strikes on Odesa wounded four civilians and damaged residential homes overnight, city military administration head Serhiy Lysak reported on Nov. 2.",
+      "location_name": "Odesa",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-strikes-on-odesa-damage-homes-wound-four-50655381.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Odesa",
+        "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-11-02-d769d4",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T09:12:00+02:00",
+      "title_sv": "War update: 205 clashes on front lines over past day, Pokrovsk sector hottest",
+      "title_en": "War update: 205 clashes on front lines over past day, Pokrovsk sector hottest",
+      "summary_sv": "A total of 205 combat engagements between Ukraine's Defense Forces and Russian invaders were recorded along the front line on November 1.",
+      "summary_en": "A total of 205 combat engagements between Ukraine's Defense Forces and Russian invaders were recorded along the front line on November 1.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180385-war-update-205-clashes-on-front-lines-over-past-day-pokrovsk-sector-hottest.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Pokrovsk"
+      ]
+    },
     {
       "id": "evt-2026-11-02-3a9564",
       "date": "2026-11-02",
@@ -671,8 +749,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ukraina",
+        "usa",
         "uk",
         "ryssland"
       ],
@@ -694,11 +772,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Drönare",
-        "Robotanfall",
+        "Kyjiv",
+        "Ukraina",
         "Energi",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
