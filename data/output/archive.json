@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 4249,
-  "last_archived_rotation": "2026-11-04T07:05:28.081320+00:00",
+  "total_archived_events": 4251,
+  "last_archived_rotation": "2026-11-04T07:35:12.740489+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-03-885d8c",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T09:29:00+02:00",
+      "title_sv": "Rysk attack mot Charkov sjukhus höjer skadetalet till 73",
+      "title_en": "Russian strike on Kharkiv hospital raises injury toll to 73",
+      "summary_sv": "I Charkiv skadades 73 personer till följd av en rysk attack natten mot den 3 november.",
+      "summary_en": "In Kharkiv, 73 people were injured as a result of a Russian attack on the night of November 3.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180763-russian-strike-on-kharkiv-hospital-raises-injury-toll-to-73.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Charkiv",
+        "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-11-03-b693d5",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T09:28:00+02:00",
+      "title_sv": "Russian forces strike critical infrastructure in Dnipro and Kryvyi Rih",
+      "title_en": "Russian forces strike critical infrastructure in Dnipro and Kryvyi Rih",
+      "summary_sv": "Russian strikes targeted critical infrastructure in Dnipro and Kryvyi Rih district overnight, Dnipropetrovsk Oblast governor Oleksandr Hanzha announced on Nov. 3.",
+      "summary_en": "Russian strikes targeted critical infrastructure in Dnipro and Kryvyi Rih district overnight, Dnipropetrovsk Oblast governor Oleksandr Hanzha announced on Nov. 3.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russia-hits-dnipro-and-kryvyi-rih-critical-infrastructure-50655730.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-03-e9fad8",
       "date": "2026-11-03",
@@ -529,11 +606,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "ukraina",
         "ryssland",
-        "uk"
+        "eu",
+        "uk",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -771,8 +848,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -792,8 +869,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1002,9 +1079,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "usa",
         "eu",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
