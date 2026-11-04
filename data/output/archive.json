@@ -1,7 +1,57 @@
 {
-  "total_archived_events": 4235,
-  "last_archived_rotation": "2026-11-04T03:04:12.389149+00:00",
+  "total_archived_events": 4236,
+  "last_archived_rotation": "2026-11-04T03:35:23.918417+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-03-f2ac84",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T05:32:00+02:00",
+      "title_sv": "Upp till fyra grupper av strömavbrott planerade över Ukraina på tisdag – Ukrenergo",
+      "title_en": "Up to four groups of power cuts scheduled across Ukraine on Tuesday – Ukrenergo",
+      "summary_sv": "Restriktioner för elförbrukning kommer att gälla i vissa regioner i Ukraina tisdagen den 3 november från kl. 00.00 till 23.59.",
+      "summary_en": "Electricity consumption restrictions will be in effect in some regions of Ukraine on Tuesday, November 3, from 00:00 to 23:59.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från Ukrinform samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from Ukrinform and official emergency services."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4180677-up-to-four-groups-of-power-cuts-scheduled-across-ukraine-on-tuesday-ukrenergo.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "Ukrinform",
+          "titel": "Upp till fyra grupper av strömavbrott planerade över Ukraina på tisdag – Ukrenergo",
+          "url": "https://www.ukrinform.net/rubric-society/4180677-up-to-four-groups-of-power-cuts-scheduled-across-ukraine-on-tuesday-ukrenergo.html"
+        },
+        {
+          "kalla": "Ukrinform",
+          "titel": "Upp till fyra grupper av strömavbrott planerade över Ukraina på tisdag – Ukrenergo",
+          "url": "https://www.ukrinform.net/rubric-economy/4180677-up-to-four-groups-of-power-cuts-scheduled-across-ukraine-on-tuesday-ukrenergo.html"
+        }
+      ],
+      "cluster_count": 2
+    },
     {
       "id": "evt-2026-11-03-e5c959",
       "date": "2026-11-03",
@@ -216,9 +266,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -238,8 +288,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -447,10 +497,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ukraina",
+        "eu",
         "usa",
-        "eu"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2059,8 +2109,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2080,8 +2130,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
@@ -2439,9 +2489,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "uk",
         "ryssland",
         "usa",
+        "uk",
         "eu"
       ],
       "syfte": {
@@ -2462,10 +2512,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare",
         "Cherson",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
