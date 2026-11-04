@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 4236,
-  "last_archived_rotation": "2026-11-04T04:05:47.433060+00:00",
+  "total_archived_events": 4237,
+  "last_archived_rotation": "2026-11-04T04:35:20.976096+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-03-f0bf17",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T06:23:00+02:00",
+      "title_sv": "Charkiv drabbats av rysk attack, sjukvårdsinrättning drabbad, rapporterade offer",
+      "title_en": "Kharkiv hit by Russian attack, medical facility struck, casualties reported",
+      "summary_sv": "Ryska styrkor inledde en massiv attack mot Charkiv med ballistiska missiler och guidade flygbomber, där en av attackerna träffade en medicinsk anläggning i Nemyshlianskyi-distriktet och lämnade människor skadade.",
+      "summary_en": "Russian forces launched a massive attack on Kharkiv with ballistic missiles and guided aerial bombs, with one of the strikes hitting a medical facility in the Nemyshlianskyi district, leaving people injured.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4180723-kharkiv-hit-by-russian-attack-medical-facility-struck-casualties-reported.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Robotanfall",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-03-f2ac84",
       "date": "2026-11-03",
@@ -266,8 +306,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "uk",
+        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -497,10 +537,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "eu",
-        "ukraina",
-        "usa"
+        "uk",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2130,8 +2170,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Cherson"
+        "Cherson",
+        "Ukraina"
       ]
     },
     {
