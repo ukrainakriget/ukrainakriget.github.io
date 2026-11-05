@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 4477,
-  "last_archived_rotation": "2026-11-05T18:59:11.308627+00:00",
+  "total_archived_events": 4479,
+  "last_archived_rotation": "2026-11-05T19:01:36.300643+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-04-8925a2",
+      "date": "2026-11-04",
+      "timestamp": "2026-11-04T21:00:00+02:00",
+      "title_sv": "Ukraina har initiativ på slagfältet – chef för NATO:s militära kommitté",
+      "title_en": "Ukraine holds initiative on battlefield – NATO Military Committee chief",
+      "summary_sv": "Ukrainska styrkor håller för närvarande initiativet i Rysslands krig mot Ukraina och återtar gradvis små områden av territorium.",
+      "summary_en": "Ukrainian forces currently hold the initiative in Russia's war against Ukraine and are gradually reclaiming small areas of territory.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4181528-ukraine-holds-initiative-on-battlefield-nato-military-committee-chief.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-04-b8df35",
       "date": "2026-11-04",
@@ -268,6 +306,44 @@
       ]
     },
     {
+      "id": "evt-2026-11-04-cd7823",
+      "date": "2026-11-04",
+      "timestamp": "2026-11-04T19:00:55+00:00",
+      "title_sv": "Hon talade en gång för Zelenskyy. Nu misstänker Ukraina henne för förräderi på grund av hennes intervjuer och inlägg",
+      "title_en": "She once spoke for Zelenskyy. Now Ukraine suspects her of treason over her interviews and posts",
+      "summary_sv": "Åklagare säger att ryska statliga medier använde hennes uttalanden. Hon säger att Zelenskyy precis har visat att hon har rätt.",
+      "summary_en": "Prosecutors say Russian state media used her statements. She says Zelenskyy has just proved her right.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/04/she-once-spoke-for-zelenskyy-now-ukraine-suspects-her-of-treason-over-her-interviews-and-posts/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-11-04-7e03e3",
       "date": "2026-11-04",
       "timestamp": "2026-11-04T18:55:02+01:00",
@@ -470,11 +546,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "eu",
+        "usa",
+        "uk",
         "ryssland",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -494,8 +570,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1196,17 +1272,17 @@
       "timestamp": "2026-11-04T16:09:19+00:00",
       "title_sv": "Zelenskyy säger att 40 nu har bekräftats döda efter \"vansinnig\" rysk attack mot skolan - som det hände",
       "title_en": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-      "summary_sv": "Skolan i Komyshuvakha i Zaporizjzja-regionen drabbades i måndags. Samtidigt sa Kreml att de hoppas att resultaten av de amerikanska mellantidsvalen inte kommer att påverka vad de sa var president Donald Trumps \"fredsskapande ansträngningar i Ukraina\" sa i Ukraina. media, Kremls talesperson Dmitry...",
+      "summary_sv": "Skolan i Komyshuvakha i Zaporizjzja-regionen drabbades i måndags. Samtidigt sa Kreml att de hoppas att resultaten av de amerikanska mellantidsvalen inte kommer att påverka vad de sa var president Donald Trumps \"fredsskapande ansträngningar\" på Ukraina, sa i den ryska regeringens reuters. media, Kremls talesperson Dmitry...",
       "summary_en": "School in Komyshuvakha in the Zaporizhzhia region was struck on Monday Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine, Reuters said.In comments ‌broadcast by Russian state ​media, Kremlin spokesperson Dmitry...",
       "location_name": "Zaporizjzja",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "eu",
+        "usa",
+        "uk",
         "ryssland",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1227,8 +1303,8 @@
       "arkiverad": true,
       "tags": [
         "Civila mål",
-        "Ukraina",
-        "Zaporizjzja"
+        "Zaporizjzja",
+        "Ukraina"
       ]
     },
     {
@@ -3127,10 +3203,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "uk",
-        "usa"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -3546,11 +3622,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "eu",
+        "usa",
+        "uk",
         "ryssland",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
