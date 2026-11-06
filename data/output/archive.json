@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 4586,
-  "last_archived_rotation": "2026-11-06T15:24:11.075158+00:00",
+  "total_archived_events": 4587,
+  "last_archived_rotation": "2026-11-06T15:31:52.436787+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-05-fd5e70",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T17:29:00+02:00",
+      "title_sv": "Ukraine strikes Russian drone launch site in Crimea, depot in occupied Melitopol",
+      "title_en": "Ukraine strikes Russian drone launch site in Crimea, depot in occupied Melitopol",
+      "summary_sv": "Ukrainian forces struck a site used to store, prepare and launch Russian attack drones in Hvardiiske, occupied Crimea, and a drone depot in Russian-occupied Melitopol, Zaporizhzhya Oblast, overnight on Nov. 4–5, Ukraine’s General Staff reported on Nov. 5.",
+      "summary_en": "Ukrainian forces struck a site used to store, prepare and launch Russian attack drones in Hvardiiske, occupied Crimea, and a drone depot in Russian-occupied Melitopol, Zaporizhzhya Oblast, overnight on Nov. 4–5, Ukraine’s General Staff reported on Nov. 5.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/zsu-urazili-skladi-droniv-v-krimu-y-melitopoli-genshtab-povidomiv-detali-50656686.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Zaporizjzja"
+      ]
+    },
     {
       "id": "evt-2026-11-05-85d193",
       "date": "2026-11-05",
@@ -583,10 +623,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -606,8 +646,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -700,10 +740,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2451,10 +2491,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "uk",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -2996,11 +3036,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "ryssland",
         "eu",
-        "uk"
+        "uk",
+        "ryssland",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3131,9 +3171,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
