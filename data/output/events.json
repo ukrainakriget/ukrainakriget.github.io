@@ -1,22 +1,61 @@
 {
-  "last_updated": "2026-11-06T09:01:38.534676+00:00",
-  "total_active_events": 129,
+  "last_updated": "2026-11-06T09:31:59.116584+00:00",
+  "total_active_events": 128,
   "events": [
+    {
+      "id": "evt-2026-11-06-2075db",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T11:15:00+02:00",
+      "title_sv": "Trump tillkännager potentiell \"big deal\" om Ukraina som kan sträcka sig över hela Europa",
+      "title_en": "Trump announces potential 'big deal' on Ukraine that could extend across all of Europe",
+      "summary_sv": "USA:s president Donald Trump sa att en stor överenskommelse om Ukraina kan nås snart och kan sträcka sig över hela Europa, talade med reportrar i Vita huset den 5 november.",
+      "summary_en": "U.S. President Donald Trump said that a major agreement concerning Ukraine could be reached soon and might extend across all of Europe, speaking to reporters at the White House on Nov. 5.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/trump-says-major-ukraine-deal-could-cover-all-of-europe-50656864.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-06-55cceb",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T10:50:00+02:00",
       "title_sv": "Fem personer skadades i ryska drönareattacker i Kyjiv-regionen under det senaste dygnet",
       "title_en": "Five people injured in Russian drone attacks in Kyiv region over past day",
-      "summary_sv": "Fem personer skadades och en sovsal vid en utbildningsinstitution skadades i ryska drönareattacker i Kyjiv-regionen under det senaste dygnet.",
+      "summary_sv": "Fem personer skadades och en sovsal vid en utbildningsinstitution skadades i ryska drönarattacker i Kyjiv-regionen under det senaste dygnet.",
       "summary_en": "Five people were injured and a dormitory at an educational institution was damaged in Russian drone attacks in the Kyiv region over the past 24 hours.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -36,9 +75,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Kyjiv",
         "Ukraina",
-        "Drönare",
-        "Kyjiv"
+        "Drönare"
       ]
     },
     {
@@ -74,8 +113,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -90,10 +129,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -128,10 +167,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -151,8 +190,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -167,9 +206,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -205,9 +244,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -227,10 +266,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Kyjiv",
         "Energi",
         "Ukraina",
-        "Drönare",
-        "Kyjiv"
+        "Drönare"
       ]
     },
     {
@@ -245,10 +284,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -277,7 +316,7 @@
       "id": "evt-2026-11-06-8d7d23",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T09:56:00+02:00",
-      "title_sv": "USA, Ukraina och Europa utarbetar en ny säkerhetsplan inför fredssamtalen – Kushner",
+      "title_sv": "USA, Ukraina och Europa utarbetar en ny säkerhetsplan inför fredsförhandlingar - Kushner",
       "title_en": "U.S., Ukraine, and Europe draft new security plan ahead of peace talks — Kushner",
       "summary_sv": "USA, tillsammans med Ukraina, Nato och europeiska allierade, utvecklar en bredare europeisk säkerhetsarkitektur byggd på fem huvudmål samtidigt som man bevarar nationernas suveräna rätt att välja sina egna allianser, meddelade Vita husets särskilda sändebud Jared Kushner den 6 november.",
       "summary_en": "The United States, alongside Ukraine, NATO, and European allies, is developing a broader European security architecture built on five key objectives while preserving the sovereign right of nations to choose their own alliances, White House special envoy Jared Kushner announced on November 6.",
@@ -285,10 +324,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -308,8 +347,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -324,9 +363,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -346,16 +385,16 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Kyjiv",
         "Energi",
-        "Ukraina",
-        "Kyjiv"
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-06-2fe5c1",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T09:35:00+02:00",
-      "title_sv": "Ukraina väger röstning online för trupper i frontlinjen och ockuperade områden – Zelenskyy",
+      "title_sv": "Ukraina väger onlineröstning för trupper i frontlinjen och ockuperade områden – Zelenskyy",
       "title_en": "Ukraine weighs online voting for frontline troops and occupied areas — Zelenskyy",
       "summary_sv": "Ukraina kan överväga att hålla onlineval för att låta frontlinjemilitärer och invånare i tillfälligt ockuperade territorier rösta, sa president Volodymyr Zelenskyy i en intervju den 5 november med den tyska TV-sändaren ZDF.",
       "summary_en": "Ukraine may consider holding online elections to allow frontline military personnel and residents of temporarily occupied territories to vote, President Volodymyr Zelenskyy said in a November 5 interview with German broadcaster ZDF.",
@@ -384,8 +423,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -400,11 +439,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
+        "uk",
         "usa",
         "ryssland",
-        "eu",
-        "ukraina",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -424,9 +463,46 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Luftförsvar",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Luftförsvar"
+      ]
+    },
+    {
+      "id": "evt-2026-11-06-54d105",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T09:20:30+00:00",
+      "title_sv": "Ett ryskt raffinaderi som uppskattas till mer än 6 miljoner ton per år brinner igen i Krasnodar Krai",
+      "title_en": "A Russian refinery rated at more than 6 million tons a year burns again in Krasnodar Krai",
+      "summary_sv": "Uppskattningarna av anläggningens kapacitet varierar, men den är konsekvent listad bland de största i södra Ryssland.",
+      "summary_en": "Estimates of the plant’s capacity vary, but it is consistently listed among the largest in southern Russia.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/06/a-russian-refinery-rated-at-more-than-6-million-tons-a-year-burns-again-in-krasnodar-krai/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
       ]
     },
     {
@@ -441,10 +517,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -464,8 +540,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Pokrovsk"
+        "Pokrovsk",
+        "Ukraina"
       ]
     },
     {
@@ -480,9 +556,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -502,8 +578,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -554,9 +630,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -576,9 +652,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Dnipro",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Dnipro"
       ]
     },
     {
@@ -593,10 +669,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -616,8 +692,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Sumy",
-        "Ukraina"
+        "Ukraina",
+        "Sumy"
       ]
     },
     {
@@ -632,9 +708,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -671,9 +747,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -693,9 +769,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
         "Ukraina",
-        "Drönare",
-        "Infrastruktur"
+        "Drönare"
       ]
     },
     {
@@ -710,10 +786,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -742,16 +818,16 @@
       "timestamp": "2026-11-06T07:56:19+00:00",
       "title_sv": "Melania Trump kräver varaktig vapenvila i Ukraina när hon är värd för ryska och ukrainska tjänstemän",
       "title_en": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "summary_sv": "Den amerikanska presidentdamen krediterades av alla för att ha spelat en viktig men ospecificerad roll i vapenvilan.",
+      "summary_sv": "Den amerikanska första damen krediterades av alla för att ha spelat en viktig men ospecificerad roll i vapenvilan.",
       "summary_en": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -780,7 +856,7 @@
       "timestamp": "2026-11-06T07:55:00+02:00",
       "title_sv": "Zelensky beskriver huvudämnena för förhandlingar mellan team i Bryssel",
       "title_en": "Zelensky outlines main topics of negotiations between teams in Brussels",
-      "summary_sv": "Säkerhetsgarantier för Ukraina och förberedelser för ett trilateralt möte i Abu Dhabi var nyckelämnena i förhandlingarna i Bryssel den 4–5 november.",
+      "summary_sv": "Säkerhetsgarantier för Ukraina och förberedelser för ett trilateralt möte i Abu Dhabi var nyckelämnena i förhandlingarna som hölls i Bryssel den 4–5 november.",
       "summary_en": "Security guarantees for Ukraine and preparations for a trilateral meeting in Abu Dhabi were the key topics of negotiations held in Brussels on November 4–5.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -823,10 +899,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -853,7 +929,7 @@
       "id": "evt-2026-11-06-8b0b61",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T07:46:23+00:00",
-      "title_sv": "Akim, Price, Boxer och Criminal: Ukrainas senaste telefonavlyssningar läses som en mobbfilm, med riktiga tjänstemän i rollistan",
+      "title_sv": "Akim, Price, Boxer och Criminal: Ukrainas senaste avlyssningar läses som en pöbelfilm, med riktiga tjänstemän i rollistan",
       "title_en": "Akim, Price, Boxer, and Criminal: Ukraine’s latest wiretaps read like a mob movie, with real officials in the cast",
       "summary_sv": "En general för säkerhetstjänsten, en högre polis och en påstådd tillsynsman är bland fem misstänkta, och domare har redan beordrat två av dem kvarhållna medan generalen fortfarande väntar på hans beslut.",
       "summary_en": "A security service general, a senior police officer, and an alleged enforcer are among five suspects, and judges have already ordered two of them held while the general still waits for his ruling.",
@@ -890,7 +966,7 @@
       "id": "evt-2026-11-06-820064",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T07:39:00+02:00",
-      "title_sv": "Ukraina kommer att föreslå att utvidga Oleshky-evakueringserfarenheterna till andra ockuperade territorier i samtal med USA och Ryssland – Zelensky",
+      "title_sv": "Ukraina kommer att föreslå att erfarenheterna från Oleshky-evakueringen utökas till andra ockuperade territorier i samtal med USA och Ryssland – Zelensky",
       "title_en": "Ukraine to propose expanding Oleshky evacuation experience to other occupied territories in talks with U.S. and Russia – Zelensky",
       "summary_sv": "Ukraina kommer att föreslå USA och Ryssland att de evakueringsinsatser som genomförs i Oleshky utökas till andra ockuperade områden.",
       "summary_en": "Ukraine will propose to the United States and Russia that the evacuation efforts carried out in Oleshky be expanded to other occupied territories.",
@@ -898,10 +974,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1009,9 +1085,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1046,11 +1122,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
+        "uk",
         "usa",
         "ryssland",
-        "eu",
-        "ukraina",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1086,10 +1162,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1109,8 +1185,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -1164,10 +1240,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1187,9 +1263,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Robotanfall",
         "Energi",
         "Ukraina",
-        "Robotanfall",
         "Drönare"
       ]
     },
@@ -1272,16 +1348,16 @@
       "timestamp": "2026-11-06T02:16:00+02:00",
       "title_sv": "Tjeckiens president avvisar rollen som EU-sändebud i Ukrainas krig",
       "title_en": "Czech president rejects EU envoy role on Ukraine war",
-      "summary_sv": "Tjeckiens president Petr Pavel försöker inte representera Europa i några potentiella förhandlingar för att få ett slut på det rysk-ukrainska kriget.",
+      "summary_sv": "Tjeckiens president Petr Pavel försöker inte representera Europa i några potentiella förhandlingar för att avsluta det rysk-ukrainska kriget.",
       "summary_en": "Czech President Petr Pavel is not seeking to represent Europe in any potential negotiations to end the Russo–Ukrainian war.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1316,11 +1392,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
+        "ukraina",
+        "uk",
         "usa",
         "ryssland",
-        "eu",
-        "ukraina",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1340,11 +1416,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Ukraina",
+        "Robotanfall",
         "Civila mål",
         "Kyjiv",
-        "Robotanfall",
-        "Drönare",
-        "Ukraina"
+        "Drönare"
       ]
     },
     {
@@ -1623,10 +1699,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1850,7 +1926,7 @@
       "id": "evt-2026-11-05-d05415",
       "date": "2026-11-05",
       "timestamp": "2026-11-05T21:04:53+00:00",
-      "title_sv": "Ryska och ukrainska tjänstemän tackar Melania Trump för att hon förmedlade vapenvila - video",
+      "title_sv": "Ryska och ukrainska tjänstemän tackar Melania Trump för förmedling av vapenvila - video",
       "title_en": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video",
       "summary_sv": "Kirill Dimitrov, sändebud till den ryske presidenten Vladimir Putin, överlämnade en gåva till Melania Trump i Vita huset på torsdagen för att tacka henne för att hon förmedlat en vapenvila mellan Ukraina och ryska styrkor i Oleshky, Ukraina.",
       "summary_en": "Kirill Dimitrov, envoy to Russian president Vladimir Putin, delivered a gift to Melania Trump at the White House on Thursday to thank her for brokering a ceasefire between Ukraine and Russian forces in Oleshky, Ukraine.",
@@ -1858,10 +1934,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1887,12 +1963,12 @@
       "relaterade_kallor": [
         {
           "kalla": "The Guardian (Ukraine)",
-          "titel": "Ryska och ukrainska tjänstemän tackar Melania Trump för att hon förmedlade vapenvila - video",
+          "titel": "Ryska och ukrainska tjänstemän tackar Melania Trump för förmedling av vapenvila - video",
           "url": "https://www.theguardian.com/world/video/2026/nov/05/russian-and-ukrainian-officials-thank-melania-trump-for-brokering-ceasefire-video"
         },
         {
           "kalla": "The Guardian (Ukraine)",
-          "titel": "Putins sändebud tackar Melania Trump för förmedling av vapenvila – video",
+          "titel": "Putins sändebud tackar Melania Trump för att hon förmedlat vapenvila – video",
           "url": "https://www.theguardian.com/us-news/video/2026/nov/05/putin-envoy-thanks-melania-trump-for-brokering-ceasefire-video"
         }
       ],
@@ -1949,10 +2025,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1972,11 +2048,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Robotanfall",
         "Infrastruktur",
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall",
+        "Kyjiv",
+        "Drönare"
       ]
     },
     {
@@ -2104,10 +2180,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3286,9 +3362,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3308,9 +3384,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Civila mål",
         "Ukraina",
-        "Zaporizjzja",
-        "Civila mål"
+        "Zaporizjzja"
       ]
     },
     {
@@ -3510,16 +3586,16 @@
       "timestamp": "2026-11-05T15:10:55+00:00",
       "title_sv": "Ryssland gick med på att förse Iran med 90 helikopter-missiluppskjutare",
       "title_en": "Russia agreed to supply Iran with 90 helicopter missile launchers",
-      "summary_sv": "Läckta dokument ger insikt i ryskt-iranskt militärt samarbete när USA väger upp nästa steg i Irankriget Ryssland arrangerade för att förse Iran med 90 bärraketer för avancerade styrda missiler, enligt läckta försvarsindustridokument som belyser djupet av militärt samarbete mellan Moskva och Teheran. Dokumenten, inhämtade av...",
+      "summary_sv": "Läckta dokument ger inblick i ryskt-iranskt militärt samarbete när USA väger upp nästa steg i Irankriget Ryssland arrangerade för att förse Iran med 90 bärraketer för avancerade styrda missiler, enligt läckta försvarsindustridokument som belyser djupet av militärt samarbete mellan Moskva och Teheran. Dokumenten, inhämtade av...",
       "summary_en": "Leaked documents offer insight into Russian-Iranian military cooperation as US weighs up next steps in Iran war Russia arranged to supply Iran with 90 launchers for advanced guided missiles, according to leaked defence industry documents that shed light on the depth of military cooperation between Moscow and Tehran.The documents, obtained by...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3539,8 +3615,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -3633,10 +3709,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3656,8 +3732,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Energi",
         "Krym",
+        "Energi",
         "Ukraina"
       ]
     },
@@ -3820,7 +3896,7 @@
       "id": "evt-2026-11-05-543459",
       "date": "2026-11-05",
       "timestamp": "2026-11-05T14:19:55+00:00",
-      "title_sv": "En Shahed som var bunden till Kyjiv bar en stridsspets och flygblad som hyllade en \"ukrainsk\" brigad i Rysslands armé",
+      "title_sv": "En till Kyjiv bunden Shahed bar en stridsspets och flygblad som hyllade en \"ukrainsk\" brigad i Rysslands armé",
       "title_en": "A Kyiv-bound Shahed carried a warhead and leaflets touting a “Ukrainian” brigade in Russia’s army",
       "summary_sv": "Ukrainska trupper störtade den 4 november. En andra broschyr i paketet attackerade Ukrainas militära rekryteringskontor.",
       "summary_en": "Ukrainian troops downed it on 4 November. A second leaflet in the bundle attacked Ukraine’s military recruitment offices.",
@@ -3828,10 +3904,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3851,9 +3927,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Kyjiv",
         "Ukraina",
-        "Drönare",
-        "Kyjiv"
+        "Drönare"
       ]
     },
     {
@@ -4301,10 +4377,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4569,10 +4645,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4592,8 +4668,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -4762,9 +4838,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -4784,83 +4860,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Zaporizjzja",
         "Civila mål",
-        "Drönare"
-      ]
-    },
-    {
-      "id": "evt-2026-11-05-b04ccd",
-      "date": "2026-11-05",
-      "timestamp": "2026-11-05T11:31:00+02:00",
-      "title_sv": "NABU detains two senior police officials and boxing club founder in Carthage case",
-      "title_en": "NABU detains two senior police officials and boxing club founder in Carthage case",
-      "summary_sv": "Ukrainian anti-corruption authorities detained two senior National Police officials, Volodymyr Tsenov and Oleksandr Demianchuk, along with boxing club founder Oleksandr Rybalko, as part of Operation Carthage on Nov. 4.",
-      "summary_en": "Ukrainian anti-corruption authorities detained two senior National Police officials, Volodymyr Tsenov and Oleksandr Demianchuk, along with boxing club founder Oleksandr Rybalko, as part of Operation Carthage on Nov. 4.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/nabu-detains-two-senior-police-officials-and-boxing-club-founder-in-operation-carthage-50656513.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-05-af40a4",
-      "date": "2026-11-05",
-      "timestamp": "2026-11-05T11:21:00+02:00",
-      "title_sv": "Dödssiffran efter flygattack mot Komyshuvakha stiger till 42, sökverksamheten fortsätter",
-      "title_en": "Death toll from airstrike on Komyshuvakha rises to 42, search operations continue",
-      "summary_sv": "Dödssiffran i Komyshuvakha, Zaporizjzja-regionen, efter en rysk flygattack har stigit till 42.",
-      "summary_en": "The death toll in Komyshuvakha, Zaporizhzhia region, following a Russian airstrike has risen to 42.",
-      "location_name": "Zaporizjzja",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "ryssland",
-        "ukraina",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4181666-death-toll-from-airstrike-on-komyshuvakha-rises-to-42-search-operations-continue.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
         "Ukraina",
+        "Drönare",
         "Zaporizjzja"
       ]
     },
@@ -4876,10 +4878,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4899,10 +4901,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare",
         "Robotanfall",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -4917,9 +4919,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4940,45 +4942,6 @@
       "arkiverad": false,
       "tags": [
         "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-05-b4fcec",
-      "date": "2026-11-05",
-      "timestamp": "2026-11-05T09:26:26+00:00",
-      "title_sv": "Ukraina: Stort raff och Wildberrieslager i Rjazan bombade – näst blodigaste dagen för Ryssland – 42 mördade i skolbombningen, 33 saknas fortfarande",
-      "title_en": "Ukraina: Stort raff och Wildberrieslager i Rjazan bombade – näst blodigaste dagen för Ryssland – 42 mördade i skolbombningen, 33 saknas fortfarande",
-      "summary_sv": "Ukraina bombade ett av Rysslands största raffinaderier samt ett Wildberrieslager i Rjazan Oblast. Gårdagen var den näst blodigaste dagen för Ryssland med 2 380 manskapsförluster. Antalet mördade i bombningen mot skolans skyddsrum i Zaporizjzjiaregionen har nått 42 och 33 personer saknas fortfarande.",
-      "summary_en": "Ukraina bombade ett av Rysslands största raffinaderier samt ett Wildberrieslager i Rjazan Oblast. Gårdagen var den näst blodigaste dagen för Ryssland med 2 380 manskapsförluster. Antalet mördade i bombningen mot skolans skyddsrum i Zaporizjzjiaregionen har nått 42 och 33 personer saknas fortfarande.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ryssland",
-      "parter_intressenter": [
-        "ryssland",
-        "usa",
-        "ukraina",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Lars Wilderäng (Cornucopia.se)",
-      "kallurl": "https://cornucopia.se/2026/11/ukraina-stort-raff-och-wildberrieslager-i-rjazan-bombade-nast-blodigaste-dagen-for-ryssland-42-mordade-i-skolbombningen-33-saknas-fortfarande/",
-      "kallkategori": "Militäranalytiker & författare",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Civila mål"
       ]
     }
   ],
