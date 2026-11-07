@@ -1,7 +1,87 @@
 {
-  "total_archived_events": 4716,
-  "last_archived_rotation": "2026-11-07T16:04:20.206890+00:00",
+  "total_archived_events": 4719,
+  "last_archived_rotation": "2026-11-07T16:32:09.265779+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-06-1b91d5",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T18:20:00+02:00",
+      "title_sv": "Brist på politisk vilja i USA bakom förseningar i Patriot-missilleveranser till Ukraina – Finlands försvarsminister",
+      "title_en": "Lack of political will in US behind delays in Patriot missile supplies to Ukraine – Finnish defense minister",
+      "summary_sv": "Europeiska allierade har redan betalat för interceptormissiler för Patriots luftförsvarssystem, men Washington har ännu inte godkänt leveransen av dem, eftersom Ukraina förbereder sig för nya ryska attacker mot sin energiinfrastruktur.",
+      "summary_en": "European allies have already paid for interceptor missiles for Patriot air defense systems, but Washington has yet to approve their delivery, as Ukraine prepares for new Russian attacks on its energy infrastructure.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "eu",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4182177-lack-of-political-will-in-us-behind-delays-in-patriot-missile-supplies-to-ukraine-finnish-defense-minister.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Robotanfall",
+        "Luftförsvar",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-06-c2c0a6",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T18:18:00+02:00",
+      "title_sv": "Ukrainas anti-korruptionsdomstol sätter Ihor Myroniuk i husarrest",
+      "title_en": "Ukraine's anti-corruption court places Ihor Myroniuk under house arrest",
+      "summary_sv": "Ukrainas höga antikorruptionsdomstol (HACC) har lättat på de förebyggande åtgärder som ålagts den misstänkte operation Midas-misstänkte Ihor Myroniuk, och beordrar honom att placeras i husarrest dygnet runt och kräver att han bär ett elektroniskt övervakningsarmband, rapporterade Transparency International Ukraine den 5 november.",
+      "summary_en": "Ukraine's High Anti-Corruption Court (HACC) has eased the preventive measure imposed on Operation Midas suspect Ihor Myroniuk, ordering him placed under round-the-clock house arrest and requiring him to wear an electronic monitoring bracelet, Transparency International Ukraine reported on Nov. 5.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/operation-midas-suspect-ihor-myroniuk-released-to-house-arrest-after-nearly-a-year-50657026.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-11-06-397fd4",
       "date": "2026-11-06",
@@ -273,6 +353,43 @@
       ]
     },
     {
+      "id": "evt-2026-11-06-aad672",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T16:30:00+00:00",
+      "title_sv": "Fiske efter drönare: en ukrainsk låda som skjuter nät mot FPV:s huvuden för serieproduktion",
+      "title_en": "Fishing for drones: a Ukrainian box that fires nets at FPVs heads for serial production",
+      "summary_sv": "Phantom Defense säger att tio enheter redan befinner sig i stridsförsök, och Militarnyi såg hur systemet fungerade på ett testområde.",
+      "summary_en": "Phantom Defense says ten units are already in combat trials, and Militarnyi watched the system work at a test range.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/06/fishing-for-drones-a-ukrainian-box-that-fires-nets-at-fpvs-heads-for-serial-production/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
       "id": "evt-2026-11-06-de74fc",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T16:27:00+02:00",
@@ -356,18 +473,18 @@
       "id": "evt-2026-11-06-1b2413",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T16:01:14+00:00",
-      "title_sv": "Attack of the robots: Ukraine sent 28 armed ground robots, eight rigged to explode, at Russian lines. Russian drones stopped them—this time",
+      "title_sv": "Attack av robotar: Ukraina skickade 28 beväpnade markrobotar, åtta riggade för att explodera, vid ryska linjer. Ryska drönare stoppade dem – den här gången",
       "title_en": "Attack of the robots: Ukraine sent 28 armed ground robots, eight rigged to explode, at Russian lines. Russian drones stopped them—this time",
-      "summary_sv": "The Russian drones won this time, and it won’t matter much: Ukraine is building ground robots by the tens of thousands, and the next 28 might get through.",
+      "summary_sv": "De ryska drönarna vann den här gången, och det spelar ingen roll: Ukraina bygger markrobotar i tiotusentals, och nästa 28 kan komma igenom.",
       "summary_en": "The Russian drones won this time, and it won’t matter much: Ukraine is building ground robots by the tens of thousands, and the next 28 might get through.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "uk",
-        "ryssland"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -387,10 +504,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Ukraina",
         "Robotanfall",
-        "Drönare"
+        "Drönare",
+        "Infrastruktur"
       ]
     },
     {
@@ -629,9 +746,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "usa",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -651,8 +768,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -756,10 +873,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -902,7 +1019,7 @@
       "id": "evt-2026-11-06-b6b3f6",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T13:48:42+00:00",
-      "title_sv": "Russia fired nearly 8,000 Molniya and Lancet drones at Ukraine’s front in a week. Nine in 10 were stopped",
+      "title_sv": "Ryssland avfyrade nästan 8 000 Molniya- och Lancet-drönare mot Ukrainas front under en vecka. Nio av 10 stoppades",
       "title_en": "Russia fired nearly 8,000 Molniya and Lancet drones at Ukraine’s front in a week. Nine in 10 were stopped",
       "summary_sv": "Toppen kom den 30 oktober, när Ryssland lanserade mer än 1 600 Molniyas på en enda dag, sade Ukrainas generalstab.",
       "summary_en": "The peak came on 30 October, when Russia launched more than 1,600 Molniyas in a single day, Ukraine’s General Staff said.",
@@ -910,10 +1027,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "uk",
-        "ryssland"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -933,8 +1050,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1248,18 +1365,18 @@
       "id": "evt-2026-11-06-a2c440",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T12:51:38+00:00",
-      "title_sv": "Russian extremist group denies sending hoax bomb threats",
+      "title_sv": "Rysk extremistgrupp förnekar att ha skickat bluffbombhot",
       "title_en": "Russian extremist group denies sending hoax bomb threats",
-      "summary_sv": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "summary_sv": "Massor av flygningar över hela Europa har mottagits bombhot den här veckan, men hittills har inga sprängämnen hittats.",
       "summary_en": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1364,7 +1481,7 @@
       "id": "evt-2026-11-06-3c255c",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T12:34:24+00:00",
-      "title_sv": "“Just get into range”: Ukrainian F-16 pilot set record with M61A1 Vulcan cannon",
+      "title_sv": "\"Kom bara inom räckhåll\": ukrainsk F-16-pilot satte rekord med M61A1 Vulcan-kanon",
       "title_en": "“Just get into range”: Ukrainian F-16 pilot set record with M61A1 Vulcan cannon",
       "summary_sv": "En ukrainsk F-16-pilot fällde nio ryska drönare i en enda sorti.",
       "summary_en": "A Ukrainian F-16 pilot downed nine Russian drones in a single sortie.",
@@ -1372,10 +1489,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "uk",
-        "ryssland"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1395,8 +1512,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1411,9 +1528,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "usa",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1433,8 +1550,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2217,9 +2334,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2786,18 +2903,18 @@
       "id": "evt-2026-11-06-264b64",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T07:56:19+00:00",
-      "title_sv": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "title_sv": "Melania Trump kräver varaktig vapenvila i Ukraina när hon är värd för ryska och ukrainska tjänstemän",
       "title_en": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "summary_sv": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "summary_sv": "Den amerikanska presidentdamen krediterades av alla för att ha spelat en viktig men ospecificerad roll i vapenvilan.",
       "summary_en": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "usa",
-        "uk",
-        "ryssland"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
