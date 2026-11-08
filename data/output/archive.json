@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 4789,
-  "last_archived_rotation": "2026-11-08T11:01:51.672555+00:00",
+  "total_archived_events": 4791,
+  "last_archived_rotation": "2026-11-08T11:31:31.219516+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-07-abcff0",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T13:21:00+02:00",
+      "title_sv": "Several Russian missiles hit Kyiv's Northern Bridge, damaging road surface and power lines — Klitschko",
+      "title_en": "Several Russian missiles hit Kyiv's Northern Bridge, damaging road surface and power lines — Klitschko",
+      "summary_sv": "Several Russian missiles struck Kyiv's Northern Bridge overnight on Nov. 7, damaging the road surface and a power line, Mayor Vitali Klitschko reported.",
+      "summary_en": "Several Russian missiles struck Kyiv's Northern Bridge overnight on Nov. 7, damaging the road surface and a power line, Mayor Vitali Klitschko reported.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/several-russian-missiles-hit-kyiv-s-northern-bridge-damaging-road-and-power-lines-50657152.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina",
+        "Robotanfall",
+        "Kyjiv"
+      ]
+    },
+    {
+      "id": "evt-2026-11-07-6ac1dd",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T13:17:00+02:00",
+      "title_sv": "Ryska styrkor beskjuter Lozova, skadar flerbostadshus, värmeanläggning och dagis",
+      "title_en": "Russian forces shell Lozova, damaging apartment buildings, heating facility and kindergarten",
+      "summary_sv": "Ryska styrkor besköt staden Lozova i Charkiv-regionen på morgonen och skadade flerbostadshus, en värmeanläggning och ett dagis.",
+      "summary_en": "Russian forces shelled the city of Lozova in the Kharkiv region in the morning, damaging apartment buildings, a heating facility and a kindergarten.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182405-russian-forces-shell-lozova-damaging-apartment-buildings-heating-facility-and-kindergarten.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Charkiv",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-07-699252",
       "date": "2026-11-07",
@@ -951,8 +1030,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -972,10 +1051,10 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Robotanfall",
         "Ukraina",
-        "Infrastruktur"
+        "Robotanfall",
+        "Infrastruktur",
+        "Kyjiv"
       ]
     },
     {
@@ -1143,9 +1222,9 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "uk",
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1165,9 +1244,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Charkiv",
         "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Charkiv"
       ]
     },
     {
@@ -1291,12 +1370,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
         "kina",
-        "usa",
         "ryssland",
-        "eu"
+        "usa",
+        "eu",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1316,10 +1395,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Civila mål",
         "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål",
+        "Kyjiv"
       ]
     },
     {
