@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-08T13:31:31.031294+00:00",
+  "last_updated": "2026-11-08T14:01:49.872930+00:00",
   "total_active_events": 83,
   "events": [
+    {
+      "id": "evt-2026-11-08-bbd510",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T15:38:00+02:00",
+      "title_sv": "Mer än 800 km² befriades i Oleksandrivka-sektorn i år tack vare Airborne Assault Forces – Zelensky",
+      "title_en": "More than 800 km² liberated in Oleksandrivka sector this year thanks to Airborne Assault Forces – Zelensky",
+      "summary_sv": "Mer än 800 kvadratkilometer har befriats i Oleksandrivka-sektorn i år tack vare åtgärderna från de luftburna attackstyrkorna från Ukrainas väpnade styrkor.",
+      "summary_en": "More than 800 square kilometres have been liberated in the Oleksandrivka sector this year thanks to the actions of the Airborne Assault Forces of the Armed Forces of Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182679-more-than-800-km-liberated-in-oleksandrivka-sector-this-year-thanks-to-airborne-assault-forces-zelensky.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-08-2f6c84",
       "date": "2026-11-08",
@@ -14,10 +50,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -54,10 +90,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "ryssland",
         "usa",
         "ukraina",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -92,10 +128,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -207,9 +243,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -230,6 +266,46 @@
       "arkiverad": false,
       "tags": [
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-08-31ea8c",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T13:47:36+00:00",
+      "title_sv": "Berlin säger inga fler patrioter för tillfället. Kyjiv vill att Rysslands missiler stoppas innan de lämnar fabriken",
+      "title_en": "Berlin says no more Patriots for now. Kyiv wants Russia’s missiles stopped before they leave the factory",
+      "summary_sv": "Ukraina pressar sina partners att synkronisera sanktioner mot de företag som bygger Rysslands ballistiska missiler.",
+      "summary_en": "Ukraine is pressing its partners to sync sanctions on the firms that build Russia’s ballistic missiles.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/08/berlin-says-no-more-patriots-for-now-kyiv-wants-russias-missiles-stopped-before-they-leave-the-factory/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -280,10 +356,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "eu",
         "ukraina",
+        "ryssland",
+        "uk",
+        "eu",
         "usa"
       ],
       "syfte": {
@@ -320,9 +396,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -359,9 +435,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -382,8 +458,8 @@
       "arkiverad": false,
       "tags": [
         "Krym",
-        "Infrastruktur",
         "Drönare",
+        "Infrastruktur",
         "Ukraina"
       ]
     },
@@ -399,10 +475,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -437,10 +513,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "eu",
         "ukraina",
+        "ryssland",
+        "uk",
+        "eu",
         "usa"
       ],
       "syfte": {
@@ -461,9 +537,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
         "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -514,9 +590,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -553,10 +629,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -576,11 +652,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur",
-        "Drönare",
+        "Luftförsvar",
         "Robotanfall",
-        "Luftförsvar"
+        "Drönare",
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -595,10 +671,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -656,8 +732,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -672,9 +748,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -710,9 +786,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -748,9 +824,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -975,10 +1051,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1492,10 +1568,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1515,10 +1591,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Drönare",
         "Kyjiv",
-        "Ukraina"
+        "Drönare",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1571,10 +1647,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "eu",
         "ukraina",
+        "ryssland",
+        "uk",
+        "eu",
         "usa"
       ],
       "syfte": {
@@ -1596,10 +1672,10 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Ukraina",
+        "Robotanfall",
         "Drönare",
         "Civila mål",
-        "Robotanfall"
+        "Ukraina"
       ]
     },
     {
@@ -1958,10 +2034,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1981,10 +2057,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Cherson",
         "Drönare",
-        "Ukraina"
+        "Cherson",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2075,10 +2151,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2153,10 +2229,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "eu",
         "ukraina",
+        "ryssland",
+        "uk",
+        "eu",
         "usa"
       ],
       "syfte": {
@@ -2193,10 +2269,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "eu",
         "ukraina",
+        "ryssland",
+        "uk",
+        "eu",
         "usa"
       ],
       "syfte": {
@@ -2217,8 +2293,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Kyjiv",
+        "Infrastruktur",
         "Ukraina"
       ]
     },
@@ -2387,10 +2463,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2410,10 +2486,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Drönare",
         "Kyjiv",
-        "Ukraina"
+        "Drönare",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2555,10 +2631,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2662,16 +2738,16 @@
       "timestamp": "2026-11-07T18:32:00+02:00",
       "title_sv": "Ukraina attackerar två Iskander-system och Pantsir-S1 — Generalstab",
       "title_en": "Ukraine strikes two Iskander systems and Pantsir-S1 — General Staff",
-      "summary_sv": "Ukrainska styrkor genomförde attacker i Bryansk oblast i Ryssland och träffade två Iskander-raketavkastare för ballistiska missiler och ett Pantsir-S1 luftförsvarssystem.",
+      "summary_sv": "Ukrainska styrkor genomförde attacker i Bryansk oblast i Ryssland och träffade två Iskander-raketavskjutare för taktiska ballistiska missiler och ett Pantsir-S1 luftförsvarssystem.",
       "summary_en": "Ukrainian forces carried out strikes in Russia's Bryansk Oblast, hitting two Iskander tactical ballistic missile launchers and a Pantsir-S1 air defense system.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2691,9 +2767,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
         "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2744,10 +2820,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2857,10 +2933,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "ryssland",
         "usa",
         "ukraina",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2965,7 +3041,7 @@
       "id": "evt-2026-11-07-ce85b0",
       "date": "2026-11-07",
       "timestamp": "2026-11-07T16:35:53+00:00",
-      "title_sv": "\"Detta är inte Starlink\": 6-kilos satellitterminal Ryssland hävdar att Ukraina använder för djupa attacker - vad är det?",
+      "title_sv": "\"Det här är inte Starlink\": 6-kilos satellitterminal Ryssland hävdar att Ukraina använder för djupa attacker - vad är det?",
       "title_en": "“This is not Starlink”: 6-kilogram satellite terminal Russia claims Ukraine is using for deep strikes — what is it?",
       "summary_sv": "\"Jag bekräftar eller förnekar inte denna information från ryssar\", säger en ukrainsk presidentrådgivare om rapporter om en ny satellitterminal för djupa attacker.",
       "summary_en": "“I do not confirm or deny this information from Russians,” a Ukrainian presidential adviser says of reports on a new satellite terminal for deep strikes.",
@@ -2973,10 +3049,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3076,8 +3152,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -3121,81 +3197,6 @@
       ]
     },
     {
-      "id": "evt-2026-11-07-85acae",
-      "date": "2026-11-07",
-      "timestamp": "2026-11-07T15:53:00+02:00",
-      "title_sv": "Ukrainas 53:e brigad förbättrar rekryteringen och återvänder AWOL",
-      "title_en": "Ukraine's 53rd Brigade improves recruitment and AWOL returns",
-      "summary_sv": "Ihor Mykhailenko, anropssignal Cherkas, befälhavare för den 53:e separata mekaniserade brigaden uppkallad efter prins Volodymyr Monomakh, berättade för Radio NV att brigaden registrerade upp till 380 fall av soldater som var frånvarande utan permission (AWOL) per månad när han tog kommandot våren 2026.",
-      "summary_en": "Ihor Mykhailenko, callsign Cherkas, commander of the 53rd Separate Mechanized Brigade named after Prince Volodymyr Monomakh, told Radio NV that the brigade recorded up to 380 cases of soldiers going absent without leave (AWOL) per month when he took command in spring 2026.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "uk",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/ukraine-s-53rd-brigade-had-up-to-380-awol-cases-monthly-commander-says-50657160.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-07-e3666f",
-      "date": "2026-11-07",
-      "timestamp": "2026-11-07T15:47:00+02:00",
-      "title_sv": "Zelenskij tilldelar postumt titeln Hero of Ukraine till två soldater som sprängde en bro nära Irpin 2022",
-      "title_en": "Zelensky posthumously awards Hero of Ukraine titles to two soldiers who blew up bridge near Irpin in 2022",
-      "summary_sv": "President Volodymyr Zelensky har postumt tilldelat titeln Ukrainas hjälte, med Guldstjärnans orden, till två militärer: löjtnant Zakhar Kvasnyi och juniorsergeant Roman Shymanskyi.",
-      "summary_en": "President Volodymyr Zelensky has posthumously awarded the title of Hero of Ukraine, with the Order of the Golden Star, to two servicemen: Lieutenant Zakhar Kvasnyi and Junior Sergeant Roman Shymanskyi.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "eu",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "civil_infrastruktur",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-society/4182438-zelensky-posthumously-awards-hero-of-ukraine-titles-to-two-soldiers-who-blew-up-bridge-near-irpin-in-2022.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Infrastruktur",
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-11-07-6b7cc4",
       "date": "2026-11-07",
       "timestamp": "2026-11-07T15:33:04+00:00",
@@ -3207,10 +3208,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3230,9 +3231,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
         "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     }
   ],
