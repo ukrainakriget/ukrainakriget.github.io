@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T05:04:34.228509+00:00",
+  "updated_at": "2026-11-08T05:34:27.212819+00:00",
   "daily_metrics": {
     "shahed_interception_rate_percent": 69.4,
     "cruise_missile_interception_rate_percent": 82.5,
@@ -18,6 +18,12 @@
         "intensity": "Högst"
       },
       {
+        "name_sv": "Zaporizjzja",
+        "name_en": "Zaporizjzja",
+        "attacks_24h": 30,
+        "intensity": "Högst"
+      },
+      {
         "name_sv": "Odesa",
         "name_en": "Odesa",
         "attacks_24h": 24,
@@ -28,12 +34,6 @@
         "name_en": "Cherson",
         "attacks_24h": 24,
         "intensity": "Hög"
-      },
-      {
-        "name_sv": "Dnipro",
-        "name_en": "Dnipro",
-        "attacks_24h": 24,
-        "intensity": "Hög"
       }
     ],
     "drones_down": 86,
@@ -42,8 +42,8 @@
   },
   "target_distribution_percent": {
     "helt_civila": 11,
-    "civil_infrastruktur": 20,
-    "energiproduktion": 20,
+    "civil_infrastruktur": 19,
+    "energiproduktion": 22,
     "militara_resurser": 46,
     "diplomatiskt_politiskt": 2
   },
@@ -79,12 +79,12 @@
     "civilians_in_need_of_winterization": "1.8 miljoner"
   },
   "russian_casualties_minfin": {
-    "date": "2026-11-07",
-    "daily_personnel": 2280,
+    "date": "2026-11-08",
+    "daily_personnel": 2290,
     "daily_artillery": 44,
-    "daily_drones": 1224,
-    "daily_equipment_total": 1748,
-    "total_personnel": 1604110,
+    "daily_drones": 1337,
+    "daily_equipment_total": 1875,
+    "total_personnel": 1606400,
     "source_url": "https://index.minfin.com.ua/en/russian-invading/casualties/"
   }
 }
