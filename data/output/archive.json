@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 4778,
-  "last_archived_rotation": "2026-11-08T08:57:01.398512+00:00",
+  "total_archived_events": 4779,
+  "last_archived_rotation": "2026-11-08T09:01:25.622732+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-07-368f5d",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T10:59:00+02:00",
+      "title_sv": "Massiv rysk attack: Energianläggningar skadade i två distrikt i Kyjiv-regionen",
+      "title_en": "Massive Russian attack: Energy facilities damaged in two districts of Kyiv region",
+      "summary_sv": "Ryska styrkor inledde en massiv attack mot Kyjiv-regionen med hjälp av ballistiska missiler och attackdrönare, inriktade på energianläggningar, civil infrastruktur och bostadshus.",
+      "summary_en": "Russian forces launched a massive attack on the Kyiv region using ballistic missiles and attack drones, targeting energy facilities, civilian infrastructure and residential buildings.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182373-massive-russian-attack-energy-facilities-damaged-in-two-districts-of-kyiv-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Drönare",
+        "Robotanfall",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-11-07-60ad9b",
       "date": "2026-11-07",
@@ -522,9 +563,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "ryssland",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -544,10 +585,10 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv",
         "Infrastruktur",
-        "Robotanfall"
+        "Kyjiv",
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -714,10 +755,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "uk",
-        "usa"
+        "ryssland",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -737,9 +778,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Charkiv",
-        "Drönare"
+        "Charkiv"
       ]
     },
     {
@@ -864,11 +905,11 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
+        "usa",
         "ryssland",
         "eu",
         "uk",
-        "kina",
-        "usa"
+        "kina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -888,9 +929,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
         "Robotanfall",
+        "Ukraina",
         "Civila mål"
       ]
     },
