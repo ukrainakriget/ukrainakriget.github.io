@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 4760,
-  "last_archived_rotation": "2026-11-08T04:04:26.964647+00:00",
+  "total_archived_events": 4761,
+  "last_archived_rotation": "2026-11-08T04:31:34.735680+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-07-746e30",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T06:22:00+02:00",
+      "title_sv": "Russian ballistic attack injures three in Kyiv, including child",
+      "title_en": "Russian ballistic attack injures three in Kyiv, including child",
+      "summary_sv": "Three people were injured in a Russian missile strike on the capital, which damaged residential buildings and a kindergarten.",
+      "summary_en": "Three people were injured in a Russian missile strike on the capital, which damaged residential buildings and a kindergarten.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182310-russian-ballistic-attack-injures-three-in-kyiv-including-child.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Ukraina",
+        "Kyjiv",
+        "Robotanfall"
+      ]
+    },
     {
       "id": "evt-2026-11-07-43d37d",
       "date": "2026-11-07",
@@ -153,20 +193,20 @@
       "id": "evt-2026-11-07-43611a",
       "date": "2026-11-07",
       "timestamp": "2026-11-07T03:12:08+00:00",
-      "title_sv": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
+      "title_sv": "Krigsbriefing i Ukraina: Peking bekräftar att det historiska mötet mellan Xi-Trump och Putin diskuteras",
       "title_en": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
-      "summary_sv": "Russia could use tri leader summit to nudge China and US closer to its position on Ukraine, experts say.",
+      "summary_sv": "Ryssland skulle kunna använda treledarmötet för att knuffa Kina och USA närmare sin position om Ukraina, säger experter.",
       "summary_en": "Russia could use tri leader summit to nudge China and US closer to its position on Ukraine, experts say.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "kina",
-        "ukraina",
-        "uk",
         "ryssland",
-        "eu"
+        "eu",
+        "uk",
+        "ukraina",
+        "kina",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -186,10 +226,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
         "Kyjiv",
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
@@ -1106,9 +1146,9 @@
       "id": "evt-2026-11-06-475868",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T19:36:00+00:00",
-      "title_sv": "A Ukrainian National Guard officer was offered cash to accept bad shirts. He reported it instead",
+      "title_sv": "En ukrainsk nationalgardeofficer erbjöds kontanter för att ta emot dåliga skjortor. Han anmälde det istället",
       "title_en": "A Ukrainian National Guard officer was offered cash to accept bad shirts. He reported it instead",
-      "summary_sv": "Two suppliers found out this week, and it could cost them eight years.",
+      "summary_sv": "Två leverantörer fick reda på det i veckan, och det kan kosta dem åtta år.",
       "summary_en": "Two suppliers found out this week, and it could cost them eight years.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1235,18 +1275,18 @@
       "id": "evt-2026-11-06-c17ab3",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T19:15:00+00:00",
-      "title_sv": "Ukraine’s skies need interceptors. Spain’s new €437 million came out of a Madrid meeting with no list attached",
+      "title_sv": "Ukrainas himmel behöver avlyssnare. Spaniens nya 437 miljoner euro kom från ett möte i Madrid utan någon lista bifogad",
       "title_en": "Ukraine’s skies need interceptors. Spain’s new €437 million came out of a Madrid meeting with no list attached",
-      "summary_sv": "Russia’s winter missile campaign is building, and the most useful thing Madrid could send is the one thing nobody has confirmed.",
+      "summary_sv": "Rysslands vintermissilkampanj håller på att byggas upp, och det mest användbara Madrid kan skicka är det som ingen har bekräftat.",
       "summary_en": "Russia’s winter missile campaign is building, and the most useful thing Madrid could send is the one thing nobody has confirmed.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "uk",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1266,8 +1306,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Infrastruktur",
+        "Robotanfall",
         "Ukraina"
       ]
     },
@@ -1623,18 +1663,18 @@
       "id": "evt-2026-11-06-7c9de5",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T17:27:40+00:00",
-      "title_sv": "Russia steps up attacks on Izium, likely seeking to disrupt Ukrainian logistics along two front-line directions, ISW says",
+      "title_sv": "Ryssland intensifierar attackerna mot Izium och försöker sannolikt störa ukrainsk logistik längs två frontlinjer, säger ISW",
       "title_en": "Russia steps up attacks on Izium, likely seeking to disrupt Ukrainian logistics along two front-line directions, ISW says",
-      "summary_sv": "Russian forces attacked Izium at least seven times over a seven-day period between 29 October and 4 November.",
+      "summary_sv": "Ryska styrkor attackerade Izium minst sju gånger under en sjudagarsperiod mellan 29 oktober och 4 november.",
       "summary_en": "Russian forces attacked Izium at least seven times over a seven-day period between 29 October and 4 November.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "uk",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1737,17 +1777,17 @@
       "id": "evt-2026-11-06-160f19",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T17:18:10+00:00",
-      "title_sv": "Russia promised Trump diesel. Five of its tankers turned for Brazil, Africa, and the Mediterranean instead",
+      "title_sv": "Ryssland lovade Trump diesel. Fem av dess tankfartyg vände istället mot Brasilien, Afrika och Medelhavet",
       "title_en": "Russia promised Trump diesel. Five of its tankers turned for Brazil, Africa, and the Mediterranean instead",
-      "summary_sv": "Part of the fuel announced as relief for US prices before the vote is now looking for buyers far from American ports.",
+      "summary_sv": "En del av bränslet som annonserades som lättnad för amerikanska priser innan omröstningen söker nu köpare långt från amerikanska hamnar.",
       "summary_en": "Part of the fuel announced as relief for US prices before the vote is now looking for buyers far from American ports.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1775,9 +1815,9 @@
       "id": "evt-2026-11-06-3e19da",
       "date": "2026-11-06",
       "timestamp": "2026-11-06T16:53:56+00:00",
-      "title_sv": "About nine million abroad, millions under occupation, soldiers at the front: why Kyiv says the wartime vote Trump wants would be unfair",
+      "title_sv": "Cirka nio miljoner utomlands, miljoner under ockupation, soldater vid fronten: varför Kyjiv säger att den krigstidsröst Trump vill ha skulle vara orättvis",
       "title_en": "About nine million abroad, millions under occupation, soldiers at the front: why Kyiv says the wartime vote Trump wants would be unfair",
-      "summary_sv": "Ukraine's president listed whole groups of citizens who could not cast a ballot under martial law, then floated a digital way around it.",
+      "summary_sv": "Ukrainas president listade hela grupper av medborgare som inte kunde rösta enligt krigslagstiftningen och flöt sedan en digital väg runt det.",
       "summary_en": "Ukraine's president listed whole groups of citizens who could not cast a ballot under martial law, then floated a digital way around it.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
