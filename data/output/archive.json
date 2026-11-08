@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 4805,
-  "last_archived_rotation": "2026-11-08T14:34:21.619723+00:00",
+  "total_archived_events": 4807,
+  "last_archived_rotation": "2026-11-08T15:04:53.751399+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-07-ca6a23",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T16:58:00+02:00",
+      "title_sv": "Ryska styrkor attackerar Odesa och skadar bostadshus",
+      "title_en": "Russian forces attack Odesa, damaging residential house",
+      "summary_sv": "Ryska styrkor attackerade Odesa på eftermiddagen den 7 november och skadade ett bostadshus.",
+      "summary_en": "Russian forces attacked Odesa in the afternoon of November 7, damaging a residential house.",
+      "location_name": "Odesa",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182456-russian-forces-attack-odesa-damaging-residential-house.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Ukraina",
+        "Odesa"
+      ]
+    },
+    {
+      "id": "evt-2026-11-07-b0d85b",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T16:36:00+02:00",
+      "title_sv": "Private house damaged in Russian attack on Kyiv's Shevchenkivskyi district",
+      "title_en": "Private house damaged in Russian attack on Kyiv's Shevchenkivskyi district",
+      "summary_sv": "A private house was damaged in a Russian attack in Kyiv's Shevchenkivskyi district.",
+      "summary_en": "A private house was damaged in a Russian attack in Kyiv's Shevchenkivskyi district.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182452-private-house-damaged-in-russian-attack-on-kyivs-shevchenkivskyi-district.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-11-07-36402a",
       "date": "2026-11-07",
@@ -561,8 +638,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -583,11 +660,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare",
-        "Energi",
+        "Kyjiv",
         "Robotanfall",
-        "Kyjiv"
+        "Ukraina",
+        "Energi",
+        "Drönare"
       ]
     },
     {
@@ -681,8 +758,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -703,8 +780,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1599,10 +1676,10 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
-        "Infrastruktur",
-        "Robotanfall"
+        "Robotanfall",
+        "Kyjiv",
+        "Infrastruktur"
       ]
     },
     {
@@ -1770,8 +1847,8 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "ryssland",
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -1792,9 +1869,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Charkiv",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Charkiv"
       ]
     },
     {
@@ -1918,12 +1995,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
         "uk",
+        "kina",
         "usa",
+        "eu",
         "ryssland",
-        "kina"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1943,9 +2020,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Civila mål",
         "Ukraina",
+        "Civila mål",
+        "Kyjiv",
         "Robotanfall"
       ]
     },
