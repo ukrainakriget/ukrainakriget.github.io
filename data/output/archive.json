@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 4871,
-  "last_archived_rotation": "2026-11-09T11:02:51.552658+00:00",
+  "total_archived_events": 4873,
+  "last_archived_rotation": "2026-11-09T11:31:59.571692+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-112a48",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T13:23:00+02:00",
+      "title_sv": "Rysk attack sätter lastbilar och lager i brand på transportföretaget i Dnipro",
+      "title_en": "Russian attack sets trucks and warehouses ablaze at transport company in Dnipro",
+      "summary_sv": "Ryska styrkor har återigen träffat Dnipro och tänt lastbilar och lager i brand vid ett transportföretag.",
+      "summary_en": "Russian forces have again struck Dnipro, setting trucks and warehouses ablaze at a transport company.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182640-russian-attack-sets-trucks-and-warehouses-ablaze-at-transport-company-in-dnipro.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-08-acb9ae",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T13:05:00+02:00",
+      "title_sv": "Ryssland drabbas av rekordstora förluster varje vecka på över 16 000 soldater i början av november – Ukrainas generalstab",
+      "title_en": "Russia suffers record weekly losses of over 16,000 troops in early November – Ukraine’s General Staff",
+      "summary_sv": "Ryska styrkor förlorade 16 130 personal under den första veckan i november, den högsta siffran per vecka sedan starten av Rysslands fullskaliga invasion av Ukraina.",
+      "summary_en": "Russian forces lost 16,130 personnel in the first week of November, the highest weekly figure since the start of Russia’s full-scale invasion of Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182634-russia-suffers-record-weekly-losses-of-over-16000-troops-in-early-november-ukraines-general-staff.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-08-505023",
       "date": "2026-11-08",
@@ -1024,7 +1101,7 @@
       "timestamp": "2026-11-08T05:00:30+00:00",
       "title_sv": "Ukrainas nya gräns: hur rymden har blivit avgörande för att balansera kriget",
       "title_en": "Ukraine’s new frontier: how space has become critical to balance of the war",
-      "summary_sv": "I ett krig som drivs av drönare och slagfältssensorer är tillgång till rymden avgörande. Efter Starlinks hastighetsbegränsningar och ryska Oreshnik-missilattacker tävlar Kyjiv om att utveckla sin egen rymdkapacitet. För människor i den ryska industristaden Samara på stranden av Volga var detonationer de första de visste om den ukrainska attacken...",
+      "summary_sv": "I ett krig som drivs av drönare och slagfältssensorer är tillgång till rymden avgörande. Efter Starlinks hastighetsbegränsningar och ryska Oreshnik-missilattacker, tävlar Kyjiv om att utveckla sin egen rymdkapacitet.",
       "summary_en": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
@@ -1053,10 +1130,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina",
         "Robotanfall",
-        "Drönare"
+        "Ukraina",
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
@@ -1109,11 +1186,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "eu",
-        "ukraina",
         "usa",
-        "ryssland"
+        "eu",
+        "ryssland",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1133,10 +1210,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Robotanfall",
-        "Kyjiv",
         "Drönare",
+        "Ukraina",
+        "Kyjiv",
+        "Robotanfall",
         "Civila mål"
       ]
     },
