@@ -1,7 +1,87 @@
 {
-  "total_archived_events": 4905,
-  "last_archived_rotation": "2026-11-09T19:04:54.245835+00:00",
+  "total_archived_events": 4907,
+  "last_archived_rotation": "2026-11-09T19:34:46.936216+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-cf02e7",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T21:18:00+02:00",
+      "title_sv": "Russian forces strike residential building, hotel in Kremenchuk",
+      "title_en": "Russian forces strike residential building, hotel in Kremenchuk",
+      "summary_sv": "Russian forces launched drone strikes on Kremenchuk in the Poltava region, damaging a residential building and a hotel and sparking fires.",
+      "summary_en": "Russian forces launched drone strikes on Kremenchuk in the Poltava region, damaging a residential building and a hotel and sparking fires.",
+      "location_name": "Poltava",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182734-russian-forces-strike-residential-building-hotel-in-kremenchuk.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Drönare",
+        "Ukraina",
+        "Poltava"
+      ]
+    },
+    {
+      "id": "evt-2026-11-08-772558",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T21:10:00+02:00",
+      "title_sv": "Kushner ser till Nato-Rysslands råds modell för Europas efterkrigssäkerhet",
+      "title_en": "Kushner looks to NATO-Russia Council model for Europe’s postwar security",
+      "summary_sv": "USA:s president Donald Trumps särskilda representant och svärson Jared Kushner ser till Nato-Ryssland-rådet som en modell för bredare förhandlingar om Europas säkerhetsarrangemang efter kriget, rapporterade The Washington Post den 6 november.",
+      "summary_en": "U.S. President Donald Trump’s special representative and son-in-law Jared Kushner is looking to the NATO-Russia Council as a model for broader negotiations on Europe’s postwar security arrangements, The Washington Post reported on Nov. 6.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "eu",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/kushner-eyes-nato-russia-council-model-for-europe-s-postwar-security-washington-post-50657318.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-08-c05060",
       "date": "2026-11-08",
@@ -1833,8 +1913,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "uk",
         "usa"
       ],
