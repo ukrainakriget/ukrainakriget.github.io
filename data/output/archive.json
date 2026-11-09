@@ -1,7 +1,82 @@
 {
-  "total_archived_events": 4910,
-  "last_archived_rotation": "2026-11-09T20:31:44.269493+00:00",
+  "total_archived_events": 4912,
+  "last_archived_rotation": "2026-11-09T21:01:42.846957+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-bd7f6a",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T23:00:00+02:00",
+      "title_sv": "Schema för strömavbrott kommer att gälla i vissa ukrainska regioner på måndag",
+      "title_en": "Power outage schedules to be in effect in some Ukrainian regions on Monday",
+      "summary_sv": "Restriktioner för elförbrukning kommer att gälla i vissa regioner i Ukraina måndagen den 9 november.",
+      "summary_en": "Electricity consumption restrictions will be in effect in some regions of Ukraine on Monday, November 9.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4182749-power-outage-schedules-to-be-in-effect-in-some-ukrainian-regions-on-monday.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-08-6727a2",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T22:35:00+02:00",
+      "title_sv": "Skadetalet i ryska attacker mot Kremenchuk stiger till fyra",
+      "title_en": "Injury toll in Russian strikes on Kremenchuk rises to four",
+      "summary_sv": "Vid 21:30 var fyra personer kända för att ha skadats i ryska attacker mot staden Kremenchuk.",
+      "summary_en": "As of 21:30, four people were known to have been injured in Russian strikes on the city of Kremenchuk.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182743-injury-toll-in-russian-strikes-on-kremenchuk-rises-to-four.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-08-d474e8",
       "date": "2026-11-08",
@@ -2030,10 +2105,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "usa",
-        "ukraina"
+        "ryssland",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
