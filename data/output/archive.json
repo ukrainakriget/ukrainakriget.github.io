@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 4858,
-  "last_archived_rotation": "2026-11-09T08:02:09.468098+00:00",
+  "total_archived_events": 4859,
+  "last_archived_rotation": "2026-11-09T08:34:13.940664+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-066963",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T10:19:00+02:00",
+      "title_sv": "Krigsuppdatering: 199 stridsinsatser på frontlinjen under det senaste dygnet",
+      "title_en": "War update: 199 combat engagements on front line over past day",
+      "summary_sv": "Totalt har 199 stridsförhandlingar mellan den ukrainska försvarsstyrkan och ryska inkräktare registrerats längs frontlinjen under de senaste 24 timmarna.",
+      "summary_en": "A total of 199 combat engagements between the Ukrainian Defence Forces and Russian invaders were recorded along the front line over the past 24 hours.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182573-war-update-199-combat-engagements-on-front-line-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-08-165740",
       "date": "2026-11-08",
@@ -522,18 +560,18 @@
       "id": "evt-2026-11-08-3e7ef3",
       "date": "2026-11-08",
       "timestamp": "2026-11-08T05:00:30+00:00",
-      "title_sv": "Ukrainas nya gräns: hur rymden har blivit avgörande för att balansera kriget",
+      "title_sv": "Ukraine’s new frontier: how space has become critical to balance of the war",
       "title_en": "Ukraine’s new frontier: how space has become critical to balance of the war",
-      "summary_sv": "I ett krig som drivs av drönare och slagfältssensorer är tillgång till rymden avgörande. Efter Starlinks hastighetsbegränsningar och ryska Oreshnik-missilattacker, tävlar Kyjiv om att utveckla sin egen rymdkapacitet.",
+      "summary_sv": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations...",
       "summary_en": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -553,10 +591,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Drönare",
         "Kyjiv",
-        "Ukraina"
+        "Robotanfall",
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -601,18 +639,18 @@
       "id": "evt-2026-11-08-ba6133",
       "date": "2026-11-08",
       "timestamp": "2026-11-08T04:10:42+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Ryssland ökar attackerna för att \"pressa\" Kyjiv vid trilaterala samtal, säger Zelenskyy",
+      "title_sv": "Ukraine war briefing: Russia ramping up attacks to ‘pressure’ Kyiv at trilateral talks, Zelenskyy says",
       "title_en": "Ukraine war briefing: Russia ramping up attacks to ‘pressure’ Kyiv at trilateral talks, Zelenskyy says",
-      "summary_sv": "Presidenten uppmanar USA om stöd och säger att \"Ukraina får inte lämnas att möta detta ensamt\" när störtfloden kastar städer i mörker.",
+      "summary_sv": "President urges US for support, saying ‘Ukraine must not be left to face this alone’ as barrage plunges cities into darkness.",
       "summary_en": "President urges US for support, saying ‘Ukraine must not be left to face this alone’ as barrage plunges cities into darkness.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "ryssland",
         "ukraina",
+        "ryssland",
+        "usa",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -633,11 +671,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Civila mål",
-        "Kyjiv",
         "Drönare",
-        "Ukraina"
+        "Kyjiv",
+        "Robotanfall",
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -988,18 +1026,18 @@
       "id": "evt-2026-11-07-5a5710",
       "date": "2026-11-07",
       "timestamp": "2026-11-07T21:47:00+00:00",
-      "title_sv": "Rysk-ukrainska kriget, dag 1719: Ryssland gräver tunnlar på Chersons ockuperade bank medan Ukraina rullar ut större markrobotar",
+      "title_sv": "Russo-Ukrainian war, day 1719: Russia digs tunnels on Kherson’s occupied bank while Ukraine rolls out bigger ground robots",
       "title_en": "Russo-Ukrainian war, day 1719: Russia digs tunnels on Kherson’s occupied bank while Ukraine rolls out bigger ground robots",
-      "summary_sv": "Nära Huliaipole skickar 237:e obemannade systembataljonen tunga drönare mot enstaka pansarfordon som nu rycker undan billiga.",
+      "summary_sv": "Near Huliaipole, the 237th Unmanned Systems Battalion is sending heavy drones against single armored vehicles that now shrug off cheap ones.",
       "summary_en": "Near Huliaipole, the 237th Unmanned Systems Battalion is sending heavy drones against single armored vehicles that now shrug off cheap ones.",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1021,8 +1059,8 @@
       "tags": [
         "Robotanfall",
         "Cherson",
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1105,18 +1143,18 @@
       "id": "evt-2026-11-07-b02319",
       "date": "2026-11-07",
       "timestamp": "2026-11-07T21:16:47+00:00",
-      "title_sv": "Tunnlar och hybridattacker: Ryssland gräver in under Ukraina-kontrollerad himmel över 20-30 % av Khersons ockuperade bank, säger marinofficer",
+      "title_sv": "Tunnels and hybrid attacks: Russia digs in under Ukraine-controlled skies across 20-30% of Kherson’s occupied bank, marine officer says",
       "title_en": "Tunnels and hybrid attacks: Russia digs in under Ukraine-controlled skies across 20-30% of Kherson’s occupied bank, marine officer says",
-      "summary_sv": "Ryssland har gått från frontala attacker till ett \"hybrid\" positionskrig på Dnipro-banken.",
+      "summary_sv": "Russia has switched from frontal attacks to a “hybrid” positional war on the Dnipro bank.",
       "summary_en": "Russia has switched from frontal attacks to a “hybrid” positional war on the Dnipro bank.",
       "location_name": "Cherson",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1223,18 +1261,18 @@
       "id": "evt-2026-11-07-677632",
       "date": "2026-11-07",
       "timestamp": "2026-11-07T20:45:38+00:00",
-      "title_sv": "En bro stod mellan Rysslands pansarkolonner och Kyjiv 2022 - två ukrainska ingenjörer gav sina liv för att stoppa dem i en av krigets mest avgörande strider",
+      "title_sv": "One bridge stood between Russia’s armored columns and Kyiv in 2022 — two Ukrainian engineers gave their lives to stop them in one of war’s most crucial battles",
       "title_en": "One bridge stood between Russia’s armored columns and Kyiv in 2022 — two Ukrainian engineers gave their lives to stop them in one of war’s most crucial battles",
-      "summary_sv": "President Volodymyr Zelenskyy har postumt utnämnt löjtnant Zakhar Kvasnyi, 22, och juniorsergeant Roman Shymanskyi, 37, till Heroes of Ukraine.",
+      "summary_sv": "President Volodymyr Zelenskyy has posthumously named Lieutenant Zakhar Kvasnyi, 22, and Junior Sergeant Roman Shymanskyi, 37, Heroes of Ukraine.",
       "summary_en": "President Volodymyr Zelenskyy has posthumously named Lieutenant Zakhar Kvasnyi, 22, and Junior Sergeant Roman Shymanskyi, 37, Heroes of Ukraine.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "ryssland",
         "ukraina",
+        "ryssland",
+        "usa",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -1256,8 +1294,8 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
