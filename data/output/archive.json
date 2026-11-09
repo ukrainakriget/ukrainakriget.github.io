@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 4907,
-  "last_archived_rotation": "2026-11-09T19:34:46.936216+00:00",
+  "total_archived_events": 4908,
+  "last_archived_rotation": "2026-11-09T20:01:38.226433+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-5852b5",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T21:40:00+02:00",
+      "title_sv": "Russian forces launch massive attack on Odesa region’s energy infrastructure",
+      "title_en": "Russian forces launch massive attack on Odesa region’s energy infrastructure",
+      "summary_sv": "Russian forces launched a massive attack on energy infrastructure in the Odesa region, leaving part of the region without electricity.",
+      "summary_en": "Russian forces launched a massive attack on energy infrastructure in the Odesa region, leaving part of the region without electricity.",
+      "location_name": "Odesa",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182739-russian-forces-launch-massive-attack-on-odesa-regions-energy-infrastructure.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Odesa",
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-11-08-cf02e7",
       "date": "2026-11-08",
@@ -1913,10 +1952,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
         "uk",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
