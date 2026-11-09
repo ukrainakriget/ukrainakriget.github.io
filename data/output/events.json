@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-11-09T07:03:40.149866+00:00",
-  "total_active_events": 85,
+  "last_updated": "2026-11-09T07:13:02.899596+00:00",
+  "total_active_events": 86,
   "events": [
     {
       "id": "evt-2026-11-09-7ee167",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T09:00:00+02:00",
-      "title_sv": "Air defense neutralizes 271 of 317 Russian drones targeting Ukraine overnight",
+      "title_sv": "Luftförsvaret neutraliserar 271 av 317 ryska drönare mot Ukraina under natten",
       "title_en": "Air defense neutralizes 271 of 317 Russian drones targeting Ukraine overnight",
-      "summary_sv": "Ukraine's air defense forces neutralized 271 out of the 317 drones launched by Russian forces against Ukraine from the evening of November 8.",
+      "summary_sv": "Ukrainas luftförsvarsstyrkor neutraliserade 271 av de 317 drönare som avfyrats av ryska styrkor mot Ukraina från kvällen den 8 november.",
       "summary_en": "Ukraine's air defense forces neutralized 271 out of the 317 drones launched by Russian forces against Ukraine from the evening of November 8.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
-        "ryssland",
         "usa",
+        "ukraina",
+        "ryssland",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -38,27 +38,66 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Luftförsvar",
         "Drönare",
-        "Ukraina",
-        "Luftförsvar"
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-09-454252",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T09:00:00+02:00",
+      "title_sv": "Ryska drönare träffade bostadsområden i Khmelnytskyi och antände flera hem",
+      "title_en": "Russian drones hit residential areas in Khmelnytskyi, igniting multiple homes",
+      "summary_sv": "Ryska drönare träffade Khmelnytskyi över natten den 9 november, skadade bostadshus och satte eld på flera hem, rapporterade regionguvernör Serhii Tiurin.",
+      "summary_en": "Russian drones hit Khmelnytskyi overnight on November 9, damaging residential buildings and setting multiple homes on fire, Regional Governor Serhii Tiurin reported.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/overnight-russian-drone-strike-damages-homes-and-sparks-fires-in-khmelnytskyi-50657438.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Civila mål",
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-04c769",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:52:00+02:00",
-      "title_sv": "Russian forces strike residential area in Kremenchuk, seven injured",
+      "title_sv": "Ryska styrkor attackerar bostadsområde i Kremenchuk, sju skadade",
       "title_en": "Russian forces strike residential area in Kremenchuk, seven injured",
-      "summary_sv": "Seven people, including a 16-year-old, were injured in Russian attacks in the Poltava region.",
+      "summary_sv": "Sju personer, inklusive en 16-åring, skadades i ryska attacker i Poltava-regionen.",
       "summary_en": "Seven people, including a 16-year-old, were injured in Russian attacks in the Poltava region.",
       "location_name": "Poltava",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -78,18 +117,18 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
+        "Civila mål",
         "Poltava",
-        "Civila mål"
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-8a583d",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:51:00+02:00",
-      "title_sv": "Power grid connection restored at Zaporizhzhya nuclear plant following total blackout",
+      "title_sv": "Kraftnätsanslutningen återställd vid kärnkraftverket i Zaporizhzhya efter totalt strömavbrott",
       "title_en": "Power grid connection restored at Zaporizhzhya nuclear plant following total blackout",
-      "summary_sv": "The Zaporizhzhya Nuclear Power Plant restored its external power supply on the evening of November 8 after the 330 k V Ferrosplavnaya-1 transmission line was reconnected following a total blackout, Energoatom reported.",
+      "summary_sv": "Kärnkraftverket i Zaporizhzhya återställde sin externa strömförsörjning på kvällen den 8 november efter att 330 k V Ferrosplavnaya-1-överföringsledningen återanslutits efter ett totalt strömavbrott, rapporterade Energoatom.",
       "summary_en": "The Zaporizhzhya Nuclear Power Plant restored its external power supply on the evening of November 8 after the 330 k V Ferrosplavnaya-1 transmission line was reconnected following a total blackout, Energoatom reported.",
       "location_name": "Zaporizjzja",
       "tidshorisont": "dagligen",
@@ -115,26 +154,26 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Energi",
         "Zaporizjzja",
-        "Ukraina",
-        "Energi"
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-fdc293",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:41:00+02:00",
-      "title_sv": "Security guarantees are central to upcoming Ukraine peace talks — Rubio",
+      "title_sv": "Säkerhetsgarantier är centrala för kommande fredssamtal i Ukraina — Rubio",
       "title_en": "Security guarantees are central to upcoming Ukraine peace talks — Rubio",
-      "summary_sv": "Security guarantees for Ukraine remain a primary focus of upcoming peace talks in Abu Dhabi, U.S. Secretary of State Marco Rubio told DRM News on November 8.",
+      "summary_sv": "Säkerhetsgarantier för Ukraina förblir ett primärt fokus för kommande fredssamtal i Abu Dhabi, sa USA:s utrikesminister Marco Rubio till DRM News den 8 november.",
       "summary_en": "Security guarantees for Ukraine remain a primary focus of upcoming peace talks in Abu Dhabi, U.S. Secretary of State Marco Rubio told DRM News on November 8.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -161,17 +200,17 @@
       "id": "evt-2026-11-09-c648b2",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:37:00+02:00",
-      "title_sv": "Russian forces attack Dnipropetrovsk region nearly 20 times overnight, causing damage in five districts",
+      "title_sv": "Ryska styrkor attackerade Dnipropetrovsk-regionen nästan 20 gånger under natten och orsakade skador i fem distrikt",
       "title_en": "Russian forces attack Dnipropetrovsk region nearly 20 times overnight, causing damage in five districts",
-      "summary_sv": "Russian troops launched nearly 20 attacks on the Dnipropetrovsk region overnight, targeting five districts and causing damage.",
+      "summary_sv": "Ryska trupper inledde nästan 20 attacker mot Dnipropetrovsk-regionen under natten, riktade in sig på fem distrikt och orsakade skada.",
       "summary_en": "Russian troops launched nearly 20 attacks on the Dnipropetrovsk region overnight, targeting five districts and causing damage.",
       "location_name": "Dnipro",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -191,25 +230,25 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Dnipro"
+        "Dnipro",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-70f8e4",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:34:00+02:00",
-      "title_sv": "Moldova breaks free from Moscow gas blackmail",
+      "title_sv": "Moldavien bryter sig loss från Moskvas gasutpressning",
       "title_en": "Moldova breaks free from Moscow gas blackmail",
-      "summary_sv": "Moldova completed its total phaseout of Russian natural gas while launching a direct power interconnector to Romania, President Maia Sandu announced on Nov. 8.",
+      "summary_sv": "Moldavien slutförde sin totala utfasning av rysk naturgas samtidigt som man lanserade en direkt kraftförbindelse till Rumänien, meddelade president Maia Sandu den 8 november.",
       "summary_en": "Moldova completed its total phaseout of Russian natural gas while launching a direct power interconnector to Romania, President Maia Sandu announced on Nov. 8.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -237,18 +276,18 @@
       "id": "evt-2026-11-09-628bea",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:25:00+02:00",
-      "title_sv": "Germany's far-right AfD plots 2027 Ukraine war summit in UAE without Kyiv",
+      "title_sv": "Tysklands högerextrema AfD planerar krigstoppmötet i Ukraina 2027 i UAE utan Kyjiv",
       "title_en": "Germany's far-right AfD plots 2027 Ukraine war summit in UAE without Kyiv",
-      "summary_sv": "Germany's far-right Af D party plans to host a 2027 Ukraine peace summit in Abu Dhabi alongside the U.S. and Russia while excluding Kyiv, Bundestag lawmaker Markus Frohnmaier told Le Monde on Nov. 9.",
+      "summary_sv": "Tysklands högerextrema Af D-parti planerar att stå värd för ett fredstoppmöte i Ukraina 2027 i Abu Dhabi tillsammans med USA och Ryssland samtidigt som Kyjiv utesluts, sa förbundsdagens lagstiftare Markus Frohnmaier till Le Monde den 9 november.",
       "summary_en": "Germany's far-right Af D party plans to host a 2027 Ukraine peace summit in Abu Dhabi alongside the U.S. and Russia while excluding Kyiv, Bundestag lawmaker Markus Frohnmaier told Le Monde on Nov. 9.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -268,26 +307,26 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-ea6e00",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:15:00+02:00",
-      "title_sv": "Russian losses in Ukraine war rise by 2,980 over past day",
+      "title_sv": "Ryska förluster i kriget i Ukraina har ökat med 2 980 under det senaste dygnet",
       "title_en": "Russian losses in Ukraine war rise by 2,980 over past day",
-      "summary_sv": "The total combat losses of Russian forces in the war against Ukraine from February 24, 2022, to November 9, 2026, have reached approximately 1,609,380 personnel, including 2,980 troops killed or wounded over the past 24 hours.",
+      "summary_sv": "De totala stridsförlusterna av ryska styrkor i kriget mot Ukraina från 24 februari 2022 till 9 november 2026 har nått cirka 1 609 380 personal, inklusive 2 980 soldater dödade eller skadade under de senaste 24 timmarna.",
       "summary_en": "The total combat losses of Russian forces in the war against Ukraine from February 24, 2022, to November 9, 2026, have reached approximately 1,609,380 personnel, including 2,980 troops killed or wounded over the past 24 hours.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -314,18 +353,18 @@
       "id": "evt-2026-11-09-5ee389",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T08:14:00+02:00",
-      "title_sv": "Drones blast giant KINEF oil plant in Leningrad Oblast — video",
+      "title_sv": "Drönare spränger jätten KINEF-oljeanläggning i Leningrad oblast — video",
       "title_en": "Drones blast giant KINEF oil plant in Leningrad Oblast — video",
-      "summary_sv": "Ukrainian strike drones hit the KINEF oil refinery in Leningrad Oblast overnight, sparking an expansive blaze at one of Russia's largest fuel processing plants, monitoring channels reported on Nov. 9.",
+      "summary_sv": "Ukrainska attackdrönare träffade KINEF-oljeraffinaderiet i Leningrad oblast över natten och utlöste en expansiv brand i en av Rysslands största bränslebearbetningsanläggningar, rapporterade övervakningskanaler den 9 november.",
       "summary_en": "Ukrainian strike drones hit the KINEF oil refinery in Leningrad Oblast overnight, sparking an expansive blaze at one of Russia's largest fuel processing plants, monitoring channels reported on Nov. 9.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -354,17 +393,17 @@
       "id": "evt-2026-11-09-de65fe",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T07:54:00+02:00",
-      "title_sv": "Russian forces launch 819 attacks on Zaporizjzja region over past day, six injured",
+      "title_sv": "Ryska styrkor inledde 819 attacker mot Zaporizjzja-regionen under det senaste dygnet, sex skadade",
       "title_en": "Russian forces launch 819 attacks on Zaporizhzhia region over past day, six injured",
-      "summary_sv": "Russian troops launched 819 attacks on 52 settlements in the Zaporizjzja region over the past 24 hours. Six people, including a child, were injured in enemy attacks on the city of Zaporizjzja and the Zaporizjzja district.",
+      "summary_sv": "Ryska trupper inledde 819 attacker mot 52 bosättningar i Zaporizjzja-regionen under de senaste 24 timmarna. Sex personer, inklusive ett barn, skadades i fiendens attacker mot staden Zaporizjzja och Zaporizjzja-distriktet.",
       "summary_en": "Russian troops launched 819 attacks on 52 settlements in the Zaporizhzhia region over the past 24 hours. Six people, including a child, were injured in enemy attacks on the city of Zaporizhzhia and the Zaporizhzhia district.",
       "location_name": "Zaporizjzja",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -392,18 +431,18 @@
       "id": "evt-2026-11-09-c003fd",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T07:30:00+02:00",
-      "title_sv": "Russian drone hits private property in Poltava region, fire breaks out",
+      "title_sv": "Rysk drönare träffar privat egendom i Poltava-regionen, brand bryter ut",
       "title_en": "Russian drone hits private property in Poltava region, fire breaks out",
-      "summary_sv": "A fire broke out in the Kremenchuk district of the Poltava region after a Russian drone struck a private property.",
+      "summary_sv": "En brand bröt ut i Kremenchuk-distriktet i Poltava-regionen efter att en rysk drönare träffat en privat egendom.",
       "summary_en": "A fire broke out in the Kremenchuk district of the Poltava region after a Russian drone struck a private property.",
       "location_name": "Poltava",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -425,26 +464,26 @@
       "tags": [
         "Drönare",
         "Infrastruktur",
-        "Ukraina",
-        "Poltava"
+        "Poltava",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-10ec82",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T07:10:00+02:00",
-      "title_sv": "Estonian FM: Putin is the only one who can stop war, Ukraine must join NATO",
+      "title_sv": "Estlands FM: Putin är den ende som kan stoppa kriget, Ukraina måste gå med i Nato",
       "title_en": "Estonian FM: Putin is the only one who can stop war, Ukraine must join NATO",
-      "summary_sv": "Russian dictator Vladimir Putin is the only person who can stop the war against Ukraine, while achieving lasting peace requires Ukraine's full membership in NATO.",
+      "summary_sv": "Den ryske diktatorn Vladimir Putin är den ende som kan stoppa kriget mot Ukraina, samtidigt som att uppnå varaktig fred kräver Ukrainas fulla medlemskap i Nato.",
       "summary_en": "Russian dictator Vladimir Putin is the only person who can stop the war against Ukraine, while achieving lasting peace requires Ukraine's full membership in NATO.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -471,9 +510,9 @@
       "id": "evt-2026-11-09-87d318",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T06:43:00+02:00",
-      "title_sv": "Ukraine's 7th Air Assault Corps receives over 50 types of drones, 40 ground robotic systems this year",
+      "title_sv": "Ukrainas 7th Air Assault Corps tar emot över 50 typer av drönare, 40 markrobotsystem i år",
       "title_en": "Ukraine's 7th Air Assault Corps receives over 50 types of drones, 40 ground robotic systems this year",
-      "summary_sv": "Since the beginning of 2026, units within the 7th Air Assault Corps of the Ukrainian Armed Forces have expanded their range of unmanned systems and ground robotic systems. They have added more than 50 types of drones and over 40 types of ground robotic systems to their arsenal.",
+      "summary_sv": "Sedan början av 2026 har enheter inom den ukrainska försvarsmaktens sjunde luftanfallskår utökat sitt utbud av obemannade system och markrobotsystem. De har lagt till mer än 50 typer av drönare och över 40 typer av markrobotsystem till sin arsenal.",
       "summary_en": "Since the beginning of 2026, units within the 7th Air Assault Corps of the Ukrainian Armed Forces have expanded their range of unmanned systems and ground robotic systems. They have added more than 50 types of drones and over 40 types of ground robotic systems to their arsenal.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -509,17 +548,17 @@
       "id": "evt-2026-11-09-3f0820",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T06:26:00+02:00",
-      "title_sv": "Three injured in Russian strike on Balakliia",
+      "title_sv": "Tre skadade i rysk attack mot Balakliia",
       "title_en": "Three injured in Russian strike on Balakliia",
-      "summary_sv": "Russian forces struck the city of Balakliia in the Charkiv region yesterday evening, injuring three people.",
+      "summary_sv": "Ryska styrkor slog i går kväll staden Balakliia i Charkiv-regionen och skadade tre personer.",
       "summary_en": "Russian forces struck the city of Balakliia in the Kharkiv region yesterday evening, injuring three people.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -548,17 +587,17 @@
       "date": "2026-11-09",
       "timestamp": "2026-11-09T06:17:48+01:00",
       "title_sv": "Trump: Sannolikt möte med Putin och Xi",
-      "title_en": "Trump: Sannolikt möte med Putin och Xi",
+      "title_en": "Trump: Likely meeting with Putin and Xi",
       "summary_sv": "USA:s president Donald Trump uppger att han ”sannolikt” kommer att möta både Vladimir Putin och Xi Jinping i Kina nästa vecka. – Vi kommer ta upp många saker. Vi försöker få ett slut på kriget i Iran, säger Trump.",
-      "summary_en": "USA:s president Donald Trump uppger att han ”sannolikt” kommer att möta både Vladimir Putin och Xi Jinping i Kina nästa vecka. – Vi kommer ta upp många saker. Vi försöker få ett slut på kriget i Iran, säger Trump.",
+      "summary_en": "US President Donald Trump states that he will \"probably\" meet both Vladimir Putin and Xi Jinping in China next week. - We will address many things. We are trying to end the war in Iran, says Trump.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "kina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -585,17 +624,17 @@
       "id": "evt-2026-11-09-5307ec",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T05:52:00+02:00",
-      "title_sv": "Schools in Zhytomyr without heating after Russian attack to switch to remote learning",
+      "title_sv": "Skolor i Zhytomyr utan uppvärmning efter rysk attack för att byta till distansutbildning",
       "title_en": "Schools in Zhytomyr without heating after Russian attack to switch to remote learning",
-      "summary_sv": "Schools in Zhytomyr that lost heating following a Russian strike on a boiler house will temporarily switch to remote learning.",
+      "summary_sv": "Skolor i Zhytomyr som tappade uppvärmning efter en rysk attack mot ett pannhus kommer tillfälligt att gå över till distansutbildning.",
       "summary_en": "Schools in Zhytomyr that lost heating following a Russian strike on a boiler house will temporarily switch to remote learning.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -615,17 +654,17 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-dd2831",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T04:37:00+02:00",
-      "title_sv": "Serbia's new parliament to hold its first session on November 17",
+      "title_sv": "Serbiens nya parlament kommer att hålla sin första session den 17 november",
       "title_en": "Serbia's new parliament to hold its first session on November 17",
-      "summary_sv": "The first session of Serbia's new parliament, which will be dominated by the Student List party following its victory in last month's election, is scheduled for November 17.",
+      "summary_sv": "Den första sessionen i Serbiens nya parlament, som kommer att domineras av partiet Studentlista efter dess seger i förra månadens val, är planerad till den 17 november.",
       "summary_en": "The first session of Serbia's new parliament, which will be dominated by the Student List party following its victory in last month's election, is scheduled for November 17.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -658,9 +697,9 @@
       "id": "evt-2026-11-09-91c8b0",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T03:32:00+02:00",
-      "title_sv": "Temperatures of up to -9°C forecast in Ukraine on Monday",
+      "title_sv": "Temperaturer på upp till -9°C prognos i Ukraina på måndag",
       "title_en": "Temperatures of up to -9°C forecast in Ukraine on Monday",
-      "summary_sv": "On Monday, November 9, Ukraine is expected to have cloudy skies with sunny intervals and no precipitation.",
+      "summary_sv": "Måndagen den 9 november väntas Ukraina få molnig himmel med soliga mellanrum och ingen nederbörd.",
       "summary_en": "On Monday, November 9, Ukraine is expected to have cloudy skies with sunny intervals and no precipitation.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -694,17 +733,17 @@
       "id": "evt-2026-11-09-810dde",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T02:34:00+02:00",
-      "title_sv": "Trump pitches UFC chief White House press role, proposes Russian fighters as aides",
+      "title_sv": "Trump ställer upp UFC-chefen Vita husets pressroll och föreslår ryska fighters som medarbetare",
       "title_en": "Trump pitches UFC chief White House press role, proposes Russian fighters as aides",
-      "summary_sv": "U.S. President Donald Trump said he had offered Ultimate Fighting Championship (UFC) President Dana White the job of White House press secretary and asked him to recruit several prominent mixed martial arts fighters as aides, Trump wrote on his Truth Social platform on Nov. 7.",
+      "summary_sv": "USA:s president Donald Trump sa att han hade erbjudit Ultimate Fighting Championship (UFC) president Dana White jobbet som Vita husets pressekreterare och bad honom att rekrytera flera framstående blandade kampsportskämpar som medarbetare, skrev Trump på sin Truth Social-plattform den 7 november.",
       "summary_en": "U.S. President Donald Trump said he had offered Ultimate Fighting Championship (UFC) President Dana White the job of White House press secretary and asked him to recruit several prominent mixed martial arts fighters as aides, Trump wrote on his Truth Social platform on Nov. 7.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -731,9 +770,9 @@
       "id": "evt-2026-11-09-382435",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T02:28:00+02:00",
-      "title_sv": "Average age of mobilized recruits joining Ukraine’s Air Assault forces is 35–44",
+      "title_sv": "Medelåldern för mobiliserade rekryter som går med i Ukrainas luftanfallsstyrkor är 35–44",
       "title_en": "Average age of mobilized recruits joining Ukraine’s Air Assault forces is 35–44",
-      "summary_sv": "The average age of mobilized personnel joining the Ukrainian Air Assault Forces is currently 35–44.",
+      "summary_sv": "Medelåldern för mobiliserad personal som går med i de ukrainska luftanfallsstyrkorna är för närvarande 35–44 år.",
       "summary_en": "The average age of mobilized personnel joining the Ukrainian Air Assault Forces is currently 35–44.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -767,17 +806,17 @@
       "id": "evt-2026-11-09-1e354e",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T01:49:00+02:00",
-      "title_sv": "Russian intel operative Jan Marsalek claimed role in downfall of Austria’s Sebastian Kurz — The Telegraph",
+      "title_sv": "Den ryske underrättelsetjänstemannen Jan Marsalek hävdade roll i undergången av Österrikes Sebastian Kurz - The Telegraph",
       "title_en": "Russian intel operative Jan Marsalek claimed role in downfall of Austria’s Sebastian Kurz — The Telegraph",
-      "summary_sv": "Fugitive former Wirecard chief operating officer Jan Marsalek claimed he took part in an operation that helped “successfully topple” Austrian Chancellor Sebastian Kurz, who resigned in 2021 amid corruption allegations, The Telegraph reported on Nov. 7, citing documents obtained by the newspaper.",
+      "summary_sv": "Den flyktige före detta Wirecard-chefen Jan Marsalek hävdade att han deltog i en operation som hjälpte till att \"framgångsrikt störta\" Österrikes förbundskansler Sebastian Kurz, som avgick 2021 på grund av korruptionsanklagelser, rapporterade The Telegraph den 7 november, med hänvisning till dokument som tidningen tagit fram.",
       "summary_en": "Fugitive former Wirecard chief operating officer Jan Marsalek claimed he took part in an operation that helped “successfully topple” Austrian Chancellor Sebastian Kurz, who resigned in 2021 amid corruption allegations, The Telegraph reported on Nov. 7, citing documents obtained by the newspaper.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -805,18 +844,18 @@
       "id": "evt-2026-11-09-ce3350",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T01:44:46+00:00",
-      "title_sv": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "title_sv": "Krigsbriefing i Ukraina: efterkrigstidens \"säkerhetsgarantier\" ett nyckelfokus i kommande Abu Dhabi-samtal, säger Rubio",
       "title_en": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
-      "summary_sv": "US secretary of state says some progress made on what security infrastructure could look like in Ukraine and Europe after the war.",
+      "summary_sv": "USA:s utrikesminister säger att vissa framsteg gjorts när det gäller hur säkerhetsinfrastrukturen skulle kunna se ut i Ukraina och Europa efter kriget.",
       "summary_en": "US secretary of state says some progress made on what security infrastructure could look like in Ukraine and Europe after the war.",
       "location_name": "Odesa",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
-        "ryssland",
         "usa",
+        "ukraina",
+        "ryssland",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -837,19 +876,19 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina",
+        "Civila mål",
         "Odesa",
-        "Civila mål"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-09-11adc4",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T01:32:00+02:00",
-      "title_sv": "Ukraine’s Air Assault Forces adapt Western combat tactics and training methods to battlefield needs",
+      "title_sv": "Ukrainas luftanfallsstyrkor anpassar västerländska stridstaktiker och träningsmetoder till slagfältets behov",
       "title_en": "Ukraine’s Air Assault Forces adapt Western combat tactics and training methods to battlefield needs",
-      "summary_sv": "The training of servicemen in the Ukrainian Air Assault Forces incorporates practices adopted from partner countries, particularly tactics for combat in urban and wooded areas and methods of instruction.",
+      "summary_sv": "Utbildningen av militärer i de ukrainska luftanfallsstyrkorna innefattar praxis som antagits från partnerländer, särskilt taktik för strid i stads- och skogsområden och instruktionsmetoder.",
       "summary_en": "The training of servicemen in the Ukrainian Air Assault Forces incorporates practices adopted from partner countries, particularly tactics for combat in urban and wooded areas and methods of instruction.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -884,17 +923,17 @@
       "id": "evt-2026-11-09-16786a",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T00:55:00+02:00",
-      "title_sv": "SBU staff reportedly ordered to pay up to 150,000 hryvnias toward general’s bail",
+      "title_sv": "SBU-personal ska enligt uppgift beordras att betala upp till 150 000 hryvnias mot generalens borgen",
       "title_en": "SBU staff reportedly ordered to pay up to 150,000 hryvnias toward general’s bail",
-      "summary_sv": "Regional employees of Ukraine’s SBU Security Service are being required to contribute money toward bail for General Serhii Duka, who is suspected of involvement in a criminal organization in the Carthage case, Ukrainska Pravda reported, citing a law enforcement source.",
+      "summary_sv": "Regionala anställda vid Ukrainas säkerhetstjänst SBU måste bidra med pengar till borgen för general Serhii Duka, som misstänks för inblandning i en kriminell organisation i Kartago-fallet, rapporterade Ukrainska Pravda, med hänvisning till en brottsbekämpande källa.",
       "summary_en": "Regional employees of Ukraine’s SBU Security Service are being required to contribute money toward bail for General Serhii Duka, who is suspected of involvement in a criminal organization in the Carthage case, Ukrainska Pravda reported, citing a law enforcement source.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -922,9 +961,9 @@
       "id": "evt-2026-11-09-3134ec",
       "date": "2026-11-09",
       "timestamp": "2026-11-09T00:38:00+02:00",
-      "title_sv": "Another stage of search operations completed in Puzhnyky, no mass grave found",
+      "title_sv": "Ytterligare ett steg av sökoperationer avslutades i Puzhnyky, ingen massgrav hittades",
       "title_en": "Another stage of search operations completed in Puzhnyky, no mass grave found",
-      "summary_sv": "A team of Ukrainian and Polish specialists has completed another stage of searches for the remains of people killed during World War II in the former village of Puzhnyky in the Ternopil region.",
+      "summary_sv": "Ett team av ukrainska och polska specialister har avslutat ytterligare ett steg av sökningar efter kvarlevorna av människor som dödats under andra världskriget i den före detta byn Puzhnyky i Ternopil-regionen.",
       "summary_en": "A team of Ukrainian and Polish specialists has completed another stage of searches for the remains of people killed during World War II in the former village of Puzhnyky in the Ternopil region.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -994,18 +1033,18 @@
       "id": "evt-2026-11-08-dd4960",
       "date": "2026-11-08",
       "timestamp": "2026-11-08T23:48:00+02:00",
-      "title_sv": "France to represent Europe at U.S.-mediated Ukraine-Russia talks in Abu Dhabi — Barrot",
+      "title_sv": "Frankrike ska representera Europa vid USA-förmedlade samtal mellan Ukraina och Ryssland i Abu Dhabi - Barrot",
       "title_en": "France to represent Europe at U.S.-mediated Ukraine-Russia talks in Abu Dhabi — Barrot",
-      "summary_sv": "French Foreign Minister Jean-Noël Barrot said Europe will be represented at the upcoming talks in Abu Dhabi, despite the negotiations being planned as a trilateral meeting between Ukraine, the United States and Russia. Barrot made the remarks in an interview with RTL radio on Nov. 8.",
+      "summary_sv": "Frankrikes utrikesminister Jean-Noël Barrot sa att Europa kommer att vara representerat vid de kommande samtalen i Abu Dhabi, trots att förhandlingarna planeras som ett trilateralt möte mellan Ukraina, USA och Ryssland. Barrot uttalade sig i en intervju med RTL-radio den 8 november.",
       "summary_en": "French Foreign Minister Jean-Noël Barrot said Europe will be represented at the upcoming talks in Abu Dhabi, despite the negotiations being planned as a trilateral meeting between Ukraine, the United States and Russia. Barrot made the remarks in an interview with RTL radio on Nov. 8.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
-        "ryssland",
         "usa",
+        "ukraina",
+        "ryssland",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -1148,15 +1187,15 @@
       "timestamp": "2026-11-08T22:29:00+02:00",
       "title_sv": "Tyskland tar slut på Patriots leveranskapacitet, vilket utesluter fler system för Ukraina",
       "title_en": "Germany exhausts Patriot supply capacity, ruling out more systems for Ukraine",
-      "summary_sv": "Germany can no longer provide Ukraine with additional Patriot air defense systems because it has exhausted the resources available for such deliveries, German Defense Minister Boris Pistorius said on Nov. 7, as quoted by Focus.",
+      "summary_sv": "Tyskland kan inte längre förse Ukraina med ytterligare Patriot-luftförsvarssystem eftersom det har uttömt de tillgängliga resurserna för sådana leveranser, sade Tysklands försvarsminister Boris Pistorius den 7 november, enligt Focus.",
       "summary_en": "Germany can no longer provide Ukraine with additional Patriot air defense systems because it has exhausted the resources available for such deliveries, German Defense Minister Boris Pistorius said on Nov. 7, as quoted by Focus.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1176,8 +1215,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Luftförsvar"
+        "Luftförsvar",
+        "Ukraina"
       ]
     },
     {
@@ -1312,10 +1351,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "eu",
-        "ryssland",
-        "usa"
+        "usa",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1422,17 +1461,17 @@
       "id": "evt-2026-11-08-9de273",
       "date": "2026-11-08",
       "timestamp": "2026-11-08T20:19:00+02:00",
-      "title_sv": "IIHF adds Russia to 2027 World Junior Championship, pushing Norway out of top division",
+      "title_sv": "IIHF lägger till Ryssland till 2027 års världsmästerskap för juniorer, vilket driver Norge ur högsta divisionen",
       "title_en": "IIHF adds Russia to 2027 World Junior Championship, pushing Norway out of top division",
-      "summary_sv": "The International Ice Hockey Federation (IIHF) has included Russia among the participants in the 2027 World Junior Hockey Championship (U20), displacing Norway from the elite division and relegating it to Division IA, the Norwegian Ice Hockey Federation (NIHF) reported.",
+      "summary_sv": "Internationella ishockeyförbundet (IIHF) har inkluderat Ryssland bland deltagarna i 2027 års världsmästerskap i hockey (U20), vilket förskjuter Norge från elitdivisionen och degraderar det till division IA, rapporterade norska ishockeyförbundet (NIHF).",
       "summary_en": "The International Ice Hockey Federation (IIHF) has included Russia among the participants in the 2027 World Junior Hockey Championship (U20), displacing Norway from the elite division and relegating it to Division IA, the Norwegian Ice Hockey Federation (NIHF) reported.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1538,16 +1577,16 @@
       "timestamp": "2026-11-08T19:30:00+02:00",
       "title_sv": "Ryssland omdirigerar tackjärnsexporten genom arktisk hamn efter ukrainska attacker - FT",
       "title_en": "Russia reroutes pig iron exports through Arctic port after Ukrainian strikes — FT",
-      "summary_sv": "Russia has resumed exporting pig iron through the Arctic port of Murmansk for the first time in 30 years, seeking to offset disruptions to Black Sea shipping caused by Ukrainian strikes, the Financial Times reported, citing port data.",
+      "summary_sv": "Ryssland har återupptagit exporten av tackjärn genom den arktiska hamnen Murmansk för första gången på 30 år, i syfte att kompensera för störningar i Svarta havets sjöfart orsakade av ukrainska attacker, rapporterade Financial Times, med hänvisning till hamndata.",
       "summary_en": "Russia has resumed exporting pig iron through the Arctic port of Murmansk for the first time in 30 years, seeking to offset disruptions to Black Sea shipping caused by Ukrainian strikes, the Financial Times reported, citing port data.",
       "location_name": "Svarta havet",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1567,8 +1606,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Svarta",
+        "Infrastruktur",
         "Ukraina"
       ]
     },
@@ -1654,18 +1693,18 @@
       "id": "evt-2026-11-08-96a113",
       "date": "2026-11-08",
       "timestamp": "2026-11-08T18:38:00+02:00",
-      "title_sv": "Ukraine tests near-space missile defenses to counter Russia’s Oreshnik — The Guardian",
+      "title_sv": "Ukraina testar nästan rymdmissilförsvar för att motverka Rysslands Oreshnik - The Guardian",
       "title_en": "Ukraine tests near-space missile defenses to counter Russia’s Oreshnik — The Guardian",
-      "summary_sv": "Ukraine has conducted at least three tests of systems designed to intercept missiles in near space, primarily to counter the threat posed by Russia’s Oreshnik missiles, The Guardian reported on Nov. 8.",
+      "summary_sv": "Ukraina har genomfört minst tre tester av system utformade för att avlyssna missiler i nära rymden, främst för att motverka hotet från Rysslands Oreshnik-missiler, rapporterade The Guardian den 8 november.",
       "summary_en": "Ukraine has conducted at least three tests of systems designed to intercept missiles in near space, primarily to counter the threat posed by Russia’s Oreshnik missiles, The Guardian reported on Nov. 8.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1685,8 +1724,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Robotanfall",
+        "Infrastruktur",
         "Ukraina"
       ]
     },
@@ -2202,7 +2241,7 @@
       "id": "evt-2026-11-08-930f72",
       "date": "2026-11-08",
       "timestamp": "2026-11-08T14:44:44+00:00",
-      "title_sv": "Russia cuts power to more than 600,000 in Dnipropetrovsk Oblast as Zelenskyy says the strikes aim to squeeze Ukraine before talks",
+      "title_sv": "Ryssland skär ner strömmen till mer än 600 000 i Dnipropetrovsk oblast när Zelenskyy säger att attackerna syftar till att pressa Ukraina innan samtalen",
       "title_en": "Russia cuts power to more than 600,000 in Dnipropetrovsk Oblast as Zelenskyy says the strikes aim to squeeze Ukraine before talks",
       "summary_sv": "Ryssland slår kraft och värme över hela Ukraina med vinterveckor borta, och Kyjiv säger att Moskva behandlar diplomati som ytterligare ett sätt att attackera.",
       "summary_en": "Russia is hitting power and heat across Ukraine with winter weeks away, and Kyiv says Moscow treats diplomacy as one more way to attack.",
@@ -2210,10 +2249,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2234,8 +2273,8 @@
       "arkiverad": false,
       "tags": [
         "Energi",
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -2250,9 +2289,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2399,10 +2438,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -2423,8 +2462,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -2554,9 +2593,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2576,10 +2615,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Krym",
         "Drönare",
         "Infrastruktur",
-        "Ukraina",
-        "Krym"
+        "Ukraina"
       ]
     },
     {
@@ -2790,10 +2829,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3170,10 +3209,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
         "ryssland",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
