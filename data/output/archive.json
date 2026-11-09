@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 4901,
-  "last_archived_rotation": "2026-11-09T18:01:36.538371+00:00",
+  "total_archived_events": 4903,
+  "last_archived_rotation": "2026-11-09T18:32:03.233532+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-9de273",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T20:19:00+02:00",
+      "title_sv": "IIHF lägger till Ryssland till 2027 års världsmästerskap för juniorer, vilket driver Norge ur högsta divisionen",
+      "title_en": "IIHF adds Russia to 2027 World Junior Championship, pushing Norway out of top division",
+      "summary_sv": "Internationella ishockeyförbundet (IIHF) har inkluderat Ryssland bland deltagarna i 2027 års världsmästerskap i juniorhockey (U20), vilket har förskjutit Norge från elitdivisionen och degraderat till division IA, rapporterade norska ishockeyförbundet (NIHF).",
+      "summary_en": "The International Ice Hockey Federation (IIHF) has included Russia among the participants in the 2027 World Junior Hockey Championship (U20), displacing Norway from the elite division and relegating it to Division IA, the Norwegian Ice Hockey Federation (NIHF) reported.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/iihf-adds-russia-to-2027-world-junior-championship-relegating-norway-to-division-ia-50657342.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-08-a4a480",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T20:10:00+02:00",
+      "title_sv": "Ryska styrkor attackerar Charkivs Kyivskyi-distrikt igen och skadar en person",
+      "title_en": "Russian forces attack Kharkiv’s Kyivskyi district again, injuring one person",
+      "summary_sv": "En person ådrog sig explosionsskador i en upprepad attack mot Kyivskyi-distriktet i Charkiv.",
+      "summary_en": "One person sustained blast injuries in a repeat attack on the Kyivskyi district of Kharkiv.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182724-russian-forces-attack-kharkivs-kyivskyi-district-again-injuring-one-person.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-08-c2930d",
       "date": "2026-11-08",
@@ -1678,10 +1754,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "ryssland",
-        "usa"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
