@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 4870,
-  "last_archived_rotation": "2026-11-09T10:31:27.237679+00:00",
+  "total_archived_events": 4871,
+  "last_archived_rotation": "2026-11-09T11:02:51.552658+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-505023",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T12:45:00+02:00",
+      "title_sv": "Zelensky: Ryssland avfyrar 115 missiler, nästan 1 900 guidade bomber, över 3 000 drönare mot Ukraina på en vecka",
+      "title_en": "Zelensky: Russia launches 115 missiles, nearly 1,900 guided bombs, over 3,000 drones at Ukraine in a week",
+      "summary_sv": "Under den senaste veckan har Ryssland avfyrat 115 missiler av olika slag, nästan 1 900 guidade flygbomber och mer än 3 000 attackdrönare mot Ukraina. Om Ukraina inte kan få antiballistiska missiler från sina partner måste EU anta ett starkt 22:a sanktionspaket.",
+      "summary_en": "Over the past week, Russia launched 115 missiles of various types, nearly 1,900 guided aerial bombs and more than 3,000 attack drones at Ukraine. If Ukraine cannot obtain anti-ballistic missiles from its partners, the EU needs to adopt a strong 22nd sanctions package.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "eu",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182632-zelensky-russia-launches-115-missiles-nearly-1900-guided-bombs-over-3000-drones-at-ukraine-in-a-week.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Robotanfall"
+      ]
+    },
     {
       "id": "evt-2026-11-08-ba0642",
       "date": "2026-11-08",
@@ -473,8 +514,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -983,15 +1024,15 @@
       "timestamp": "2026-11-08T05:00:30+00:00",
       "title_sv": "Ukrainas nya gräns: hur rymden har blivit avgörande för att balansera kriget",
       "title_en": "Ukraine’s new frontier: how space has become critical to balance of the war",
-      "summary_sv": "I ett krig som drivs av drönare och slagfältssensorer är tillgång till rymden avgörande. Efter Starlinks hastighetsbegränsningar och ryska Oreshnik-missilattacker, tävlar Kyjiv om att utveckla sin egen rymdkapacitet.",
+      "summary_sv": "I ett krig som drivs av drönare och slagfältssensorer är tillgång till rymden avgörande. Efter Starlinks hastighetsbegränsningar och ryska Oreshnik-missilattacker tävlar Kyjiv om att utveckla sin egen rymdkapacitet. För människor i den ryska industristaden Samara på stranden av Volga var detonationer de första de visste om den ukrainska attacken...",
       "summary_en": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -1012,10 +1053,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Kyjiv",
         "Ukraina",
         "Robotanfall",
-        "Drönare",
-        "Kyjiv"
+        "Drönare"
       ]
     },
     {
@@ -1068,11 +1109,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "ryssland",
         "uk",
-        "ukraina"
+        "eu",
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1092,11 +1133,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
         "Ukraina",
+        "Robotanfall",
         "Kyjiv",
         "Drönare",
-        "Robotanfall"
+        "Civila mål"
       ]
     },
     {
