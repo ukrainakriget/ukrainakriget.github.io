@@ -1,7 +1,87 @@
 {
-  "total_archived_events": 4898,
-  "last_archived_rotation": "2026-11-09T17:02:53.617287+00:00",
+  "total_archived_events": 4900,
+  "last_archived_rotation": "2026-11-09T17:31:39.555363+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-b12d23",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T19:30:00+02:00",
+      "title_sv": "Ryssland omdirigerar tackjärnsexporten genom arktisk hamn efter ukrainska attacker - FT",
+      "title_en": "Russia reroutes pig iron exports through Arctic port after Ukrainian strikes — FT",
+      "summary_sv": "Ryssland har återupptagit exporten av tackjärn genom den arktiska hamnen Murmansk för första gången på 30 år, i syfte att kompensera för störningar i Svarta havets sjöfart orsakade av ukrainska attacker, rapporterade Financial Times, med hänvisning till hamndata.",
+      "summary_en": "Russia has resumed exporting pig iron through the Arctic port of Murmansk for the first time in 30 years, seeking to offset disruptions to Black Sea shipping caused by Ukrainian strikes, the Financial Times reported, citing port data.",
+      "location_name": "Svarta havet",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ukrainas_granser",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russia-reroutes-pig-iron-exports-to-arctic-murmansk-after-ukrainian-black-sea-strikes-ft-50657312.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Svarta",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-08-b88037",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T19:27:00+02:00",
+      "title_sv": "Medborgare i sex länder bland offren för terrorattacken i Kraków",
+      "title_en": "Citizens of six countries among victims of terrorist attack in Kraków",
+      "summary_sv": "Medborgare i sex länder – Polen, Storbritannien, Portugal, Ryssland, Tyskland och Österrike – dödades eller skadades i lördagens terrorattack i centrala Kraków.",
+      "summary_en": "Citizens of six countries — Poland, the United Kingdom, Portugal, Russia, Germany and Austria — were killed or injured in Saturday's terrorist attack in central Kraków.",
+      "location_name": "Polen & västra gränsen",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "eu",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-crime/4182716-citizens-of-six-countries-among-victims-of-terrorist-attack-in-krakow.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Polen"
+      ]
+    },
     {
       "id": "evt-2026-11-08-93fbfb",
       "date": "2026-11-08",
@@ -1560,10 +1640,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "uk",
-        "usa"
+        "usa",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
