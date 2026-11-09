@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 4876,
-  "last_archived_rotation": "2026-11-09T12:01:41.430089+00:00",
+  "total_archived_events": 4878,
+  "last_archived_rotation": "2026-11-09T12:32:05.938738+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-08-bdd5b7",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T14:20:00+02:00",
+      "title_sv": "Tyskland kan inte förse Ukraina med fler Patriot-system, säger Pistorius",
+      "title_en": "Germany cannot supply Ukraine with more Patriot systems, Pistorius says",
+      "summary_sv": "Tyskland kan för närvarande inte förse Ukraina med ytterligare Patriot-luftförsvarssystem, eftersom det skulle försvaga Tysklands eget försvar.",
+      "summary_en": "Germany is currently unable to provide Ukraine with additional Patriot air defense systems, as doing so would weaken Germany’s own defenses.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4182656-germany-cannot-supply-ukraine-with-more-patriot-systems-pistorius-says.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Luftförsvar"
+      ]
+    },
     {
       "id": "evt-2026-11-08-2612f5",
       "date": "2026-11-08",
@@ -348,6 +386,45 @@
         "Robotanfall",
         "Infrastruktur",
         "Luftförsvar"
+      ]
+    },
+    {
+      "id": "evt-2026-11-08-161ec9",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T12:05:24+00:00",
+      "title_sv": "Ett regemente om dagen: Ryssland förlorade 16 130 soldater på en vecka, dess värsta vecka i kriget av Ukrainas greve",
+      "title_en": "A regiment a day: Russia lost 16,130 troops in a week, its worst week of the war by Ukraine’s count",
+      "summary_sv": "Ukrainas militär säger att ryska befälhavare fortsätter att skicka infanteri till frontala attacker, och den dagliga tullavgiften har slagit rekord två gånger på två veckor.",
+      "summary_en": "Ukraine’s military says Russian commanders keep sending infantry into frontal assaults, and the daily toll has broken records twice in two weeks.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/08/a-regiment-a-day-russia-lost-16130-troops-in-a-week-its-worst-week-of-the-war-by-ukraines-count/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -703,10 +780,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "uk",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1220,10 +1297,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "uk",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1243,10 +1320,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
         "Drönare",
-        "Robotanfall"
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
@@ -1299,11 +1376,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
+        "uk",
         "ukraina",
         "eu",
         "ryssland",
-        "usa",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1323,11 +1400,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Ukraina",
         "Civila mål",
         "Robotanfall",
         "Kyjiv",
-        "Ukraina"
+        "Drönare"
       ]
     },
     {
