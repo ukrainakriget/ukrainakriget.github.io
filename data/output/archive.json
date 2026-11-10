@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 5049,
-  "last_archived_rotation": "2026-11-10T21:02:20.906501+00:00",
+  "total_archived_events": 5050,
+  "last_archived_rotation": "2026-11-10T21:32:14.143781+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-09-72ac53",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T23:28:00+02:00",
+      "title_sv": "Krigsuppdatering: 148 sammandrabbningar på frontlinjen sedan morgonen",
+      "title_en": "War update: 148 clashes on front line since morning",
+      "summary_sv": "Närmare 150 stridsinsatser har ägt rum längs frontlinjen. Ukrainska försvarsstyrkor har slagit tillbaka mer än 20 ryska attacker mot Pokrovsk- och Kostiantynivka-fronterna.",
+      "summary_en": "Nearly 150 combat engagements have taken place along the front line. Ukrainian Defense Forces have repelled more than 20 Russian attacks on the Pokrovsk and Kostiantynivka fronts.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "avvardad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4183122-war-update-148-clashes-on-front-line-since-morning.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Pokrovsk",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-09-29de93",
       "date": "2026-11-09",
@@ -865,9 +904,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2022,9 +2061,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2250,11 +2289,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ukraina",
         "ryssland",
-        "uk",
-        "usa"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2274,10 +2313,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
+        "Infrastruktur",
         "Polen",
-        "Ukraina",
-        "Infrastruktur"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
