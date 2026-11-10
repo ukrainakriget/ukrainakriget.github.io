@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 5044,
-  "last_archived_rotation": "2026-11-10T20:02:10.392964+00:00",
+  "total_archived_events": 5046,
+  "last_archived_rotation": "2026-11-10T20:32:14.830405+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-09-80bba2",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T22:19:00+02:00",
+      "title_sv": "Russians attack energy facilities in Cherkasy region",
+      "title_en": "Russians attack energy facilities in Cherkasy region",
+      "summary_sv": "Some consumers in the Uman and Zvenyhorodka districts of the Cherkasy region have been left without electricity following a Russian attack.",
+      "summary_en": "Some consumers in the Uman and Zvenyhorodka districts of the Cherkasy region have been left without electricity following a Russian attack.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4183112-russians-attack-energy-facilities-in-cherkasy-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-11-09-0aea3b",
       "date": "2026-11-09",
@@ -272,6 +310,46 @@
       "tags": [
         "Infrastruktur",
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-09-3af6d6",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T20:28:18+00:00",
+      "title_sv": "Ryssland förvandlar drönarflyg till en sport för barn och ungdomar i ockuperade Luhansk oblast. Dess Putin-stödda mästerskap tar barn från 7 år",
+      "title_en": "Russia turns drone flying into a sport for kids and young people in occupied Luhansk Oblast. Its Putin-backed championship takes children from age 7",
+      "summary_sv": "ISW säger att utbildning för drönarprogrammering syftar till att normalisera militärtjänsten som en karriärväg för ukrainska ungdomar och förbereda dem för militärtjänst.",
+      "summary_en": "ISW says drone programming training aims to normalize military service as a career path for Ukrainian youth and prepare them for army service.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/09/russia-involves-children-from-occupied-ukraine-in-drone-competitions/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Infrastruktur"
       ]
     },
     {
@@ -671,8 +749,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1826,10 +1904,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "uk",
-        "usa"
+        "ukraina",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2055,11 +2133,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland",
         "uk",
-        "eu"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2080,9 +2158,9 @@
       "arkiverad": true,
       "tags": [
         "Polen",
+        "Ukraina",
         "Robotanfall",
-        "Infrastruktur",
-        "Ukraina"
+        "Infrastruktur"
       ]
     },
     {
