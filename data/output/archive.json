@@ -1,7 +1,48 @@
 {
-  "total_archived_events": 5053,
-  "last_archived_rotation": "2026-11-10T22:01:54.100713+00:00",
+  "total_archived_events": 5055,
+  "last_archived_rotation": "2026-11-10T22:32:05.277031+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-10-7bb6cb",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T00:29:00+02:00",
+      "title_sv": "U.S. sees Kyiv and Moscow being ‘flexible’ on territorial issues — report",
+      "title_en": "U.S. sees Kyiv and Moscow being ‘flexible’ on territorial issues — report",
+      "summary_sv": "Ukraine and Russia are privately showing “some flexibility” over a possible exchange of territory, a U.S. official told reporters at a briefing ahead of talks in Abu Dhabi, Reuters reported on Nov. 9.",
+      "summary_en": "Ukraine and Russia are privately showing “some flexibility” over a possible exchange of territory, a U.S. official told reporters at a briefing ahead of talks in Abu Dhabi, Reuters reported on Nov. 9.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "usa",
+        "eu",
+        "uk",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/u-s-sees-kyiv-and-moscow-being-flexible-on-territorial-issues-50657747.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-09-557549",
       "date": "2026-11-09",
@@ -265,6 +306,44 @@
       "tags": [
         "Ukraina",
         "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-09-9a3c96",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T22:08:09+00:00",
+      "title_sv": "Ukraine asked 1,616 soldiers what breaks them on front line. Top answer has nothing to do with Russian fire",
+      "title_en": "Ukraine asked 1,616 soldiers what breaks them on front line. Top answer has nothing to do with Russian fire",
+      "summary_sv": "Most Ukrainian soldiers stay effective in a frontline position for about a month, but a shortage of rotations leaves many there far longer.",
+      "summary_en": "Most Ukrainian soldiers stay effective in a frontline position for about a month, but a shortage of rotations leaves many there far longer.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/10/ukraine-asked-1616-soldiers-what-breaks-them-on-front-line-top-answer-has-nothing-to-do-with-russian-fire/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
       ]
     },
     {
@@ -1015,9 +1094,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ryssland",
-        "ukraina",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2171,10 +2250,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2401,10 +2480,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ryssland",
-        "usa",
-        "ukraina",
         "uk",
-        "eu"
+        "eu",
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2424,10 +2503,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Robotanfall",
         "Ukraina",
-        "Polen",
         "Infrastruktur",
-        "Robotanfall"
+        "Polen"
       ]
     },
     {
