@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 5038,
-  "last_archived_rotation": "2026-11-10T18:35:11.448671+00:00",
+  "total_archived_events": 5040,
+  "last_archived_rotation": "2026-11-10T19:05:28.558302+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-09-f356fd",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T21:00:00+02:00",
+      "title_sv": "Ryska attacker utlöser strömavbrott i delar av Dnipro och Kamianske",
+      "title_en": "Russian attacks trigger power outages in parts of Dnipro and Kamianske",
+      "summary_sv": "Delar av Dnipro och Kamianske i Dnipropetrovsk-regionen har lämnats utan ström till följd av ryska attacker.",
+      "summary_en": "Parts of Dnipro and Kamianske in the Dnipropetrovsk region have been left without electricity as a result of Russian attacks.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4183083-russian-attacks-trigger-power-outages-in-parts-of-dnipro-and-kamianske.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Dnipro",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-09-ef9614",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T20:40:00+02:00",
+      "title_sv": "Budanov: Humanitarian issues to be major focus of Abu Dhabi talks",
+      "title_en": "Budanov: Humanitarian issues to be major focus of Abu Dhabi talks",
+      "summary_sv": "Head of the Office of the President of Ukraine Kyrylo Budanov has departed for Abu Dhabi as part of the Ukrainian delegation to take part in the talks.",
+      "summary_en": "Head of the Office of the President of Ukraine Kyrylo Budanov has departed for Abu Dhabi as part of the Ukrainian delegation to take part in the talks.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4183080-budanov-humanitarian-issues-to-be-major-focus-of-abu-dhabi-talks.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-09-580b74",
       "date": "2026-11-09",
@@ -438,9 +514,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1594,10 +1670,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1825,8 +1901,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "eu",
         "uk",
+        "eu",
         "usa"
       ],
       "syfte": {
@@ -1847,10 +1923,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
-        "Polen",
-        "Robotanfall"
+        "Ukraina",
+        "Robotanfall",
+        "Polen"
       ]
     },
     {
@@ -4148,9 +4224,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
