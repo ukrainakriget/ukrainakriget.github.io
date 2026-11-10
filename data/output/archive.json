@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 5030,
-  "last_archived_rotation": "2026-11-10T17:19:16.335127+00:00",
+  "total_archived_events": 5032,
+  "last_archived_rotation": "2026-11-10T17:31:47.459130+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-09-ad7b66",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T19:20:00+02:00",
+      "title_sv": "Ukraine's USF strike Russian Solntsepyok heavy flamethrower system in occupied Donetsk region",
+      "title_en": "Ukraine's USF strike Russian Solntsepyok heavy flamethrower system in occupied Donetsk region",
+      "summary_sv": "Operators of the 413th Raid Regiment of the Unmanned Systems Forces of the Armed Forces of Ukraine struck a Russian TOS-1A Solntsepyok heavy flamethrower system in the temporarily occupied part of the Donetsk region.",
+      "summary_en": "Operators of the 413th Raid Regiment of the Unmanned Systems Forces of the Armed Forces of Ukraine struck a Russian TOS-1A Solntsepyok heavy flamethrower system in the temporarily occupied part of the Donetsk region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4183053-ukraines-usf-strike-russian-solntsepyok-heavy-flamethrower-system-in-occupied-donetsk-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-09-3792b6",
       "date": "2026-11-09",
@@ -414,6 +452,43 @@
       "effekt_maluppfyllnad": "delvis",
       "kalla": "The New Voice of Ukraine",
       "kallurl": "https://english.nv.ua/nation/ukraine-s-parliament-advances-space-forces-bill-in-first-reading-with-252-votes-50657648.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-09-8451a5",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T17:25:34+00:00",
+      "title_sv": "Germany threatens to block EU’s next budget unless all 27 states help close Ukraine’s 70-billion-euro funding gap",
+      "title_en": "Germany threatens to block EU’s next budget unless all 27 states help close Ukraine’s 70-billion-euro funding gap",
+      "summary_sv": "Germany’s Chancellor Merz says he will block the EU’s 2028-2034 budget unless all 27 states fund Ukraine.",
+      "summary_en": "Germany’s Chancellor Merz says he will block the EU’s 2028-2034 budget unless all 27 states fund Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/09/germany-threatens-to-block-eus-next-budget-unless-all-27-states-help-close-ukraines-70-billion-euro-funding-gap/",
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
@@ -1289,10 +1364,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1518,11 +1593,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
-        "uk",
+        "ukraina",
         "eu",
-        "ukraina"
+        "uk",
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1542,10 +1617,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Polen",
         "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Infrastruktur",
+        "Polen"
       ]
     },
     {
@@ -3843,9 +3918,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
