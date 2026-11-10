@@ -1,7 +1,88 @@
 {
-  "total_archived_events": 4952,
-  "last_archived_rotation": "2026-11-10T09:05:23.544252+00:00",
+  "total_archived_events": 4954,
+  "last_archived_rotation": "2026-11-10T09:35:08.960508+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-09-8f22ac",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T11:19:00+02:00",
+      "title_sv": "Russian drone strike injures three energy workers in Sumy region",
+      "title_en": "Russian drone strike injures three energy workers in Sumy region",
+      "summary_sv": "Three energy workers have been injured in a Russian drone strike in the Sumy region.",
+      "summary_en": "Three energy workers have been injured in a Russian drone strike in the Sumy region.",
+      "location_name": "Sumy",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4182837-russian-drone-strike-injures-three-energy-workers-in-sumy-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Sumy",
+        "Drönare",
+        "Energi",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-09-a0b693",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T11:14:00+02:00",
+      "title_sv": "Ryska drönare träffade bostadshus och hotell i Kremenchuk och skadade flera personer",
+      "title_en": "Russian drones hit apartment building and hotel in Kremenchuk, injuring several people",
+      "summary_sv": "Ryssland slog ett hotell och ett bostadshus i staden Kremenchuk med drönare och startade bränder på båda nedslagsplatserna på kvällen den 8 november, rapporterade Poltava oblasts guvernör Vitaliy Diakivnych.",
+      "summary_en": "Russia struck a hotel and an apartment building in the city of Kremenchuk with drones, starting fires at both impact sites on the evening of Nov. 8, Poltava Oblast governor Vitaliy Diakivnych reported.",
+      "location_name": "Poltava",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/drone-attack-on-kremenchuk-fires-break-out-in-hotel-and-apartment-building-50657491.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Ukraina",
+        "Drönare",
+        "Poltava"
+      ]
+    },
     {
       "id": "evt-2026-11-09-b1c1fc",
       "date": "2026-11-09",
@@ -826,9 +907,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "uk",
         "ryssland",
-        "ukraina",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1277,9 +1358,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "eu",
-        "ukraina",
         "uk",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
