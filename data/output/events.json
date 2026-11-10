@@ -1,7 +1,82 @@
 {
-  "last_updated": "2026-11-10T08:35:28.918966+00:00",
-  "total_active_events": 145,
+  "last_updated": "2026-11-10T08:55:13.667713+00:00",
+  "total_active_events": 147,
   "events": [
+    {
+      "id": "evt-2026-11-10-6865a1",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T10:36:00+02:00",
+      "title_sv": "Drone attack kills two in Ladyzhyn",
+      "title_en": "Drone attack kills two in Ladyzhyn",
+      "summary_sv": "Two people have been killed and civilian infrastructure has been damaged in a drone attack on Ladyzhyn in the Vinnytsia Region.",
+      "summary_en": "Two people have been killed and civilian infrastructure has been damaged in a drone attack on Ladyzhyn in the Vinnytsia Region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4183224-drone-attack-kills-two-in-ladyzhyn.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Civila mål",
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-10-df6a71",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T10:33:00+02:00",
+      "title_sv": "Zelenskyy open to meeting Putin anywhere in the world except Moscow — Melnyk",
+      "title_en": "Zelenskyy open to meeting Putin anywhere in the world except Moscow — Melnyk",
+      "summary_sv": "Ukrainian President Volodymyr Zelenskyy is willing to meet with Russian dictator Vladimir Putin anywhere in the world except Moscow, UN Ambassador Andrii Melnyk announced during a Security Council meeting on November 9, according to Novyny.Live.",
+      "summary_en": "Ukrainian President Volodymyr Zelenskyy is willing to meet with Russian dictator Vladimir Putin anywhere in the world except Moscow, UN Ambassador Andrii Melnyk announced during a Security Council meeting on November 9, according to Novyny.Live.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/ukraine-un-envoy-says-zelenskyy-ready-to-meet-putin-anywhere-but-moscow-50657818.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-10-dcd583",
       "date": "2026-11-10",
@@ -111,8 +186,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -164,8 +239,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -191,7 +266,7 @@
     {
       "id": "evt-2026-11-10-c6d2a5",
       "date": "2026-11-10",
-      "timestamp": "2026-11-10T10:06:20+02:00",
+      "timestamp": "2026-11-10T10:06:00+02:00",
       "title_sv": "Migratory birds found dead following explosions in Odesa region",
       "title_en": "Migratory birds found dead following explosions in Odesa region",
       "summary_sv": "Song thrushes migrating south have been found dead near the Tuzly Lagoons National Nature Park in the Odesa Region following powerful explosions.",
@@ -222,14 +297,52 @@
       "arkiverad": false,
       "tags": [
         "Energi",
+        "Odesa",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-10-792edf",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T09:58:00+02:00",
+      "title_sv": "Russian diesel tanker heading to U.S. slows by half and misses expected New York arrival",
+      "title_en": "Russian diesel tanker heading to U.S. slows by half and misses expected New York arrival",
+      "summary_sv": "The Agioi Fanendes tanker carrying Russian diesel to the United States slowed to nearly half its late-October speed and missed its expected Nov. 7 arrival in New York, independent Russian outlet Agentstvo reported, citing ship-tracking data on Nov. 9.",
+      "summary_en": "The Agioi Fanendes tanker carrying Russian diesel to the United States slowed to nearly half its late-October speed and missed its expected Nov. 7 arrival in New York, independent Russian outlet Agentstvo reported, citing ship-tracking data on Nov. 9.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russian-diesel-tanker-slows-misses-new-york-arrival-50657802.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
         "Ukraina",
-        "Odesa"
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-10-af2ac6",
       "date": "2026-11-10",
-      "timestamp": "2026-11-10T09:54:51+02:00",
+      "timestamp": "2026-11-10T09:54:00+02:00",
       "title_sv": "Russian drone strikes commuter train in Sumy",
       "title_en": "Russian drone strikes commuter train in Sumy",
       "summary_sv": "A Russian drone struck a commuter train at a railway station in Sumy. No casualties were reported.",
@@ -260,16 +373,16 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Drönare",
+        "Sumy",
         "Ukraina",
-        "Sumy"
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-10-3b60d7",
       "date": "2026-11-10",
-      "timestamp": "2026-11-10T09:45:07+02:00",
+      "timestamp": "2026-11-10T09:45:00+02:00",
       "title_sv": "US urges Russia to give Europe a seat at the table in Ukraine peace talks – Politico",
       "title_en": "US urges Russia to give Europe a seat at the table in Ukraine peace talks – Politico",
       "summary_sv": "US presidential envoys are urging Russia to agree to European participation in the next round of negotiations aimed at ending the war in Ukraine.",
@@ -278,10 +391,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -385,7 +498,7 @@
     {
       "id": "evt-2026-11-10-8b7722",
       "date": "2026-11-10",
-      "timestamp": "2026-11-10T09:27:29+02:00",
+      "timestamp": "2026-11-10T09:27:00+02:00",
       "title_sv": "Russia strikes retail facility in Kropyvnytskyi",
       "title_en": "Russia strikes retail facility in Kropyvnytskyi",
       "summary_sv": "Russian forces struck civilian infrastructure in Kropyvnytskyi.",
@@ -453,8 +566,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Svarta",
-        "Ukraina"
+        "Ukraina",
+        "Svarta"
       ]
     },
     {
@@ -491,8 +604,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -529,8 +642,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -584,10 +697,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -608,8 +721,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Energi",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -648,8 +761,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -686,8 +799,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Sumy"
+        "Sumy",
+        "Ukraina"
       ]
     },
     {
@@ -702,10 +815,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -727,8 +840,8 @@
       "arkiverad": false,
       "tags": [
         "Luftförsvar",
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -858,8 +971,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -916,8 +1029,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Zaporizjzja",
-        "Ukraina"
+        "Ukraina",
+        "Zaporizjzja"
       ]
     },
     {
@@ -933,8 +1046,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1120,10 +1233,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1259,8 +1372,8 @@
       "arkiverad": false,
       "tags": [
         "Civila mål",
-        "Ukraina",
-        "Dnipro"
+        "Dnipro",
+        "Ukraina"
       ]
     },
     {
@@ -1275,10 +1388,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1299,8 +1412,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1390,10 +1503,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1414,11 +1527,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Robotanfall",
         "Drönare",
+        "Ukraina",
         "Civila mål",
-        "Ukraina"
+        "Kyjiv",
+        "Robotanfall"
       ]
     },
     {
@@ -1932,10 +2045,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1956,8 +2069,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2228,9 +2341,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -3067,8 +3180,8 @@
       "arkiverad": false,
       "tags": [
         "Civila mål",
-        "Ukraina",
-        "Odesa"
+        "Odesa",
+        "Ukraina"
       ]
     },
     {
@@ -3455,10 +3568,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Zaporizjzja",
         "Civila mål",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Zaporizjzja"
       ]
     },
     {
@@ -3610,8 +3723,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -3727,9 +3840,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -3958,8 +4071,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -4014,10 +4127,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -4039,9 +4152,9 @@
       "arkiverad": false,
       "tags": [
         "Polen",
-        "Infrastruktur",
+        "Ukraina",
         "Robotanfall",
-        "Ukraina"
+        "Infrastruktur"
       ]
     },
     {
@@ -4157,8 +4270,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -4287,10 +4400,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -4804,8 +4917,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -5473,45 +5586,6 @@
       "tags": [
         "Ukraina",
         "Polen"
-      ]
-    },
-    {
-      "id": "evt-2026-11-09-ad4543",
-      "date": "2026-11-09",
-      "timestamp": "2026-11-09T10:39:00+02:00",
-      "title_sv": "Ukrainian Navy shifts Neptune missile use to target Russia’s defense industry, spox says",
-      "title_en": "Ukrainian Navy shifts Neptune missile use to target Russia’s defense industry, spox says",
-      "summary_sv": "The Ukrainian Navy has redirected its experience with the Neptune missile system towards striking ground-based targets belonging to Russia’s military-industrial complex.",
-      "summary_en": "The Ukrainian Navy has redirected its experience with the Neptune missile system towards striking ground-based targets belonging to Russia’s military-industrial complex.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "usa",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4182815-ukrainian-navy-shifts-neptune-missile-use-to-target-russias-defense-industry-spox-says.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Robotanfall",
-        "Ukraina"
       ]
     },
     {
