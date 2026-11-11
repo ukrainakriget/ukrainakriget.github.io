@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 5097,
-  "last_archived_rotation": "2026-11-11T08:35:41.238558+00:00",
+  "total_archived_events": 5098,
+  "last_archived_rotation": "2026-11-11T09:05:47.336161+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-10-6865a1",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T10:36:00+02:00",
+      "title_sv": "Droneattack dödar två i Ladyzhyn",
+      "title_en": "Drone attack kills two in Ladyzhyn",
+      "summary_sv": "Två personer har dödats och civil infrastruktur har skadats i en drönarattack mot Ladyzhyn i Vinnytsia-regionen.",
+      "summary_en": "Two people have been killed and civilian infrastructure has been damaged in a drone attack on Ladyzhyn in the Vinnytsia Region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4183224-drone-attack-kills-two-in-ladyzhyn.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-11-10-df6a71",
       "date": "2026-11-10",
@@ -1354,11 +1391,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
-        "eu",
-        "usa",
         "uk",
-        "ryssland"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1469,11 +1506,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "ryssland",
         "ukraina",
-        "eu",
-        "usa",
         "uk",
-        "ryssland"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1494,10 +1531,10 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Civila mål",
         "Kyjiv",
-        "Robotanfall"
+        "Drönare",
+        "Robotanfall",
+        "Civila mål"
       ]
     },
     {
