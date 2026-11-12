@@ -1,7 +1,44 @@
 {
-  "last_updated": "2026-11-12T21:31:37.032914+00:00",
+  "last_updated": "2026-11-12T22:02:49.977177+00:00",
   "total_active_events": 128,
   "events": [
+    {
+      "id": "evt-2026-11-12-e96a4f",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T23:25:00+02:00",
+      "title_sv": "Fyra dödade, sex skadade i ryska attacker mot Kramatorsk",
+      "title_en": "Four killed, six injured in Russian strikes on Kramatorsk",
+      "summary_sv": "Fyra personer dödades och sex andra skadades i ryska attacker mot Kramatorsk, Donetsk-regionen, den 12 november.",
+      "summary_en": "Four people were killed and six others injured in Russian strikes on Kramatorsk, Donetsk region, on November 12.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184107-four-killed-six-injured-in-russian-strikes-on-kramatorsk.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-12-a71c42",
       "date": "2026-11-12",
@@ -14,10 +51,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "ryssland",
-        "ukraina",
-        "usa"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -37,8 +74,47 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-12-0e1eec",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T23:00:00+02:00",
+      "title_sv": "Zelensky diskuterar starkare stöd för Ukraina med partners i Dublin",
+      "title_en": "Zelensky discusses stronger support for Ukraine with partners in Dublin",
+      "summary_sv": "Ukrainas president Volodymyr Zelensky diskuterade sätt att stärka militärt, energimässigt och ekonomiskt stöd till Ukraina, samt säkerhetsgarantier, med internationella partner under ett multilateralt möte med Ukrainas vänner i Dublin, mitt i fortsatta ryska attacker.",
+      "summary_en": "Ukrainian President Volodymyr Zelensky discussed ways to strengthen military, energy and financial support for Ukraine, as well as security guarantees, with international partners during a multilateral meeting of Ukraine's friends in Dublin, amid continued Russian attacks.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4184106-zelensky-discusses-stronger-support-for-ukraine-with-partners-in-dublin.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
         "Ukraina",
-        "Infrastruktur"
+        "Energi"
       ]
     },
     {
@@ -54,8 +130,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -130,8 +206,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -160,15 +236,15 @@
       "timestamp": "2026-11-12T22:10:00+02:00",
       "title_sv": "Ryssland riktar in sig på energi- och värmeanläggningar i Bila Tserkva med drönare",
       "title_en": "Russia targets energy and heating facilities in Bila Tserkva with drones",
-      "summary_sv": "Ryska drönare har träffat anläggningar i Bila Tserkva-samhället i Kyjiv-regionen, inriktade på energi- och värmeinfrastruktur.",
+      "summary_sv": "Ryska drönare har träffat anläggningar i Bila Tserkva-samhället i Kyjiv-regionen, inriktade på energi- och uppvärmningsinfrastruktur.",
       "summary_en": "Russian drones have struck facilities in the Bila Tserkva community in the Kyiv region, targeting energy and heating infrastructure.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -189,9 +265,9 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Energi",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Energi"
       ]
     },
     {
@@ -207,8 +283,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -246,8 +322,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -283,8 +359,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -319,10 +395,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "uk",
-        "ukraina",
-        "usa"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -342,8 +418,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -360,8 +436,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -382,8 +458,8 @@
       "arkiverad": false,
       "tags": [
         "Cherson",
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -398,11 +474,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -437,11 +513,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -478,8 +554,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -500,8 +576,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -516,10 +592,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "ryssland",
-        "ukraina",
-        "usa"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -539,8 +615,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -555,11 +631,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -580,9 +656,9 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Drönare",
         "Ukraina",
-        "Luftförsvar"
+        "Luftförsvar",
+        "Drönare"
       ]
     },
     {
@@ -599,8 +675,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -620,8 +696,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -636,10 +712,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "uk",
-        "ukraina",
-        "usa"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -659,8 +735,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -677,8 +753,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -716,8 +792,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -754,8 +830,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -775,8 +851,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -791,11 +867,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -815,8 +891,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -832,8 +908,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -860,7 +936,7 @@
       "id": "evt-2026-11-12-7b7139",
       "date": "2026-11-12",
       "timestamp": "2026-11-12T19:10:00+02:00",
-      "title_sv": "Ukraina försöker engagera fler medlare i ansträngningarna att ta tillbaka barn från Ryssland och TOT – Betsa",
+      "title_sv": "Ukraina försöker engagera fler medlare i ansträngningarna att få tillbaka barn från Ryssland och TOT – Betsa",
       "title_en": "Ukraine seeking to engage more mediators in efforts to bring children back from Russia and TOT – Betsa",
       "summary_sv": "Ukraina hoppas att USA:s första dam Melania Trump kommer att fortsätta att delta i ansträngningarna att få tillbaka barn som deporterats eller tvångsförflyttats av Ryssland och försöker involvera fler medlare i processen.",
       "summary_en": "Ukraine hopes that U.S. First Lady Melania Trump will continue to take part in efforts to bring back children deported or forcibly transferred by Russia and is seeking to involve more mediators in the process.",
@@ -870,8 +946,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -891,8 +967,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -909,8 +985,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -946,8 +1022,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -983,10 +1059,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "ryssland",
-        "ukraina",
-        "usa"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1006,8 +1082,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1016,14 +1092,14 @@
       "timestamp": "2026-11-12T18:29:00+02:00",
       "title_sv": "Finland kommer att anslå över 37 miljoner euro för Ukrainas återuppbyggnad",
       "title_en": "Finland to allocate over EUR 37M for Ukraine’s reconstruction",
-      "summary_sv": "Finlands utrikesministerium anslår 37,3 miljoner euro för att stödja Ukrainas återuppbyggnad under programmet Strategic Investment and Support for Ukraine (SISU).",
+      "summary_sv": "Finlands utrikesministerium anslår 37,3 miljoner euro för att stödja Ukrainas återuppbyggnad inom ramen för programmet Strategic Investment and Support for Ukraine (SISU).",
       "summary_en": "Finland’s Ministry for Foreign Affairs is allocating €37.3 million to support Ukraine’s reconstruction under the Strategic Investment and Support for Ukraine (SISU) program.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "uk",
+        "eu",
         "ukraina"
       ],
       "syfte": {
@@ -1044,8 +1120,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1062,8 +1138,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1100,8 +1176,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1130,17 +1206,17 @@
       "timestamp": "2026-11-12T18:08:00+02:00",
       "title_sv": "Zelensky, Tusk diskuterar Ukrainas förberedelser inför vintern, frontlinjen och diplomatin",
       "title_en": "Zelensky, Tusk discuss Ukraine’s preparations for winter, front line and diplomacy",
-      "summary_sv": "President Volodymyr Zelensky diskuterade Polens hjälp med att förbereda Ukraina för vintern, diplomatiska ansträngningar, situationen vid frontlinjen och ryska attacker under ett möte med Polens premiärminister Donald Tusk vid sidan av Europeiska politiska gemenskapens toppmöte i Dublin.",
+      "summary_sv": "President Volodymyr Zelensky diskuterade Polens hjälp med att förbereda Ukraina för vintern, diplomatiska ansträngningar, situationen vid frontlinjen och ryska attacker under ett möte med Polens premiärminister Donald Tusk vid sidan av toppmötet för Europeiska politiska gemenskapen i Dublin.",
       "summary_en": "President Volodymyr Zelensky discussed Poland’s assistance in preparing Ukraine for winter, diplomatic efforts, the situation on the front line and Russian strikes during a meeting with Polish Prime Minister Donald Tusk on the sidelines of the European Political Community summit in Dublin.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1160,15 +1236,15 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Polen",
-        "Ukraina"
+        "Ukraina",
+        "Polen"
       ]
     },
     {
       "id": "evt-2026-11-12-3f660e",
       "date": "2026-11-12",
       "timestamp": "2026-11-12T18:00:00+02:00",
-      "title_sv": "Finland spärrar ryska idrottare, inklusive neutrala tävlande, från den 16 november",
+      "title_sv": "Finland spärrar ryska idrottare, inklusive neutrala konkurrenter, från den 16 november",
       "title_en": "Finland to bar Russian athletes, including neutral competitors, from Nov. 16",
       "summary_sv": "Finland skärper inträdesrestriktioner för ryska medborgare, inklusive professionella idrottare, även de som tävlar under neutral status, enligt ett tillkännagivande på det finska utrikesministeriets webbplats.",
       "summary_en": "Finland is tightening entry restrictions on Russian citizens, including professional athletes, even those competing under neutral status, according to an announcement on the Finnish Ministry for Foreign Affairs website.",
@@ -1176,10 +1252,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "ryssland",
-        "ukraina",
-        "usa"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1216,8 +1292,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1238,8 +1314,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1254,11 +1330,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1278,8 +1354,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1342,8 +1418,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1438,15 +1514,15 @@
       "kallkategori": "Svensk Public Service",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
       "id": "evt-2026-11-12-042299",
       "date": "2026-11-12",
       "timestamp": "2026-11-12T17:17:55+00:00",
-      "title_sv": "Nya samtal med Ryssland, Ukraina och europeiska länder kom överens, säger USA - när det hände",
+      "title_sv": "Nya samtal med Ryssland, Ukraina och europeiska länder kom överens, säger USA - som det hände",
       "title_en": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
       "summary_sv": "Den här bloggen är nu stängd Luxemburgs premiärminister Luc Frieden ser ut att vara helt nöjd över att representera alla tre Beneluxländerna vid dagens toppmöte, eftersom hans belgiska och holländska kollegor är för upptagna för att delta eftersom de står inför inhemska kriser.",
       "summary_en": "This blog is now closed Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises.“I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a...",
@@ -1454,11 +1530,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2258,8 +2334,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2297,8 +2373,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2319,9 +2395,9 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Drönare",
         "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Drönare"
       ]
     },
     {
@@ -2883,8 +2959,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2905,8 +2981,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -3073,8 +3149,8 @@
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "uk",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3094,8 +3170,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -3104,15 +3180,15 @@
       "timestamp": "2026-11-12T12:40:04+00:00",
       "title_sv": "Trump lovade amerikanerna rysk diesel. Ryssland fördubblade sin export, och inget av det gick till USA",
       "title_en": "Trump promised Americans Russian diesel. Russia doubled its exports, and none of it went to the US",
-      "summary_sv": "Amerikanska köpare har vägrat lasten på grund av legala risker, så det extra ryska bränslet går till andra marknader istället.",
+      "summary_sv": "Amerikanska köpare har vägrat lasten på grund av juridiska risker, så det extra ryska bränslet går till andra marknader istället.",
       "summary_en": "US buyers have refused the cargoes over legal risks, so the extra Russian fuel is going to other markets instead.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3132,8 +3208,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -3500,8 +3576,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3576,10 +3652,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
         "uk",
-        "ukraina",
-        "usa"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3693,8 +3769,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -3716,9 +3792,9 @@
       "tags": [
         "Civila mål",
         "Kyjiv",
-        "Drönare",
+        "Ukraina",
         "Robotanfall",
-        "Ukraina"
+        "Drönare"
       ]
     },
     {
@@ -3765,7 +3841,7 @@
       "timestamp": "2026-11-12T10:31:50+00:00",
       "title_sv": "Den brittiska drönartillverkaren grundad av ukrainare når 4,5 miljarder pund efter att ha samlat in 500 miljoner pund",
       "title_en": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
-      "summary_sv": "Storbritanniens nationella förmögenhetsfond investerar 113 miljoner pund i UForce, vars utrustning har använts flitigt i krig med Ryssland. En Londonbaserad tillverkare av drönare som grundades av ukrainare har nått en värdering på 4,5 miljarder pund efter att ha samlat in mer än 500 miljoner pund från investerare inklusive den brittiska regeringen.",
+      "summary_sv": "Storbritanniens nationella förmögenhetsfond investerar 113 miljoner pund i UForce, vars utrustning har använts hårt i krig med Ryssland. En Londonbaserad tillverkare av drönare som grundades av ukrainare har nått en värdering på 4,5 miljarder pund efter att ha samlat in mer än 500 miljoner pund från investerare inklusive den brittiska regeringen.",
       "summary_en": "Britain’s national wealth fund invests £113m in UForce, whose equipment has been used heavily in war with Russia A London-based naval drone maker founded by Ukrainians has reached a £4.5bn valuation after it raised more than £500m from investors including the UK government.UForce, which makes military drones for land, air and sea, received £113m...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -3773,8 +3849,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3794,8 +3870,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -3811,8 +3887,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4118,8 +4194,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4156,8 +4232,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4177,10 +4253,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Luftförsvar",
-        "Drönare",
+        "Infrastruktur",
         "Ukraina",
-        "Infrastruktur"
+        "Luftförsvar",
+        "Drönare"
       ]
     },
     {
@@ -4497,7 +4573,7 @@
       "id": "evt-2026-11-12-0afe2c",
       "date": "2026-11-12",
       "timestamp": "2026-11-12T07:59:33+00:00",
-      "title_sv": "\"Inget ljus, inget vatten, ingen värme\": ukrainare kämpar med strömavbrott när Ryssland slår till elnätet",
+      "title_sv": "\"Inget ljus, inget vatten, ingen värme\": ukrainare kämpar med strömavbrott när Ryssland slår in på elnätet",
       "title_en": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
       "summary_sv": "För föräldrar i delar av Ukraina tar det ut sin rätt att försöka leva ett normalt familjeliv med bara några timmars kraft varje dag.",
       "summary_en": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
@@ -4507,8 +4583,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4528,8 +4604,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -4546,8 +4622,8 @@
       "parter_intressenter": [
         "uk",
         "ryssland",
-        "ukraina",
-        "usa"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4567,8 +4643,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -4734,11 +4810,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "usa",
         "eu",
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -4758,10 +4834,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
         "Kyjiv",
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål",
+        "Drönare"
       ]
     },
     {
@@ -4874,80 +4950,6 @@
       "kalla": "Ukrinform",
       "kallurl": "https://www.ukrinform.net/rubric-polytics/4183631-ukraines-intelligence-exposes-russian-agents-of-influence-in-eu-countries.html",
       "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-11-e242f6",
-      "date": "2026-11-11",
-      "timestamp": "2026-11-11T23:40:00+02:00",
-      "title_sv": "Zelenskyy arrives in Dublin for European summit, plans talks with Trump envoys",
-      "title_en": "Zelenskyy arrives in Dublin for European summit, plans talks with Trump envoys",
-      "summary_sv": "Ukrainian President Volodymyr Zelenskyy arrived in Ireland to attend the ninth European Political Community (EPC) summit following a visit to Denmark, he announced on Telegram on Nov. 11.",
-      "summary_en": "Ukrainian President Volodymyr Zelenskyy arrived in Ireland to attend the ninth European Political Community (EPC) summit following a visit to Denmark, he announced on Telegram on Nov. 11.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "uk",
-        "ukraina",
-        "eu"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
-        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
-      },
-      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/zelenskyy-arrives-in-dublin-for-european-summit-plans-talks-with-trump-envoys-50658416.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-11-989da2",
-      "date": "2026-11-11",
-      "timestamp": "2026-11-11T21:50:56+00:00",
-      "title_sv": "1,600 Russians died capturing, then retreating from, one small settlement",
-      "title_en": "1,600 Russians died capturing, then retreating from, one small settlement",
-      "summary_sv": "A hacked database indicates 1,600 Russian troops died in one tiny village in northern Donetsk. Zelena Dolyna is a bloody symbol of the whole wider war.",
-      "summary_en": "A hacked database indicates 1,600 Russian troops died in one tiny village in northern Donetsk. Zelena Dolyna is a bloody symbol of the whole wider war.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ockuperade_ukraina",
-      "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Euromaidan Press",
-      "kallurl": "https://euromaidanpress.com/2026/11/11/zelena-dolyna/",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
         "Ukraina"
