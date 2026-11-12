@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 5229,
-  "last_archived_rotation": "2026-11-12T01:04:36.449858+00:00",
+  "total_archived_events": 5231,
+  "last_archived_rotation": "2026-11-12T01:34:30.689893+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-11-c00734",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T03:28:00+02:00",
+      "title_sv": "Another tanker carrying Russian diesel changes course en route to U.S. – Bloomberg",
+      "title_en": "Another tanker carrying Russian diesel changes course en route to U.S. – Bloomberg",
+      "summary_sv": "A tanker carrying Russian diesel fuel, which briefly listed the United States as its destination, changed course about 400 nautical miles from New York, adding to uncertainty over Russian fuel supplies to the North American market.",
+      "summary_en": "A tanker carrying Russian diesel fuel, which briefly listed the United States as its destination, changed course about 400 nautical miles from New York, adding to uncertainty over Russian fuel supplies to the North American market.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4183474-another-tanker-carrying-russian-diesel-changes-course-en-route-to-us-bloomberg.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-11-122241",
       "date": "2026-11-11",
@@ -153,6 +190,43 @@
       "kalla": "The New Voice of Ukraine",
       "kallurl": "https://english.nv.ua/nation/operation-carthage-exposes-threats-to-national-security-50658103.html",
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-11-87d1a2",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T01:08:22+00:00",
+      "title_sv": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+      "title_en": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+      "summary_sv": "Ukrainian president dismisses Moscow’s claims of gains in Donbas region but says first day of trilateral talks were constructive.",
+      "summary_en": "Ukrainian president dismisses Moscow’s claims of gains in Donbas region but says first day of trilateral talks were constructive.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/nov/11/ukraine-war-briefing-zelenskyy-says-putin-lives-in-a-different-reality-as-abu-dhabi-talks-get-under-way",
+      "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
         "Ukraina"
@@ -822,8 +896,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -843,8 +917,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -2200,11 +2274,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
+        "uk",
         "ryssland",
         "ukraina",
-        "uk"
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2239,10 +2313,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2317,11 +2391,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "usa",
+        "uk",
         "ryssland",
         "ukraina",
-        "uk"
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2434,9 +2508,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "usa",
+        "uk",
         "eu",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2456,8 +2530,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
