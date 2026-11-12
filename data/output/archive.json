@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 5268,
-  "last_archived_rotation": "2026-11-12T09:45:56.325819+00:00",
+  "total_archived_events": 5270,
+  "last_archived_rotation": "2026-11-12T10:01:29.106324+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-11-5bdc01",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T11:59:00+02:00",
+      "title_sv": "Ryssland attackerar sex stora kraftstationer över natten – premiärminister Koretskyi",
+      "title_en": "Russia attacks six major power substations overnight – PM Koretskyi",
+      "summary_sv": "Natten till den 11 november slog ryska styrkor sex stora kraftstationer och skadade kraftledningar med olika spänningsnivåer.",
+      "summary_en": "Overnight into November 11, Russian forces struck six major power substations and damaged power lines of various voltage levels.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4183688-russia-attacks-six-major-power-substations-overnight-pm-koretskyi.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-11-8d0649",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T11:49:00+02:00",
+      "title_sv": "Zelenskyy: Ukraina kommer inte att dra tillbaka trupper från Donbas för fredsuppgörelse",
+      "title_en": "Zelenskyy: Ukraine will not withdraw troops from Donbas for peace deal",
+      "summary_sv": "Ukraina kommer inte att gå med på ett fredsavtal som kräver att ukrainska trupper drar sig tillbaka från Donbas och är inte beredd att lita på den ryske ledaren Vladimir Putin. President Volodymyr Zelenskyy hoppas att USA och Europa kommer att hitta ett annat sätt att avsluta kriget.",
+      "summary_en": "Ukraine will not agree to a peace deal requiring Ukrainian troops to withdraw from Donbas and is not prepared to trust Russian leader Vladimir Putin. President Volodymyr Zelenskyy hopes the United States and Europe will find another way to end the war.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "uk",
+        "ukraina",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/ukraine-will-not-withdraw-troops-from-donbas-for-peace-zelenskyy-50658134.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-11-9fead0",
       "date": "2026-11-11",
@@ -867,9 +944,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1335,9 +1412,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "ryssland",
+        "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
@@ -1358,10 +1435,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Ukraina",
         "Zaporizjzja",
-        "Infrastruktur",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -1649,9 +1726,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
