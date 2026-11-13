@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 5345,
-  "last_archived_rotation": "2026-11-13T00:01:57.192132+00:00",
+  "total_archived_events": 5346,
+  "last_archived_rotation": "2026-11-13T00:31:37.205003+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-12-034063",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T02:28:00+02:00",
+      "title_sv": "Ukrainska styrkor har befriat mer territorium än vad Ryssland har erövrat de senaste månaderna, säger Khmara",
+      "title_en": "Ukrainian forces have liberated more territory than Russia has captured in recent months, Khmara says",
+      "summary_sv": "Ukrainska styrkor har befriat mer territorium än vad Ryssland har erövrat under de senaste månaderna, säger Khmara för fyra år sedan, den 11 november 2022, befriade Ukrainas försvarsstyrkor Cherson från den ryska ockupationen.",
+      "summary_en": "Ukrainian forces have liberated more territory than Russia has captured in recent months, Khmara says Four years ago, on November 11, 2022, Ukraine’s Defense Forces liberated Kherson from Russian occupation.",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4183782-ukrainian-forces-have-liberated-more-territory-than-russia-has-captured-in-recent-months-khmara-says.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Cherson",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-12-58ce23",
       "date": "2026-11-12",
@@ -736,10 +775,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ryssland",
-        "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -759,8 +798,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -938,9 +977,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ryssland",
         "usa",
+        "eu",
         "ukraina"
       ],
       "syfte": {
