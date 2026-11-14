@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 5530,
-  "last_archived_rotation": "2026-11-14T10:02:48.603439+00:00",
+  "total_archived_events": 5532,
+  "last_archived_rotation": "2026-11-14T10:18:22.924109+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-13-d448b9",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T12:15:00+02:00",
+      "title_sv": "Russian attack on Odesa kills two, injures seven",
+      "title_en": "Russian attack on Odesa kills two, injures seven",
+      "summary_sv": "The death toll from a Russian attack on Odesa has reached two, while the number of injured has risen to seven.",
+      "summary_en": "The death toll from a Russian attack on Odesa has reached two, while the number of injured has risen to seven.",
+      "location_name": "Odesa",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184271-russian-attack-on-odesa-kills-two-injures-seven.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Odesa"
+      ]
+    },
+    {
+      "id": "evt-2026-11-13-677c75",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T12:14:00+02:00",
+      "title_sv": "En bilexplosion i Moskva skadar den tidigare ukrainska premiärministerns talesperson",
+      "title_en": "Car explosion in Moscow injures former Ukrainian PM’s spokesperson",
+      "summary_sv": "Serhiy Zavorotny, en tidigare talesman för Ukrainas före detta premiärminister Mykola Azarov, ska ha skadats tillsammans med sin förare när en explosion träffade deras bil i södra Moskva på morgonen den 13 november, enligt ryska Telegram-kanaler.",
+      "summary_en": "Serhiy Zavorotny, a former spokesman for ex-Ukrainian Prime Minister Mykola Azarov, was reportedly injured along with his driver when an explosion hit their car in southern Moscow on the morning of November 13, according to Russian Telegram channels.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/car-blast-in-southern-moscow-injures-former-ukrainian-pm-s-spokesperson-50658906.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-13-889f77",
       "date": "2026-11-13",
@@ -1131,11 +1208,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1671,11 +1748,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1695,10 +1772,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Kyjiv",
-        "Civila mål",
-        "Ukraina"
+        "Drönare",
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -1829,11 +1906,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu",
-        "uk"
+        "ryssland",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2290,16 +2367,16 @@
       "id": "evt-2026-11-12-07bf78",
       "date": "2026-11-12",
       "timestamp": "2026-11-12T23:11:05+00:00",
-      "title_sv": "Organisational Evolution and Strategic Adaptation: Restructuring Military Forces for Unmanned Warfare",
+      "title_sv": "Organisatorisk utveckling och strategisk anpassning: Omstrukturering av militära styrkor för obemannad krigföring",
       "title_en": "Organisational Evolution and Strategic Adaptation: Restructuring Military Forces for Unmanned Warfare",
-      "summary_sv": "An excellent long read on the latest developments in Ukrainian organisational reform to exploit drones in modern war by guest author, Dr Oleksandra Molloy.",
+      "summary_sv": "En utmärkt långläsning om den senaste utvecklingen inom ukrainsk organisationsreform för att utnyttja drönare i modernt krig av gästförfattaren, Dr Oleksandra Molloy.",
       "summary_en": "An excellent long read on the latest developments in Ukrainian organisational reform to exploit drones in modern war by guest author, Dr Oleksandra Molloy.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2319,8 +2396,8 @@
       "kallkategori": "Militärstrateg & f.d. general",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -2488,10 +2565,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "ukraina",
         "usa",
-        "uk"
+        "uk",
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
