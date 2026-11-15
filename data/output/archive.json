@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 5655,
-  "last_archived_rotation": "2026-11-15T07:34:51.557242+00:00",
+  "total_archived_events": 5657,
+  "last_archived_rotation": "2026-11-15T08:05:07.590412+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-14-c56c88",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T10:00:00+02:00",
+      "title_sv": "Två dödade, fem skadade i ryska attacker mot Cherson-regionen under det senaste dygnet",
+      "title_en": "Two killed, five injured in Russian attacks on Kherson region over past day",
+      "summary_sv": "Ryska styrkor dödade två personer och skadade fem andra i Kherson-regionen under det senaste dygnet.",
+      "summary_en": "Russian forces killed two people and injured five others in the Kherson region over the past 24 hours.",
+      "location_name": "Cherson",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184592-two-killed-five-injured-in-russian-attacks-on-kherson-region-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Cherson"
+      ]
+    },
+    {
+      "id": "evt-2026-11-14-32215d",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T09:43:00+02:00",
+      "title_sv": "Tre dödade och 62 skadade i ryska attacker mot Zaporizjzja-regionen under det senaste dygnet",
+      "title_en": "Three killed, 62 injured in Russian attacks on Zaporizhzhia region over past day",
+      "summary_sv": "Ryska styrkor inledde nästan 884 attacker mot Zaporizjzja-regionen under det senaste dygnet och dödade tre personer, inklusive ett barn, och skadade 62 andra.",
+      "summary_en": "Russian forces launched nearly 884 attacks on the Zaporizhzhia region over the past 24 hours, killing three people, including a child, and injuring 62 others.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184591-three-killed-62-injured-in-russian-attacks-on-zaporizhzhia-region-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Zaporizjzja"
+      ]
+    },
     {
       "id": "evt-2026-11-14-a8155f",
       "date": "2026-11-14",
@@ -285,12 +361,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "usa",
+        "uk",
+        "ryssland",
         "kina",
         "ukraina",
-        "usa",
-        "ryssland",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -709,10 +785,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "ryssland",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1632,11 +1708,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
         "usa",
+        "uk",
         "ryssland",
-        "uk"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
