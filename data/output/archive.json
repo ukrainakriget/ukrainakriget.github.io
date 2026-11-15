@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 5727,
-  "last_archived_rotation": "2026-11-15T20:02:27.772647+00:00",
+  "total_archived_events": 5729,
+  "last_archived_rotation": "2026-11-15T20:31:25.876371+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-14-4cdf44",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T22:04:00+02:00",
+      "title_sv": "U.S. Sen. Tom Cotton calls Russia's demand for NATO to withdraw troops to its 1997 boundaries absurd",
+      "title_en": "U.S. Sen. Tom Cotton calls Russia's demand for NATO to withdraw troops to its 1997 boundaries absurd",
+      "summary_sv": "U.S. Senate Intelligence Committee Chairman Tom Cotton called Russia's demand that NATO withdraw troops from its own borders absurd in a post on X on Nov. 14.",
+      "summary_en": "U.S. Senate Intelligence Committee Chairman Tom Cotton called Russia's demand that NATO withdraw troops from its own borders absurd in a post on X on Nov. 14.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ukrainas_granser",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/sen-tom-cotton-calls-russia-s-nato-troop-demand-absurd-50659258.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-14-4c8dd5",
       "date": "2026-11-14",
@@ -267,6 +304,46 @@
       ]
     },
     {
+      "id": "evt-2026-11-14-dd1852",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T20:25:47+00:00",
+      "title_sv": "Ryssland bryter strömmen till mer än 203 000 familjer runt Kyjiv. Reparationer tar fyra dagar medan attacker fortsätter att komma",
+      "title_en": "Russia cuts power to more than 203,000 families around Kyiv. Repairs take four days while strikes keep coming",
+      "summary_sv": "Ryska attacker skadade 10 av DTEK:s anläggningar i Kyjiv oblast på en vecka, och nästan 700 000 familjer över hela Ukraina är utan ström, säger Zelenskyy.",
+      "summary_en": "Russian strikes damaged 10 of DTEK’s facilities in Kyiv Oblast in one week, and almost 700,000 families across Ukraine are without power, Zelenskyy says.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/14/russia-cuts-power-to-more-than-203000-families-around-kyiv-repairs-take-four-days-while-strikes-keep-coming/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv",
+        "Energi"
+      ]
+    },
+    {
       "id": "evt-2026-11-14-363ece",
       "date": "2026-11-14",
       "timestamp": "2026-11-14T20:17:00+02:00",
@@ -382,7 +459,7 @@
       "id": "evt-2026-11-14-adcf47",
       "date": "2026-11-14",
       "timestamp": "2026-11-14T19:27:57+00:00",
-      "title_sv": "\"Putin har ännu en gång bevisat att han inte menar allvar med en förhandlad fred\", säger den amerikanska senatens underrättelseordförande efter Moskvas Nato-krav",
+      "title_sv": "\"Putin har återigen bevisat att han inte menar allvar med en förhandlad fred\", säger den amerikanska senatens underrättelseordförande efter Moskvas Nato-krav",
       "title_en": "“Putin has proved once again that he’s not serious about a negotiated peace,” says US Senate’s intelligence chair after Moscow’s NATO demand",
       "summary_sv": "Ytterligare samtal med Ryssland för att avsluta kriget är \"en fars\", hävdade Tom Cotton.",
       "summary_en": "Further talks with Russia to end the war are “a farce,” Tom Cotton claimed.",
@@ -390,8 +467,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "ukraina"
       ],
       "syfte": {
@@ -427,8 +504,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "uk",
         "ukraina"
       ],
@@ -611,7 +688,7 @@
       "id": "evt-2026-11-14-050cc8",
       "date": "2026-11-14",
       "timestamp": "2026-11-14T18:33:32+00:00",
-      "title_sv": "Ukrainas ovanliga operation på Krim: uttag av vittne för att fånga kollaboratör som förberedde femåriga barn för krig",
+      "title_sv": "Ukrainas ovanliga operation på Krim: uttagning av vittne för att fånga kollaboratör som förberedde femåriga barn för krig",
       "title_en": "Ukraine’s unusual operation in Crimea: extracting witness to catch collaborator who prepared five-year-old children for war",
       "summary_sv": "Den misstänkte pressade Kreml-paroller mot tonåringar och deras föräldrar och glorifierade ryska styrkor.",
       "summary_en": "The suspect pressed Kremlin slogans on teenagers and their parents and glorified Russian forces.",
@@ -619,8 +696,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "uk",
         "ukraina"
       ],
@@ -736,8 +813,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "uk",
         "ukraina"
       ],
@@ -760,8 +837,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Robotanfall",
         "Kyjiv",
+        "Robotanfall",
         "Drönare"
       ]
     },
@@ -1124,9 +1201,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "kina",
-        "ryssland",
         "usa",
+        "ryssland",
+        "kina",
         "ukraina"
       ],
       "syfte": {
@@ -1273,8 +1350,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
+        "ryssland",
         "uk",
         "ukraina"
       ],
