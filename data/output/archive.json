@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 5654,
-  "last_archived_rotation": "2026-11-15T07:05:10.068313+00:00",
+  "total_archived_events": 5655,
+  "last_archived_rotation": "2026-11-15T07:34:51.557242+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-14-a8155f",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T09:21:00+02:00",
+      "title_sv": "Ett utbrett nödströmavbrott rapporterats i Sumy-regionen",
+      "title_en": "Widespread emergency power outage reported in Sumy region",
+      "summary_sv": "Ett storskaligt nödströmavbrott har drabbat en del av Sumy-regionen efter systematiska ryska attacker mot energiinfrastruktur.",
+      "summary_en": "A large-scale emergency power outage has affected part of the Sumy region following systematic Russian attacks on energy infrastructure.",
+      "location_name": "Sumy",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184589-widespread-emergency-power-outage-reported-in-sumy-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina",
+        "Sumy"
+      ]
+    },
     {
       "id": "evt-2026-11-14-193a28",
       "date": "2026-11-14",
@@ -246,11 +285,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "kina",
+        "ukraina",
         "usa",
         "ryssland",
-        "ukraina",
-        "eu",
         "uk"
       ],
       "syfte": {
@@ -670,10 +709,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -693,8 +732,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1593,10 +1632,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "eu",
+        "ukraina",
         "usa",
         "ryssland",
-        "ukraina",
-        "eu",
         "uk"
       ],
       "syfte": {
