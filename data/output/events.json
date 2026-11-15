@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-11-15T13:31:33.641805+00:00",
-  "total_active_events": 102,
+  "last_updated": "2026-11-15T14:02:32.993926+00:00",
+  "total_active_events": 103,
   "events": [
+    {
+      "id": "evt-2026-11-15-f72b3c",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T15:37:00+02:00",
+      "title_sv": "Fienden attackerar energianläggning och utlöser nödströmavbrott i regionerna Zaporizjzja och Dnipropetrovsk",
+      "title_en": "Enemy strikes energy facility, triggering emergency power outages in Zaporizhzhia and Dnipropetrovsk regions",
+      "summary_sv": "Ryska styrkor träffade en energianläggning, vilket resulterade i akuta strömavbrott i regionerna Zaporizjzja och Dnipropetrovsk.",
+      "summary_en": "Russian forces struck an energy facility, resulting in emergency power outages in the Zaporizhzhia and Dnipropetrovsk regions.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184884-enemy-strikes-energy-facility-triggering-emergency-power-outages-in-zaporizhzhia-and-dnipropetrovsk-regions.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Zaporizjzja",
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-15-080017",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T15:22:00+02:00",
+      "title_sv": "Ryska drönare attackerar brandstationen två gånger i Kramatorsk",
+      "title_en": "Russian drones attack fire station twice in Kramatorsk",
+      "summary_sv": "Ryska drönare attackerade en brand- och räddningsstation två gånger i Kramatorsk, Donetsk-regionen, och satte eld på ett servicefordon.",
+      "summary_en": "Russian drones attacked a fire and rescue station twice in Kramatorsk, Donetsk region, setting a service vehicle on fire.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184883-russian-drones-attack-fire-station-twice-in-kramatorsk.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-11-15-c5e942",
       "date": "2026-11-15",
@@ -36,8 +113,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Odesa",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -55,8 +132,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -167,8 +244,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -191,6 +268,45 @@
         "Ukraina",
         "Energi",
         "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-11-15-ac2b60",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T13:34:04+00:00",
+      "title_sv": "EU:s sjöstyrkor går ombord på ryskt tankfartyg med skuggflotta som seglar under falsk flagg i Medelhavet när nya sanktioner väntar",
+      "title_en": "EU naval forces board Russian shadow fleet tanker sailing under false flag in Mediterranean as new sanctions loom",
+      "summary_sv": "Inspektionen av MV MIDAG markerar ytterligare ett steg i EU:s ansträngningar att störa Rysslands oljeexport genom dess skuggflotta.",
+      "summary_en": "The inspection of the MV MIDAG marks another step in the EU's efforts to disrupt Russia's oil exports through its shadow fleet.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "eu",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/15/eu-naval-forces-board-russian-shadow-fleet-tanker-in-mediterranean/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -265,8 +381,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Infrastruktur",
-        "Kyjiv"
+        "Kyjiv",
+        "Infrastruktur"
       ]
     },
     {
@@ -275,7 +391,7 @@
       "timestamp": "2026-11-15T13:12:00+02:00",
       "title_sv": "Inkräktare träffar företag i Chuhuiv med drönare, eld bryter ut",
       "title_en": "Invaders hit company in Chuhuiv with drone, fire breaks out",
-      "summary_sv": "En brand bröt ut på ett företag i Chuhuiv, Charkiv-regionen, efter att det träffats av en rysk drönare.",
+      "summary_sv": "En brand bröt ut vid ett företag i Chuhuiv, Charkiv-regionen, efter att det träffats av en rysk drönare.",
       "summary_en": "A fire broke out at a company in Chuhuiv, Kharkiv region, after it was hit by a Russian drone.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
@@ -303,10 +419,10 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Infrastruktur",
+        "Drönare",
         "Charkiv",
-        "Drönare"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -383,8 +499,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Infrastruktur",
-        "Kyjiv"
+        "Kyjiv",
+        "Infrastruktur"
       ]
     },
     {
@@ -401,8 +517,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -462,8 +578,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Cherson"
+        "Cherson",
+        "Drönare"
       ]
     },
     {
@@ -480,8 +596,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -539,10 +655,10 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Infrastruktur",
         "Kyjiv",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -557,10 +673,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
+        "ukraina",
         "eu",
+        "ryssland",
         "uk"
       ],
       "syfte": {
@@ -620,8 +736,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Kyjiv"
       ]
     },
@@ -629,7 +745,7 @@
       "id": "evt-2026-11-15-1ee785",
       "date": "2026-11-15",
       "timestamp": "2026-11-15T11:35:00+02:00",
-      "title_sv": "Drönare attackerar Rysslands Nizhnekamsk när brand bryter ut i en stor petrokemisk anläggning",
+      "title_sv": "Drönare attackerar Rysslands Nizhnekamsk när brand bryter ut vid en stor petrokemisk anläggning",
       "title_en": "Drones attack Russia’s Nizhnekamsk as fire breaks out at major petrochemical plant",
       "summary_sv": "Drönare attackerade staden Nizhnekamsk i Rysslands republik Tatarstan över natten, följt av en brand vid den petrokemiska anläggningen i Nizhnekamskneftekhim, rapporterade OSINT-kanaler den 15 november.",
       "summary_en": "Drones attacked the city of Nizhnekamsk in Russia’s Republic of Tatarstan overnight, followed by a fire at the Nizhnekamskneftekhim petrochemical plant, OSINT channels reported on Nov. 15.",
@@ -659,9 +775,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Infrastruktur",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -698,8 +814,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Civila mål"
       ]
     },
@@ -737,8 +853,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Odesa",
+        "Ukraina",
         "Energi"
       ]
     },
@@ -754,8 +870,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -776,8 +892,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Polen",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
@@ -853,8 +969,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Charkiv"
+        "Charkiv",
+        "Ukraina"
       ]
     },
     {
@@ -1179,8 +1295,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1326,10 +1442,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
+        "ukraina",
         "eu",
+        "ryssland",
         "uk"
       ],
       "syfte": {
@@ -1350,8 +1466,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Kyjiv"
       ]
     },
@@ -1442,11 +1558,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "kina",
         "ukraina",
-        "ryssland",
-        "usa",
         "eu",
+        "ryssland",
         "uk"
       ],
       "syfte": {
@@ -1597,8 +1713,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1723,10 +1839,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
+        "ukraina",
         "eu",
+        "ryssland",
         "uk"
       ],
       "syfte": {
@@ -1747,9 +1863,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Ukraina",
         "Energi",
-        "Drönare",
         "Kyjiv"
       ]
     },
@@ -1935,10 +2051,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Charkiv",
         "Ukraina",
         "Energi",
-        "Drönare",
-        "Charkiv"
+        "Drönare"
       ]
     },
     {
@@ -1955,8 +2071,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2295,9 +2411,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2482,10 +2598,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
+        "ukraina",
         "eu",
+        "ryssland",
         "uk"
       ],
       "syfte": {
@@ -2732,9 +2848,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Ukraina",
-        "Infrastruktur",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -2788,8 +2904,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2930,7 +3046,7 @@
       "id": "evt-2026-11-14-adcf47",
       "date": "2026-11-14",
       "timestamp": "2026-11-14T19:27:57+00:00",
-      "title_sv": "\"Putin har ännu en gång bevisat att han inte menar allvar med en förhandlad fred\", säger den amerikanska senatens underrättelseordförande efter Moskvas Nato-krav",
+      "title_sv": "\"Putin har återigen bevisat att han inte menar allvar med en förhandlad fred\", säger den amerikanska senatens underrättelseordförande efter Moskvas Nato-krav",
       "title_en": "“Putin has proved once again that he’s not serious about a negotiated peace,” says US Senate’s intelligence chair after Moscow’s NATO demand",
       "summary_sv": "Ytterligare samtal med Ryssland för att avsluta kriget är \"en fars\", hävdade Tom Cotton.",
       "summary_en": "Further talks with Russia to end the war are “a farce,” Tom Cotton claimed.",
@@ -2977,8 +3093,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3128,9 +3244,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "uk",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -3150,8 +3266,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Kyjiv"
       ]
     },
@@ -3159,7 +3275,7 @@
       "id": "evt-2026-11-14-050cc8",
       "date": "2026-11-14",
       "timestamp": "2026-11-14T18:33:32+00:00",
-      "title_sv": "Ukrainas ovanliga operation på Krim: uttag av vittne för att fånga kollaboratör som förberedde femåriga barn för krig",
+      "title_sv": "Ukrainas ovanliga operation på Krim: uttagning av vittne för att fånga kollaboratör som förberedde femåriga barn för krig",
       "title_en": "Ukraine’s unusual operation in Crimea: extracting witness to catch collaborator who prepared five-year-old children for war",
       "summary_sv": "Den misstänkte pressade Kreml-paroller mot tonåringar och deras föräldrar och glorifierade ryska styrkor.",
       "summary_en": "The suspect pressed Kremlin slogans on teenagers and their parents and glorified Russian forces.",
@@ -3169,8 +3285,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3286,8 +3402,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3307,10 +3423,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Robotanfall",
         "Drönare",
-        "Kyjiv"
+        "Ukraina",
+        "Kyjiv",
+        "Robotanfall"
       ]
     },
     {
@@ -3699,81 +3815,6 @@
       ]
     },
     {
-      "id": "evt-2026-11-14-875e66",
-      "date": "2026-11-14",
-      "timestamp": "2026-11-14T15:53:00+02:00",
-      "title_sv": "Trump may delay strikes on Iran if Yemen refrains from new provocations – Reuters",
-      "title_en": "Trump may delay strikes on Iran if Yemen refrains from new provocations – Reuters",
-      "summary_sv": "US President Donald Trump recently told his senior advisers that he may hold off on strikes against Iran if Tehran or the Iran-backed Houthi rebels in Yemen refrain from further provocations.",
-      "summary_en": "US President Donald Trump recently told his senior advisers that he may hold off on strikes against Iran if Tehran or the Iran-backed Houthi rebels in Yemen refrain from further provocations.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "usa",
-        "eu",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-polytics/4184685-trump-may-delay-strikes-on-iran-if-yemen-refrains-from-new-provocations-reuters.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-14-89b816",
-      "date": "2026-11-14",
-      "timestamp": "2026-11-14T15:41:00+02:00",
-      "title_sv": "Putin avvisar förslaget om ömsesidig vapenvila mot attacker mot energiinfrastruktur – Zelenskyy",
-      "title_en": "Putin rejects proposal for mutual ceasefire on energy infrastructure attacks – Zelenskyy",
-      "summary_sv": "Vladimir Putin avvisade ett förslag om en ömsesidig vapenvila mot attacker mot energiinfrastruktur, sa Ukrainas president Volodymyr Zelenskyy till reportrar den 13 november.",
-      "summary_en": "Vladimir Putin rejected a proposal for a mutual ceasefire on attacks against energy infrastructure, Ukrainian President Volodymyr Zelenskyy told reporters on Nov. 13.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "uk",
-        "ukraina",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
-        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
-      },
-      "egenskaper_anfallsmal": "energiproduktion",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/russian-war/putin-rejects-mutual-energy-ceasefire-zelenskyy-says-50659178.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Energi"
-      ]
-    },
-    {
       "id": "evt-2026-11-14-18bf26",
       "date": "2026-11-14",
       "timestamp": "2026-11-14T15:25:42+00:00",
@@ -3787,8 +3828,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3817,7 +3858,7 @@
       "timestamp": "2026-11-14T14:45:50+00:00",
       "title_sv": "Ryssland skickar nu mobiliserade män till fronten om 5 till 7 dagar eftersom förlusterna överstiger sina rekryter, säger den ukrainske befälhavaren",
       "title_en": "Russia now sends mobilized men to front in 5 to 7 days because its losses outrun its recruits, Ukrainian commander says",
-      "summary_sv": "Färre sammandrabbningar på vissa fronter visar att Ryssland håller på att ta slut, hävdar en ukrainsk drönarbrigadchef.",
+      "summary_sv": "Färre sammandrabbningar på vissa fronter visar att Ryssland har slut på män, hävdar en ukrainsk drönarbrigadchef.",
       "summary_en": "Fewer clashes on some fronts show Russia is running out of men, a Ukrainian drone-brigade commander claims.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -3825,8 +3866,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3862,9 +3903,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
         "usa",
+        "ukraina",
+        "eu",
         "ryssland"
       ],
       "syfte": {
