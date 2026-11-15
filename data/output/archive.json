@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 5712,
-  "last_archived_rotation": "2026-11-15T17:34:55.555555+00:00",
+  "total_archived_events": 5714,
+  "last_archived_rotation": "2026-11-15T18:05:20.884654+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-14-018b5b",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T19:54:00+02:00",
+      "title_sv": "Ryska attacker mot Dnipropetrovsk-regionen lämnar en dödad och 13 skadade",
+      "title_en": "Russian attacks on Dnipropetrovsk region leave one killed, 13 injured",
+      "summary_sv": "Ryska styrkor genomförde nästan 30 attacker mot fyra distrikt i Dnipropetrovsk-regionen den 14 november med hjälp av drönare, artilleri och en missil.",
+      "summary_en": "Russian forces carried out nearly 30 attacks on four districts of the Dnipropetrovsk region on November 14, using drones, artillery and a missile.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184727-russian-attacks-on-dnipropetrovsk-region-leave-one-killed-13-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Robotanfall",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-11-14-37ed06",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T19:36:00+02:00",
+      "title_sv": "Bulgarien kommer inte längre att ge vapen eller ekonomiskt stöd till Ukraina – premiärminister Radev",
+      "title_en": "Bulgaria will no longer provide weapons or financial aid to Ukraine – Prime Minister Radev",
+      "summary_sv": "Bulgarien saknar medel för att ekonomiskt stödja Ukraina och kommer inte längre att leverera vapen eller ammunition från sina militära lager, sa premiärminister Rumen Radev till reportrar vid ett toppmöte i Dublin, enligt Debati.bg den 13 november.",
+      "summary_en": "Bulgaria lacks funds to financially support Ukraine and will no longer supply weapons or ammunition from its military stockpiles, Prime Minister Rumen Radev told reporters at a Dublin summit, according to Debati.bg on Nov. 13.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/bulgaria-to-halt-arms-supplies-to-ukraine-radev-says-50659227.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-14-4902bb",
       "date": "2026-11-14",
@@ -554,10 +630,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ryssland",
         "usa",
-        "kina",
         "ukraina",
-        "ryssland"
+        "kina"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -703,10 +779,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -851,10 +927,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -874,8 +950,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1878,8 +1954,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "usa",
+        "uk",
         "ukraina"
       ],
       "syfte": {
@@ -1900,8 +1976,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -2297,16 +2373,16 @@
       "timestamp": "2026-11-14T08:27:51+00:00",
       "title_sv": "Ukraina: Ryssland kräver stopp för Natokärnvapen och all militär aktivitet i östra Europa",
       "title_en": "Ukraina: Ryssland kräver stopp för Natokärnvapen och all militär aktivitet i östra Europa",
-      "summary_sv": "Mer detaljer har nu framkommit om Rysslands kapitulationskrav riktade mot Ukraina, EU och Nato, vilket inkluderar att Natos kärnvapen inte ska användas för att vidergälla ryska kärnvapenbombningar mot Natoländer utan kärnvapen, och att all militär aktivitet ska upphöra i östra Europa, samt att Ukraina inte ska få omfattas av EU:s...",
+      "summary_sv": "Mer detaljer har nu framkommit om Rysslands kapitulationskrav riktade mot Ukraina, EU och Nato, vilket inkluderar att Natos kärnvapen inte ska få användas för att vedergälla ryska kärnvapenbombningar mot Natoländer utan kärnvapen, och att all militär aktivitet ska upphöra i östra Europa, samt att Ukraina inte ska få omfattas av EU:s...",
       "summary_en": "Mer detaljer har nu framkommit om Rysslands kapitulationskrav riktade mot Ukraina, EU och Nato, vilket inkluderar att Natos kärnvapen inte ska få användas för att vedergälla ryska kärnvapenbombningar mot Natoländer utan kärnvapen, och att all militär aktivitet ska upphöra i östra Europa, samt att Ukraina inte ska få omfattas av EU:s...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
+        "ryssland",
         "uk",
-        "ryssland"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2493,12 +2569,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "kina",
-        "ukraina",
         "ryssland",
         "uk",
-        "usa",
-        "eu"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
