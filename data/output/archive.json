@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 5709,
-  "last_archived_rotation": "2026-11-15T16:31:35.746576+00:00",
+  "total_archived_events": 5711,
+  "last_archived_rotation": "2026-11-15T17:01:56.907508+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-14-29ff8c",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T19:00:00+02:00",
+      "title_sv": "Ryssland skulle tillåta Europa att inleda fredssamtal endast på dess villkor för att diskutera att krympa Nato",
+      "title_en": "Russia would allow Europe into peace talks only on its terms to discuss shrinking NATO",
+      "summary_sv": "Ryssland är beredd att tillåta europeiska tjänstemän att delta i fredsförhandlingar enbart för att diskutera en ny säkerhetsarkitektur, inte för att hjälpa till att lösa kriget i Ukraina, sade det USA-baserade Institutet for the Study of War i sin rapport den 13 november.",
+      "summary_en": "Russia is prepared to allow European officials to take part in peace negotiations only to discuss a new security architecture, not to help settle the war in Ukraine, the U.S.-based Institute for the Study of War said in its Nov. 13 report.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russia-only-allowing-europe-to-participate-in-negotiations-to-discuss-nato-s-downsizing-50659193.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-14-3ea425",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T18:56:00+02:00",
+      "title_sv": "Ukraina förutspår temperaturer på upp till 8°C på söndag, utan nederbörd",
+      "title_en": "Ukraine forecast to see temperatures of up to 8°C on Sunday, with no precipitation",
+      "summary_sv": "Ukraina förväntas ha varierande molnighet söndagen den 15 november utan nederbörd. Temperaturerna kommer att variera från 3°C över noll till 2°C under noll.",
+      "summary_en": "Ukraine is expected to have variable cloudiness on Sunday, November 15, with no precipitation. Temperatures will range from 3°C above zero to 2°C below zero.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4184715-ukraine-forecast-to-see-temperatures-of-up-to-8c-on-sunday-with-no-precipitation.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-14-a2b8d7",
       "date": "2026-11-14",
@@ -439,10 +515,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "kina",
-        "ukraina",
         "usa",
-        "ryssland"
+        "ukraina",
+        "ryssland",
+        "kina"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -588,10 +664,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "usa",
-        "ryssland"
+        "ukraina",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -730,16 +806,16 @@
       "timestamp": "2026-11-14T14:45:50+00:00",
       "title_sv": "Ryssland skickar nu mobiliserade män till fronten om 5 till 7 dagar eftersom förlusterna överstiger sina rekryter, säger den ukrainske befälhavaren",
       "title_en": "Russia now sends mobilized men to front in 5 to 7 days because its losses outrun its recruits, Ukrainian commander says",
-      "summary_sv": "Färre sammandrabbningar på vissa fronter visar att Ryssland håller på att ta slut, hävdar en ukrainsk drönarbrigadchef.",
+      "summary_sv": "Färre sammandrabbningar på vissa fronter visar att Ryssland har slut på män, hävdar en ukrainsk drönarbrigadchef.",
       "summary_en": "Fewer clashes on some fronts show Russia is running out of men, a Ukrainian drone-brigade commander claims.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "usa",
-        "ryssland"
+        "ukraina",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1763,9 +1839,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
+        "usa",
         "ukraina",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2188,10 +2264,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "eu",
-        "ryssland"
+        "ukraina",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2379,11 +2455,11 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
+        "kina",
+        "usa",
         "eu",
         "ryssland",
-        "uk",
-        "kina",
-        "usa"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
