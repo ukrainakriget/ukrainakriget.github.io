@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 5781,
-  "last_archived_rotation": "2026-11-16T10:34:30.072756+00:00",
+  "total_archived_events": 5783,
+  "last_archived_rotation": "2026-11-16T11:05:02.025463+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-15-8e9a06",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T13:00:00+02:00",
+      "title_sv": "Drönare attackerar Rysslands Taganrog, en viktig elektrisk transformatorstation som möjligen är måltavla",
+      "title_en": "Drones attack Russia’s Taganrog, key electrical substation possibly targeted",
+      "summary_sv": "Drönare attackerade Taganrog över natten den 15 november, med den 220 kilovolt tunga T-10 (Taganrog-10) elektriska transformatorstationen möjligen bland målen, enligt en OSINT-analys av Astra.",
+      "summary_en": "Drones attacked Taganrog overnight on Nov. 15, with the 220-kilovolt T-10 (Taganrog-10) electrical substation possibly among the targets, according to an OSINT analysis by Astra.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/drones-attack-russia-s-taganrog-key-electrical-substation-possibly-targeted-osint-50659324.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-15-da78db",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T12:53:00+02:00",
+      "title_sv": "Lager tar eld i distriktet Vyshhorod efter fiendens attack",
+      "title_en": "Warehouses catch fire in Vyshhorod district following enemy attack",
+      "summary_sv": "En brand bröt ut i ett företags lagerlokaler i Vyshhorod-distriktet i Kyjiv-regionen efter en rysk attack på söndagsmorgonen.",
+      "summary_en": "A fire broke out at a company’s warehouse facilities in the Vyshhorod district of the Kyiv region following a Russian attack on Sunday morning.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184835-warehouses-catch-fire-in-vyshhorod-district-following-enemy-attack.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-11-15-5e1719",
       "date": "2026-11-15",
@@ -560,8 +638,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "ukraina",
-        "usa",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -711,8 +789,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa",
         "uk"
       ],
@@ -860,11 +938,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "ukraina",
         "uk",
         "ryssland",
-        "eu",
-        "ukraina"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -885,8 +963,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Drönare",
-        "Kyjiv"
+        "Kyjiv",
+        "Drönare"
       ]
     },
     {
@@ -976,12 +1054,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "kina",
+        "ukraina",
         "uk",
         "ryssland",
+        "usa",
         "eu",
-        "ukraina"
+        "kina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1167,11 +1245,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "uk",
         "ryssland",
-        "kina",
-        "ukraina",
-        "usa"
+        "usa",
+        "kina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1257,11 +1335,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
+        "ukraina",
         "uk",
         "ryssland",
-        "eu",
-        "ukraina"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1282,9 +1360,9 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Energi",
+        "Kyjiv",
         "Drönare",
-        "Kyjiv"
+        "Energi"
       ]
     },
     {
