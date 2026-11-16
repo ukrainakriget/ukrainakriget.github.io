@@ -1,7 +1,82 @@
 {
-  "total_archived_events": 5807,
-  "last_archived_rotation": "2026-11-16T16:35:08.483991+00:00",
+  "total_archived_events": 5809,
+  "last_archived_rotation": "2026-11-16T17:05:25.451923+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-15-dafb32",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T18:58:00+02:00",
+      "title_sv": "Auto dealership damaged in Russian attack in Kyiv region",
+      "title_en": "Auto dealership damaged in Russian attack in Kyiv region",
+      "summary_sv": "The Porsche Zahid dealership in Kyiv region was damaged in a Russian attack and has temporarily suspended operations.",
+      "summary_en": "The Porsche Zahid dealership in Kyiv region was damaged in a Russian attack and has temporarily suspended operations.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184935-auto-dealership-damaged-in-russian-attack-in-kyiv-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-15-63448e",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T18:38:00+02:00",
+      "title_sv": "FPV drönareattacker i Charkiv lämnar tre skadade",
+      "title_en": "FPV drone strikes in Kharkiv leave three injured",
+      "summary_sv": "Två män och en kvinna skadades i fiendens FPV-drönareattacker i Charkiv.",
+      "summary_en": "Two men and a woman were injured in enemy FPV drone strikes in Kharkiv.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184936-fpv-drone-strikes-in-kharkiv-leave-three-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-11-15-7e9c28",
       "date": "2026-11-15",
@@ -443,10 +518,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -466,8 +541,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -750,10 +825,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
         "usa",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -773,8 +848,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -983,10 +1058,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1006,9 +1081,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Ukraina",
-        "Luftförsvar"
+        "Luftförsvar",
+        "Robotanfall"
       ]
     },
     {
@@ -1720,10 +1795,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
         "uk",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1869,9 +1944,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "usa",
         "ukraina",
-        "eu",
         "ryssland",
         "uk"
       ],
@@ -1893,9 +1968,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Drönare",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -1985,10 +2060,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "kina",
-        "ukraina",
         "eu",
+        "usa",
+        "ukraina",
+        "kina",
         "ryssland",
         "uk"
       ],
