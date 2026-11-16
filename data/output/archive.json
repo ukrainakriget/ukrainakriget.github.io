@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 5797,
-  "last_archived_rotation": "2026-11-16T14:05:02.603737+00:00",
+  "total_archived_events": 5799,
+  "last_archived_rotation": "2026-11-16T14:34:47.166793+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-15-06e7db",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T16:24:00+02:00",
+      "title_sv": "Ryska styrkor attackerar infrastrukturanläggningen i Zaporizjzja och skadade en person",
+      "title_en": "Russian forces attack infrastructure facility in Zaporizhzhia, injuring one person",
+      "summary_sv": "Ryska styrkor attackerade en infrastrukturanläggning i Khortytskyi-distriktet i Zaporizjzja och skadade en person.",
+      "summary_en": "Russian forces attacked an infrastructure facility in the Khortytskyi district of Zaporizhzhia, injuring one person.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184888-russian-forces-attack-infrastructure-facility-in-zaporizhzhia-injuring-one-person.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Zaporizjzja"
+      ]
+    },
+    {
+      "id": "evt-2026-11-15-943968",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T16:12:00+02:00",
+      "title_sv": "Macron ties Ukraine’s security to Europe’s, backs its place in NATO",
+      "title_en": "Macron ties Ukraine’s security to Europe’s, backs its place in NATO",
+      "summary_sv": "Ukraine’s defense is vital to the security of France and Europe, its place is in NATO, and continued support through the winter is essential to preventing Russia from imposing an unjust peace, French President Emmanuel Macron said in Dublin on Nov. 14.",
+      "summary_en": "Ukraine’s defense is vital to the security of France and Europe, its place is in NATO, and continued support through the winter is essential to preventing Russia from imposing an unjust peace, French President Emmanuel Macron said in Dublin on Nov. 14.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "eu",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/macron-ties-ukraine-s-defense-to-european-security-backs-its-place-in-nato-50659356.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-11-15-b0802c",
       "date": "2026-11-15",
@@ -368,9 +446,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "ukraina",
         "usa",
-        "eu",
         "ryssland"
       ],
       "syfte": {
@@ -391,8 +469,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -601,9 +679,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "uk",
         "ukraina",
         "usa",
-        "uk",
         "ryssland"
       ],
       "syfte": {
@@ -1338,9 +1416,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "uk",
         "ukraina",
         "usa",
-        "uk",
         "ryssland"
       ],
       "syfte": {
@@ -1487,11 +1565,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "eu",
         "ukraina",
-        "uk",
         "ryssland",
-        "eu"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1603,12 +1681,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "eu",
         "ukraina",
-        "uk",
         "kina",
         "ryssland",
-        "eu"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1884,11 +1962,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
+        "eu",
         "ukraina",
-        "uk",
         "ryssland",
-        "eu"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1908,8 +1986,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Energi",
+        "Drönare",
         "Kyjiv",
         "Ukraina"
       ]
