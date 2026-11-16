@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 5809,
-  "last_archived_rotation": "2026-11-16T17:05:25.451923+00:00",
+  "total_archived_events": 5811,
+  "last_archived_rotation": "2026-11-16T17:35:03.427806+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-15-fa64df",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T19:20:00+02:00",
+      "title_sv": "Russian drone hits apartment building in Charkiv",
+      "title_en": "Russian drone hits apartment building in Kharkiv",
+      "summary_sv": "An enemy drone struck a high-rise residential building in Charkiv.",
+      "summary_en": "An enemy drone struck a high-rise residential building in Kharkiv.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4184937-russian-drone-hits-apartment-building-in-kharkiv.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Ukraina",
+        "Drönare",
+        "Civila mål"
+      ]
+    },
+    {
+      "id": "evt-2026-11-15-f1b6ea",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T19:12:00+02:00",
+      "title_sv": "Witkoff and Kushner complicated Ukraine talks by opening 'Pandora's box' on European security",
+      "title_en": "Witkoff and Kushner complicated Ukraine talks by opening 'Pandora's box' on European security",
+      "summary_sv": "Faced with Russia's unyielding position on ending its war against Ukraine, U.S. President Donald Trump's special envoys Steve Witkoff and Jared Kushner complicated the situation by adding the question of Europe's security architecture, which pleased the Kremlin, The Financial Times’s Ben Hall wrote on Nov.",
+      "summary_en": "Faced with Russia's unyielding position on ending its war against Ukraine, U.S. President Donald Trump's special envoys Steve Witkoff and Jared Kushner complicated the situation by adding the question of Europe's security architecture, which pleased the Kremlin, The Financial Times’s Ben Hall wrote on Nov.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "eu",
+        "ukraina",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/witkoff-and-kushner-played-into-putin-s-hands-what-has-changed-following-latest-talks-on-ukraine-50659359.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-15-dafb32",
       "date": "2026-11-15",
@@ -518,10 +597,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
         "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -541,8 +620,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -825,10 +904,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "eu",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1058,10 +1137,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
         "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1081,9 +1160,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Robotanfall",
         "Ukraina",
-        "Luftförsvar",
-        "Robotanfall"
+        "Luftförsvar"
       ]
     },
     {
@@ -1795,10 +1874,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
         "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1944,11 +2023,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "usa",
-        "ukraina",
+        "uk",
         "ryssland",
-        "uk"
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1968,8 +2047,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Kyjiv"
       ]
     },
@@ -2060,12 +2139,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "usa",
+        "uk",
+        "ryssland",
         "ukraina",
         "kina",
-        "ryssland",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2085,8 +2164,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
