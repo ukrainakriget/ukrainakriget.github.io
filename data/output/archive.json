@@ -1,7 +1,57 @@
 {
-  "total_archived_events": 5838,
-  "last_archived_rotation": "2026-11-17T00:05:08.319811+00:00",
+  "total_archived_events": 5840,
+  "last_archived_rotation": "2026-11-17T00:34:49.333618+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-16-baff45",
+      "date": "2026-11-16",
+      "timestamp": "2026-11-16T02:34:00+02:00",
+      "title_sv": "Ukrainian athlete and servicewoman Rayana killed in action",
+      "title_en": "Ukrainian athlete and servicewoman Rayana killed in action",
+      "summary_sv": "Rayana, a Muay Thai coach and drone operator with the Sheikh Mansur Chechen Volunteer Battalion, has been killed in the war.",
+      "summary_en": "Rayana, a Muay Thai coach and drone operator with the Sheikh Mansur Chechen Volunteer Battalion, has been killed in the war.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från Ukrinform samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from Ukrinform and official emergency services."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4184949-ukrainian-athlete-and-servicewoman-rayana-killed-in-action.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "Ukrinform",
+          "titel": "Ukrainian athlete and servicewoman Rayana killed in action",
+          "url": "https://www.ukrinform.net/rubric-society/4184949-ukrainian-athlete-and-servicewoman-rayana-killed-in-action.html"
+        },
+        {
+          "kalla": "Ukrinform",
+          "titel": "Ukrainian athlete and servicewoman Rayana killed in action",
+          "url": "https://www.ukrinform.net/rubric-ato/4184949-ukrainian-athlete-and-servicewoman-rayana-killed-in-action.html"
+        }
+      ],
+      "cluster_count": 2
+    },
     {
       "id": "evt-2026-11-16-a01a2b",
       "date": "2026-11-16",
@@ -190,6 +240,44 @@
       "tags": [
         "Infrastruktur",
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-16-f75c56",
+      "date": "2026-11-16",
+      "timestamp": "2026-11-16T00:13:14+00:00",
+      "title_sv": "Russia's mega-rich are already imagining a future after Putin",
+      "title_en": "Russia's mega-rich are already imagining a future after Putin",
+      "summary_sv": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "summary_en": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -448,10 +536,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -471,9 +559,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -528,10 +616,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -551,8 +639,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Lviv",
-        "Ukraina"
+        "Ukraina",
+        "Lviv"
       ]
     },
     {
@@ -606,11 +694,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "uk",
-        "eu",
         "ukraina",
+        "ryssland",
+        "uk",
         "usa",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -630,8 +718,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -991,10 +1079,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
-        "eu",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1014,8 +1102,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1147,11 +1235,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "eu",
         "ukraina",
+        "ryssland",
+        "uk",
         "usa",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1172,8 +1260,8 @@
       "arkiverad": true,
       "tags": [
         "Ukraina",
-        "Kyjiv",
-        "Energi"
+        "Energi",
+        "Kyjiv"
       ]
     },
     {
@@ -1654,10 +1742,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1677,8 +1765,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1961,10 +2049,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1984,8 +2072,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -2194,10 +2282,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2217,8 +2305,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Robotanfall",
+        "Ukraina",
         "Luftförsvar"
       ]
     },
