@@ -1,6 +1,6 @@
 {
-  "total_archived_events": 5979,
-  "last_archived_rotation": "2026-11-18T01:35:24.467565+00:00",
+  "total_archived_events": 5980,
+  "last_archived_rotation": "2026-11-18T02:05:55.758549+00:00",
   "events": [
     {
       "id": "evt-2026-11-17-096c2c",
@@ -37,6 +37,43 @@
       "tags": [
         "Ukraina",
         "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-17-77b18c",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T02:40:19+01:00",
+      "title_sv": "Japan: Ryska plan har kränkt vårt luftrum",
+      "title_en": "Japan: Russian planes have violated our airspace",
+      "summary_sv": "Två flygplan som misstänks komma från Ryssland har kränkt Japans luftrum, uppger japanska regeringsföreträdare natten mot tisdagen, svensk tid. Även i Taiwan upptäckte man två ryska militärflygplan som flög in i landets luftförsvarsidentifieringszon.",
+      "summary_en": "Two aircraft suspected of coming from Russia have violated Japan's airspace, Japanese government officials say on Tuesday night, Swedish time. Also in Taiwan, two Russian military aircraft were spotted flying into the country's air defense identification zone.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "SVT Nyheter",
+      "kallurl": "https://www.svt.se/nyheter/utrikes/japan-ryska-plan-har-krankt-vart-luftrum",
+      "kallkategori": "Svensk Public Service",
+      "arkiverad": true,
+      "tags": [
+        "Luftförsvar",
+        "Ukraina"
       ]
     },
     {
@@ -968,10 +1005,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
