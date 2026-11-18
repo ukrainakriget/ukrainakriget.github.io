@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 5974,
-  "last_archived_rotation": "2026-11-17T23:35:26.295625+00:00",
+  "total_archived_events": 5976,
+  "last_archived_rotation": "2026-11-18T00:05:43.169980+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-17-5cf306",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T01:57:00+02:00",
+      "title_sv": "Another missile salvo hits Crimean Bridge",
+      "title_en": "Another missile salvo hits Crimean Bridge",
+      "summary_sv": "A series of powerful explosions was reported early Nov. 17 near Kerch in Russian-occupied Crimea, with local Telegram channels reporting at least 15 hits on the Crimean Bridge. Vehicle traffic on the bridge was temporarily halted, for the second time in less than 24 hours.",
+      "summary_en": "A series of powerful explosions was reported early Nov. 17 near Kerch in Russian-occupied Crimea, with local Telegram channels reporting at least 15 hits on the Crimean Bridge. Vehicle traffic on the bridge was temporarily halted, for the second time in less than 24 hours.",
+      "location_name": "Krym",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/another-missile-salvo-hits-crimean-bridge-50659782.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Robotanfall",
+        "Krym",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-17-a92362",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T01:40:00+02:00",
+      "title_sv": "U.S. offers no explanation for throttling Ukraine’s access to Starshield",
+      "title_en": "U.S. offers no explanation for throttling Ukraine’s access to Starshield",
+      "summary_sv": "Speed restrictions on the Starshield satellite communications system over Russia-occupied Ukrainian territory had remained in effect for a week, Ukraine’s chargé d’affaires in the United States, Denys Sienik, said on Nov. 16.",
+      "summary_en": "Speed restrictions on the Starshield satellite communications system over Russia-occupied Ukrainian territory had remained in effect for a week, Ukraine’s chargé d’affaires in the United States, Denys Sienik, said on Nov. 16.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/u-s-offers-no-explanation-for-throttling-ukraine-s-access-to-starshield-50659775.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-17-94cea2",
       "date": "2026-11-17",
@@ -776,9 +854,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "uk",
         "ryssland",
-        "usa",
         "ukraina"
       ],
       "syfte": {
@@ -3113,11 +3191,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "usa",
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3137,9 +3215,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
         "Krym",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
