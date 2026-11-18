@@ -1,23 +1,98 @@
 {
-  "last_updated": "2026-11-18T12:05:48.792327+00:00",
+  "last_updated": "2026-11-18T12:32:27.394767+00:00",
   "total_active_events": 161,
   "events": [
+    {
+      "id": "evt-2026-11-18-57d554",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T14:22:00+02:00",
+      "title_sv": "Ukrainska styrkor attackerar bro över floden Siverskyi Donets",
+      "title_en": "Ukrainian forces strike bridge over Siverskyi Donets River",
+      "summary_sv": "Ukrainas försvarsstyrkor träffade en korsning över floden Siverskyi Donets nära den tillfälligt ockuperade staden Stanytsia Luhanska den 17 november och under natten till den 18 november.",
+      "summary_en": "Ukraine's Defense Forces struck a crossing over the Siverskyi Donets River near the temporarily occupied town of Stanytsia Luhanska on November 17 and during the night of November 18.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186002-ukrainian-forces-strike-bridge-over-siverskyi-donets-river.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-18-baa896",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T14:03:00+02:00",
+      "title_sv": "Ryska styrkor attackerar centrala Odesa för tredje gången, dödssiffran stiger till fyra",
+      "title_en": "Russian forces strike central Odesa for third time, death toll rises to four",
+      "summary_sv": "Ryska styrkor har attackerat centrala Odesa för tredje gången sedan i morse, vilket bringar dödssiffran från attackerna till fyra.",
+      "summary_en": "Russian forces have attacked central Odesa for the third time since this morning, bringing the death toll from the attacks to four.",
+      "location_name": "Odesa",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4185995-russian-forces-strike-central-odesa-for-third-time-death-toll-rises-to-four.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Odesa",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-18-87a700",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T13:51:00+02:00",
-      "title_sv": "Ukrainian air defenses intercept 126 Russian drones during overnight attack – Air Force",
+      "title_sv": "Ukrainskt luftvärn fångar upp 126 ryska drönare under nattens attack – Flygvapnet",
       "title_en": "Ukrainian air defenses intercept 126 Russian drones during overnight attack – Air Force",
-      "summary_sv": "Russian forces launched more than 140 attack drones at Ukraine overnight, most of which were intercepted by Ukrainian air defenses, the Ukrainian Air Force reported on Nov. 18.",
+      "summary_sv": "Ryska styrkor lanserade mer än 140 attackdrönare mot Ukraina under natten, varav de flesta fångades upp av ukrainskt luftförsvar, rapporterade det ukrainska flygvapnet den 18 november.",
       "summary_en": "Russian forces launched more than 140 attack drones at Ukraine overnight, most of which were intercepted by Ukrainian air defenses, the Ukrainian Air Force reported on Nov. 18.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -37,29 +112,29 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Luftförsvar",
-        "Infrastruktur",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-902f80",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T13:41:00+02:00",
-      "title_sv": "Sybiha outlines Ukraine's expectations for Trump-Xi-Putin meeting",
+      "title_sv": "Sybiha beskriver Ukrainas förväntningar på mötet mellan Trump och Xi och Putin",
       "title_en": "Sybiha outlines Ukraine's expectations for Trump-Xi-Putin meeting",
-      "summary_sv": "Ukraine expects the United States and China to use their influence over Russia during the meeting between U.S. President Donald Trump, Chinese President Xi Jinping and Kremlin leader Vladimir Putin to increase pressure on Moscow and bring about an end to the war.",
+      "summary_sv": "Ukraina förväntar sig att USA och Kina använder sitt inflytande över Ryssland under mötet mellan USA:s president Donald Trump, Kinas president Xi Jinping och Kremls ledare Vladimir Putin för att öka trycket på Moskva och få till stånd ett slut på kriget.",
       "summary_en": "Ukraine expects the United States and China to use their influence over Russia during the meeting between U.S. President Donald Trump, Chinese President Xi Jinping and Kremlin leader Vladimir Putin to increase pressure on Moscow and bring about an end to the war.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "kina",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -86,18 +161,18 @@
       "id": "evt-2026-11-18-4d480e",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T13:37:00+02:00",
-      "title_sv": "EU looks to blacklist Russian military veterans from travel across Europe",
+      "title_sv": "EU ser till att svartlista ryska militärveteraner från resor över hela Europa",
       "title_en": "EU looks to blacklist Russian military veterans from travel across Europe",
-      "summary_sv": "The European Union will propose banning former Russian combatants from entering the bloc as part of a new package of sanctions, Bloomberg reported on November 18, citing sources familiar with the matter.",
+      "summary_sv": "Europeiska unionen kommer att föreslå att före detta ryska kombattanter förbjuds att komma in i blocket som en del av ett nytt sanktionspaket, rapporterade Bloomberg den 18 november, med hänvisning till källor som är bekanta med saken.",
       "summary_en": "The European Union will propose banning former Russian combatants from entering the bloc as part of a new package of sanctions, Bloomberg reported on November 18, citing sources familiar with the matter.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -117,17 +192,17 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-3a8394",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T13:22:00+02:00",
-      "title_sv": "European Commission unveils plan for additional support to Ukraine in 2027",
+      "title_sv": "Europeiska kommissionen presenterar en plan för ytterligare stöd till Ukraina 2027",
       "title_en": "European Commission unveils plan for additional support to Ukraine in 2027",
-      "summary_sv": "The European Commission has proposed covering two-thirds of Ukraine's funding gap in 2027 by providing a new EUR 45 billion loan.",
+      "summary_sv": "Europeiska kommissionen har föreslagit att täcka två tredjedelar av Ukrainas finansieringsgap 2027 genom att tillhandahålla ett nytt lån på 45 miljarder euro.",
       "summary_en": "The European Commission has proposed covering two-thirds of Ukraine's funding gap in 2027 by providing a new EUR 45 billion loan.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -155,24 +230,24 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-5d5b7e",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T13:19:00+02:00",
-      "title_sv": "19-year-old Kyiv woman charged with fatally poisoning Colombian veteran of Ukraine's army for $1K",
+      "title_sv": "19-årig Kyjiv-kvinna åtalad för att ha dödligt förgiftat colombiansk veteran från Ukrainas armé för 1 000 USD",
       "title_en": "19-year-old Kyiv woman charged with fatally poisoning Colombian veteran of Ukraine's army for $1K",
-      "summary_sv": "A 19-year-old Kyiv woman was charged with contract murder after fatally poisoning a 32-year-old Colombian veteran of Ukraine's Armed Forces in a rented apartment for a promised $1,000, Kyiv City Prosecutor's Office reported on Nov. 18.",
+      "summary_sv": "En 19-årig kvinna från Kyjiv åtalades för kontraktsmord efter att ha dödligt förgiftat en 32-årig colombiansk veteran från Ukrainas väpnade styrkor i en hyrd lägenhet för utlovade 1 000 dollar, rapporterade Kyjivs åklagarmyndighet den 18 november.",
       "summary_en": "A 19-year-old Kyiv woman was charged with contract murder after fatally poisoning a 32-year-old Colombian veteran of Ukraine's Armed Forces in a rented apartment for a promised $1,000, Kyiv City Prosecutor's Office reported on Nov. 18.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -201,17 +276,17 @@
       "id": "evt-2026-11-18-d2b89b",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T13:19:00+02:00",
-      "title_sv": "Russia has shipped 500 million barrels of oil to India so far in 2026",
+      "title_sv": "Ryssland har skickat 500 miljoner fat olja till Indien hittills 2026",
       "title_en": "Russia has shipped 500 million barrels of oil to India so far in 2026",
-      "summary_sv": "Russia boosted its oil shipments to India by 7% year-over-year in September 2026 to 6.98 million metric tons – or 51 million barrels – worth $4.75 billion, Russian news agency Interfax reported.",
+      "summary_sv": "Ryssland ökade sina oljeleveranser till Indien med 7 % jämfört med föregående år i september 2026 till 6,98 miljoner ton – eller 51 miljoner fat – värda 4,75 miljarder dollar, rapporterade den ryska nyhetsbyrån Interfax.",
       "summary_en": "Russia boosted its oil shipments to India by 7% year-over-year in September 2026 to 6.98 million metric tons – or 51 million barrels – worth $4.75 billion, Russian news agency Interfax reported.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -231,26 +306,26 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-ea5092",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:54:00+02:00",
-      "title_sv": "Rome theater pulls plug on Russian Culture Ministry film showcase",
+      "title_sv": "Roms teater drar ur kontakten till det ryska kulturministeriets filmvisning",
       "title_en": "Rome theater pulls plug on Russian Culture Ministry film showcase",
-      "summary_sv": "A Kremlin-backed Russian film festival set for Nov. 21–23 in Rome was canceled after the theater refused to rent out its hall over security concerns and EU sanctions, European Parliament Vice President Pina Picierno wrote on Nov. 17.",
+      "summary_sv": "En Kreml-stödd rysk filmfestival som äger rum den 21–23 november i Rom ställdes in efter att teatern vägrat hyra ut sin sal på grund av säkerhetsproblem och EU-sanktioner, skrev Europaparlamentets vicepresident Pina Picierno den 17 november.",
       "summary_en": "A Kremlin-backed Russian film festival set for Nov. 21–23 in Rome was canceled after the theater refused to rent out its hall over security concerns and EU sanctions, European Parliament Vice President Pina Picierno wrote on Nov. 17.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -277,17 +352,17 @@
       "id": "evt-2026-11-18-f685df",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:52:00+02:00",
-      "title_sv": "Agricultural enterprise, gas station damaged in Russian attack on Vinnytsia region",
+      "title_sv": "Jordbruksföretag, bensinstation skadad i rysk attack mot Vinnytsia-regionen",
       "title_en": "Agricultural enterprise, gas station damaged in Russian attack on Vinnytsia region",
-      "summary_sv": "An agricultural enterprise, residential houses and a gas station were damaged in a Russian attack on the Vinnytsia region.",
+      "summary_sv": "Ett jordbruksföretag, bostadshus och en bensinstation skadades i en rysk attack mot Vinnytsia-regionen.",
       "summary_en": "An agricultural enterprise, residential houses and a gas station were damaged in a Russian attack on the Vinnytsia region.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -315,16 +390,16 @@
       "id": "evt-2026-11-18-28b4b5",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:39:00+02:00",
-      "title_sv": "Demining and reconstruction: Ukraine's Economy Ministry and UNOPS sign memorandum",
+      "title_sv": "Minröjning och återuppbyggnad: Ukrainas ekonomiministerium och UNOPS undertecknar memorandum",
       "title_en": "Demining and reconstruction: Ukraine's Economy Ministry and UNOPS sign memorandum",
-      "summary_sv": "Ukraine's Ministry of Economy and Environment and the United Nations Office for Project Services (UNOPS) have signed a five-year memorandum of understanding establishing a framework for cooperation in support of Ukraine's recovery.",
+      "summary_sv": "Ukrainas ministerium för ekonomi och miljö och FN:s kontor för projekttjänster (UNOPS) har undertecknat ett femårigt samförståndsavtal som upprättar ett ramverk för samarbete till stöd för Ukrainas återhämtning.",
       "summary_en": "Ukraine's Ministry of Economy and Environment and the United Nations Office for Project Services (UNOPS) have signed a five-year memorandum of understanding establishing a framework for cooperation in support of Ukraine's recovery.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -344,17 +419,17 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-dd3900",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:37:00+02:00",
-      "title_sv": "Portugal to allocate additional EUR 50M for weapons for Ukraine",
+      "title_sv": "Portugal kommer att anslå ytterligare 50 miljoner euro för vapen till Ukraina",
       "title_en": "Portugal to allocate additional EUR 50M for weapons for Ukraine",
-      "summary_sv": "Portugal will allocate an additional EUR 50 million to purchase weapons for Ukraine under the PURL initiative.",
+      "summary_sv": "Portugal kommer att anslå ytterligare 50 miljoner euro för att köpa vapen till Ukraina under PURL-initiativet.",
       "summary_en": "Portugal will allocate an additional EUR 50 million to purchase weapons for Ukraine under the PURL initiative.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -389,18 +464,18 @@
       "id": "evt-2026-11-18-ccfdf1",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:34:00+02:00",
-      "title_sv": "Russia tests Geran-6 attack drone capable of 1,000 km/h, Ukrainian lawmaker warns",
+      "title_sv": "Ryssland testar Geran-6 attackdrönare som klarar 1 000 km/h, varnar ukrainsk lagstiftare",
       "title_en": "Russia tests Geran-6 attack drone capable of 1,000 km/h, Ukrainian lawmaker warns",
-      "summary_sv": "Russia is testing the Geran-6 jet-powered attack drone, capable of reaching speeds of up to 1,000 kilometers per hour, making it difficult for interceptor drones to shoot down, Ukrainian lawmaker Fedir Venislavskyi, a member of parliament’s Committee on National Security, Defense and Intelligence, said in an interview with RBC-Ukraine.",
+      "summary_sv": "Ryssland testar den jetdrivna attackdrönaren Geran-6, som kan nå hastigheter på upp till 1 000 kilometer i timmen, vilket gör det svårt för interceptordrönare att skjuta ner, sa den ukrainske lagstiftaren Fedir Venislavskyi, en medlem av parlamentets kommitté för nationell säkerhet, försvar och underrättelsetjänst, i en intervju med RBC-Ukraine.",
       "summary_en": "Russia is testing the Geran-6 jet-powered attack drone, capable of reaching speeds of up to 1,000 kilometers per hour, making it difficult for interceptor drones to shoot down, Ukrainian lawmaker Fedir Venislavskyi, a member of parliament’s Committee on National Security, Defense and Intelligence, said in an interview with RBC-Ukraine.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -426,20 +501,60 @@
       ]
     },
     {
+      "id": "evt-2026-11-18-90da5a",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T12:28:15+00:00",
+      "title_sv": "Inte bara jetplan utan missiler: Ukrainas Gripen-avtal tar nu sikte på Rysslands bombfartyg",
+      "title_en": "Not just jets but missiles: Ukraine’s Gripen deal now takes aim at Russia’s bomb carriers",
+      "summary_sv": "Kyjiv vill ha Meteorer i handen när jetplanen anländer, så stridsflygplanen kan gå i strid snabbt.",
+      "summary_en": "Kyiv wants Meteors in hand when the jets arrive, so the fighters can go into combat fast.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/18/not-just-jets-but-missiles-ukraines-gripen-deal-now-takes-aim-at-russias-bomb-carriers/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Kyjiv",
+        "Robotanfall",
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-11-18-b36263",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:19:00+02:00",
-      "title_sv": "Russian forces strike Odesa for second time, death toll rises to three",
+      "title_sv": "Ryska styrkor attackerar Odesa för andra gången, dödssiffran stiger till tre",
       "title_en": "Russian forces strike Odesa for second time, death toll rises to three",
-      "summary_sv": "Russian forces struck Odesa for a second time on the morning of November 18, damaging an educational institution. The death toll from the attacks has risen to three.",
+      "summary_sv": "Ryska styrkor slog Odesa för andra gången på morgonen den 18 november och skadade en utbildningsinstitution. Dödssiffran i attackerna har stigit till tre.",
       "summary_en": "Russian forces struck Odesa for a second time on the morning of November 18, damaging an educational institution. The death toll from the attacks has risen to three.",
       "location_name": "Odesa",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -459,26 +574,106 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Odesa",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-18-72b752",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T12:16:45+00:00",
+      "title_sv": "Alla EU-medlemmar borde backa upp ett lån på 45 miljarder euro till Ukraina, säger von der Leyen – Europe live",
+      "title_en": "All EU members should back €45bn loan for Ukraine, says von der Leyen – Europe live",
+      "summary_sv": "Kommissionens ordförande säger att även länder som inte vill stödja Ukraina militärt fortfarande kan tillhandahålla finansiering för den civila delen av lånet Ukrainas utrikesminister Andrii ⁠Sybiha uppmanade Kina och USA att utöva påtryckningar på Ryssland för att avsluta sitt ⁠krig i Ukraina.",
+      "summary_en": "Commission president says even countries that do not wish to support Ukraine militarily can still provide funding for civilian part of loan Ukraine’s foreign minister Andrii ⁠Sybiha urged China and the United ⁠States ​to apply pressure on Russia to end its ⁠war in Ukraine.Chinese president Xi Jinping, US ⁠president Donald Trump and Russian...",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "kina",
+        "ukraina",
+        "eu",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/live/2026/nov/18/europe-ukraine-russia-eu-germany-serbia-latest-news-updates",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-18-e83544",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T12:15:11+00:00",
+      "title_sv": "Ryssland lovade afrikanska kvinnor en dubbel utbildning, men en ukrainsk NGO säger att dess dokument placerar omkring 50 av dem i den zon där Ryssland bygger Shahed-drönare",
+      "title_en": "Russia promised African women a dual education, but a Ukrainian NGO says its documents place about 50 of them in the zone where Russia builds Shahed drones",
+      "summary_sv": "Två afrikanska regeringar undertecknade arbetsavtal med Rysslands Alabuga-zon den 28 oktober, och DR Kongos presidentskap namngav zonens Alabuga Start-rekryteringsprogram.",
+      "summary_en": "Two African governments signed labor deals with Russia’s Alabuga zone on 28 October, and DR Congo’s presidency named the zone’s Alabuga Start recruitment program.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/18/russia-promised-african-women-a-dual-education-but-a-ukrainian-ngo-says-its-documents-place-about-50-of-them-in-the-zone-where-russia-builds-shahed-drones/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
         "Ukraina",
-        "Odesa"
+        "Drönare"
       ]
     },
     {
       "id": "evt-2026-11-18-d14e5e",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:09:00+02:00",
-      "title_sv": "Ukraine downs 126 of over 140 Russian drones as strikes damage substations and farms in 5 oblasts",
+      "title_sv": "Ukraina slår ner 126 av över 140 ryska drönare när attacker skadar transformatorstationer och gårdar i 5 oblaster",
       "title_en": "Ukraine downs 126 of over 140 Russian drones as strikes damage substations and farms in 5 oblasts",
-      "summary_sv": "Russian attack drones struck energy infrastructure, civilian enterprises, and residential buildings across five Ukrainian oblasts overnight, injuring 12 people at a Charkiv Oblast market, Prime Minister Serhii Koretskyi reported on Nov. 18.",
+      "summary_sv": "Ryska attackdrönare träffade energiinfrastruktur, civila företag och bostadshus i fem ukrainska oblaster över natten och skadade 12 personer på en marknad i Charkiv Oblast, rapporterade premiärminister Serhii Koretskyi den 18 november.",
       "summary_en": "Russian attack drones struck energy infrastructure, civilian enterprises, and residential buildings across five Ukrainian oblasts overnight, injuring 12 people at a Kharkiv Oblast market, Prime Minister Serhii Koretskyi reported on Nov. 18.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -498,9 +693,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Charkiv",
         "Civila mål",
         "Ukraina",
-        "Charkiv",
         "Drönare"
       ]
     },
@@ -508,18 +703,18 @@
       "id": "evt-2026-11-18-f69828",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:08:00+02:00",
-      "title_sv": "Russia demands NATO, EU stop viewing it as an ‘adversary or threat’ — NYT",
+      "title_sv": "Ryssland kräver att NATO, EU slutar se det som en \"motståndare eller hot\" - NYT",
       "title_en": "Russia demands NATO, EU stop viewing it as an ‘adversary or threat’ — NYT",
-      "summary_sv": "The Kremlin has demanded that the EU and NATO stop viewing Russia as an “adversary or threat,” The New York Times reported on Nov. 17. The document also calls on both organizations to abandon their “policy of seeking to inflict a strategic defeat on Russia.”",
+      "summary_sv": "Kreml har krävt att EU och Nato slutar se Ryssland som en \"motståndare eller hot\", rapporterade New York Times den 17 november. Dokumentet uppmanar också båda organisationerna att överge sin \"politik att försöka tillfoga Ryssland ett strategiskt nederlag\".",
       "summary_en": "The Kremlin has demanded that the EU and NATO stop viewing Russia as an “adversary or threat,” The New York Times reported on Nov. 17. The document also calls on both organizations to abandon their “policy of seeking to inflict a strategic defeat on Russia.”",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -539,25 +734,25 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-1e6237",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:03:00+02:00",
-      "title_sv": "Russian strike on downtown Odesa kills two and wounds several others",
+      "title_sv": "Rysk attack mot centrala Odesa dödar två och skadar flera andra",
       "title_en": "Russian strike on downtown Odesa kills two and wounds several others",
-      "summary_sv": "Russian forces struck downtown Odesa on November 18, killing two people and wounding several others, Odesa City Military Administration head Serhiy Lysak reported.",
+      "summary_sv": "Ryska styrkor slog till i centrala Odesa den 18 november och dödade två personer och skadade flera andra, rapporterade Odesa City Military Administrations chef Serhiy Lysak.",
       "summary_en": "Russian forces struck downtown Odesa on November 18, killing two people and wounding several others, Odesa City Military Administration head Serhiy Lysak reported.",
       "location_name": "Odesa",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -577,27 +772,27 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Odesa",
         "Ukraina",
-        "Odesa"
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-c7ed33",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T12:00:00+02:00",
-      "title_sv": "Russian attacks cause new power outages in eight Ukrainian regions",
+      "title_sv": "Ryska attacker orsakar nya strömavbrott i åtta ukrainska regioner",
       "title_en": "Russian attacks cause new power outages in eight Ukrainian regions",
-      "summary_sv": "Russian attacks caused new power outages in Ukraine's Dnipropetrovsk, Donetsk, Zhytomyr, Zaporizjzja, Charkiv, Sumy, Rivne and Cherkasy regions as of Wednesday morning.",
+      "summary_sv": "Ryska attacker orsakade nya strömavbrott i Ukrainas regioner Dnipropetrovsk, Donetsk, Zhytomyr, Zaporizjzja, Charkiv, Sumy, Rivne och Cherkasy från och med onsdagsmorgonen.",
       "summary_en": "Russian attacks caused new power outages in Ukraine's Dnipropetrovsk, Donetsk, Zhytomyr, Zaporizhzhia, Kharkiv, Sumy, Rivne and Cherkasy regions as of Wednesday morning.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -617,25 +812,25 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Charkiv",
         "Energi",
-        "Ukraina",
-        "Charkiv"
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-18-152f98",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T11:56:00+02:00",
-      "title_sv": "Downgraded macro forecast will not trigger major rewrite of 2027 state budget — Ukraine's FM",
+      "title_sv": "Nedgraderad makroprognos kommer inte att utlösa någon större omskrivning av 2027 års statsbudget — Ukrainas FM",
       "title_en": "Downgraded macro forecast will not trigger major rewrite of 2027 state budget — Ukraine's FM",
-      "summary_sv": "Downgrades to Ukraine’s macroeconomic forecast will not trigger a major overhaul of the draft 2027 state budget currently being prepared for its second reading in parliament, Finance Minister Serhii Marchenko said, Interfax reported on Nov. 17.",
+      "summary_sv": "Nedgraderingar till Ukrainas makroekonomiska prognos kommer inte att utlösa en större översyn av utkastet till statsbudget för 2027 som för närvarande förbereds för dess andra behandling i parlamentet, sa finansminister Serhii Marchenko, rapporterade Interfax den 17 november.",
       "summary_en": "Downgrades to Ukraine’s macroeconomic forecast will not trigger a major overhaul of the draft 2027 state budget currently being prepared for its second reading in parliament, Finance Minister Serhii Marchenko said, Interfax reported on Nov. 17.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -655,25 +850,25 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-05ca0d",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T11:51:00+02:00",
-      "title_sv": "Residential building damaged in Russian attack on central Odesa",
+      "title_sv": "Bostadsbyggnad skadad i rysk attack mot centrala Odesa",
       "title_en": "Residential building damaged in Russian attack on central Odesa",
-      "summary_sv": "A residential building in the city centre of Odesa was damaged in a Russian attack on the morning of November 18.",
+      "summary_sv": "Ett bostadshus i centrala Odesa skadades i en rysk attack på morgonen den 18 november.",
       "summary_en": "A residential building in the city centre of Odesa was damaged in a Russian attack on the morning of November 18.",
       "location_name": "Odesa",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -693,27 +888,27 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
+        "Odesa",
         "Civila mål",
-        "Ukraina",
-        "Odesa"
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-18-d27100",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T11:49:00+02:00",
-      "title_sv": "Russia unlikely to finish Kerch Bridge repairs before war ends — Defense Express",
+      "title_sv": "Ryssland kommer sannolikt inte att slutföra reparationerna av Kerchbron innan kriget tar slut - Defense Express",
       "title_en": "Russia unlikely to finish Kerch Bridge repairs before war ends — Defense Express",
-      "summary_sv": "Rebuilding the Kerch Bridge arch destroyed in the November 17 Ukrainian strike could take over two years, though Russia is unlikely to finish the work before the war ends, Defense Express reported.",
+      "summary_sv": "Återuppbyggnaden av Kerch-brons båge som förstördes i den ukrainska attacken den 17 november kan ta över två år, även om Ryssland sannolikt inte kommer att avsluta arbetet innan kriget tar slut, rapporterade Defense Express.",
       "summary_en": "Rebuilding the Kerch Bridge arch destroyed in the November 17 Ukrainian strike could take over two years, though Russia is unlikely to finish the work before the war ends, Defense Express reported.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -733,25 +928,25 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-18-99cc0d",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T11:46:00+02:00",
-      "title_sv": "Fires break out at two major Krasnodar Krai oil refineries — video",
+      "title_sv": "Bränder bryter ut vid två stora oljeraffinaderier i Krasnodar Krai — video",
       "title_en": "Fires break out at two major Krasnodar Krai oil refineries — video",
-      "summary_sv": "Drones struck two major oil refineries — Afipsky and Ilsky plants — in Russia’s Krasnodar Krai overnight, sparking fires at both facilities, Russian Telegram channel Astra reported on Nov. 18.",
+      "summary_sv": "Drönare träffade två stora oljeraffinaderier – Afipsky och Ilsky-anläggningar – i Rysslands Krasnodar Krai över natten och utlöste bränder vid båda anläggningarna, rapporterade ryska Telegram-kanalen Astra den 18 november.",
       "summary_en": "Drones struck two major oil refineries — Afipsky and Ilsky plants — in Russia’s Krasnodar Krai overnight, sparking fires at both facilities, Russian Telegram channel Astra reported on Nov. 18.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -771,9 +966,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -817,16 +1012,16 @@
       "id": "evt-2026-11-18-326a5a",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T11:32:00+02:00",
-      "title_sv": "Finance Ministry raises UAH 11.05 bln at bond auction",
+      "title_sv": "Finansministeriet höjer UAH 11,05 miljarder på obligationsauktion",
       "title_en": "Finance Ministry raises UAH 11.05 bln at bond auction",
-      "summary_sv": "Ukraine's Finance Ministry raised the equivalent of UAH 11.05 billion for the state budget at a domestic government bond auction on November 17, 2026.",
+      "summary_sv": "Ukrainas finansministerium samlade in motsvarande 11,05 miljarder UAH till statsbudgeten vid en auktion med inhemska statsobligationer den 17 november 2026.",
       "summary_en": "Ukraine's Finance Ministry raised the equivalent of UAH 11.05 billion for the state budget at a domestic government bond auction on November 17, 2026.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -969,17 +1164,17 @@
       "id": "evt-2026-11-18-dcb7a2",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T11:18:00+02:00",
-      "title_sv": "Russian forces strike market in Zlatopil, Charkiv region, injuring 12 people, including child",
+      "title_sv": "Ryska styrkor attackerar marknaden i Zlatopil, Charkiv-regionen och skadade 12 personer, inklusive barn",
       "title_en": "Russian forces strike market in Zlatopil, Kharkiv region, injuring 12 people, including child",
-      "summary_sv": "Russian forces struck a market in the city of Zlatopil in the Charkiv region, injuring 12 people, including an 11-year-old boy.",
+      "summary_sv": "Ryska styrkor slog till på en marknad i staden Zlatopil i Charkiv-regionen och skadade 12 personer, inklusive en 11-årig pojke.",
       "summary_en": "Russian forces struck a market in the city of Zlatopil in the Kharkiv region, injuring 12 people, including an 11-year-old boy.",
       "location_name": "Charkiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -999,17 +1194,17 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Charkiv"
+        "Charkiv",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-18-4bf1ca",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T11:13:00+02:00",
-      "title_sv": "Russian forces attack Kyiv with drones this morning: Debris falls in Darnytskyi district",
+      "title_sv": "Ryska styrkor attackerar Kyjiv med drönare i morse: Skräp faller i Darnytskyi-distriktet",
       "title_en": "Russian forces attack Kyiv with drones this morning: Debris falls in Darnytskyi district",
-      "summary_sv": "Russian forces attacked Kyiv with drones on the morning of Nov. 18, causing drone debris to fall on open ground in the Darnytskyi district, the Kyiv City Military Administration reported.",
+      "summary_sv": "Ryska styrkor attackerade Kyjiv med drönare på morgonen den 18 november, vilket fick drönarskräp att falla på öppen mark i Darnytskyi-distriktet, rapporterade Kyjiv City Military Administration.",
       "summary_en": "Russian forces attacked Kyiv with drones on the morning of Nov. 18, causing drone debris to fall on open ground in the Darnytskyi district, the Kyiv City Military Administration reported.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
@@ -1044,62 +1239,20 @@
       ]
     },
     {
-      "id": "evt-2026-11-18-72b752",
-      "date": "2026-11-18",
-      "timestamp": "2026-11-18T11:11:51+00:00",
-      "title_sv": "All EU members should back €45bn loan for Ukraine, says von der Leyen – Europe live",
-      "title_en": "All EU members should back €45bn loan for Ukraine, says von der Leyen – Europe live",
-      "summary_sv": "Commission president says even countries that do not wish to support Ukraine militarily can still provide funding for civilian part of loan Meanwhile, the Russian Embassy in the Netherlands posted a statement asking if the Netherlands had openly joined ⁠the conflict ⁠in ​Ukraine on Kyiv’s side after a Dutch-based company said its missiles ⁠had...",
-      "summary_en": "Commission president says even countries that do not wish to support Ukraine militarily can still provide funding for civilian part of loan Meanwhile, the Russian Embassy in the Netherlands posted a statement asking if the Netherlands had openly joined ⁠the conflict ⁠in ​Ukraine on Kyiv’s side after a Dutch-based company said its missiles ⁠had...",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ockuperade_ukraina",
-      "parter_intressenter": [
-        "ryssland",
-        "uk",
-        "usa",
-        "ukraina",
-        "eu"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The Guardian (Ukraine)",
-      "kallurl": "https://www.theguardian.com/world/live/2026/nov/18/europe-ukraine-russia-eu-germany-serbia-latest-news-updates",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Kyjiv",
-        "Civila mål",
-        "Ukraina",
-        "Robotanfall"
-      ]
-    },
-    {
       "id": "evt-2026-11-18-663adb",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T10:59:00+02:00",
-      "title_sv": "Russian forces attack industrial infrastructure in Zhytomyr region",
+      "title_sv": "Ryska styrkor attackerar industriell infrastruktur i Zhytomyr-regionen",
       "title_en": "Russian forces attack industrial infrastructure in Zhytomyr region",
-      "summary_sv": "Russian forces launched an overnight strike on industrial infrastructure in the Zhytomyr community.",
+      "summary_sv": "Ryska styrkor inledde en nattattack mot industriell infrastruktur i Zhytomyr-samhället.",
       "summary_en": "Russian forces launched an overnight strike on industrial infrastructure in the Zhytomyr community.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1167,19 +1320,19 @@
       "id": "evt-2026-11-18-30f2f2",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T10:53:21+00:00",
-      "title_sv": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "title_sv": "Steve Rosenberg: Historiska samtal med Xi och Trump är en kupp för Putin",
       "title_en": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "summary_sv": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+      "summary_sv": "Torsdagens möte mellan ledarna för USA, Kina och Ryssland kommer att ge Vladimir Putin en stor scen – men det för honom inte närmare att vinna kriget i Ukraina.",
       "summary_en": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "kina",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1283,9 +1436,9 @@
       "id": "evt-2026-11-18-f4f92c",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T10:40:00+02:00",
-      "title_sv": "U.S. dollar and euro exchange rates for November 18",
+      "title_sv": "Växelkurser för amerikanska dollar och euro för den 18 november",
       "title_en": "U.S. dollar and euro exchange rates for November 18",
-      "summary_sv": "The U.S. dollar fell by UAH 0.05, while the euro gained UAH 0.87.",
+      "summary_sv": "Den amerikanska dollarn föll med 0,05 UAH medan euron steg med 0,87 UAH.",
       "summary_en": "The U.S. dollar fell by UAH 0.05, while the euro gained UAH 0.87.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1359,16 +1512,16 @@
       "id": "evt-2026-11-18-8a5543",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T10:31:00+02:00",
-      "title_sv": "Ukraine’s domestic market fully supplied with vegetable oil – Vysotskyi",
+      "title_sv": "Ukrainas inhemska marknad är fullt försedd med vegetabilisk olja - Vysotskyi",
       "title_en": "Ukraine’s domestic market fully supplied with vegetable oil – Vysotskyi",
-      "summary_sv": "Ukraine's domestic market remains fully supplied with vegetable oil, while exports continue in line with expectations.",
+      "summary_sv": "Ukrainas hemmamarknad är fortfarande fullt försörjd med vegetabilisk olja, medan exporten fortsätter i linje med förväntningarna.",
       "summary_en": "Ukraine's domestic market remains fully supplied with vegetable oil, while exports continue in line with expectations.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1388,8 +1541,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1549,9 +1702,9 @@
       "id": "evt-2026-11-18-848eb6",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T10:19:00+02:00",
-      "title_sv": "More than 80 settlements without electricity in Rivne region following Russian attack",
+      "title_sv": "Mer än 80 bosättningar utan elektricitet i Rivne-regionen efter rysk attack",
       "title_en": "More than 80 settlements without electricity in Rivne region following Russian attack",
-      "summary_sv": "More than 80 settlements in Ukraine’s Rivne region were left without electricity following a Russian attack on the morning of November 18.",
+      "summary_sv": "Mer än 80 bosättningar i Ukrainas Rivne-region lämnades utan elektricitet efter en rysk attack på morgonen den 18 november.",
       "summary_en": "More than 80 settlements in Ukraine’s Rivne region were left without electricity following a Russian attack on the morning of November 18.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1588,9 +1741,9 @@
       "id": "evt-2026-11-18-261563",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T09:59:00+02:00",
-      "title_sv": "Drones attack Afipsky and Ilsky oil refineries in Russia – media reports",
+      "title_sv": "Drönare attackerar Afipsky och Ilskys oljeraffinaderier i Ryssland – rapporterar media",
       "title_en": "Drones attack Afipsky and Ilsky oil refineries in Russia – media reports",
-      "summary_sv": "On the night of Wednesday, November 18, drones attacked Russia’s Krasnodar region, targeting the Afipsky and Ilsky oil refineries.",
+      "summary_sv": "Natten till onsdagen den 18 november attackerade drönare Rysslands Krasnodar-region och riktade sig mot oljeraffinaderierna Afipsky och Ilsky.",
       "summary_en": "On the night of Wednesday, November 18, drones attacked Russia’s Krasnodar region, targeting the Afipsky and Ilsky oil refineries.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1706,18 +1859,18 @@
       "id": "evt-2026-11-18-4c386d",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T09:45:02+00:00",
-      "title_sv": "Russo-Ukrainian war, day 1728: Ukraine drops road span of Kerch Bridge into sea",
+      "title_sv": "Rysk-ukrainska kriget, dag 1728: Ukraina släpper vägspännet av Kerch-bron i havet",
       "title_en": "Russo-Ukrainian war, day 1728: Ukraine drops road span of Kerch Bridge into sea",
-      "summary_sv": "Ukraine needed little more than a day to bring down the Kerch Bridge that Russia spent years fortifying, using 11 types of missiles and drones.",
+      "summary_sv": "Ukraina behövde lite mer än en dag för att få ner Kerch-bron som Ryssland ägnat flera år åt att befästa med hjälp av 11 typer av missiler och drönare.",
       "summary_en": "Ukraine needed little more than a day to bring down the Kerch Bridge that Russia spent years fortifying, using 11 types of missiles and drones.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1737,10 +1890,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina",
+        "Drönare",
         "Robotanfall",
-        "Drönare"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1861,9 +2014,9 @@
       "id": "evt-2026-11-18-c279de",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T09:19:00+02:00",
-      "title_sv": "Air defence neutralises 126 Russian drones used to attack Ukraine overnight",
+      "title_sv": "Luftförsvaret neutraliserar 126 ryska drönare som använts för att attackera Ukraina över natten",
       "title_en": "Air defence neutralises 126 Russian drones used to attack Ukraine overnight",
-      "summary_sv": "Ukraine's Air Defence Forces neutralised 126 drones that Russia used to attack Ukraine starting on the evening of November 17.",
+      "summary_sv": "Ukrainas luftförsvarsstyrkor neutraliserade 126 drönare som Ryssland använde för att attackera Ukraina med början på kvällen den 17 november.",
       "summary_en": "Ukraine's Air Defence Forces neutralised 126 drones that Russia used to attack Ukraine starting on the evening of November 17.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1978,19 +2131,19 @@
       "id": "evt-2026-11-18-1085b9",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T08:51:17+00:00",
-      "title_sv": "Russia lost 19 people, likely soldiers, in a Siberian plane crash that evening. The same morning, Ukraine had already dropped an arch of Russia’s bridge to Crimea and lit a refinery near the Urals",
+      "title_sv": "Ryssland förlorade 19 personer, troligen soldater, i en flygolycka i Sibirien samma kväll. Samma morgon hade Ukraina redan släppt en båge av Rysslands bro till Krim och tänt ett raffinaderi nära Ural.",
       "title_en": "Russia lost 19 people, likely soldiers, in a Siberian plane crash that evening. The same morning, Ukraine had already dropped an arch of Russia’s bridge to Crimea and lit a refinery near the Urals",
-      "summary_sv": "Hours after Ukraine hit the Salavat refinery, Putin flew to China for talks with Xi and Trump, carrying a message that Russia’s economy keeps growing.",
+      "summary_sv": "Timmar efter att Ukraina träffade Salavat-raffinaderiet flög Putin till Kina för samtal med Xi och Trump, med ett budskap om att Rysslands ekonomi fortsätter att växa.",
       "summary_en": "Hours after Ukraine hit the Salavat refinery, Putin flew to China for talks with Xi and Trump, carrying a message that Russia’s economy keeps growing.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "kina",
+        "ukraina",
         "uk",
         "usa",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2011,8 +2164,8 @@
       "arkiverad": false,
       "tags": [
         "Krym",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2056,18 +2209,18 @@
       "id": "evt-2026-11-18-530d81",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T08:46:19+00:00",
-      "title_sv": "Putin says the economy is still growing. Ukrainian drones just set two more Russian refineries on fire—a day before his three-way meeting with Xi and Trump",
+      "title_sv": "Putin säger att ekonomin fortfarande växer. Ukrainska drönare satte precis i brand ytterligare två ryska raffinaderier – en dag innan hans trevägsmöte med Xi och Trump",
       "title_en": "Putin says the economy is still growing. Ukrainian drones just set two more Russian refineries on fire—a day before his three-way meeting with Xi and Trump",
-      "summary_sv": "Russian officials reached once more for falling drone debris to explain the fires, without naming the plants Ukraine has gone after again and again this year.",
+      "summary_sv": "Ryska tjänstemän nådde än en gång efter fallande drönarskräp för att förklara bränderna, utan att namnge växterna som Ukraina har gått efter gång på gång i år.",
       "summary_en": "Russian officials reached once more for falling drone debris to explain the fires, without naming the plants Ukraine has gone after again and again this year.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2404,18 +2557,18 @@
       "id": "evt-2026-11-18-606341",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T07:00:36+00:00",
-      "title_sv": "Russian attacks have left Kyiv with devastating power outages – and its mayor in a perilous position",
+      "title_sv": "Ryska attacker har lämnat Kyjiv med förödande strömavbrott – och dess borgmästare i en farlig position",
       "title_en": "Russian attacks have left Kyiv with devastating power outages – and its mayor in a perilous position",
-      "summary_sv": "As Ukraine’s capital suffers through an energy crisis, many blame Vitali Klitschko for failing to prepare for winter Maksym Bakhmatov, the outspoken head of one of Kyiv’s largest city districts, did not mince his words when it came to who was responsible for the devastating power outages plaguing his area’s 600,000 residents.“First, because of...",
+      "summary_sv": "När Ukrainas huvudstad lider av en energikris, skyller många på Vitali Klitschko för att ha misslyckats med att förbereda sig inför vintern Maksym Bakhmatov, den frispråkiga chefen för ett av Kyjivs största stadsdistrikt, skrädde inte ner orden när det kom till vem som var ansvarig för de förödande strömavbrotten som plågade hans områdes 600 000...",
       "summary_en": "As Ukraine’s capital suffers through an energy crisis, many blame Vitali Klitschko for failing to prepare for winter Maksym Bakhmatov, the outspoken head of one of Kyiv’s largest city districts, did not mince his words when it came to who was responsible for the devastating power outages plaguing his area’s 600,000 residents.“First, because of...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2518,9 +2671,9 @@
       "id": "evt-2026-11-18-9b7c76",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T05:21:00+02:00",
-      "title_sv": "Cashless card transactions continue to grow in 2026 – NBU",
+      "title_sv": "Kontantlösa korttransaktioner fortsätter att växa under 2026 – NBU",
       "title_en": "Cashless card transactions continue to grow in 2026 – NBU",
-      "summary_sv": "The number of cashless transactions made with payment cards in Ukraine rose 7.5% year-on-year in January-September 2026, while their total value increased 16.6%.",
+      "summary_sv": "Antalet kontantlösa transaktioner gjorda med betalkort i Ukraina ökade med 7,5 % på årsbasis i januari-september 2026, medan deras totala värde ökade med 16,6 %.",
       "summary_en": "The number of cashless transactions made with payment cards in Ukraine rose 7.5% year-on-year in January-September 2026, while their total value increased 16.6%.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2780,18 +2933,18 @@
       "id": "evt-2026-11-18-856383",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T01:41:14+00:00",
-      "title_sv": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
+      "title_sv": "Ukrainas krigsgenomgång: USA:s kritik av Kyjivs djupa attacker i Ryssland är \"ganska dum\", säger Tyskland",
       "title_en": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
-      "summary_sv": "Pentagon policy ⁠chief’s comments on Ukraine’s war tactic sparks disagreement at Nato meeting.",
+      "summary_sv": "Pentagons policychefs kommentarer om Ukrainas krigstaktik väcker oenighet vid Nato-mötet.",
       "summary_en": "Pentagon policy ⁠chief’s comments on Ukraine’s war tactic sparks disagreement at Nato meeting.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2819,9 +2972,9 @@
       "id": "evt-2026-11-18-6cd28b",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T01:29:00+02:00",
-      "title_sv": "Banks' net profit down one-third in first nine months – NBU",
+      "title_sv": "Bankernas nettovinst minskade med en tredjedel under de första nio månaderna – NBU",
       "title_en": "Banks' net profit down one-third in first nine months – NBU",
-      "summary_sv": "Ukrainian banks' net profit fell 33.3% year-on-year in January-September 2026 as the 50% profit tax rate weighed on earnings.",
+      "summary_sv": "Ukrainska bankers nettovinst sjönk med 33,3 % på årsbasis i januari-september 2026 då vinstskatten på 50 % tyngde resultatet.",
       "summary_en": "Ukrainian banks' net profit fell 33.3% year-on-year in January-September 2026 as the 50% profit tax rate weighed on earnings.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -3079,16 +3232,16 @@
       "id": "evt-2026-11-17-240209",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T23:13:28+00:00",
-      "title_sv": "This is how Ukraine finally blew up the Kerch Bridge",
+      "title_sv": "Så här sprängde Ukraina till slut Kerchbron",
       "title_en": "This is how Ukraine finally blew up the Kerch Bridge",
-      "summary_sv": "It took four years, but Ukraine has finally dropped part of the Kerch Bridge into the water. New munitions made it possible.",
+      "summary_sv": "Det tog fyra år, men Ukraina har äntligen släppt en del av Kerchbron i vattnet. Ny ammunition gjorde det möjligt.",
       "summary_en": "It took four years, but Ukraine has finally dropped part of the Kerch Bridge into the water. New munitions made it possible.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3108,8 +3261,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -3230,18 +3383,18 @@
       "id": "evt-2026-11-17-5068e9",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T22:47:58+00:00",
-      "title_sv": "Ukrainian units are turning drones built for deep strikes on Russian assault groups near the front. The tactic is spreading",
+      "title_sv": "Ukrainska enheter vänder drönare byggda för djupa attacker mot ryska attackgrupper nära fronten. Taktiken sprider sig",
       "title_en": "Ukrainian units are turning drones built for deep strikes on Russian assault groups near the front. The tactic is spreading",
-      "summary_sv": "The Ukrainians are using some of their middle-strike drones to attack Russian assault groups. Big drones for close targets.",
+      "summary_sv": "Ukrainarna använder några av sina drönare med mittanfall för att attackera ryska attackgrupper. Stora drönare för nära mål.",
       "summary_en": "The Ukrainians are using some of their middle-strike drones to attack Russian assault groups. Big drones for close targets.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3422,19 +3575,19 @@
       "id": "evt-2026-11-17-99bb11",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T21:36:38+00:00",
-      "title_sv": "Ukraine struck Russia’s Kerch bridge again. The EU firms that helped build it barely suffered.",
+      "title_sv": "Ukraina slog igen Rysslands Kerch-bron. EU-företagen som hjälpte till att bygga den led knappt.",
       "title_en": "Ukraine struck Russia’s Kerch bridge again. The EU firms that helped build it barely suffered.",
-      "summary_sv": "Dutch and German suppliers handed back their profits years late, paid small fines, and kept their names out of the papers—and Western chips now reach Russian missiles through the same loophole.",
+      "summary_sv": "Nederländska och tyska leverantörer lämnade tillbaka sina vinster år för sent, betalade små böter och höll sina namn borta från tidningarna – och västerländska marker når nu ryska missiler genom samma kryphål.",
       "summary_en": "Dutch and German suppliers handed back their profits years late, paid small fines, and kept their names out of the papers—and Western chips now reach Russian missiles through the same loophole.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
+        "eu",
         "uk",
         "usa",
-        "ukraina",
-        "eu"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3454,9 +3607,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
+        "Robotanfall",
         "Ukraina",
-        "Robotanfall"
+        "Infrastruktur"
       ]
     },
     {
@@ -3502,18 +3655,18 @@
       "id": "evt-2026-11-17-77645e",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T21:30:10+00:00",
-      "title_sv": "Britain puts £240 million into more than 1,000 missiles for Ukraine, part of £500 million winter air-defense aid",
+      "title_sv": "Storbritannien lägger 240 miljoner pund på mer än 1 000 missiler för Ukraina, en del av 500 miljoner pund för vinterluftförsvarsstöd",
       "title_en": "Britain puts £240 million into more than 1,000 missiles for Ukraine, part of £500 million winter air-defense aid",
-      "summary_sv": "The decision lands as Russia escalates its campaign against Ukraine’s cities and power grid, with one oblast taking 131 strikes since September.",
+      "summary_sv": "Beslutet landar när Ryssland eskalerar sin kampanj mot Ukrainas städer och elnät, där en region har tagit 131 attacker sedan september.",
       "summary_en": "The decision lands as Russia escalates its campaign against Ukraine’s cities and power grid, with one oblast taking 131 strikes since September.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3534,26 +3687,26 @@
       "arkiverad": false,
       "tags": [
         "Energi",
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
       "id": "evt-2026-11-17-46988f",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T21:24:35+00:00",
-      "title_sv": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title_sv": "Putins Krimbro kollapsar delvis när Zelenskij hyllar en \"oöverträffad\" attack från Ukraina",
       "title_en": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary_sv": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "summary_sv": "Ukraina säger att missil- och drönarattacken på den strategiska bron i det ryskannexerade Krim tog veckor att planera.",
       "summary_en": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3573,11 +3726,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Infrastruktur",
         "Drönare",
+        "Ukraina",
+        "Infrastruktur",
         "Krym",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
@@ -3621,17 +3774,17 @@
       "id": "evt-2026-11-17-f527aa",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T21:06:11+00:00",
-      "title_sv": "Russian military plane crashes, killing all 19 on board",
+      "title_sv": "Ryskt militärplan kraschar och alla 19 ombord omkom",
       "title_en": "Russian military plane crashes, killing all 19 on board",
-      "summary_sv": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "summary_sv": "Rysslands försvarsministerium säger att det preliminärt tror att ett tekniskt fel var orsaken till kraschen i Kemerovo-regionen.",
       "summary_en": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3732,16 +3885,16 @@
       "id": "evt-2026-11-17-9f6057",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T20:52:50+00:00",
-      "title_sv": "UK defense secretary calls strike on Crimean Bridge another sign of Kyiv’s resolve and pledges to stand with it",
+      "title_sv": "Storbritanniens försvarsminister kallar attacken mot Krimbron för ytterligare ett tecken på Kyjivs beslutsamhet och lovar att stå med den",
       "title_en": "UK defense secretary calls strike on Crimean Bridge another sign of Kyiv’s resolve and pledges to stand with it",
-      "summary_sv": "Eleven types of Ukrainian missiles and drones hit the Crimean Bridge during the mission.",
+      "summary_sv": "Elva typer av ukrainska missiler och drönare träffade Krimbron under uppdraget.",
       "summary_en": "Eleven types of Ukrainian missiles and drones hit the Crimean Bridge during the mission.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3761,11 +3914,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Kyjiv",
-        "Infrastruktur",
         "Drönare",
-        "Ukraina"
+        "Kyjiv",
+        "Ukraina",
+        "Infrastruktur",
+        "Robotanfall"
       ]
     },
     {
@@ -3809,17 +3962,17 @@
       "id": "evt-2026-11-17-ea20df",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T20:44:14+00:00",
-      "title_sv": "Russian forces keep faking sweeping advances with AI. A new clip claims a strike in Druzhkivka, but ISW cites it as AI-doctored",
+      "title_sv": "Ryska styrkor fortsätter att fejka svepande framsteg med AI. Ett nytt klipp hävdar en attack i Druzhkivka, men ISW ​​citerar det som AI-doktorerat",
       "title_en": "Russian forces keep faking sweeping advances with AI. A new clip claims a strike in Druzhkivka, but ISW cites it as AI-doctored",
-      "summary_sv": "The clip credits Russia’s 3rd Army Corps, a unit ISW had already linked to suspected AI fakes about Donetsk Oblast’s Fortress Belt.",
+      "summary_sv": "Klippet krediterar Rysslands 3:e armékår, en enhet som ISW redan hade kopplat till misstänkta AI-förfalskningar om Donetsk Oblasts fästningsbälte.",
       "summary_en": "The clip credits Russia’s 3rd Army Corps, a unit ISW had already linked to suspected AI fakes about Donetsk Oblast’s Fortress Belt.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
-        "ukraina"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4037,18 +4190,18 @@
       "id": "evt-2026-11-17-5ddee3",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T20:02:04+00:00",
-      "title_sv": "Poland wants US troops to stay permanently, not rotate amid Russian threat. Pentagon gives green light, but Trump has final word",
+      "title_sv": "Polen vill att amerikanska trupper ska stanna permanent, inte rotera mitt i ryskt hot. Pentagon ger grönt ljus, men Trump har sista ordet",
       "title_en": "Poland wants US troops to stay permanently, not rotate amid Russian threat. Pentagon gives green light, but Trump has final word",
-      "summary_sv": "Poland is near a permanent US base after a Pentagon green light, but the final decision rests with Trump as he trims US forces in Europe.",
+      "summary_sv": "Polen är nära en permanent amerikansk bas efter ett grönt ljus från Pentagon, men det slutliga beslutet vilar på Trump när han trimmar amerikanska styrkor i Europa.",
       "summary_en": "Poland is near a permanent US base after a Pentagon green light, but the final decision rests with Trump as he trims US forces in Europe.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4068,8 +4221,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
-        "Polen"
+        "Polen",
+        "Ukraina"
       ]
     },
     {
@@ -4421,17 +4574,17 @@
       "id": "evt-2026-11-17-f9ad92",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T18:43:59+00:00",
-      "title_sv": "Ukraine signs pact to build its weapons in Finland and thanks Helsinki for 20-mm rounds before a hard winter",
+      "title_sv": "Ukraina undertecknar pakt för att bygga sina vapen i Finland och tackar Helsingfors för 20 mm skott innan en hård vinter",
       "title_en": "Ukraine signs pact to build its weapons in Finland and thanks Helsinki for 20-mm rounds before a hard winter",
-      "summary_sv": "Defense Minister Yevhenii Khmara called joint production a priority, pairing Ukraine’s combat experience with Finland’s industrial base.",
+      "summary_sv": "Försvarsminister Yevhenii Khmara kallade gemensam produktion en prioritet och kopplade ihop Ukrainas stridserfarenhet med Finlands industriella bas.",
       "summary_en": "Defense Minister Yevhenii Khmara called joint production a priority, pairing Ukraine’s combat experience with Finland’s industrial base.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "usa",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -4619,6 +4772,45 @@
       "cluster_count": 2
     },
     {
+      "id": "evt-2026-11-17-048773",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T18:27:51+00:00",
+      "title_sv": "Biden kritiserar Zelenskyy som \"lynnig\" och \"inte lika tacksam\" i nya memoarer",
+      "title_en": "Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir",
+      "summary_sv": "Promise Me, America publicerades strax före den tidigare amerikanska presidentens 84-årsdag när han kämpar mot avancerad cancer I en ny memoarbok ger Joe Biden hård kritik av Volodymyr Zelenskyy, som har lett Ukraina genom fyra och ett halvt års krig mot Ryssland.",
+      "summary_en": "Promise Me, America was published just before the former US president’s 84th birthday as he battles advanced cancer In a new memoir, Joe Biden offers harsh criticism of Volodymyr Zelenskyy, who has led Ukraine through four and a half years of war against Russia.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
       "id": "evt-2026-11-17-54c456",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T18:25:00+02:00",
@@ -4737,18 +4929,18 @@
       "id": "evt-2026-11-17-8f1ffd",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T17:48:38+00:00",
-      "title_sv": "Ukraine releases footage of strike on Crimean Bridge – video",
+      "title_sv": "Ukraina släpper bilder från attacken mot Krimbron – video",
       "title_en": "Ukraine releases footage of strike on Crimean Bridge – video",
-      "summary_sv": "Ukraine has critically damaged the Crimean Bridge linking occupied Crimea with Russia in an overnight missile attack. Ukraine has repeatedly tried to destroy the bridge, using a truck bomb in 2022 and a sea drone strike the following year.",
+      "summary_sv": "Ukraina har allvarligt skadat Krimbron som förbinder det ockuperade Krim med Ryssland i en missilattack över natten. Ukraina har upprepade gånger försökt förstöra bron, med en lastbilsbomb 2022 och en sjödrönareattack året därpå.",
       "summary_en": "Ukraine has critically damaged the Crimean Bridge linking occupied Crimea with Russia in an overnight missile attack. Ukraine has repeatedly tried to destroy the bridge, using a truck bomb in 2022 and a sea drone strike the following year.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4768,11 +4960,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Infrastruktur",
         "Drönare",
+        "Ukraina",
+        "Infrastruktur",
         "Krym",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
@@ -4817,18 +5009,18 @@
       "id": "evt-2026-11-17-541fe6",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T17:30:40+00:00",
-      "title_sv": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+      "title_sv": "Hur Ukraina slog till bron Kerch, en symbol för Putins styre",
       "title_en": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
-      "summary_sv": "With the Space X satellite system faltering, Ukraine’s military launched a surprise, multi-pronged attack to take down vital bridge to Crimea At 10pm on Monday evening a Ukrainian soldier scrawled a message on a kamikaze drone.",
+      "summary_sv": "Med Space X-satellitsystemet vackla, inledde Ukrainas militär en överraskande, flerdelad attack för att ta ner den livsviktiga bron till Krim. Vid 22-tiden på måndagskvällen skrev en ukrainsk soldat ett meddelande på en kamikaze-drönare.",
       "summary_en": "With the Space X satellite system faltering, Ukraine’s military launched a surprise, multi-pronged attack to take down vital bridge to Crimea At 10pm on Monday evening a Ukrainian soldier scrawled a message on a kamikaze drone.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4848,28 +5040,28 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Drönare",
         "Krym",
-        "Infrastruktur",
         "Ukraina",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-17-8639d7",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T17:19:57+00:00",
-      "title_sv": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "title_sv": "\"Det var riktigt läskigt\": Mamma beskriver skydd under Rysslands attacker mot Kyjiv-bron",
       "title_en": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary_sv": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "summary_sv": "Moskva har riktat in sig på broar i Kyjiv, medan Ukraina allvarligt skadade en kritisk bro som förbinder Ryssland med det ockuperade Krim.",
       "summary_en": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4890,8 +5082,8 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -5012,17 +5204,17 @@
       "id": "evt-2026-11-17-522a20",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T16:59:43+00:00",
-      "title_sv": "Canada will raise US limits on Ukraine’s Starshield access with Trump, its defense minister says, citing shared NORAD defenses",
+      "title_sv": "Kanada kommer att höja USA:s gränser för Ukrainas Starshield-tillgång med Trump, säger dess försvarsminister, med hänvisning till delade NORAD-försvar",
       "title_en": "Canada will raise US limits on Ukraine’s Starshield access with Trump, its defense minister says, citing shared NORAD defenses",
-      "summary_sv": "Canada’s defense minister, David Mc Guinty, says the US limits on Ukraine’s Starshield satellites are a problem for the whole continent.",
+      "summary_sv": "Kanadas försvarsminister, David Mc Guinty, säger att USA:s gränser för Ukrainas Starshield-satelliter är ett problem för hela kontinenten.",
       "summary_en": "Canada’s defense minister, David Mc Guinty, says the US limits on Ukraine’s Starshield satellites are a problem for the whole continent.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "usa",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5198,19 +5390,19 @@
       "id": "evt-2026-11-17-e22cd0",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T16:40:26+00:00",
-      "title_sv": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+      "title_sv": "\"De höll det för en regnig dag\": Ukrainas Kerch-broattack är ett bevis på att Kyjiv fortfarande har kort att spela",
       "title_en": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-      "summary_sv": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump Europe Ukraine’s attack on the Kerch road bridge overnight is the culmination of weeks, and perhaps months, of military operations plus years of industrial development, during which Kyiv has developed its own...",
+      "summary_sv": "En partiell rivning av bro som förbinder Ryssland och det ockuperade Krim är en uppenbar pinsamhet för Putin dagar innan mötet med Xi och Trump Europe Ukrainas attack mot Kerch-vägbron över en natt är kulmen på veckor, och kanske månader, av militära operationer plus år av industriell utveckling, under vilken Kyjiv har utvecklat sin egen...",
       "summary_en": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump Europe Ukraine’s attack on the Kerch road bridge overnight is the culmination of weeks, and perhaps months, of military operations plus years of industrial development, during which Kyiv has developed its own...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
+        "eu",
         "uk",
         "usa",
-        "ukraina",
-        "eu"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5230,29 +5422,29 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Kyjiv",
-        "Infrastruktur",
         "Drönare",
-        "Ukraina"
+        "Kyjiv",
+        "Ukraina",
+        "Infrastruktur",
+        "Robotanfall"
       ]
     },
     {
       "id": "evt-2026-11-17-08c1bb",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T16:40:21+00:00",
-      "title_sv": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+      "title_sv": "Zelenskyy uppmanar allierade att skicka luftförsvarsleveranser utan dröjsmål när Ryssland intensifierar attackerna – som det hände",
       "title_en": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
-      "summary_sv": "Ukraine’s president says Russia continues to attack the country with Shaheed drones, cruise missiles, and, ballistic missiles Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to...",
+      "summary_sv": "Ukrainas president säger att Ryssland fortsätter att attackera landet med Shaheed-drönare, kryssningsmissiler och ballistiska missiler Ukraina skadar kritiskt Kerch-bron. Franska högerextrema ledaren Marine Le Pen lovade att upphäva president Emmanuel Macrons pensionsreform om hon väljs ⁠ nästa vår och pensioneringen ‌0 till 0.",
       "summary_en": "Ukraine’s president says Russia continues to attack the country with Shaheed drones, cruise missiles, and, ballistic missiles Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5272,10 +5464,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina",
+        "Drönare",
         "Robotanfall",
-        "Drönare"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -5633,18 +5825,18 @@
       "id": "evt-2026-11-17-0d9bd4",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T15:38:10+00:00",
-      "title_sv": "How the attack on Putin's prized Crimean Bridge unfolded",
+      "title_sv": "Hur attacken mot Putins prisade Krimbro utvecklades",
       "title_en": "How the attack on Putin's prized Crimean Bridge unfolded",
-      "summary_sv": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "summary_sv": "En av nyckelsymbolerna för Rysslands ockupation av Ukraina har lidit stora skador efter en sjustegs attack av Kyjiv.",
       "summary_en": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5665,8 +5857,8 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -5900,123 +6092,6 @@
       ]
     },
     {
-      "id": "evt-2026-11-17-02386f",
-      "date": "2026-11-17",
-      "timestamp": "2026-11-17T14:30:00+02:00",
-      "title_sv": "Hungary suspends rail service with Ukraine after Russian drone strikes — Magyar",
-      "title_en": "Hungary suspends rail service with Ukraine after Russian drone strikes — Magyar",
-      "summary_sv": "Hungary will suspend rail service with Ukraine on Nov. 17–18 following Russian strikes on Zakarpattia Oblast, Hungarian Prime Minister Péter Magyar announced on Facebook on Nov. 17.",
-      "summary_en": "Hungary will suspend rail service with Ukraine on Nov. 17–18 following Russian strikes on Zakarpattia Oblast, Hungarian Prime Minister Péter Magyar announced on Facebook on Nov. 17.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "ryssland",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/hungary-suspends-rail-service-with-ukraine-on-nov-17-18-after-russian-drone-strikes-magyar-50659947.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Drönare",
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-17-b7f426",
-      "date": "2026-11-17",
-      "timestamp": "2026-11-17T14:15:00+02:00",
-      "title_sv": "General Staff confirms strike on Gazprom oil refinery in Bashkortostan",
-      "title_en": "General Staff confirms strike on Gazprom oil refinery in Bashkortostan",
-      "summary_sv": "Ukraine's Defense Forces struck the Gazprom Neftekhim Salavat facility in Russia's Bashkortostan overnight on November 17, approximately 1,500 kilometers from the Ukrainian border.",
-      "summary_en": "Ukraine's Defense Forces struck the Gazprom Neftekhim Salavat facility in Russia's Bashkortostan overnight on November 17, approximately 1,500 kilometers from the Ukrainian border.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ukrainas_granser",
-      "parter_intressenter": [
-        "ryssland",
-        "ukraina",
-        "usa",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4185570-general-staff-confirms-strike-on-gazprom-oil-refinery-in-bashkortostan.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-17-fad67e",
-      "date": "2026-11-17",
-      "timestamp": "2026-11-17T14:14:00+02:00",
-      "title_sv": "‘Our little secret’: Flash hints at how Ukraine hit Kerch Bridge without Starshield",
-      "title_en": "‘Our little secret’: Flash hints at how Ukraine hit Kerch Bridge without Starshield",
-      "summary_sv": "Ukrainian presidential technology adviser Serhii Beskrestnov, known as Flash, commented on the Ukrainian Defense Forces’ strike on the Crimean Bridge overnight on Nov. 17, noting that Russia’s technical community was “concerned about where we got a stable communications link in Crimea.”",
-      "summary_en": "Ukrainian presidential technology adviser Serhii Beskrestnov, known as Flash, commented on the Ukrainian Defense Forces’ strike on the Crimean Bridge overnight on Nov. 17, noting that Russia’s technical community was “concerned about where we got a stable communications link in Crimea.”",
-      "location_name": "Krym",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ockuperade_ukraina",
-      "parter_intressenter": [
-        "ukraina",
-        "usa",
-        "uk",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/flash-hints-at-how-ukraine-struck-crimean-bridge-despite-starshield-restrictions-50659935.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Krym",
-        "Civila mål",
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-11-17-d28605",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T14:03:16+00:00",
@@ -6099,18 +6174,18 @@
       "id": "evt-2026-11-17-8662ca",
       "date": "2026-11-17",
       "timestamp": "2026-11-17T13:25:02+00:00",
-      "title_sv": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+      "title_sv": "Ukraina skadar kritiskt bron Kerch som förbinder det ockuperade Krim med Ryssland",
       "title_en": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-      "summary_sv": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zelenskyy hailed as an “unprecedented” military operation.Footage showed a Ukrainian Flamingo...",
+      "summary_sv": "Zelenskyy hyllar \"oöverträffad attack\" men Kreml hävdar att bron kommer att återställas och kommer att bli \"bättre än någonsin\" Ukraina har allvarligt skadat Kerch-bron som förbinder ockuperade Krim med Ryssland i en missilattack över natten, i vad Volodymyr Zelenskyy hyllade som en \"utan motstycke\" flammande militäroperation för en ukrainsk...",
       "summary_en": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zelenskyy hailed as an “unprecedented” military operation.Footage showed a Ukrainian Flamingo...",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -6130,86 +6205,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Robotanfall",
         "Krym",
-        "Infrastruktur",
         "Ukraina",
-        "Robotanfall"
-      ]
-    },
-    {
-      "id": "evt-2026-11-17-d8c359",
-      "date": "2026-11-17",
-      "timestamp": "2026-11-17T13:18:27+01:00",
-      "title_sv": "Krimbron delvis kollapsad efter ukrainsk attack",
-      "title_en": "Krimbron delvis kollapsad efter ukrainsk attack",
-      "summary_sv": "En del av den viktiga Kertjbron har kollapsat efter ukrainska angrepp – ett allvarligt slag mot Rysslands ockupation av Krim, enligt Johan Huovinen, lärare på Försvarshögskolan. – Det här är ett sätt att öka pressen på Moskva inför de kommande förhandlingarna, säger han.",
-      "summary_en": "En del av den viktiga Kertjbron har kollapsat efter ukrainska angrepp – ett allvarligt slag mot Rysslands ockupation av Krim, enligt Johan Huovinen, lärare på Försvarshögskolan. – Det här är ett sätt att öka pressen på Moskva inför de kommande förhandlingarna, säger han.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "ryssland",
-      "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "SVT Nyheter",
-      "kallurl": "https://www.svt.se/nyheter/utrikes/krimbron-delvis-kollapsad-efter-ukrainsk-attack",
-      "kallkategori": "Svensk Public Service",
-      "arkiverad": false,
-      "tags": [
-        "Civila mål",
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-17-ad7875",
-      "date": "2026-11-17",
-      "timestamp": "2026-11-17T12:14:24+00:00",
-      "title_sv": "Rescuers spent 14 days searching the ruins of a Ukrainian aid hub where Russia killed 72 people, and four more are still missing",
-      "title_en": "Rescuers spent 14 days searching the ruins of a Ukrainian aid hub where Russia killed 72 people, and four more are still missing",
-      "summary_sv": "Russia kept striking the site while crews dug, and DNA tests confirmed some of the deaths.",
-      "summary_en": "Russia kept striking the site while crews dug, and DNA tests confirmed some of the deaths.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "usa",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
-        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
-      },
-      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "Euromaidan Press",
-      "kallurl": "https://euromaidanpress.com/2026/11/17/rescuers-spent-14-days-searching-the-ruins-of-a-ukrainian-aid-hub-where-russia-killed-72-people-and-four-more-are-still-missing/",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina"
+        "Infrastruktur"
       ]
     }
   ],
