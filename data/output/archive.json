@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 5981,
-  "last_archived_rotation": "2026-11-18T03:05:55.180162+00:00",
+  "total_archived_events": 5983,
+  "last_archived_rotation": "2026-11-18T03:35:44.164866+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-17-f8a712",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T05:31:00+02:00",
+      "title_sv": "Planerade strömavbrott kommer att påverka vissa regioner i Ukraina på tisdag",
+      "title_en": "Scheduled power outages to affect some regions of Ukraine on Tuesday",
+      "summary_sv": "Schemalagda strömavbrott kommer att gälla dygnet runt i vissa regioner i Ukraina tisdagen den 17 november.",
+      "summary_en": "Scheduled electricity outages will be in effect around the clock in some regions of Ukraine on Tuesday, November 17.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4185347-scheduled-power-outages-to-affect-some-regions-of-ukraine-on-tuesday.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Energi",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-17-476ea0",
       "date": "2026-11-17",
@@ -73,6 +110,49 @@
       "tags": [
         "Ukraina",
         "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-17-8dd649",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T03:12:08+00:00",
+      "title_sv": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
+      "title_en": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
+      "summary_sv": "Ukraine again hits symbolic bridge linking occupied Crimea to Russia; Kyiv’s heating and water disrupted as North and South bridges struck.",
+      "summary_en": "Ukraine again hits symbolic bridge linking occupied Crimea to Russia; Kyiv’s heating and water disrupted as North and South bridges struck.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Robotanfall",
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
@@ -1041,10 +1121,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
+        "usa",
         "ukraina",
-        "usa"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
