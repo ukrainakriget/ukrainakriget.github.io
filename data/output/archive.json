@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 6158,
-  "last_archived_rotation": "2026-11-19T05:01:44.373614+00:00",
+  "total_archived_events": 6160,
+  "last_archived_rotation": "2026-11-19T05:31:42.976061+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-18-b763ec",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T07:18:00+02:00",
+      "title_sv": "FN:s säkerhetsråd håller högnivåmöte om Ukraina",
+      "title_en": "UN Security Council to hold high-level meeting on Ukraine",
+      "summary_sv": "FN:s säkerhetsråd kommer att kalla till ett högnivåmöte måndagen den 23 november för att diskutera Rysslands krig mot Ukraina.",
+      "summary_en": "The United Nations Security Council will convene a high-level meeting on Monday, November 23, to discuss Russia's war against Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4185834-un-security-council-to-hold-highlevel-meeting-on-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-18-9e3dc9",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T07:05:00+02:00",
+      "title_sv": "Lubinets: More than 24,700 children remain in residential institutions in Ukraine, thousands more in temporarily occupied territories",
+      "title_en": "Lubinets: More than 24,700 children remain in residential institutions in Ukraine, thousands more in temporarily occupied territories",
+      "summary_sv": "A total of 24,754 children remain in residential care institutions across Ukraine, while thousands more are in temporarily occupied territories.",
+      "summary_en": "A total of 24,754 children remain in residential care institutions across Ukraine, while thousands more are in temporarily occupied territories.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4185833-lubinets-more-than-24700-children-remain-in-residential-institutions-in-ukraine-thousands-more-in-temporarily-occupied-territories.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-11-18-daf0b3",
       "date": "2026-11-18",
@@ -350,10 +426,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -373,8 +449,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1191,9 +1267,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2192,10 +2268,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2215,8 +2291,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -2340,16 +2416,16 @@
       "timestamp": "2026-11-17T17:48:38+00:00",
       "title_sv": "Ukraina släpper bilder från attacken mot Krimbron – video",
       "title_en": "Ukraine releases footage of strike on Crimean Bridge – video",
-      "summary_sv": "Ukraina har allvarligt skadat Krimbron som förbinder det ockuperade Krim med Ryssland i en missilattack över natten. Ukraina har upprepade gånger försökt förstöra bron, med en lastbilsbomb 2022 och en sjödrönareattack året därpå.",
+      "summary_sv": "Ukraina har allvarligt skadat Krimbron som förbinder det ockuperade Krim med Ryssland i en missilattack över natten. Ukraina har upprepade gånger försökt förstöra bron, med hjälp av en lastbilsbomb 2022 och en sjödrönareattack året därpå.",
       "summary_en": "Ukraine has critically damaged the Crimean Bridge linking occupied Crimea with Russia in an overnight missile attack. Ukraine has repeatedly tried to destroy the bridge, using a truck bomb in 2022 and a sea drone strike the following year.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2369,11 +2445,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur",
-        "Krym",
         "Drönare",
-        "Robotanfall"
+        "Ukraina",
+        "Robotanfall",
+        "Krym",
+        "Infrastruktur"
       ]
     },
     {
