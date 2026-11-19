@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 6157,
-  "last_archived_rotation": "2026-11-19T04:31:28.110230+00:00",
+  "total_archived_events": 6158,
+  "last_archived_rotation": "2026-11-19T05:01:44.373614+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-18-daf0b3",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T06:32:00+02:00",
+      "title_sv": "Canada to allocate $120M in military aid to Ukraine",
+      "title_en": "Canada to allocate $120M in military aid to Ukraine",
+      "summary_sv": "The Canadian government has announced a new military assistance package for Ukraine, which will include ammunition, specialised sensors for air defence systems, military equipment and individual combat rations.",
+      "summary_en": "The Canadian government has announced a new military assistance package for Ukraine, which will include ammunition, specialised sensors for air defence systems, military equipment and individual combat rations.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4185832-canada-to-allocate-120m-in-military-aid-to-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-18-b93a86",
       "date": "2026-11-18",
@@ -306,7 +342,7 @@
       "id": "evt-2026-11-18-856383",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T01:41:14+00:00",
-      "title_sv": "Ukraina krigsgenomgång: USA:s kritik av Kyjivs djupa attacker i Ryssland är \"ganska dum\", säger Tyskland",
+      "title_sv": "Ukrainas krigsgenomgång: USA:s kritik av Kyjivs djupa attacker i Ryssland är \"ganska dum\", säger Tyskland",
       "title_en": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
       "summary_sv": "Pentagons policychefs kommentarer om Ukrainas krigstaktik väcker oenighet vid Nato-mötet.",
       "summary_en": "Pentagon policy ⁠chief’s comments on Ukraine’s war tactic sparks disagreement at Nato meeting.",
@@ -314,10 +350,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -337,8 +373,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -1155,9 +1191,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2156,10 +2192,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2304,16 +2340,16 @@
       "timestamp": "2026-11-17T17:48:38+00:00",
       "title_sv": "Ukraina släpper bilder från attacken mot Krimbron – video",
       "title_en": "Ukraine releases footage of strike on Crimean Bridge – video",
-      "summary_sv": "Ukraina har allvarligt skadat Krimbron som förbinder det ockuperade Krim med Ryssland i en missilattack över natten. Ukraina har upprepade gånger försökt förstöra bron, med hjälp av en lastbilsbomb 2022 och en sjödrönareattack året därpå.",
+      "summary_sv": "Ukraina har allvarligt skadat Krimbron som förbinder det ockuperade Krim med Ryssland i en missilattack över natten. Ukraina har upprepade gånger försökt förstöra bron, med en lastbilsbomb 2022 och en sjödrönareattack året därpå.",
       "summary_en": "Ukraine has critically damaged the Crimean Bridge linking occupied Crimea with Russia in an overnight missile attack. Ukraine has repeatedly tried to destroy the bridge, using a truck bomb in 2022 and a sea drone strike the following year.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2333,10 +2369,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Ukraina",
         "Infrastruktur",
         "Krym",
-        "Ukraina",
+        "Drönare",
         "Robotanfall"
       ]
     },
@@ -2390,10 +2426,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2413,10 +2449,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Krym",
         "Ukraina",
-        "Infrastruktur"
+        "Drönare",
+        "Infrastruktur",
+        "Krym"
       ]
     },
     {
@@ -2431,10 +2467,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2454,9 +2490,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Kyjiv"
       ]
     },
     {
