@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 6150,
-  "last_archived_rotation": "2026-11-19T00:35:23.921630+00:00",
+  "total_archived_events": 6151,
+  "last_archived_rotation": "2026-11-19T01:06:08.202167+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-18-b44650",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T02:50:00+02:00",
+      "title_sv": "372 civila dödade i Ukraina i oktober, en ökning med 95 % från 2025 – FN-rapport",
+      "title_en": "372 civilians killed in Ukraine in October, up 95% from 2025 — UN report",
+      "summary_sv": "Rysk attack dödade minst 372 ukrainska civila och skadade 1 981 i oktober, enligt en rapport som publicerades av FN:s övervakningsuppdrag för mänskliga rättigheter i Ukraina (HRMMU) den 17 november.",
+      "summary_en": "Russian attack killed at least Ukrainian 372 civilians and injured 1,981 in October, according to a report published by the UN Human Rights Monitoring Mission in Ukraine (HRMMU) on Nov. 17.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/372-civilians-killed-in-ukraine-in-october-up-95-from-2025-50660128.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-11-18-ed0195",
       "date": "2026-11-18",
@@ -890,9 +929,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1891,10 +1930,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1914,8 +1953,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2045,10 +2084,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2068,10 +2107,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Krym",
         "Robotanfall",
         "Infrastruktur",
-        "Krym",
+        "Ukraina",
         "Drönare"
       ]
     },
@@ -2125,10 +2164,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2148,10 +2187,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Krym",
         "Ukraina",
-        "Infrastruktur",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -2166,10 +2205,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2189,9 +2228,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
+        "Kyjiv",
         "Ukraina",
-        "Kyjiv"
+        "Infrastruktur"
       ]
     },
     {
@@ -2506,11 +2545,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
         "uk",
+        "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2530,10 +2569,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
+        "Kyjiv",
         "Robotanfall",
         "Infrastruktur",
-        "Kyjiv",
+        "Ukraina",
         "Drönare"
       ]
     },
@@ -2549,10 +2588,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2572,10 +2611,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
+        "Drönare",
         "Ukraina",
         "Robotanfall",
-        "Drönare"
+        "Infrastruktur"
       ]
     },
     {
@@ -2941,10 +2980,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2964,9 +3003,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
+        "Kyjiv",
         "Ukraina",
-        "Kyjiv"
+        "Infrastruktur"
       ]
     },
     {
@@ -3646,10 +3685,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3671,8 +3710,8 @@
       "tags": [
         "Krym",
         "Ukraina",
-        "Infrastruktur",
-        "Robotanfall"
+        "Robotanfall",
+        "Infrastruktur"
       ]
     },
     {
