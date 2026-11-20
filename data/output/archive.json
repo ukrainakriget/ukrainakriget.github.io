@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 6312,
-  "last_archived_rotation": "2026-11-20T06:01:49.955699+00:00",
+  "total_archived_events": 6314,
+  "last_archived_rotation": "2026-11-20T06:31:26.733454+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-19-1000c5",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T08:22:00+02:00",
+      "title_sv": "Russian forces attack energy infrastructure in Mykolaiv region",
+      "title_en": "Russian forces attack energy infrastructure in Mykolaiv region",
+      "summary_sv": "Russian drones have attacked energy and civilian infrastructure in the Mykolaiv region, leaving 99 settlements without electricity.",
+      "summary_en": "Russian drones have attacked energy and civilian infrastructure in the Mykolaiv region, leaving 99 settlements without electricity.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186223-russian-forces-attack-energy-infrastructure-in-mykolaiv-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-19-7a3b84",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T08:05:00+02:00",
+      "title_sv": "Rysslands krigsoffer har ökat med 1 970 under det senaste dygnet",
+      "title_en": "Russia’s war casualty toll up by 1,970 over past day",
+      "summary_sv": "Ryska styrkor har lidit ungefär 1 630 980 stridsförluster sedan starten av den fullskaliga invasionen av Ukraina den 24 februari 2022 till den 19 november 2026, inklusive 1 970 personal som dödats eller skadats under de senaste 24 timmarna.",
+      "summary_en": "Russian forces have suffered approximately 1,630,980 combat losses since the start of the full-scale invasion of Ukraine on February 24, 2022, to November 19, 2026, including 1,970 personnel killed or wounded in action over the past 24 hours.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186218-russias-war-casualty-toll-up-by-1970-over-past-day.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-19-88d80f",
       "date": "2026-11-19",
@@ -167,8 +244,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
-        "eu",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -444,8 +521,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "usa",
+        "ukraina",
         "uk",
         "ryssland"
       ],
@@ -467,9 +544,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Krym",
         "Ukraina",
         "Infrastruktur",
-        "Krym",
         "Robotanfall"
       ]
     },
@@ -644,8 +721,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
+        "ukraina",
         "uk",
         "ryssland"
       ],
@@ -723,11 +800,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "uk",
         "ryssland",
-        "ukraina",
-        "usa",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -747,9 +824,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Drönare"
       ]
     },
     {
@@ -805,11 +882,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "uk",
         "ryssland",
-        "ukraina",
-        "usa",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -996,11 +1073,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
+        "usa",
         "uk",
         "ryssland",
-        "ukraina",
-        "usa",
-        "kina"
+        "kina",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1410,8 +1487,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
         "usa",
+        "ukraina",
         "uk",
         "ryssland"
       ],
@@ -1433,9 +1510,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Krym",
         "Ukraina",
-        "Infrastruktur",
-        "Krym"
+        "Infrastruktur"
       ]
     },
     {
@@ -1757,11 +1834,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "usa",
         "uk",
         "ryssland",
-        "ukraina",
-        "usa",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1781,8 +1858,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
