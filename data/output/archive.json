@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 6310,
-  "last_archived_rotation": "2026-11-20T05:32:42.073061+00:00",
+  "total_archived_events": 6312,
+  "last_archived_rotation": "2026-11-20T06:01:49.955699+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-19-88d80f",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T07:44:00+02:00",
+      "title_sv": "Norges utrikesminister: Europas säkerhetsarkitektur fungerade bra tills Ryssland bröt mot den",
+      "title_en": "Norway's foreign minister: Europe's security architecture worked well until Russia violated it",
+      "summary_sv": "Europas nuvarande säkerhetsarkitektur behöver inte revideras, eftersom den fungerade korrekt tills Ryssland bröt mot den.",
+      "summary_en": "Europe's current security architecture does not need to be revised, as it functioned properly until Russia violated it.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "eu",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4186212-norways-foreign-minister-europes-security-architecture-worked-well-until-russia-violated-it.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-19-f78e95",
       "date": "2026-11-19",
@@ -114,6 +152,44 @@
       "arkiverad": true,
       "tags": [
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-19-2d3969",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T05:58:17+00:00",
+      "title_sv": "Ukraina: Kertjbrons järnväghögbro bombad igen i natt, Ukraina gratulerar Portugal till Europas längsta bro",
+      "title_en": "Ukraina: Kertjbrons järnväghögbro bombad igen i natt, Ukraina gratulerar Portugal till Europas längsta bro",
+      "summary_sv": "Kertjbrons järnvägshögbro bombades igen i natt och tågtrafiken uppges ha stoppats och Ukrainas generalstab gratulerar Portugal för att nu ha Europas längsta bro.",
+      "summary_en": "Kertjbrons järnvägshögbro bombades igen i natt och tågtrafiken uppges ha stoppats och Ukrainas generalstab gratulerar Portugal för att nu ha Europas längsta bro.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ukraina",
+        "eu",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Lars Wilderäng (Cornucopia.se)",
+      "kallurl": "https://cornucopia.se/2026/11/ukraina-kertbrons-jarnvaghogbro-bombad-igen-i-natt-ukraina-gratulerar-portugal-till-europas-langsta-bro/",
+      "kallkategori": "Militäranalytiker & författare",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -368,10 +444,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -391,10 +467,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Krym",
         "Ukraina",
-        "Robotanfall",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Krym",
+        "Robotanfall"
       ]
     },
     {
@@ -562,16 +638,16 @@
       "timestamp": "2026-11-18T23:28:03+00:00",
       "title_sv": "Rysk arresterad för att ha spionerat på det amerikanska försvarsföretaget Palantir på grund av Ukrainas stöd",
       "title_en": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "summary_sv": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "summary_sv": "Den misstänkte mannen följde anställda och hittades med falska amerikanska ID-handlingar och två ryska pass, säger åklagare.",
       "summary_en": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -648,9 +724,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
+        "ryssland",
         "ukraina",
         "usa",
-        "ryssland",
         "eu"
       ],
       "syfte": {
@@ -671,9 +747,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
+        "Drönare",
         "Ukraina",
-        "Drönare"
+        "Civila mål"
       ]
     },
     {
@@ -730,9 +806,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
+        "ryssland",
         "ukraina",
         "usa",
-        "ryssland",
         "eu"
       ],
       "syfte": {
@@ -912,19 +988,19 @@
       "id": "evt-2026-11-18-6a4d3a",
       "date": "2026-11-18",
       "timestamp": "2026-11-18T21:18:57+00:00",
-      "title_sv": "How Ukraine landed a blow to Putin’s prized bridge – The Latest",
+      "title_sv": "Hur Ukraina landade ett slag mot Putins prisade bro – The Latest",
       "title_en": "How Ukraine landed a blow to Putin’s prized bridge – The Latest",
-      "summary_sv": "Volodymyr Zelenskyy has hailed an ‘unprecedented operation’ to severely damage a critical bridge between Russia and occupied Crimea.",
+      "summary_sv": "Volodymyr Zelenskyy har hyllat en \"oöverträffad operation\" för att allvarligt skada en kritisk bro mellan Ryssland och det ockuperade Krim.",
       "summary_en": "Volodymyr Zelenskyy has hailed an ‘unprecedented operation’ to severely damage a critical bridge between Russia and occupied Crimea.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "kina",
-        "ukraina",
         "uk",
-        "usa"
+        "ryssland",
+        "ukraina",
+        "usa",
+        "kina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -951,12 +1027,12 @@
       "relaterade_kallor": [
         {
           "kalla": "The Guardian (Ukraine)",
-          "titel": "How Ukraine landed a blow to Putin’s prized bridge – The Latest",
+          "titel": "Hur Ukraina landade ett slag mot Putins prisade bro – The Latest",
           "url": "https://www.theguardian.com/news/audio/2026/nov/18/how-ukraine-landed-a-blow-to-putins-prize-bridge-the-latest"
         },
         {
           "kalla": "The Guardian (Ukraine)",
-          "titel": "How Ukraine landed a blow to Putin’s prized bridge - The Latest",
+          "titel": "Hur Ukraina landade ett slag mot Putins prisade bro - The Latest",
           "url": "https://www.theguardian.com/news/video/2026/nov/18/how-ukraine-landed-a-blow-to-putins-prize-bridge-the-latest"
         }
       ],
@@ -1182,8 +1258,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1334,10 +1410,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1357,9 +1433,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Krym",
         "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Krym"
       ]
     },
     {
@@ -1448,9 +1524,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "usa",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1682,9 +1758,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
+        "ryssland",
         "ukraina",
         "usa",
-        "ryssland",
         "eu"
       ],
       "syfte": {
