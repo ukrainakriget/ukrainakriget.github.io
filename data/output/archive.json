@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 6574,
-  "last_archived_rotation": "2026-11-21T21:31:38.542648+00:00",
+  "total_archived_events": 6575,
+  "last_archived_rotation": "2026-11-21T21:54:07.672968+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-20-d866e1",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:35:00+02:00",
+      "title_sv": "Krigsuppdatering: 157 sammandrabbningar på frontlinjen, Pokrovsk-sektorn är fortfarande hetast",
+      "title_en": "War update: 157 clashes on front line, Pokrovsk sector remains hottest",
+      "summary_sv": "Totalt 157 stridsinsatser ägde rum vid frontlinjen. Ryska styrkor inledde 16 attacker mot ukrainska positioner i Pokrovsk-sektorn och förlorade mer än 30 soldater.",
+      "summary_en": "A total of 157 combat engagements took place on the front line. Russian forces launched 16 attacks on Ukrainian positions in the Pokrovsk sector, losing more than 30 troops.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186998-war-update-157-clashes-on-front-line-pokrovsk-sector-remains-hottest.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Pokrovsk",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-20-2c3763",
       "date": "2026-11-20",
@@ -1533,10 +1572,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "eu",
-        "usa",
         "ryssland",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1556,10 +1595,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
+        "Robotanfall",
         "Ukraina",
         "Polen",
-        "Robotanfall",
-        "Drönare",
         "Energi"
       ]
     },
@@ -1843,10 +1882,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1866,9 +1905,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Infrastruktur",
         "Robotanfall",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -1922,8 +1961,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2307,10 +2346,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "usa",
         "ryssland",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2331,8 +2370,8 @@
       "arkiverad": true,
       "tags": [
         "Robotanfall",
-        "Energi",
         "Drönare",
+        "Energi",
         "Ukraina"
       ]
     },
@@ -2587,10 +2626,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "usa",
         "ryssland",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2610,9 +2649,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Infrastruktur",
         "Robotanfall",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -2708,10 +2747,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2731,8 +2770,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Infrastruktur",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -3035,10 +3074,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3705,10 +3744,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
