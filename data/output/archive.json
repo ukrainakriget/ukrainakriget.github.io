@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 6447,
-  "last_archived_rotation": "2026-11-21T01:35:27.060874+00:00",
+  "total_archived_events": 6449,
+  "last_archived_rotation": "2026-11-21T02:05:41.894270+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-20-42c5ce",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T03:39:00+02:00",
+      "title_sv": "Russian forces deploy fiber-optic-controlled Molniya drones on various front-line sectors – presidential advisor",
+      "title_en": "Russian forces deploy fiber-optic-controlled Molniya drones on various front-line sectors – presidential advisor",
+      "summary_sv": "Russian forces have been using Molniya drones controlled via fiber-optic cables on various sectors of the front line over the past several days.",
+      "summary_en": "Russian forces have been using Molniya drones controlled via fiber-optic cables on various sectors of the front line over the past several days.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186329-russian-forces-deploy-fiberopticcontrolled-molniya-drones-on-various-frontline-sectors-presidential-advisor.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-20-990254",
       "date": "2026-11-20",
@@ -118,6 +157,46 @@
       ]
     },
     {
+      "id": "evt-2026-11-20-48b67d",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T01:37:48+00:00",
+      "title_sv": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
+      "title_en": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
+      "summary_sv": "US envoy also says he believes Moscow is ‘comfortable’ with a guarantee; Russia attacks Kyiv bridges after Putin vows response for Crimea bridge attack.",
+      "summary_en": "US envoy also says he believes Moscow is ‘comfortable’ with a guarantee; Russia attacks Kyiv bridges after Putin vows response for Crimea bridge attack.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
+    {
       "id": "evt-2026-11-20-0c8166",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T01:30:00+02:00",
@@ -201,11 +280,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk",
+        "usa",
+        "eu",
         "ryssland",
-        "eu"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -432,11 +511,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "kina",
         "ukraina",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "kina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -625,11 +704,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "kina",
         "ukraina",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "kina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -649,11 +728,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Robotanfall",
-        "Ukraina",
+        "Krym",
         "Infrastruktur",
-        "Krym"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -860,11 +939,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "kina",
         "ukraina",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "kina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1134,12 +1213,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "usa",
         "kina",
-        "ukraina",
-        "uk",
+        "eu",
         "ryssland",
-        "eu"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1212,11 +1291,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "kina",
         "ukraina",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "kina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1236,8 +1315,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
+        "Ukraina",
         "Krym"
       ]
     },
@@ -1526,12 +1605,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "ukraina",
         "usa",
         "kina",
-        "ukraina",
-        "uk",
+        "eu",
         "ryssland",
-        "eu"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1566,9 +1645,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -1911,11 +1990,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "kina",
         "ukraina",
         "uk",
-        "ryssland"
+        "usa",
+        "ryssland",
+        "kina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2300,10 +2379,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
         "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2323,8 +2402,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Infrastruktur",
+        "Ukraina",
         "Robotanfall",
         "Krym"
       ]
@@ -2341,9 +2420,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2363,11 +2442,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Robotanfall",
+        "Infrastruktur",
         "Ukraina",
-        "Kyjiv",
-        "Infrastruktur"
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
@@ -2851,10 +2930,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
         "usa",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
