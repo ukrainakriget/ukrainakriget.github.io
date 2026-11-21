@@ -1,7 +1,86 @@
 {
-  "total_archived_events": 6539,
-  "last_archived_rotation": "2026-11-21T15:05:15.992372+00:00",
+  "total_archived_events": 6542,
+  "last_archived_rotation": "2026-11-21T15:35:04.037411+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-20-22d124",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T17:23:00+02:00",
+      "title_sv": "Ryskt guidade bombattentat nära bostadshus i Zaporizjzja, skadade fyra",
+      "title_en": "Russian guided bomb strikes near apartment building in Zaporizhzhia, injuring four",
+      "summary_sv": "Ryska styrkor attackerade Zaporizjzja med guidade flygbomber. En av bomberna landade nära ett bostadshus och skadade fyra personer.",
+      "summary_en": "Russian forces attacked Zaporizhzhia with guided aerial bombs. One of the bombs landed near an apartment building, injuring four people.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186891-russian-guided-bomb-strikes-near-apartment-building-in-zaporizhzhia-injuring-four.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Ukraina",
+        "Zaporizjzja"
+      ]
+    },
+    {
+      "id": "evt-2026-11-20-725ba5",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T17:09:00+02:00",
+      "title_sv": "ISW avslöjar Putins manipulation i nya hot och attacker mot Ukraina",
+      "title_en": "ISW exposes Putin’s manipulation in new threats and strikes on Ukraine",
+      "summary_sv": "Kreml använder framgångsrika ukrainska attacker på lång räckvidd, som attacken på Krimbron, för att felaktigt hävda att Ukraina, inte Ryssland, blockerar fred, sa det USA-baserade Institutet för studier av krig i sin bedömning den 19 november.",
+      "summary_en": "The Kremlin is using successful long-range Ukrainian strikes, such as the attack on the Crimean Bridge, to falsely claim that Ukraine, not Russia, is blocking peace, the U.S.-based Institute for the Study of War said in its Nov. 19 assessment.",
+      "location_name": "Krym",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/nov-20-attack-was-not-retaliation-for-crimean-bridge-isw-says-50661053.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Krym"
+      ]
+    },
     {
       "id": "evt-2026-11-20-06e8ec",
       "date": "2026-11-20",
@@ -503,6 +582,47 @@
       ]
     },
     {
+      "id": "evt-2026-11-20-cdd387",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T15:14:01+00:00",
+      "title_sv": "What we know about the latest Russian missile strikes on Ukraine",
+      "title_en": "What we know about the latest Russian missile strikes on Ukraine",
+      "summary_sv": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "summary_en": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Robotanfall",
+        "Infrastruktur"
+      ]
+    },
+    {
       "id": "evt-2026-11-20-7919a1",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T14:59:00+02:00",
@@ -552,8 +672,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -573,8 +693,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -936,11 +1056,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "ryssland",
-        "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -961,8 +1081,8 @@
       "arkiverad": true,
       "tags": [
         "Energi",
-        "Ukraina",
         "Drönare",
+        "Ukraina",
         "Robotanfall"
       ]
     },
@@ -1216,11 +1336,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "ryssland",
-        "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1338,10 +1458,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
+        "ryssland",
         "uk",
-        "ryssland"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1665,10 +1785,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
+        "ryssland",
         "uk",
-        "ryssland"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2335,10 +2455,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
+        "ryssland",
         "uk",
-        "ryssland"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2358,8 +2478,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -2924,10 +3044,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
+        "ryssland",
         "uk",
-        "ryssland"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2947,8 +3067,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Energi",
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -3083,10 +3203,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "eu",
         "ryssland",
-        "uk"
+        "uk",
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3241,11 +3361,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "usa",
         "ryssland",
-        "uk",
-        "ukraina"
+        "usa",
+        "ukraina",
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3265,9 +3385,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Polen",
         "Drönare",
+        "Ukraina",
         "Robotanfall"
       ]
     },
