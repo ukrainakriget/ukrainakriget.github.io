@@ -1,23 +1,62 @@
 {
-  "last_updated": "2026-11-21T08:46:46.342537+00:00",
-  "total_active_events": 127,
+  "last_updated": "2026-11-21T09:01:52.760963+00:00",
+  "total_active_events": 126,
   "events": [
+    {
+      "id": "evt-2026-11-21-ad1744",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T10:56:00+02:00",
+      "title_sv": "Kyjiv rapporterar skador i tre distrikt efter rysk morgonattack, två personer skadade",
+      "title_en": "Kyiv reports damage in three districts after morning Russian attack, two people injured",
+      "summary_sv": "Två personer skadades i en rysk attack mot Kyjiv på morgonen den 21 november. Bostadsbyggnader skadades i tre distrikt, medan avbrott i vattenförsörjningen rapporterades i fem distrikt.",
+      "summary_en": "Two people were injured in a Russian attack on Kyiv in the morning of November 21. Residential buildings were damaged in three districts, while water supply disruptions were reported in five districts.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187078-kyiv-reports-damage-in-three-districts-after-morning-russian-attack-two-people-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-11-21-18a567",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T10:37:00+02:00",
       "title_sv": "Krimbron, som Putin använder för att transportera vapen, för att inte stå kvar, säger Zelensky",
       "title_en": "Crimean bridge, which Putin uses to transport weapons, to not remain standing, Zelensky says",
-      "summary_sv": "Den ryske ledaren Vladimir Putin använder Kerchbron för att transportera stora mängder militär utrustning till tillfälligt ockuperat ukrainskt territorium. Därför kommer bron \"inte att stå kvar\".",
+      "summary_sv": "Den ryske ledaren Vladimir Putin använder Kerchbron för att transportera stora mängder militär utrustning till tillfälligt ockuperat ukrainskt territorium. Därför \"blir bron inte stående\".",
       "summary_en": "Russian leader Vladimir Putin uses the Kerch Bridge to transport large quantities of military equipment to temporarily occupied Ukrainian territory. Therefore, the bridge \"will not remain standing.\"",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -75,9 +114,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Zaporizjzja",
         "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Zaporizjzja"
       ]
     },
     {
@@ -131,9 +170,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -153,8 +192,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Pokrovsk",
-        "Ukraina"
+        "Ukraina",
+        "Pokrovsk"
       ]
     },
     {
@@ -191,8 +230,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Ukraina",
         "Sumy",
+        "Ukraina",
         "Civila mål"
       ]
     },
@@ -209,8 +248,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ryssland",
+        "uk",
         "eu",
         "ukraina"
       ],
@@ -232,9 +271,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Luftförsvar",
         "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Luftförsvar"
       ]
     },
     {
@@ -273,8 +312,8 @@
       "tags": [
         "Robotanfall",
         "Ukraina",
-        "Dnipro",
-        "Drönare"
+        "Drönare",
+        "Dnipro"
       ]
     },
     {
@@ -321,16 +360,16 @@
       "timestamp": "2026-11-21T08:17:00+02:00",
       "title_sv": "Den ryska armén förlorar ytterligare 1 730 personal, två luftförsvarssystem i krig mot Ukraina",
       "title_en": "Russian army loses another 1,730 personnel, two air defense systems in war against Ukraine",
-      "summary_sv": "Rysslands totala stridsförluster sedan början av dess fullskaliga invasion av Ukraina den 24 februari 2022 till och med den 21 november 2026 uppskattas till cirka 1 634 860 personal, inklusive 1 730 under det senaste dygnet.",
+      "summary_sv": "Rysslands totala stridsförluster sedan början av dess fullskaliga invasion av Ukraina den 24 februari 2022 till och med den 21 november 2026 uppskattas till cirka 1 634 860 personal, inklusive 1 730 under de senaste 24 timmarna.",
       "summary_en": "Russia's total combat losses since the beginning of its full-scale invasion of Ukraine on February 24, 2022, through November 21, 2026, are estimated at approximately 1,634,860 personnel, including 1,730 over the past 24 hours.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -350,8 +389,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -405,9 +444,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -465,16 +504,16 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Zaporizjzja",
         "Ukraina",
-        "Civila mål"
+        "Civila mål",
+        "Zaporizjzja"
       ]
     },
     {
       "id": "evt-2026-11-21-3d3c3a",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T06:58:00+02:00",
-      "title_sv": "Ryssland inleder ytterligare en attack mot Kryvyi Rih, eld bryter ut vid industrianläggning",
+      "title_sv": "Ryssland inleder ytterligare en attack mot Kryvyi Rih, brand bryter ut vid industrianläggning",
       "title_en": "Russia launches another attack on Kryvyi Rih, fire breaks out at industrial facility",
       "summary_sv": "Ryska styrkor har inlett ytterligare en drönsattack mot Kryvyi Rih, vilket utlöste en brand i en industrianläggning.",
       "summary_en": "Russian forces have launched another drone attack on Kryvyi Rih, sparking a fire at an industrial facility.",
@@ -521,9 +560,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -550,7 +589,7 @@
       "id": "evt-2026-11-21-d72b0e",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T06:18:00+02:00",
-      "title_sv": "Regn väntas över Ukraina idag, temperaturer upp till 14°C",
+      "title_sv": "Regn väntas över hela Ukraina idag, temperaturer upp till 14°C",
       "title_en": "Rain expected across Ukraine today, temperatures up to 14°C",
       "summary_sv": "Lätt regn väntas över hela Ukraina lördagen den 21 november, med vindbyar som når upp till 20 m/s.",
       "summary_en": "Light rain is expected across Ukraine on Saturday, November 21, with wind gusts reaching up to 20 m/s.",
@@ -559,8 +598,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -595,9 +634,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -697,8 +736,8 @@
       "tags": [
         "Robotanfall",
         "Ukraina",
-        "Kyjiv",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Kyjiv"
       ]
     },
     {
@@ -790,8 +829,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -827,9 +866,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "eu"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -865,8 +904,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ryssland",
+        "uk",
         "eu",
         "ukraina"
       ],
@@ -888,10 +927,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Robotanfall",
         "Polen",
         "Ukraina",
-        "Drönare",
-        "Robotanfall"
+        "Drönare"
       ]
     },
     {
@@ -944,9 +983,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -967,8 +1006,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Kyjiv",
-        "Civila mål"
+        "Civila mål",
+        "Kyjiv"
       ]
     },
     {
@@ -984,8 +1023,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ryssland",
+        "uk",
         "eu",
         "ukraina"
       ],
@@ -1007,10 +1046,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Robotanfall",
         "Polen",
         "Ukraina",
-        "Infrastruktur",
-        "Robotanfall"
+        "Infrastruktur"
       ]
     },
     {
@@ -1019,15 +1058,15 @@
       "timestamp": "2026-11-21T01:38:30+00:00",
       "title_sv": "Det civila samhället är Ukrainas supermakt. En gratis kurs visar hur den växte från Euromaidan till fronten",
       "title_en": "Civil society is Ukraine’s superpower. A free course traces how it grew from Euromaidan to the front",
-      "summary_sv": "Den föddes i november 2013 ur hjälplöshet, höll armén försörjd när staten inte kunde, och västvärlden kan snart behöva det de lärt sig",
+      "summary_sv": "Den föddes i november 2013 ur hjälplöshet, höll armén försörjd när staten inte kunde, och västvärlden kan snart behöva vad de lärt sig",
       "summary_en": "It was born in November 2013 out of helplessness, kept the army supplied when the state could not, and the West may soon need what it learned",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
         "ukraina",
-        "eu"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1064,9 +1103,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1167,6 +1206,44 @@
       ]
     },
     {
+      "id": "evt-2026-11-21-367f9a",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T00:44:16+00:00",
+      "title_sv": "Ukraina bad om 40 fler F-16:or. Jetplanen finns över hela Europa, men deras ägare kommer inte att släppa taget",
+      "title_en": "Ukraine asked for 40 more F-16s. The jets exist across Europe, but their owners won’t let go",
+      "summary_sv": "Det ukrainska flygvapnets enda enhet som opererar västerländska jaktplan behöver fler jetplan. Men det finns inte många uppenbara källor.",
+      "summary_en": "The Ukrainian air force's sole unit operating Western fighter types needs more jets. But there aren't a lot of obvious sources.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "eu",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/21/more-fighters/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-11-21-524979",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T00:41:00+02:00",
@@ -1199,8 +1276,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Krym",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Krym"
       ]
     },
     {
@@ -1330,9 +1407,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "eu"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1400,16 +1477,16 @@
       "timestamp": "2026-11-20T23:11:00+02:00",
       "title_sv": "USA tog bort avsnittet Ukraina från Trump-Xi-Putins toppmötesdeklaration på grund av dålig formulering - Stubb",
       "title_en": "US removed Ukraine section from Trump-Xi-Putin summit declaration over poor wording — Stubb",
-      "summary_sv": "Finlands president Alexander Stubb sa att USA tog bort ett avsnitt om Ukraina från deklarationen från toppmötet Trump-Xi-Putin i Shenzhen på grund av \"dålig formulering\", rapporterade Helsingin Sanomat den 19 november.",
+      "summary_sv": "Finlands president Alexander Stubb sa att USA tog bort ett avsnitt om Ukraina från förklaringen från toppmötet mellan Trump-Xi-Putin i Shenzhen på grund av \"dålig formulering\", rapporterade Helsingin Sanomat den 19 november.",
       "summary_en": "Finnish President Alexander Stubb said the U.S. removed a section on Ukraine from the declaration of the Trump-Xi-Putin summit in Shenzhen because of \"poor wording,\" Helsingin Sanomat reported on Nov. 19.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1591,15 +1668,15 @@
       "timestamp": "2026-11-20T21:40:00+02:00",
       "title_sv": "USA vill ha ett fredsavtal mellan Ryssland och Ukraina i januari – rapport",
       "title_en": "U.S. wants Russia–Ukraine peace deal by January — report",
-      "summary_sv": "Vita huset sa till europeiska och ukrainska tjänstemän att de vill att Kyjiv ska nå ett fredsavtal med Ryssland i början av januari 2027, innan demokraterna får full kontroll över den amerikanska kongressen, rapporterade Financial Times den 20 november, med hänvisning till källor.",
+      "summary_sv": "Vita huset berättade för europeiska och ukrainska tjänstemän att de vill att Kyjiv ska nå ett fredsavtal med Ryssland i början av januari 2027, innan demokraterna får full kontroll över den amerikanska kongressen, rapporterade Financial Times den 20 november, med hänvisning till källor.",
       "summary_en": "The White House told European and Ukrainian officials that it wants Kyiv to reach a peace deal with Russia by early January 2027, before Democrats gain full control of the U.S. Congress, the Financial Times reported on Nov. 20, citing sources.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ryssland",
+        "uk",
         "eu",
         "ukraina"
       ],
@@ -1622,8 +1699,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Kyjiv",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Kyjiv"
       ]
     },
     {
@@ -1707,15 +1784,15 @@
       "timestamp": "2026-11-20T20:42:00+02:00",
       "title_sv": "Anti-korruptionsdomstol dömer parlamentsledamoten Kuzminykh till 3,5 år i mutfall på 13 300 dollar",
       "title_en": "Anti-corruption court sentences MP Kuzminykh to 3.5 years in $13,300 bribery case",
-      "summary_sv": "Ukrainas höga antikorruptionsdomstol dömde parlamentsledamoten Serhii Kuzminykh till tre år och sex månader i fängelse, med tre års förbud mot att inneha vissa ämbeten, för missbruk av inflytande i ett mål om en muta på 558 000 UAH ($12 445) för att hjälpa ett privat företag att vinna ett anbud på upphandling av medicinsk utrustning, Transparency...",
+      "summary_sv": "Ukrainas höga anti-korruptionsdomstol dömde parlamentsledamoten Serhii Kuzminykh till tre år och sex månaders fängelse, med tre års förbud mot att inneha vissa ämbeten, för missbruk av inflytande i ett mål om en muta på 558 000 UAH (12 445 USD) för att hjälpa ett privat företag att vinna ett anbud för upphandling av medicinsk utrustning,...",
       "summary_en": "Ukraine’s High Anti-Corruption Court sentenced MP Serhii Kuzminykh to three years and six months in prison, with a three-year ban on holding certain offices, for abuse of influence in a case over a UAH 558,000 ($12,445) bribe to help a private company win a medical equipment procurement tender, Transparency International Ukraine and the...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1790,9 +1867,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1868,8 +1945,8 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "eu",
         "ukraina",
+        "eu",
         "ryssland"
       ],
       "syfte": {
@@ -1907,9 +1984,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2059,8 +2136,8 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2204,7 +2281,7 @@
       "id": "evt-2026-11-20-b64839",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T18:16:12+00:00",
-      "title_sv": "Danmark ska utvisa rysk diplomat på grund av en påstådd koppling från Moskva till försök till mord på rapparen",
+      "title_sv": "Danmark ska utvisa rysk diplomat på grund av påstådd koppling till Moskvas mordförsök på rapparen",
       "title_en": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
       "summary_sv": "Rysk underrättelsetjänst som tros ligga bakom planen att döda den amerikansk-ukrainske musikern Kyivstoner före konsert i Danmark Danmarks utrikesminister har sagt att Rysslands försvarsattaché i Köpenhamn skulle utvisas efter att Moskva misstänktes ligga bakom ett försök till dödande av en amerikansk-ukrainsk rappare.",
       "summary_en": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper.“We have just summoned the Russian ambassador to...",
@@ -2213,9 +2290,9 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3116,9 +3193,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3140,8 +3217,8 @@
       "tags": [
         "Robotanfall",
         "Ukraina",
-        "Kyjiv",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Kyjiv"
       ]
     },
     {
@@ -3194,8 +3271,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3579,8 +3656,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ryssland",
+        "uk",
         "eu",
         "ukraina"
       ],
@@ -3602,8 +3679,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Energi",
         "Robotanfall",
+        "Energi",
         "Ukraina",
         "Drönare"
       ]
@@ -3859,8 +3936,8 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ryssland",
+        "uk",
         "eu",
         "ukraina"
       ],
@@ -3884,8 +3961,8 @@
       "tags": [
         "Robotanfall",
         "Ukraina",
-        "Kyjiv",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Kyjiv"
       ]
     },
     {
@@ -3972,7 +4049,7 @@
       "id": "evt-2026-11-20-ca2d5e",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T13:01:16+00:00",
-      "title_sv": "Ryssland riktar in sig på Kyjiv-överfarterna dagar efter att Ukraina träffat Krimbron",
+      "title_sv": "Ryssland riktar sig till Kyjiv-överfarterna dagar efter att Ukraina träffat Krimbron",
       "title_en": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "summary_sv": "Ryssland inledde en av sina största flygattacker hittills då man avvisade utsikterna till säkerhetsgarantier för Ukraina.",
       "summary_en": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
@@ -3981,9 +4058,9 @@
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4004,8 +4081,8 @@
       "arkiverad": false,
       "tags": [
         "Ukraina",
-        "Kyjiv",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Kyjiv"
       ]
     },
     {
@@ -4308,9 +4385,9 @@
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4809,87 +4886,6 @@
       ]
     },
     {
-      "id": "evt-2026-11-20-eb1e1a",
-      "date": "2026-11-20",
-      "timestamp": "2026-11-20T10:56:00+02:00",
-      "title_sv": "Ryssland skjuter omkring 100 missiler mot Ukraina, varav en troligen passerar in i Polen",
-      "title_en": "Russia fires about 100 missiles at Ukraine, with one likely crossing into Poland",
-      "summary_sv": "Ryska styrkor genomförde en av de mest kraftfulla attackerna mot Ukraina över natten och på morgonen den 20 november, med hjälp av cirka 100 missiler och 400 drönare, sade Yurii Ihnat, kommunikationschef för Ukrainas flygvapenkommando, i United News teletonprogram.",
-      "summary_en": "Russian forces carried out one of the most powerful attacks on Ukraine overnight and in the morning on Nov. 20, using about 100 missiles and 400 drones, Yurii Ihnat, communications chief for Ukraine's Air Force Command, said on the United News telethon program.",
-      "location_name": "Polen & västra gränsen",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "ryssland",
-        "uk",
-        "ukraina",
-        "usa",
-        "eu"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
-        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
-      },
-      "egenskaper_anfallsmal": "energiproduktion",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/russia-hits-ukraine-with-80-cruise-and-20-ballistic-missiles-air-force-says-50660915.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Polen",
-        "Ukraina",
-        "Drönare",
-        "Robotanfall",
-        "Energi"
-      ]
-    },
-    {
-      "id": "evt-2026-11-20-25f0d2",
-      "date": "2026-11-20",
-      "timestamp": "2026-11-20T10:52:00+02:00",
-      "title_sv": "Ryska styrkor attackerar transport- och industriinfrastruktur i Zhytomyr-regionen, en skadad",
-      "title_en": "Russian forces attack transport and industrial infrastructure in Zhytomyr region, one injured",
-      "summary_sv": "Ryska styrkor attackerade transport- och industriinfrastruktur i Korosten-distriktet i Zhytomyr-regionen och skadade en person.",
-      "summary_en": "Russian forces attacked transport and industrial infrastructure in the Korosten district of the Zhytomyr region, injuring one person.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "ryssland",
-        "ukraina",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "civil_infrastruktur",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4186710-russian-forces-attack-transport-and-industrial-infrastructure-in-zhytomyr-region-one-injured.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Infrastruktur",
-        "Ukraina"
-      ]
-    },
-    {
       "id": "evt-2026-11-20-c09ab9",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T10:28:41+00:00",
@@ -4902,9 +4898,9 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "usa",
-        "uk",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4926,46 +4922,6 @@
       "tags": [
         "Ukraina",
         "Drönare"
-      ]
-    },
-    {
-      "id": "evt-2026-11-20-b8a3f9",
-      "date": "2026-11-20",
-      "timestamp": "2026-11-20T08:48:41+00:00",
-      "title_sv": "Rysk attack dödade sex i Kyjiv, tre enligt uppgift från vattenverksarbetare, när ballistiska attacker träffade tre Dnipro-broar",
-      "title_en": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
-      "summary_sv": "Ryska attacker mot västra Ukraina, långt från fronten, drabbade både järnvägen och nätet, vilket tvingade fram nödstopp i tre oblaster.",
-      "summary_en": "Russian strikes on western Ukraine, far from the front, hit both the railway and the grid, forcing emergency blackouts in three oblasts.",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "usa",
-        "uk",
-        "ukraina",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
-        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
-      },
-      "egenskaper_anfallsmal": "energiproduktion",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "Euromaidan Press",
-      "kallurl": "https://euromaidanpress.com/2026/11/20/russian-attack-kills-six-in-kyiv-three-reportedly-water-utility-workers-as-ballistic-strikes-hit-three-dnipro-bridges/",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Energi",
-        "Ukraina",
-        "Kyjiv"
       ]
     }
   ],
