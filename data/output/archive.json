@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 6546,
-  "last_archived_rotation": "2026-11-21T16:05:44.836741+00:00",
+  "total_archived_events": 6548,
+  "last_archived_rotation": "2026-11-21T16:25:34.534447+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-20-72d996",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T18:10:00+02:00",
+      "title_sv": "EU approves another EUR 1B in military aid for Ukraine",
+      "title_en": "EU approves another EUR 1B in military aid for Ukraine",
+      "summary_sv": "The Council of the European Union has adopted two decisions allowing the provision of EUR 1 billion in additional military assistance to the Ukrainian Armed Forces through joint procurement of lethal and non-lethal equipment under the European Peace Facility (EPF).",
+      "summary_en": "The Council of the European Union has adopted two decisions allowing the provision of EUR 1 billion in additional military assistance to the Ukrainian Armed Forces through joint procurement of lethal and non-lethal equipment under the European Peace Facility (EPF).",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "ukraina",
+        "eu",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4186902-eu-approves-another-eur-1b-in-military-aid-for-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-20-9a2ee1",
       "date": "2026-11-20",
@@ -469,6 +506,57 @@
       ]
     },
     {
+      "id": "evt-2026-11-20-822a26",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T16:16:01+00:00",
+      "title_sv": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+      "title_en": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+      "summary_sv": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow Two Russian cruise missiles and a jet-powered drone are reported to have crashed in Poland during Russian air attacks on Ukraine that took place amid major western military exercises by allied countries.Ukraine’s president, Volodymyr...",
+      "summary_en": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow Two Russian cruise missiles and a jet-powered drone are reported to have crashed in Poland during Russian air attacks on Ukraine that took place amid major western military exercises by allied countries.Ukraine’s president, Volodymyr...",
+      "location_name": "Polen & västra gränsen",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland",
+        "uk",
+        "eu"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Energi",
+        "Polen",
+        "Robotanfall",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+          "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
       "id": "evt-2026-11-20-572df4",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T16:05:00+02:00",
@@ -740,18 +828,18 @@
       "id": "evt-2026-11-20-cdd387",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T15:14:01+00:00",
-      "title_sv": "What we know about the latest Russian missile strikes on Ukraine",
+      "title_sv": "Vad vi vet om de senaste ryska missilattackerna mot Ukraina",
       "title_en": "What we know about the latest Russian missile strikes on Ukraine",
-      "summary_sv": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "summary_sv": "Ryssland slog till mot broar och järnvägsstationer i huvudstaden Kyjiv i en stor attack.",
       "summary_en": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
+        "ukraina",
         "ryssland",
-        "ukraina"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -771,8 +859,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Robotanfall",
         "Infrastruktur"
       ]
@@ -819,16 +907,16 @@
       "id": "evt-2026-11-20-49c067",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T14:56:56+00:00",
-      "title_sv": "Ukraine’s drone war grew through October. Units log more than 2 million verified hits this year, with the peak month so far almost 2.5 times January",
+      "title_sv": "Ukrainas drönarkrig växte fram till oktober. Enheter loggar mer än 2 miljoner verifierade träffar i år, med toppmånaden hittills nästan 2,5 gånger januari",
       "title_en": "Ukraine’s drone war grew through October. Units log more than 2 million verified hits this year, with the peak month so far almost 2.5 times January",
-      "summary_sv": "The drones also reach further behind the front: in September, hits more than 20 km back passed 11,000 for the first time, the Defense Ministry says.",
+      "summary_sv": "Drönarna når också längre bakom fronten: i september passerade träffarna mer än 20 km bakåt 11 000 för första gången, säger försvarsministeriet.",
       "summary_en": "The drones also reach further behind the front: in September, hits more than 20 km back passed 11,000 for the first time, the Defense Ministry says.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -848,8 +936,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1203,19 +1291,19 @@
       "id": "evt-2026-11-20-6d6a86",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T13:40:30+00:00",
-      "title_sv": "Ukraine says five European countries plus the EU and NATO will join talks on Russia’s war—overnight, Russia launches over 400 drones and over 110 missiles at Ukraine",
+      "title_sv": "Ukraina säger att fem europeiska länder plus EU och Nato kommer att gå med i samtalen om Rysslands krig – över en natt skjuter Ryssland upp över 400 drönare och över 110 missiler mot Ukraina",
       "title_en": "Ukraine says five European countries plus the EU and NATO will join talks on Russia’s war—overnight, Russia launches over 400 drones and over 110 missiles at Ukraine",
-      "summary_sv": "The day Ukraine and its allies asked Russia for a winter energy ceasefire, Putin ruled it out, and that night Russia launched what Zelenskyy called one of its most massive attacks.",
+      "summary_sv": "Dagen som Ukraina och dess allierade bad Ryssland om en vintervapenvila, uteslöt Putin det, och den natten inledde Ryssland vad Zelenskyy kallade en av sina mest massiva attacker.",
       "summary_en": "The day Ukraine and its allies asked Russia for a winter energy ceasefire, Putin ruled it out, and that night Russia launched what Zelenskyy called one of its most massive attacks.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "usa",
         "ukraina",
-        "eu"
+        "ryssland",
+        "eu",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1235,10 +1323,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
-        "Robotanfall",
-        "Energi"
+        "Energi",
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1483,19 +1571,19 @@
       "id": "evt-2026-11-20-bf9e3a",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T13:15:30+00:00",
-      "title_sv": "What’s inside the missiles hitting Ukraine’s cities? Kyiv’s count shows how sanctions still leak",
+      "title_sv": "Vad finns inuti missilerna som träffar Ukrainas städer? Kyjivs räkning visar hur sanktionerna fortfarande läcker",
       "title_en": "What’s inside the missiles hitting Ukraine’s cities? Kyiv’s count shows how sanctions still leak",
-      "summary_sv": "A single Russian Iskander-M missile holds more than 147 foreign parts, with makers in at least eight countries, Ukraine's foreign minister says. He urges EU countries to bar alumina exports to Russia.",
+      "summary_sv": "En enda rysk Iskander-M-missil rymmer mer än 147 utländska delar, med tillverkare i minst åtta länder, säger Ukrainas utrikesminister. Han uppmanar EU-länderna att hindra export av aluminiumoxid till Ryssland.",
       "summary_en": "A single Russian Iskander-M missile holds more than 147 foreign parts, with makers in at least eight countries, Ukraine's foreign minister says. He urges EU countries to bar alumina exports to Russia.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "usa",
         "ukraina",
-        "eu"
+        "ryssland",
+        "eu",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1515,8 +1603,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Robotanfall",
         "Infrastruktur"
       ]
@@ -1605,18 +1693,18 @@
       "id": "evt-2026-11-20-ca2d5e",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T13:01:16+00:00",
-      "title_sv": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "title_sv": "Ryssland riktar in sig på Kyjiv-överfarterna dagar efter att Ukraina träffat Krimbron",
       "title_en": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "summary_sv": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+      "summary_sv": "Ryssland inledde en av sina största flygattacker hittills då man avvisade utsikterna till säkerhetsgarantier för Ukraina.",
       "summary_en": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
+        "ukraina",
         "ryssland",
-        "ukraina"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1636,8 +1724,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Infrastruktur"
       ]
     },
@@ -1932,18 +2020,18 @@
       "id": "evt-2026-11-20-3f91db",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T12:33:23+00:00",
-      "title_sv": "160+ Starlinks for Russian troops got onto Ukraine’s whitelist in Ukrainians’ names—Ukraine has detained the two men suspected of registering them",
+      "title_sv": "160+ Starlinks för ryska trupper hamnade på Ukrainas vitlista i ukrainares namn – Ukraina har fängslat de två männen som misstänks ha registrerat dem",
       "title_en": "160+ Starlinks for Russian troops got onto Ukraine’s whitelist in Ukrainians’ names—Ukraine has detained the two men suspected of registering them",
-      "summary_sv": "Ukraine's security service says it has now blocked more than 160 Starlink terminals that two men registered for Russian forces. The men worked separately in Mykolaiv and Dnipro after looking for easy money in Telegram channels and now face treason or aiding-the-aggressor cases that can bring long prison terms, investigators say.",
+      "summary_sv": "Ukrainas säkerhetstjänst säger att de nu har blockerat mer än 160 Starlink-terminaler som två män registrerat för ryska styrkor. Männen arbetade separat i Mykolaiv och Dnipro efter att ha letat efter lätta pengar i Telegram-kanaler och står nu inför förräderi eller fall med hjälp av angriparen som kan ge långa fängelsestraff, säger utredarna.",
       "summary_en": "Ukraine's security service says it has now blocked more than 160 Starlink terminals that two men registered for Russian forces. The men worked separately in Mykolaiv and Dnipro after looking for easy money in Telegram channels and now face treason or aiding-the-aggressor cases that can bring long prison terms, investigators say.",
       "location_name": "Dnipro",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
+        "ukraina",
         "ryssland",
-        "ukraina"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1963,8 +2051,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Dnipro"
+        "Dnipro",
+        "Ukraina"
       ]
     },
     {
@@ -2602,18 +2690,18 @@
       "id": "evt-2026-11-20-c09ab9",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T10:28:41+00:00",
-      "title_sv": "Smolensk’s Dorogobuzh nitrogen plant hit again as Ukraine’s drones work down Russia’s explosives supply chain",
+      "title_sv": "Smolensks kvävefabrik i Dorogobuzh slog till igen när Ukrainas drönare arbetar ner i Rysslands försörjningskedja för sprängämnen",
       "title_en": "Smolensk’s Dorogobuzh nitrogen plant hit again as Ukraine’s drones work down Russia’s explosives supply chain",
-      "summary_sv": "The plant sits near the start of the chain that ends in Russian munitions, and the same site keeps turning up on Ukraine’s target list.",
+      "summary_sv": "Anläggningen ligger nära början av kedjan som slutar i rysk ammunition, och samma plats dyker hela tiden upp på Ukrainas mållista.",
       "summary_en": "The plant sits near the start of the chain that ends in Russian munitions, and the same site keeps turning up on Ukraine’s target list.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "uk",
+        "ukraina",
         "ryssland",
-        "ukraina"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2633,8 +2721,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -3191,18 +3279,18 @@
       "id": "evt-2026-11-20-b8a3f9",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T08:48:41+00:00",
-      "title_sv": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
+      "title_sv": "Rysk attack dödade sex i Kyjiv, tre enligt uppgift från vattenverksarbetare, när ballistiska attacker träffade tre Dnipro-broar",
       "title_en": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
-      "summary_sv": "Russian strikes on western Ukraine, far from the front, hit both the railway and the grid, forcing emergency blackouts in three oblasts.",
+      "summary_sv": "Ryska attacker mot västra Ukraina, långt från fronten, drabbade både järnvägen och nätet, vilket tvingade fram nödstopp i tre oblaster.",
       "summary_en": "Russian strikes on western Ukraine, far from the front, hit both the railway and the grid, forcing emergency blackouts in three oblasts.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
-        "uk",
+        "ukraina",
         "ryssland",
-        "ukraina"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -3222,9 +3310,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -3352,16 +3440,16 @@
       "timestamp": "2026-11-20T08:05:42+00:00",
       "title_sv": "Ukraina: Fem mördade i terrorbombningar mot Kyjiv och Lviv – rysk kryssningsrobot störtade och sprängdes i Polen",
       "title_en": "Ukraina: Fem mördade i terrorbombningar mot Kyjiv och Lviv – rysk kryssningsrobot störtade och sprängdes i Polen",
-      "summary_sv": "Fem personer mördades i nattens terorrbombning mot Lviv och Kyjiv, där flera broar attackerades av ryska ballistiska robotar. En rysk kryssningsrobot ska flugit in i Polen, utlöst flyglarm och sedan störtat och sprängts 46 km in i landet.",
+      "summary_sv": "Fem personer mördades i nattens terrorrbombning mot Lviv och Kyjiv, där flera broar attackerades av ryska ballistiska robotar. En rysk kryssningsrobot ska flugit in i Polen, utlöst flyglarm och sedan störtat och sprängts 46 km in i landet.",
       "summary_en": "Fem personer mördades i nattens terorrbombning mot Lviv och Kyjiv, där flera broar attackerades av ryska ballistiska robotar. En rysk kryssningsrobot ska flugit in i Polen, utlöst flyglarm och sedan störtat och sprängts 46 km in i landet.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "uk",
+        "ukraina",
         "ryssland",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3381,8 +3469,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
+        "Ukraina",
         "Robotanfall",
         "Infrastruktur"
       ]
@@ -3508,19 +3596,19 @@
       "id": "evt-2026-11-20-b36039",
       "date": "2026-11-20",
       "timestamp": "2026-11-20T07:50:17+00:00",
-      "title_sv": "A farm camera caught a flash: Russia’s missile barrage on Ukraine may have reached Poland",
+      "title_sv": "En gårdskamera fångade en blixt: Rysslands missilflod mot Ukraina kan ha nått Polen",
       "title_en": "A farm camera caught a flash: Russia’s missile barrage on Ukraine may have reached Poland",
-      "summary_sv": "A farm security camera in southeastern Poland filmed a flash on the horizon during Russia’s mass missile and drone attack on Ukraine. An object was later found burning in a field in the village of Lipowiec.",
+      "summary_sv": "En gårdssäkerhetskamera i sydöstra Polen filmade en blixt vid horisonten under Rysslands massmissil- och drönsattack mot Ukraina. Ett föremål hittades senare brinnande på ett fält i byn Lipowiec.",
       "summary_en": "A farm security camera in southeastern Poland filmed a flash on the horizon during Russia’s mass missile and drone attack on Ukraine. An object was later found burning in a field in the village of Lipowiec.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "usa",
         "ukraina",
-        "eu"
+        "ryssland",
+        "eu",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3540,10 +3628,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Polen",
         "Robotanfall",
-        "Drönare"
+        "Drönare",
+        "Ukraina",
+        "Polen"
       ]
     },
     {
