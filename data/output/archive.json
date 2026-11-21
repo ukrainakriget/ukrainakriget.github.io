@@ -1,7 +1,91 @@
 {
-  "total_archived_events": 6488,
-  "last_archived_rotation": "2026-11-21T09:47:27.955458+00:00",
+  "total_archived_events": 6490,
+  "last_archived_rotation": "2026-11-21T10:05:23.648959+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-20-fe2fb9",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T12:00:00+02:00",
+      "title_sv": "Ukrainas luftförsvar fäller 82 missiler, 380 ryska drönare över natten",
+      "title_en": "Ukraine’s air defenses down 82 missiles, 380 Russian drones overnight",
+      "summary_sv": "Ukrainas luftförsvar neutraliserade 82 missiler och 380 drönare som avfyrats av ryska styrkor i en attack mot Ukraina över natten den 20 november. Ryska attacker registrerades på 23 platser.",
+      "summary_en": "Ukraine's air defenses neutralized 82 missiles and 380 drones launched by Russian forces in an attack on Ukraine overnight on November 20. Russian strikes were recorded at 23 locations.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "usa",
+        "uk",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186737-ukraines-air-defenses-down-82-missiles-380-russian-drones-overnight.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Luftförsvar",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
+    {
+      "id": "evt-2026-11-20-0a3b38",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T11:54:00+02:00",
+      "title_sv": "Bilder visar förkolnade byggnader i Kyjiv efter rysk störtflod över natten",
+      "title_en": "Photos show charred buildings in Kyiv after overnight Russian barrage",
+      "summary_sv": "Ukrainas statliga räddningstjänst släppte bilder som visar efterdyningarna av Rysslands massiva missil- och drönarattack mot Kyjiv den 20 november, som dödade tre personer och skadade 11.",
+      "summary_en": "Ukraine's State Emergency Service released photos showing the aftermath of Russia's massive overnight missile and drone strike on Kyiv into Nov. 20, which killed three people and injured 11.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/kyiv-attack-damage-casualties-after-russian-strike-overnight-on-nov-20-ses-photoreport-50660950.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur",
+        "Kyjiv",
+        "Robotanfall",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-11-20-458e44",
       "date": "2026-11-20",
@@ -912,8 +996,8 @@
       "parter_intressenter": [
         "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -933,8 +1017,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Energi"
       ]
     },
@@ -1071,8 +1155,8 @@
       "parter_intressenter": [
         "ukraina",
         "uk",
-        "eu",
-        "ryssland"
+        "ryssland",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1092,9 +1176,9 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
+        "Robotanfall",
         "Infrastruktur"
       ]
     },
@@ -1227,11 +1311,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
+        "usa",
         "eu",
+        "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1251,10 +1335,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Polen",
-        "Drönare",
         "Ukraina",
-        "Robotanfall"
+        "Polen",
+        "Robotanfall",
+        "Drönare"
       ]
     },
     {
@@ -1696,8 +1780,8 @@
       "parter_intressenter": [
         "ukraina",
         "uk",
-        "ryssland",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1717,8 +1801,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Infrastruktur"
       ]
     },
@@ -1806,11 +1890,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
+        "usa",
         "eu",
+        "ukraina",
         "uk",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2037,11 +2121,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "uk",
+        "usa",
         "kina",
-        "usa"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2230,11 +2314,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "uk",
+        "usa",
         "kina",
-        "usa"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2254,11 +2338,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Ukraina",
+        "Drönare",
+        "Infrastruktur",
         "Krym",
-        "Robotanfall",
-        "Infrastruktur"
+        "Robotanfall"
       ]
     },
     {
