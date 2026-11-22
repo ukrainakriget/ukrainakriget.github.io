@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 6662,
-  "last_archived_rotation": "2026-11-22T19:02:10.768399+00:00",
+  "total_archived_events": 6664,
+  "last_archived_rotation": "2026-11-22T19:32:24.156639+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-21-df30d4",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T21:10:00+02:00",
+      "title_sv": "Airport in Russia’s Kaliningrad region temporarily closed amid drone threat – social media",
+      "title_en": "Airport in Russia’s Kaliningrad region temporarily closed amid drone threat – social media",
+      "summary_sv": "Khrabrovo Airport in Russia’s Kaliningrad temporarily suspended arrivals and departures.",
+      "summary_en": "Khrabrovo Airport in Russia’s Kaliningrad temporarily suspended arrivals and departures.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187239-airport-in-russias-kaliningrad-region-temporarily-closed-amid-drone-threat-social-media.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-11-21-d6a757",
       "date": "2026-11-21",
@@ -230,6 +269,45 @@
       "tags": [
         "Infrastruktur",
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-21-94aaf8",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T19:20:22+00:00",
+      "title_sv": "Russia-bound ship attacked in Gulf of Finland",
+      "title_en": "Russia-bound ship attacked in Gulf of Finland",
+      "summary_sv": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "summary_en": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1018,11 +1096,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "uk",
-        "ryssland",
-        "ukraina",
-        "eu"
+        "eu",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1042,11 +1120,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Energi",
+        "Polen",
         "Robotanfall",
-        "Ukraina",
-        "Polen"
+        "Energi",
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -1339,10 +1417,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
+        "ukraina",
         "uk",
         "ryssland",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1572,10 +1650,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ukraina",
         "uk",
         "ryssland",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1595,9 +1673,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2073,10 +2151,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "ukraina",
         "uk",
         "ryssland",
-        "ukraina"
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
