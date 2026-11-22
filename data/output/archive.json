@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 6656,
-  "last_archived_rotation": "2026-11-22T17:31:38.131869+00:00",
+  "total_archived_events": 6657,
+  "last_archived_rotation": "2026-11-22T18:04:11.446042+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-21-5e6158",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T19:50:00+02:00",
+      "title_sv": "Finland misstänker rysk helikopter för att kränka dess luftrum",
+      "title_en": "Finland suspects Russian helicopter of violating its airspace",
+      "summary_sv": "Finland misstänker att en rysk helikopter kränkte dess luftrum på lördagseftermiddagen.",
+      "summary_en": "Finland suspects that a Russian helicopter violated its airspace on Saturday afternoon.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-emergencies/4187228-finland-suspects-russian-helicopter-of-violating-its-airspace.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-21-e153b2",
       "date": "2026-11-21",
@@ -747,10 +784,10 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "uk",
-        "ryssland",
         "ukraina",
         "eu",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -770,8 +807,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -787,10 +824,10 @@
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "uk",
-        "ryssland",
         "ukraina",
         "eu",
-        "usa"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -811,10 +848,10 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
-        "Ukraina",
-        "Robotanfall",
         "Polen",
-        "Energi"
+        "Robotanfall",
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1101,16 +1138,16 @@
       "timestamp": "2026-11-21T14:03:50+00:00",
       "title_sv": "Danmark ska utvisa rysk diplomat på grund av påstådd komplott för att döda amerikansk-ukrainsk rappare",
       "title_en": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
-      "summary_sv": "Moskvas underrättelsetjänst tros ligga bakom planen att döda musikern Kyivstoner före konsert i Danmark. Danmarks utrikesminister har sagt att Rysslands försvarsattaché i Köpenhamn skulle utvisas efter att Moskva misstänktes ligga bakom ett försök till dödande av en amerikansk-ukrainsk rappare.",
+      "summary_sv": "Moskvas underrättelsetjänst tros ligga bakom planen att döda musikern Kyivstoner före konserten i Danmark. Danmarks utrikesminister har sagt att Rysslands försvarsattaché i Köpenhamn skulle utvisas efter att Moskva misstänktes ligga bakom ett mordförsök på en amerikansk-ukrainsk rappare.",
       "summary_en": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper.“We have just summoned the Russian ambassador to the ministry of...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1130,8 +1167,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1140,14 +1177,14 @@
       "timestamp": "2026-11-21T13:54:17+00:00",
       "title_sv": "Ryssland flyttar orolig kärnvapenmissil Sarmat mot utplacering trots upprepade testmisslyckanden, analyserar IISS",
       "title_en": "Russia moves troubled Sarmat nuclear missile toward deployment despite repeated test failures, IISS analyzes",
-      "summary_sv": "Satellitbilder tyder på att Ryssland kan förbereda sin Sarmat interkontinentala ballistiska missil för stridsuppgift, även när år av förseningar och misslyckade tester väcker frågor om dess tillförlitlighet, säger IISS.",
+      "summary_sv": "Satellitbilder tyder på att Ryssland kan förbereda sin Sarmat interkontinentala ballistiska missil för stridsuppdrag, även när år av förseningar och misslyckade tester väcker frågor om dess tillförlitlighet, säger IISS.",
       "summary_en": "Satellite imagery suggests Russia may be preparing its Sarmat intercontinental ballistic missile for combat duty, even as years of delays and failed tests raise questions about its reliability, IISS says.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -1168,8 +1205,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Robotanfall"
+        "Robotanfall",
+        "Ukraina"
       ]
     },
     {
@@ -1340,10 +1377,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1364,8 +1401,8 @@
       "arkiverad": true,
       "tags": [
         "Infrastruktur",
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
@@ -1841,10 +1878,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "ryssland",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
