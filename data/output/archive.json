@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 6588,
-  "last_archived_rotation": "2026-11-22T02:05:24.432183+00:00",
+  "total_archived_events": 6590,
+  "last_archived_rotation": "2026-11-22T02:35:35.479227+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-21-2e85ff",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T04:27:00+02:00",
+      "title_sv": "Ryssland saknar teknisk kapacitet för att reparera Krimbron – Pletenchuk",
+      "title_en": "Russia lacks technical capacity to repair Crimean Bridge – Pletenchuk",
+      "summary_sv": "Ryssland saknar för närvarande den tekniska kapacitet som behövs för att reparera bron i Kertjsundet. Alternativen för resor till tillfälligt ockuperade Krim förblir en landväg genom de ockuperade områdena i Azov-regionen och färjeöverfarter.",
+      "summary_en": "Russia currently lacks the technical capacity needed to repair the Kerch Strait Bridge. The alternatives for travel to temporarily occupied Crimea remain a land route through the occupied territories of the Azov region and ferry crossings.",
+      "location_name": "Krym",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4186858-russia-lacks-technical-capacity-to-repair-crimean-bridge-pletenchuk.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Krym",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-21-9e00c2",
       "date": "2026-11-21",
@@ -191,6 +231,48 @@
       ]
     },
     {
+      "id": "evt-2026-11-21-b07a88",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T02:09:46+00:00",
+      "title_sv": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "title_en": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary_sv": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "summary_en": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "location_name": "Polen & västra gränsen",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "uk",
+        "ukraina",
+        "usa",
+        "eu",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Polen",
+        "Ukraina",
+        "Infrastruktur",
+        "Robotanfall"
+      ]
+    },
+    {
       "id": "evt-2026-11-21-536d98",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T01:38:30+00:00",
@@ -202,9 +284,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "uk",
         "ukraina",
-        "eu",
-        "uk"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -224,8 +306,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -355,10 +437,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "eu",
-        "uk"
+        "usa",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2062,11 +2144,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "eu",
         "uk",
         "ukraina",
-        "usa"
+        "usa",
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2086,8 +2168,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
         "Polen",
+        "Energi",
         "Robotanfall",
         "Drönare",
         "Ukraina"
@@ -2373,10 +2455,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "ryssland",
-        "uk"
+        "usa",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2396,10 +2478,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina",
         "Kyjiv",
-        "Infrastruktur"
+        "Ukraina",
+        "Infrastruktur",
+        "Robotanfall"
       ]
     },
     {
@@ -2452,8 +2534,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2473,8 +2555,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
