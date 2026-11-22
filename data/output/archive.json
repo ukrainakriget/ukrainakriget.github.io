@@ -1,7 +1,87 @@
 {
-  "total_archived_events": 6653,
-  "last_archived_rotation": "2026-11-22T16:34:47.921208+00:00",
+  "total_archived_events": 6655,
+  "last_archived_rotation": "2026-11-22T17:02:01.358593+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-21-ceea56",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T19:00:00+02:00",
+      "title_sv": "Russia attacks Ukraine overnight with three ballistic missiles and nearly 150 drones",
+      "title_en": "Russia attacks Ukraine overnight with three ballistic missiles and nearly 150 drones",
+      "summary_sv": "Russia attacked Ukraine overnight into Nov. 21 with three Iskander-M/KN-23/S-400 ballistic missiles and 148 Shahed attack drones, 87 of them jet-powered, as well as Gerbera and Parodiya drones, according to the Ukrainian Air Force.",
+      "summary_en": "Russia attacked Ukraine overnight into Nov. 21 with three Iskander-M/KN-23/S-400 ballistic missiles and 148 Shahed attack drones, 87 of them jet-powered, as well as Gerbera and Parodiya drones, according to the Ukrainian Air Force.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/russia-attacks-ukraine-with-three-ballistic-missiles-148-drones-on-nov-21-50661287.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Robotanfall",
+        "Drönare",
+        "Ukraina",
+        "Energi"
+      ]
+    },
+    {
+      "id": "evt-2026-11-21-f9d142",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T18:54:00+02:00",
+      "title_sv": "Electricity supply situation remains difficult in Odesa region – Ministry of Energy",
+      "title_en": "Electricity supply situation remains difficult in Odesa region – Ministry of Energy",
+      "summary_sv": "Following Russia's massive overnight attack on November 20, energy workers have managed to partially stabilise electricity supplies in the affected regions, but the situation remains difficult in the Odesa region.",
+      "summary_en": "Following Russia's massive overnight attack on November 20, energy workers have managed to partially stabilise electricity supplies in the affected regions, but the situation remains difficult in the Odesa region.",
+      "location_name": "Odesa",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187223-electricity-supply-situation-remains-difficult-in-odesa-region-ministry-of-energy.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Energi",
+        "Odesa"
+      ]
+    },
     {
       "id": "evt-2026-11-21-4aab9f",
       "date": "2026-11-21",
@@ -629,10 +709,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -653,26 +733,26 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
       "id": "evt-2026-11-21-5e0e60",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T15:07:05+00:00",
-      "title_sv": "CCTV footage shows object crashing and exploding near Poland-Ukraine border – video",
+      "title_sv": "CCTV-filmer visar objekt som kraschar och exploderar nära gränsen mellan Polen och Ukraina – video",
       "title_en": "CCTV footage shows object crashing and exploding near Poland-Ukraine border – video",
-      "summary_sv": "A security camera has captured an explosion near the Poland-Ukraine border after an unknown object fell near a Polish village. Two Russian cruise missiles and a jet-powered drone crashed in Poland during Russian air attacks on Ukraine, officials said.",
+      "summary_sv": "En säkerhetskamera har fångat en explosion nära gränsen mellan Polen och Ukraina efter att ett okänt föremål föll nära en polsk by. Två ryska kryssningsmissiler och en jetdriven drönare kraschade i Polen under ryska flygattacker mot Ukraina, sade tjänstemän.",
       "summary_en": "A security camera has captured an explosion near the Poland-Ukraine border after an unknown object fell near a Polish village. Two Russian cruise missiles and a jet-powered drone crashed in Poland during Russian air attacks on Ukraine, officials said.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "eu",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
+        "ryssland",
         "usa"
       ],
       "syfte": {
@@ -693,11 +773,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Polen",
+        "Energi",
+        "Drönare",
         "Ukraina",
-        "Robotanfall",
-        "Energi"
+        "Robotanfall"
       ]
     },
     {
@@ -982,18 +1062,18 @@
       "id": "evt-2026-11-21-66d7d0",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T14:03:50+00:00",
-      "title_sv": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+      "title_sv": "Danmark ska utvisa rysk diplomat på grund av påstådd komplott för att döda amerikansk-ukrainsk rappare",
       "title_en": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
-      "summary_sv": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper.“We have just summoned the Russian ambassador to the ministry of...",
+      "summary_sv": "Moskvas underrättelsetjänst tros ligga bakom planen att döda musikern Kyivstoner före konsert i Danmark. Danmarks utrikesminister har sagt att Rysslands försvarsattaché i Köpenhamn skulle utvisas efter att Moskva misstänktes ligga bakom ett försök till dödande av en amerikansk-ukrainsk rappare.",
       "summary_en": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper.“We have just summoned the Russian ambassador to the ministry of...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ryssland",
-        "ukraina"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1013,8 +1093,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -1023,15 +1103,15 @@
       "timestamp": "2026-11-21T13:54:17+00:00",
       "title_sv": "Ryssland flyttar orolig kärnvapenmissil Sarmat mot utplacering trots upprepade testmisslyckanden, analyserar IISS",
       "title_en": "Russia moves troubled Sarmat nuclear missile toward deployment despite repeated test failures, IISS analyzes",
-      "summary_sv": "Satellitbilder tyder på att Ryssland kan förbereda sin Sarmat interkontinentala ballistiska missil för stridsuppdrag, även när år av förseningar och misslyckade tester väcker frågor om dess tillförlitlighet, säger IISS.",
+      "summary_sv": "Satellitbilder tyder på att Ryssland kan förbereda sin Sarmat interkontinentala ballistiska missil för stridsuppgift, även när år av förseningar och misslyckade tester väcker frågor om dess tillförlitlighet, säger IISS.",
       "summary_en": "Satellite imagery suggests Russia may be preparing its Sarmat intercontinental ballistic missile for combat duty, even as years of delays and failed tests raise questions about its reliability, IISS says.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "ukraina",
         "usa",
-        "ryssland",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1051,8 +1131,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -1215,18 +1295,18 @@
       "id": "evt-2026-11-21-75a534",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T13:17:38+00:00",
-      "title_sv": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title_sv": "Zelensky säger att Krimbron attackerar \"rättvist svar\" när han möter Storbritanniens Streeting",
       "title_en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary_sv": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "summary_sv": "Ukrainas president säger att Kyjiv agerade efter 109 separata ryska flygattacker på broar i Ukraina.",
       "summary_en": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ryssland",
-        "ukraina"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1246,9 +1326,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
+        "Ukraina",
         "Infrastruktur",
-        "Ukraina"
+        "Kyjiv"
       ]
     },
     {
@@ -1716,18 +1796,18 @@
       "id": "evt-2026-11-21-c133cc",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T10:26:36+00:00",
-      "title_sv": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "title_sv": "Danmark anklagar Ryssland för att planera att mörda den amerikansk-ukrainska rapparen",
       "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "summary_sv": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "summary_sv": "Ryska ambassaden i Danmark har förnekat anklagelsen, vilket har lett till att Rysslands försvarsattaché utvisats.",
       "summary_en": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ryssland",
-        "ukraina"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2304,9 +2384,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "uk",
-        "ryssland",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2326,8 +2406,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
