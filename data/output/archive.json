@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 6580,
-  "last_archived_rotation": "2026-11-22T00:05:48.535415+00:00",
+  "total_archived_events": 6582,
+  "last_archived_rotation": "2026-11-22T00:35:18.190057+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-21-cfc0ae",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T02:31:00+02:00",
+      "title_sv": "54% of damaged healthcare infrastructure facilities restored in Chernihiv region",
+      "title_en": "54% of damaged healthcare infrastructure facilities restored in Chernihiv region",
+      "summary_sv": "A total of 100 healthcare and social welfare facilities in Ukraine's Chernihiv region have been damaged by enemy shelling. So far, 54% of those facilities have been restored, while another 10% are being rebuilt.",
+      "summary_en": "A total of 100 healthcare and social welfare facilities in Ukraine's Chernihiv region have been damaged by enemy shelling. So far, 54% of those facilities have been restored, while another 10% are being rebuilt.",
+      "location_name": "Tjernihiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-vidbudova/4186741-54-of-damaged-healthcare-infrastructure-facilities-restored-in-chernihiv-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Tjernihiv",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-21-742c31",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T02:18:00+02:00",
+      "title_sv": "France calls UN meeting over Russian strikes on embassies in Kyiv",
+      "title_en": "France calls UN meeting over Russian strikes on embassies in Kyiv",
+      "summary_sv": "Paris is calling for an urgent UN Security Council meeting over Russian strikes on Ukraine that killed civilians in Kyiv and damaged Austrian and Dutch embassies, French Foreign Minister Jean-Noël Barrot said in a Twitter post.",
+      "summary_en": "Paris is calling for an urgent UN Security Council meeting over Russian strikes on Ukraine that killed civilians in Kyiv and damaged Austrian and Dutch embassies, French Foreign Minister Jean-Noël Barrot said in a Twitter post.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/france-calls-un-meeting-over-russian-strikes-on-embassies-in-kyiv-50661210.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Kyjiv"
+      ]
+    },
     {
       "id": "evt-2026-11-21-612350",
       "date": "2026-11-21",
@@ -1761,11 +1838,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "eu",
+        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1785,11 +1862,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Polen",
+        "Drönare",
         "Ukraina",
         "Energi",
-        "Drönare",
-        "Robotanfall",
-        "Polen"
+        "Robotanfall"
       ]
     },
     {
@@ -2072,10 +2149,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
         "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2097,8 +2174,8 @@
       "tags": [
         "Kyjiv",
         "Robotanfall",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2151,8 +2228,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2535,11 +2612,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "eu",
+        "usa",
         "ryssland",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2559,10 +2636,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
         "Drönare",
+        "Ukraina",
         "Robotanfall",
-        "Ukraina"
+        "Energi"
       ]
     },
     {
@@ -2937,10 +3014,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
         "usa",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2961,8 +3038,8 @@
       "arkiverad": true,
       "tags": [
         "Kyjiv",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
