@@ -1,7 +1,85 @@
 {
-  "total_archived_events": 6608,
-  "last_archived_rotation": "2026-11-22T08:31:53.719885+00:00",
+  "total_archived_events": 6610,
+  "last_archived_rotation": "2026-11-22T09:01:48.467890+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-21-ad1744",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T10:56:00+02:00",
+      "title_sv": "Kyjiv rapporterar skada i tre distrikt efter rysk morgonattack, två personer skadade",
+      "title_en": "Kyiv reports damage in three districts after morning Russian attack, two people injured",
+      "summary_sv": "Två personer skadades i en rysk attack mot Kyjiv på morgonen den 21 november. Bostadsbyggnader skadades i tre distrikt, medan avbrott i vattenförsörjningen rapporterades i fem distrikt.",
+      "summary_en": "Two people were injured in a Russian attack on Kyiv in the morning of November 21. Residential buildings were damaged in three districts, while water supply disruptions were reported in five districts.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187078-kyiv-reports-damage-in-three-districts-after-morning-russian-attack-two-people-injured.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Civila mål",
+        "Kyjiv",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-21-18a567",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T10:37:00+02:00",
+      "title_sv": "Crimean bridge, which Putin uses to transport weapons, to not remain standing, Zelensky says",
+      "title_en": "Crimean bridge, which Putin uses to transport weapons, to not remain standing, Zelensky says",
+      "summary_sv": "Russian leader Vladimir Putin uses the Kerch Bridge to transport large quantities of military equipment to temporarily occupied Ukrainian territory. Therefore, the bridge \"will not remain standing.\"",
+      "summary_en": "Russian leader Vladimir Putin uses the Kerch Bridge to transport large quantities of military equipment to temporarily occupied Ukrainian territory. Therefore, the bridge \"will not remain standing.\"",
+      "location_name": "Krym",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187063-crimean-bridge-which-putin-uses-to-transport-weapons-to-not-remain-standing-zelensky-says.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Krym"
+      ]
+    },
     {
       "id": "evt-2026-11-21-589ff4",
       "date": "2026-11-21",
@@ -556,9 +634,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
+        "ryssland",
         "uk",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -578,8 +656,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -634,8 +712,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -657,9 +735,9 @@
       "arkiverad": true,
       "tags": [
         "Robotanfall",
-        "Ukraina",
         "Kyjiv",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -825,11 +903,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "eu",
-        "ukraina",
         "ryssland",
-        "usa"
+        "eu",
+        "usa",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -850,9 +928,9 @@
       "arkiverad": true,
       "tags": [
         "Polen",
-        "Ukraina",
         "Robotanfall",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -944,11 +1022,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "eu",
-        "ukraina",
         "ryssland",
-        "usa"
+        "eu",
+        "usa",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -970,8 +1048,8 @@
       "tags": [
         "Polen",
         "Robotanfall",
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -986,9 +1064,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
+        "eu",
         "ukraina",
-        "eu"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1008,8 +1086,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1139,9 +1217,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ukraina",
         "eu",
+        "ukraina",
+        "uk",
         "usa"
       ],
       "syfte": {
