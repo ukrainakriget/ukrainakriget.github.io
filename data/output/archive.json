@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 6782,
-  "last_archived_rotation": "2026-11-23T20:09:29.919073+00:00",
+  "total_archived_events": 6784,
+  "last_archived_rotation": "2026-11-23T20:31:51.139234+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-22-0a2e57",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T22:31:00+02:00",
+      "title_sv": "Russian attacks on Charkiv continue, strike reported in one district",
+      "title_en": "Russian attacks on Kharkiv continue, strike reported in one district",
+      "summary_sv": "Russian attacks on Charkiv are continuing, with a strike reported in the Kholodnohirskyi district.",
+      "summary_en": "Russian attacks on Kharkiv are continuing, with a strike reported in the Kholodnohirskyi district.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187481-russian-attacks-on-kharkiv-continue-strike-reported-in-one-district.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Charkiv",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-22-2558e5",
       "date": "2026-11-22",
@@ -263,6 +302,45 @@
       "tags": [
         "Ukraina",
         "Kyjiv"
+      ]
+    },
+    {
+      "id": "evt-2026-11-22-27f723",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T20:28:09+00:00",
+      "title_sv": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "title_en": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary_sv": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "summary_en": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Drönare",
+        "Infrastruktur"
       ]
     },
     {
@@ -932,8 +1010,8 @@
       "parter_intressenter": [
         "ukraina",
         "usa",
-        "ryssland",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -953,9 +1031,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Kyjiv",
-        "Drönare"
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
