@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 6777,
-  "last_archived_rotation": "2026-11-23T19:02:12.046217+00:00",
+  "total_archived_events": 6779,
+  "last_archived_rotation": "2026-11-23T19:32:03.255705+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-22-d334c6",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T21:21:00+02:00",
+      "title_sv": "Russian forces destroy 18 trolleybuses, damage heating pipeline in Dnipro",
+      "title_en": "Russian forces destroy 18 trolleybuses, damage heating pipeline in Dnipro",
+      "summary_sv": "A depot for electric public transport caught fire in Dnipro following Russian shelling, resulting in the destruction of 18 trolleybuses.",
+      "summary_en": "A depot for electric public transport caught fire in Dnipro following Russian shelling, resulting in the destruction of 18 trolleybuses.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187461-russian-forces-destroy-18-trolleybuses-damage-heating-pipeline-in-dnipro.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Dnipro"
+      ]
+    },
     {
       "id": "evt-2026-11-22-31ed03",
       "date": "2026-11-22",
@@ -341,6 +379,45 @@
       "tags": [
         "Ukraina",
         "Dnipro"
+      ]
+    },
+    {
+      "id": "evt-2026-11-22-4cc33f",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T19:12:58+00:00",
+      "title_sv": "Ukrainas mindre Operation Bear Trap följde Vivaldis manus: drönare först, infanteri sist",
+      "title_en": "Ukraine’s smaller Operation Bear Trap followed Vivaldi’s script: drones first, infantry last",
+      "summary_sv": "Ukrainska drönare ledde. Stridsvagnar och infanteri följde efter. Ryssarna drog sig tillbaka. Det kan låta som Operation Vivaldi, men det är faktiskt en annan operation.",
+      "summary_en": "Ukrainian drones led. Tanks and infantry followed. Russians retreated. That may sound like Operation Vivaldi, but it's actually a different op.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/22/operation-bear-trap/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
@@ -740,10 +817,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "usa",
-        "ukraina",
-        "ryssland"
+        "ryssland",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -763,9 +840,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Drönare"
       ]
     },
     {
@@ -2804,10 +2881,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "uk",
+        "ryssland",
         "eu",
-        "ukraina",
-        "ryssland"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
