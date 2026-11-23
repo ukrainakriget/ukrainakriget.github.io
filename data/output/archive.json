@@ -1,7 +1,47 @@
 {
-  "total_archived_events": 6713,
-  "last_archived_rotation": "2026-11-23T08:05:03.754016+00:00",
+  "total_archived_events": 6714,
+  "last_archived_rotation": "2026-11-23T08:18:27.888103+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-22-97d902",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T10:08:00+02:00",
+      "title_sv": "Droneattack skadar flerfamiljshus i Kyjiv-regionen, människor kan vara instängda under spillror",
+      "title_en": "Drone attack damages apartment block in Kyiv region, people may be trapped under rubble",
+      "summary_sv": "En rysk drönareattack skadade ett femvånings bostadshus i distriktet Vyshhorod i Kyjiv-regionen och orsakade en brand.",
+      "summary_en": "A Russian drone attack damaged a five-story residential building in the Vyshhorod district of the Kyiv region, causing a fire.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187306-drone-attack-damages-apartment-block-in-kyiv-region-people-may-be-trapped-under-rubble.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Drönare",
+        "Ukraina",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-11-22-56b90c",
       "date": "2026-11-22",
@@ -325,8 +365,8 @@
       "parter_intressenter": [
         "eu",
         "ukraina",
-        "ryssland",
-        "uk"
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1014,11 +1054,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "usa",
+        "uk",
         "ryssland",
-        "uk"
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1038,11 +1078,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
         "Kyjiv",
         "Ukraina",
         "Robotanfall",
-        "Drönare"
+        "Drönare",
+        "Civila mål"
       ]
     },
     {
@@ -1292,10 +1332,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "ryssland",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1368,12 +1408,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "kina",
-        "eu",
         "ukraina",
-        "usa",
+        "uk",
         "ryssland",
-        "uk"
+        "eu",
+        "kina",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1393,11 +1433,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Drönare",
         "Ukraina",
+        "Energi",
+        "Polen",
         "Robotanfall",
-        "Polen"
+        "Drönare"
       ]
     },
     {
@@ -1527,10 +1567,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
-        "ryssland",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1550,9 +1590,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Drönare",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -1604,9 +1644,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
+        "usa",
         "eu",
         "ukraina",
-        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1627,9 +1667,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
         "Robotanfall",
-        "Polen"
+        "Polen",
+        "Ukraina"
       ]
     },
     {
@@ -1682,8 +1722,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "kina"
+        "kina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1703,8 +1743,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Energi"
+        "Energi",
+        "Ukraina"
       ]
     },
     {
@@ -1756,11 +1796,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
-        "usa",
+        "uk",
         "ryssland",
-        "uk"
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1780,8 +1820,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Ukraina"
       ]
     },
     {
