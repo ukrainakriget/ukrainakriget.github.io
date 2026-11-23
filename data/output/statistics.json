@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T05:05:31.046330+00:00",
+  "updated_at": "2026-11-23T05:35:15.476805+00:00",
   "daily_metrics": {
     "shahed_interception_rate_percent": 69.4,
     "cruise_missile_interception_rate_percent": 82.5,
@@ -18,6 +18,12 @@
         "intensity": "Högst"
       },
       {
+        "name_sv": "Charkiv",
+        "name_en": "Charkiv",
+        "attacks_24h": 36,
+        "intensity": "Högst"
+      },
+      {
         "name_sv": "Odesa",
         "name_en": "Odesa",
         "attacks_24h": 36,
@@ -28,12 +34,6 @@
         "name_en": "Polen & västra gränsen",
         "attacks_24h": 30,
         "intensity": "Högst"
-      },
-      {
-        "name_sv": "Charkiv",
-        "name_en": "Charkiv",
-        "attacks_24h": 30,
-        "intensity": "Högst"
       }
     ],
     "drones_down": 86,
@@ -41,11 +41,11 @@
     "black_sea_export_monthly_tons_millions": 6.4
   },
   "target_distribution_percent": {
-    "helt_civila": 14,
+    "helt_civila": 13,
     "civil_infrastruktur": 28,
     "energiproduktion": 6,
     "krigsmaterielproduktion": 3,
-    "militara_resurser": 46,
+    "militara_resurser": 48,
     "diplomatiskt_politiskt": 3
   },
   "geography_distribution_percent": {
@@ -80,12 +80,12 @@
     "civilians_in_need_of_winterization": "1.8 miljoner"
   },
   "russian_casualties_minfin": {
-    "date": "2026-11-22",
-    "daily_personnel": 2310,
-    "daily_artillery": 66,
-    "daily_drones": 1392,
-    "daily_equipment_total": 1758,
-    "total_personnel": 1637170,
+    "date": "2026-11-23",
+    "daily_personnel": 2471,
+    "daily_artillery": 70,
+    "daily_drones": 1459,
+    "daily_equipment_total": 2218,
+    "total_personnel": 1639641,
     "source_url": "https://index.minfin.com.ua/en/russian-invading/casualties/"
   }
 }
