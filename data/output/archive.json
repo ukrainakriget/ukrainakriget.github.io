@@ -1,7 +1,84 @@
 {
-  "total_archived_events": 6737,
-  "last_archived_rotation": "2026-11-23T11:34:02.162026+00:00",
+  "total_archived_events": 6740,
+  "last_archived_rotation": "2026-11-23T12:02:20.963335+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-22-141f95",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:57:00+02:00",
+      "title_sv": "Ukrainas försvarsstyrkor attackerar åtta ryska oljeinfrastrukturanläggningar på en vecka",
+      "title_en": "Ukraine's Defence Forces strike eight Russian oil infrastructure facilities in one week",
+      "summary_sv": "Ukrainas försvarsstyrkor har genomfört en rad attacker mot rysk oljeinfrastruktur, militära logistikanläggningar, luftförsvarssystem, ledningsposter och stödanläggningar som används av den ryska militären.",
+      "summary_en": "Ukraine's Defence Forces have carried out a series of strikes against Russian oil infrastructure, military logistics facilities, air defence systems, command posts, and support facilities used by the Russian military.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187363-ukraines-defence-forces-strike-eight-russian-oil-infrastructure-facilities-in-one-week.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-22-dc4cbd",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:39:00+02:00",
+      "title_sv": "Ryssar attackerar Zaporizjzja och lämnar en dödad",
+      "title_en": "Russians attack Zaporizhzhia, leaving one killed",
+      "summary_sv": "En man dödades i en rysk bombattack mot staden Zaporizjzja.",
+      "summary_en": "A man was killed in a Russian shelling attack on the city of Zaporizhzhia.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187359-russians-attack-zaporizhzhia-leaving-one-killed.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Zaporizjzja",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-22-eb23f2",
       "date": "2026-11-22",
@@ -350,6 +427,45 @@
       "tags": [
         "Drönare",
         "Robotanfall",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-22-a8b97f",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T11:42:17+00:00",
+      "title_sv": "Ukraina namnger 15 ryskockuperade städer och byar för evakueringar i Oleshky-stil, Hola Prystan och Vasylivka bland dem – USA har nu listan",
+      "title_en": "Ukraine names 15 Russian-occupied towns and villages for Oleshky-style evacuations, Hola Prystan and Vasylivka among them—the US now holds the list",
+      "summary_sv": "Kyjiv vägde hur många människor den kunde ta ut och säger att listan över Kherson och Zaporizjzja oblasterna kommer att uppdateras, medan Moskva, som gick med på Oleshky vapenvila, inte har svarat ännu.",
+      "summary_en": "Kyiv weighed how many people it could bring out and says the list across Kherson and Zaporizhzhia oblasts will be updated, while Moscow, which agreed to the Oleshky truce, has not answered yet.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/22/ukraine-names-15-russian-occupied-towns-and-villages-for-oleshky-style-evacuations-hola-prystan-and-vasylivka-among-them-the-us-now-holds-the-list/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
         "Ukraina"
       ]
     },
@@ -745,7 +861,7 @@
       "timestamp": "2026-11-22T09:53:29+00:00",
       "title_sv": "En lukt av bränning över Krasnodar när rök stiger upp nära en rysk nationalgardesbas efter drönarnatten",
       "title_en": "A smell of burning over Krasnodar as smoke rises near a Russian National Guard base after the drone night",
-      "summary_sv": "Invånarna rapporterade att det luktade brinnande, och en ukrainsk övervakare pekade på en militär förening från Rysslands säkerhetsstyrka.",
+      "summary_sv": "Invånarna rapporterade att det luktade brinnande och en ukrainsk övervakare pekade på en militär förening från Rysslands säkerhetsstyrka.",
       "summary_en": "Residents reported a smell of burning, and a Ukrainian monitor pointed to a military compound of Russia's security force.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -774,8 +890,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
         "Infrastruktur",
+        "Drönare",
         "Ukraina"
       ]
     },
@@ -1015,9 +1131,9 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
-        "Odesa",
+        "Energi",
         "Ukraina",
-        "Energi"
+        "Odesa"
       ]
     },
     {
@@ -1947,19 +2063,19 @@
       "id": "evt-2026-11-22-2e5171",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T02:19:48+00:00",
-      "title_sv": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+      "title_sv": "Ukrainas krigsgenomgång: Ryskt lastfartyg träffat av drönare i Östersjön när Finlands premiärminister säger att konflikten \"spill över\"",
       "title_en": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
-      "summary_sv": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory.",
+      "summary_sv": "Fartyg bryter ut i lågor efter attack i Finska viken; Nato lovar att försvara \"varje tum\" av polskt territorium.",
       "summary_en": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "ryssland",
+        "eu",
+        "ukraina",
         "uk",
-        "eu"
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1979,11 +2095,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Drönare",
-        "Civila mål",
+        "Ukraina",
         "Robotanfall",
-        "Ukraina"
+        "Kyjiv",
+        "Civila mål"
       ]
     },
     {
