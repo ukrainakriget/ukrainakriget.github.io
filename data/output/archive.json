@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 6743,
-  "last_archived_rotation": "2026-11-23T12:32:57.584859+00:00",
+  "total_archived_events": 6745,
+  "last_archived_rotation": "2026-11-23T13:05:29.181612+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-22-1ad4aa",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T14:55:00+02:00",
+      "title_sv": "Russia fired 165 missiles at Ukraine this week, including North Korean ballistic weapons — Zelenskyy",
+      "title_en": "Russia fired 165 missiles at Ukraine this week, including North Korean ballistic weapons — Zelenskyy",
+      "summary_sv": "Russian troops attacked 20 Ukrainian oblasts this week, firing about 2,700 drones, almost 1,460 aerial bombs, and 165 missiles of various types. A large share of the missiles were ballistic, including North Korean ones.",
+      "summary_en": "Russian troops attacked 20 Ukrainian oblasts this week, firing about 2,700 drones, almost 1,460 aerial bombs, and 165 missiles of various types. A large share of the missiles were ballistic, including North Korean ones.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ryssland",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/russia-attacked-ukraine-with-north-korean-ballistic-missiles-zelenskyy-says-50661430.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Robotanfall"
+      ]
+    },
+    {
+      "id": "evt-2026-11-22-190440",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T14:51:00+02:00",
+      "title_sv": "Hegseth begränsar USA-Kanadas försvarssamarbete i hemligt memo – WP",
+      "title_en": "Hegseth restricts US-Canada defense cooperation in secret memo – WP",
+      "summary_sv": "USA:s försvarsminister Pete Hegseth har infört nya restriktioner för samarbetet mellan amerikanska och kanadensiska militärer.",
+      "summary_en": "US Defense Secretary Pete Hegseth has introduced new restrictions on cooperation between the US and Canadian militaries.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4187372-hegseth-restricts-uscanada-defense-cooperation-in-secret-memo-wp.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-22-964c6d",
       "date": "2026-11-22",
@@ -430,17 +506,17 @@
       "id": "evt-2026-11-22-da2ce8",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T12:13:58+00:00",
-      "title_sv": "Ryssland riktade in sig på broar över Dnipro i veckor – nu fortsätter Ukraina att slå mot Rysslands försörjningsbroar",
+      "title_sv": "Russia targeted bridges across the Dnipro for weeks—now Ukraine keeps hitting Russia’s supply bridges",
       "title_en": "Russia targeted bridges across the Dnipro for weeks—now Ukraine keeps hitting Russia’s supply bridges",
-      "summary_sv": "Inom några dagar inkluderade målen Kerchbrons järnväg, flodkorsningar i det ockuperade Luhansk oblasten och Rysslands motorväg till det ryskockuperade Krim i Rostov oblast.",
+      "summary_sv": "Within days the targets included the Kerch Bridge's railway, river crossings in occupied Luhansk Oblast, and Russia's highway to Russian-occupied Crimea in Rostov Oblast.",
       "summary_en": "Within days the targets included the Kerch Bridge's railway, river crossings in occupied Luhansk Oblast, and Russia's highway to Russian-occupied Crimea in Rostov Oblast.",
       "location_name": "Dnipro",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -462,8 +538,8 @@
       "arkiverad": true,
       "tags": [
         "Infrastruktur",
-        "Ukraina",
-        "Dnipro"
+        "Dnipro",
+        "Ukraina"
       ]
     },
     {
@@ -551,17 +627,17 @@
       "id": "evt-2026-11-22-a8b97f",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T11:42:17+00:00",
-      "title_sv": "Ukraina namnger 15 ryskockuperade städer och byar för evakueringar i Oleshky-stil, Hola Prystan och Vasylivka bland dem - USA har nu listan",
+      "title_sv": "Ukraine names 15 Russian-occupied towns and villages for Oleshky-style evacuations, Hola Prystan and Vasylivka among them—the US now holds the list",
       "title_en": "Ukraine names 15 Russian-occupied towns and villages for Oleshky-style evacuations, Hola Prystan and Vasylivka among them—the US now holds the list",
-      "summary_sv": "Kyjiv vägde hur många människor den kunde ta ut och säger att listan över Kherson och Zaporizjzja oblasterna kommer att uppdateras, medan Moskva, som gick med på Oleshky vapenvila, inte har svarat ännu.",
+      "summary_sv": "Kyiv weighed how many people it could bring out and says the list across Kherson and Zaporizjzja oblasts will be updated, while Moscow, which agreed to the Oleshky truce, has not answered yet.",
       "summary_en": "Kyiv weighed how many people it could bring out and says the list across Kherson and Zaporizhzhia oblasts will be updated, while Moscow, which agreed to the Oleshky truce, has not answered yet.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -582,8 +658,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -976,17 +1052,17 @@
       "id": "evt-2026-11-22-fb5922",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T09:53:29+00:00",
-      "title_sv": "En lukt av bränning över Krasnodar när rök stiger upp nära en rysk nationalgardesbas efter drönarnatten",
+      "title_sv": "A smell of burning over Krasnodar as smoke rises near a Russian National Guard base after the drone night",
       "title_en": "A smell of burning over Krasnodar as smoke rises near a Russian National Guard base after the drone night",
-      "summary_sv": "Invånarna rapporterade att det luktade brinnande, och en ukrainsk övervakare pekade på en militär förening från Rysslands säkerhetsstyrka.",
+      "summary_sv": "Residents reported a smell of burning, and a Ukrainian monitor pointed to a military compound of Russia's security force.",
       "summary_en": "Residents reported a smell of burning, and a Ukrainian monitor pointed to a military compound of Russia's security force.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -1007,8 +1083,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
         "Drönare",
+        "Infrastruktur",
         "Ukraina"
       ]
     },
@@ -1216,17 +1292,17 @@
       "id": "evt-2026-11-22-623cf0",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T09:35:41+00:00",
-      "title_sv": "Ryska attacker gör att Odesas nät inte kan leverera den kraft det behöver när en jetdrönare korsar Moldavien två gånger",
+      "title_sv": "Russian strikes leave Odesa’s grid unable to deliver the power it needs as a jet drone crosses into Moldova twice",
       "title_en": "Russian strikes leave Odesa’s grid unable to deliver the power it needs as a jet drone crosses into Moldova twice",
-      "summary_sv": "Luftanfallsvarningar fortsätter att avbryta reparationer av nätet som betjänar Odesa när vintern närmar sig, medan Moldaviens försvarsminister säger att en jetdrönare kom in i dess luftrum från Ukraina två gånger.",
+      "summary_sv": "Air raid alerts keep interrupting repairs to the grid serving Odesa as winter nears, while Moldova's Defense Ministry says a jet drone entered its airspace from Ukraine twice.",
       "summary_en": "Air raid alerts keep interrupting repairs to the grid serving Odesa as winter nears, while Moldova's Defense Ministry says a jet drone entered its airspace from Ukraine twice.",
       "location_name": "Odesa",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "uk",
+        "ryssland",
+        "ukraina",
         "usa"
       ],
       "syfte": {
@@ -1247,9 +1323,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Energi",
         "Drönare",
         "Odesa",
-        "Energi",
         "Ukraina"
       ]
     },
@@ -1491,16 +1567,16 @@
       "timestamp": "2026-11-22T07:55:41+00:00",
       "title_sv": "Ukraina: Danmark vill begränsa EU-visum för ryssar – oklart om bombningen av Pillau",
       "title_en": "Ukraina: Danmark vill begränsa EU-visum för ryssar – oklart om bombningen av Pillau",
-      "summary_sv": "Efter det ryska mordförsöket i Danmark vill landet begränsa visum för ryss i EU och häva Schengenrörligheten för dessa. Ryskt luftvärns agerande i Pillau i Königsbergexklaven antyder att örlogsbasen bombades igår kväll, men det är oklart vad verkan blef.",
+      "summary_sv": "Efter det ryska mordförsöket i Danmark vill landetnu begränsa visum för ryssar i EU och häva Schengenrörligheten för dessa. Ryskt luftvärns agerande i Pillau i Königsbergexklaven antyder att örlogsbasen bombades igår kväll, men det är oklart vad verkan blev.",
       "summary_en": "Efter det ryska mordförsöket i Danmark vill landetnu begränsa visum för ryssar i EU och häva Schengenrörligheten för dessa. Ryskt luftvärns agerande i Pillau i Königsbergexklaven antyder att örlogsbasen bombades igår kväll, men det är oklart vad verkan blev.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
         "uk",
-        "ukraina",
+        "eu",
         "ryssland",
-        "eu"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2180,18 +2256,18 @@
       "id": "evt-2026-11-22-2e5171",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T02:19:48+00:00",
-      "title_sv": "Ukrainas krigsgenomgång: Ryskt lastfartyg träffat av drönare i Östersjön när Finlands premiärminister säger att konflikten \"spill över\"",
+      "title_sv": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
       "title_en": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
-      "summary_sv": "Fartyg bryter ut i lågor efter attack i Finska viken; Nato lovar att försvara \"varje tum\" av polskt territorium.",
+      "summary_sv": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory.",
       "summary_en": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
         "ryssland",
+        "eu",
         "usa",
         "uk",
-        "eu",
         "ukraina"
       ],
       "syfte": {
@@ -2212,11 +2288,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina",
+        "Robotanfall",
         "Drönare",
-        "Civila mål",
-        "Robotanfall"
+        "Ukraina",
+        "Kyjiv",
+        "Civila mål"
       ]
     },
     {
