@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 6692,
-  "last_archived_rotation": "2026-11-23T02:35:00.825968+00:00",
+  "total_archived_events": 6694,
+  "last_archived_rotation": "2026-11-23T03:02:14.132388+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-22-5ae8da",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T04:37:00+02:00",
+      "title_sv": "Lätt snöslask väntas i vissa delar av Ukraina på söndag, temperaturer från 0°C till +8°C",
+      "title_en": "Light sleet expected in some parts of Ukraine on Sunday, temperatures to range from 0°C to +8°C",
+      "summary_sv": "Vissa regioner i Ukraina kommer att uppleva lätt snöslask söndagen den 22 november, medan ingen betydande nederbörd förväntas någon annanstans.",
+      "summary_en": "Some regions of Ukraine will experience light sleet on Sunday, November 22, while no significant precipitation is expected elsewhere.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4187212-light-sleet-expected-in-some-parts-of-ukraine-on-sunday-temperatures-to-range-from-0c-to-8c.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-22-1edcc6",
       "date": "2026-11-22",
@@ -118,6 +154,43 @@
       ]
     },
     {
+      "id": "evt-2026-11-22-eecc4b",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T03:01:37+00:00",
+      "title_sv": "Björnfällor och tappade broar",
+      "title_en": "Bear Traps and Dropped Bridges",
+      "summary_sv": "I veckans uppdatering: Kaliningrad attackerades, Kerch-brovägen förstördes, Operation Bear Trap visar återigen ukrainsk markoffensiv kapacitet, Shenzhen-trilaten och mina Big Five-läsningsrecept.",
+      "summary_en": "In this week&#8217;s update: Kaliningrad attacked, Kerch bridge road span destroyed, Operation Bear Trap again shows Ukrainian ground offensive capacity, the Shenzhen trilat and my Big Five reading recs.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Generalmajor Mick Ryan (Futura Doctrina)",
+      "kallurl": "https://mickryan.substack.com/p/bear-traps-and-dropped-bridges",
+      "kallkategori": "Militärstrateg & f.d. general",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-11-22-0e2c13",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T02:36:00+02:00",
@@ -200,19 +273,19 @@
       "id": "evt-2026-11-22-2e5171",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T02:19:48+00:00",
-      "title_sv": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+      "title_sv": "Ukrainas krigsgenomgång: Ryskt lastfartyg träffat av drönare i Östersjön när Finlands premiärminister säger att konflikten \"spill över\"",
       "title_en": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
-      "summary_sv": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory.",
+      "summary_sv": "Fartyg bryter ut i lågor efter attack i Finska viken; Nato lovar att försvara \"varje tum\" av polskt territorium.",
       "summary_en": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "eu",
-        "uk",
-        "ukraina"
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -232,11 +305,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
-        "Robotanfall",
-        "Kyjiv",
         "Drönare",
-        "Ukraina"
+        "Civila mål",
+        "Ukraina",
+        "Kyjiv",
+        "Robotanfall"
       ]
     },
     {
@@ -478,18 +551,18 @@
       "id": "evt-2026-11-21-8192df",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T23:29:10+00:00",
-      "title_sv": "Poll shows 65% of Russians blame US and NATO for deaths and ruin in Ukraine, and only 6% their own country",
+      "title_sv": "Enkät visar att 65% av ryssarna skyller USA och Nato för dödsfall och ruiner i Ukraina, och endast 6% deras eget land",
       "title_en": "Poll shows 65% of Russians blame US and NATO for deaths and ruin in Ukraine, and only 6% their own country",
-      "summary_sv": "Pride is the feeling Russians most often say the war in Ukraine stirs in them.",
+      "summary_sv": "Stolthet är den känsla som ryssarna oftast säger att kriget i Ukraina rör dem.",
       "summary_en": "Pride is the feeling Russians most often say the war in Ukraine stirs in them.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -554,20 +627,20 @@
       "id": "evt-2026-11-21-233779",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T23:07:39+00:00",
-      "title_sv": "Russo-Ukrainian war, day 1732: Residents report explosions and drone activity at Russia’s Baltic Fleet base in Kaliningrad",
+      "title_sv": "Rysk-ukrainska kriget, dag 1732: Invånare rapporterar explosioner och drönaraktivitet vid Rysslands bas i Kaliningrad",
       "title_en": "Russo-Ukrainian war, day 1732: Residents report explosions and drone activity at Russia’s Baltic Fleet base in Kaliningrad",
-      "summary_sv": "Poland disclosed why it did not shoot down a Russian cruise missile despite NATO’s green light for a Swedish pilot, UNICEF reported a record toll of Ukrainian children killed or injured in 2026, and Zelenskyy answered the Trump-Putin-Xi meeting in China by saying big powers can’t decide the whole world’s fate.",
+      "summary_sv": "Polen avslöjade varför man inte sköt ned en rysk kryssningsmissil trots Natos gröna ljus för en svensk pilot, UNICEF rapporterade ett rekordstort antal ukrainska barn som dödades eller skadades 2026, och Zelenskyy svarade på mötet mellan Trump och Putin och Xi i Kina med att säga att stormakter inte kan avgöra hela världens öde.",
       "summary_en": "Poland disclosed why it did not shoot down a Russian cruise missile despite NATO’s green light for a Swedish pilot, UNICEF reported a record toll of Ukrainian children killed or injured in 2026, and Zelenskyy answered the Trump-Putin-Xi meeting in China by saying big powers can’t decide the whole world’s fate.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "kina",
-        "ryssland",
         "eu",
+        "ryssland",
+        "usa",
+        "ukraina",
         "uk",
-        "ukraina"
+        "kina"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -587,11 +660,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Robotanfall",
         "Drönare",
+        "Ukraina",
+        "Energi",
         "Polen",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
@@ -638,9 +711,9 @@
       "id": "evt-2026-11-21-43981c",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T22:57:05+00:00",
-      "title_sv": "Backed by 43 of 70 states, Ukrainian female expert joins Geneva Conventions’ fact-finding commission for first time in its 35-year history",
+      "title_sv": "Uppbackad av 43 av 70 stater, ansluter sig den ukrainska kvinnliga experten till Genèvekonventionens faktakommission för första gången i dess 35-åriga historia",
       "title_en": "Backed by 43 of 70 states, Ukrainian female expert joins Geneva Conventions’ fact-finding commission for first time in its 35-year history",
-      "summary_sv": "Nataliia Hendel won a five-year seat on the International Humanitarian Fact-Finding Commission in a 20 November vote in Bern.",
+      "summary_sv": "Nataliia Hendel vann en femårsplats i International Humanitarian Fact-Finding Commission i en omröstning den 20 november i Bern.",
       "summary_en": "Nataliia Hendel won a five-year seat on the International Humanitarian Fact-Finding Commission in a 20 November vote in Bern.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -713,18 +786,18 @@
       "id": "evt-2026-11-21-2be01b",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T22:47:45+00:00",
-      "title_sv": "Explosions reported at Russia’s Baltic Fleet base in Kaliningrad, a strategic exclave between NATO states",
+      "title_sv": "Explosioner rapporterade vid Rysslands bas i Östersjöflottan i Kaliningrad, en strategisk uteslutning mellan NATO-stater",
       "title_en": "Explosions reported at Russia’s Baltic Fleet base in Kaliningrad, a strategic exclave between NATO states",
-      "summary_sv": "Residents reported explosions and drone activity in Baltiysk, where Russia's Baltic Fleet is based. Any confirmed Ukrainian drone strike there would reach a major Russian military facility surrounded by NATO territory.",
+      "summary_sv": "Invånare rapporterade explosioner och drönaraktivitet i Baltiysk, där Rysslands Östersjöflotta är baserad. Varje bekräftad ukrainsk drönarattack där skulle nå en stor rysk militäranläggning omgiven av Natos territorium.",
       "summary_en": "Residents reported explosions and drone activity in Baltiysk, where Russia's Baltic Fleet is based. Any confirmed Ukrainian drone strike there would reach a major Russian military facility surrounded by NATO territory.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -790,18 +863,18 @@
       "id": "evt-2026-11-21-d7c6a6",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T22:24:25+00:00",
-      "title_sv": "Poland discloses why it didn’t shoot down Russian cruise missile, even though Swedish pilot had NATO’s green light",
+      "title_sv": "Polen avslöjar varför man inte sköt ned rysk kryssningsmissil, trots att svensk pilot hade Natos grönt ljus",
       "title_en": "Poland discloses why it didn’t shoot down Russian cruise missile, even though Swedish pilot had NATO’s green light",
-      "summary_sv": "Poland tracked 11 objects, three of which crossed its border.",
+      "summary_sv": "Polen spårade 11 föremål, varav tre korsade dess gräns.",
       "summary_en": "Poland tracked 11 objects, three of which crossed its border.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ryssland",
         "ukraina",
-        "usa",
-        "eu"
+        "eu",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -821,8 +894,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Ukraina",
+        "Robotanfall",
         "Polen"
       ]
     },
@@ -867,17 +940,17 @@
       "id": "evt-2026-11-21-437c31",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T22:02:47+00:00",
-      "title_sv": "“Big bosses” can’t decide world’s fate, Zelenskyy says, after Trump, Putin and Xi meet in China",
+      "title_sv": "\"Stora bossar\" kan inte avgöra världens öde, säger Zelenskyy, efter att Trump, Putin och Xi träffats i Kina",
       "title_en": "“Big bosses” can’t decide world’s fate, Zelenskyy says, after Trump, Putin and Xi meet in China",
-      "summary_sv": "Big powers always think they can decide the fate of the whole world, he said.",
+      "summary_sv": "Stormakter tror alltid att de kan avgöra hela världens öde, sa han.",
       "summary_en": "Big powers always think they can decide the fate of the whole world, he said.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "ukraina",
         "kina",
-        "ryssland",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -942,19 +1015,19 @@
       "id": "evt-2026-11-21-8c3e6c",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T21:48:37+00:00",
-      "title_sv": "Denmark seeks EU-wide visa ban for Russian tourists after alleged Kremlin assassination plot on Ukrainian-American rapper",
+      "title_sv": "Danmark begär viseringsförbud i hela EU för ryska turister efter påstådd mordkomplott i Kreml på ukrainsk-amerikansk rappare",
       "title_en": "Denmark seeks EU-wide visa ban for Russian tourists after alleged Kremlin assassination plot on Ukrainian-American rapper",
-      "summary_sv": "Copenhagen is pushing for tougher travel restrictions on Russian citizens after Danish intelligence linked a foiled assassination plot against Ukrainian-American rapper Kyivstoner to Russian intelligence services.",
+      "summary_sv": "Köpenhamn driver på för hårdare reserestriktioner för ryska medborgare efter att danska underrättelsetjänsten kopplade en avstyrd mordkomplott mot den ukrainsk-amerikanska rapparen Kyivstoner till ryska underrättelsetjänster.",
       "summary_en": "Copenhagen is pushing for tougher travel restrictions on Russian citizens after Danish intelligence linked a foiled assassination plot against Ukrainian-American rapper Kyivstoner to Russian intelligence services.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "eu",
-        "uk",
-        "ukraina"
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -974,8 +1047,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -2182,19 +2255,19 @@
       "id": "evt-2026-11-21-5e0e60",
       "date": "2026-11-21",
       "timestamp": "2026-11-21T15:07:05+00:00",
-      "title_sv": "CCTV footage shows object crashing and exploding near Poland-Ukraine border – video",
+      "title_sv": "CCTV-filmer visar objekt som kraschar och exploderar nära gränsen mellan Polen och Ukraina – video",
       "title_en": "CCTV footage shows object crashing and exploding near Poland-Ukraine border – video",
-      "summary_sv": "A security camera has captured an explosion near the Poland-Ukraine border after an unknown object fell near a Polish village. Two Russian cruise missiles and a jet-powered drone crashed in Poland during Russian air attacks on Ukraine, officials said.",
+      "summary_sv": "En säkerhetskamera har fångat en explosion nära gränsen mellan Polen och Ukraina efter att ett okänt föremål föll nära en polsk by. Två ryska kryssningsmissiler och en jetdriven drönare kraschade i Polen under ryska flygattacker mot Ukraina, sade tjänstemän.",
       "summary_en": "A security camera has captured an explosion near the Poland-Ukraine border after an unknown object fell near a Polish village. Two Russian cruise missiles and a jet-powered drone crashed in Poland during Russian air attacks on Ukraine, officials said.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
         "eu",
-        "uk",
-        "ukraina"
+        "ryssland",
+        "usa",
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2214,11 +2287,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Energi",
-        "Robotanfall",
         "Drönare",
+        "Ukraina",
+        "Energi",
         "Polen",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
