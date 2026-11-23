@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 6767,
-  "last_archived_rotation": "2026-11-23T17:31:47.163273+00:00",
+  "total_archived_events": 6769,
+  "last_archived_rotation": "2026-11-23T18:02:49.370664+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-22-33b406",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T19:57:00+02:00",
+      "title_sv": "Levande barn räddat från spillror i Dymer",
+      "title_en": "Live child rescued from rubble in Dymer",
+      "summary_sv": "Ett barn hittades vid liv under sök- och räddningsoperationer i Dymer, Kyjiv-regionen.",
+      "summary_en": "A child was found alive during search-and-rescue operations in Dymer, Kyiv region.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187450-live-child-rescued-from-rubble-in-dymer.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
+    {
+      "id": "evt-2026-11-22-9c7505",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T19:37:00+02:00",
+      "title_sv": "Search and rescue continues at destroyed five-story building in Dymer — photo report",
+      "title_en": "Search and rescue continues at destroyed five-story building in Dymer — photo report",
+      "summary_sv": "Search and rescue operations continue in Dymer, Vyshhorod district, Kyiv Oblast, where a Russian drone hit caused an entire stairwell of a five-story residential building to collapse.",
+      "summary_en": "Search and rescue operations continue in Dymer, Vyshhorod district, Kyiv Oblast, where a Russian drone hit caused an entire stairwell of a five-story residential building to collapse.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/search-and-rescue-in-dymer-bodies-of-two-victims-found-nv-photo-report-50661494.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Ukraina",
+        "Drönare",
+        "Civila mål"
+      ]
+    },
     {
       "id": "evt-2026-11-22-8dfaa8",
       "date": "2026-11-22",
@@ -381,9 +457,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -2424,8 +2500,8 @@
       "parter_intressenter": [
         "ukraina",
         "uk",
-        "ryssland",
-        "eu"
+        "eu",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",

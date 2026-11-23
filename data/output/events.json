@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-11-23T17:31:47.163273+00:00",
+  "last_updated": "2026-11-23T18:02:49.370664+00:00",
   "total_active_events": 146,
   "events": [
+    {
+      "id": "evt-2026-11-23-330a9b",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T19:50:00+02:00",
+      "title_sv": "Ukraina förnekar förnyad Kursk-offensiv, bekräftar taktiska framgångar nära den ryska gränsen",
+      "title_en": "Ukraine denies renewed Kursk offensive, confirms tactical gains near Russian border",
+      "summary_sv": "Rapporter om att ukrainska försvarsstyrkor har återupptagit verksamheten i Rysslands Kursk oblast är falska, även om striderna fortsätter i Sumy-sektorn och ukrainska trupper har gjort taktiska framsteg i vissa områden av fronten, rapporterade den 8:e kåren av Ukrainas luftanfallsstyrkor den 23 november.",
+      "summary_en": "Reports that Ukrainian Defense Forces have resumed operations in Russia’s Kursk Oblast are false, although fighting continues in the Sumy sector and Ukrainian troops have made tactical gains in some areas of the front, the 8th Corps of Ukraine’s Air Assault Forces reported on Nov. 23.",
+      "location_name": "Sumy",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/ukraine-denies-renewed-kursk-offensive-despite-tactical-gains-near-russian-border-50661828.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina",
+        "Sumy"
+      ]
+    },
+    {
+      "id": "evt-2026-11-23-7bd132",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T19:42:00+02:00",
+      "title_sv": "Kampen fortsätter för Verkhnia Tersa i Huliaipole-sektorn – Air Assault Forces",
+      "title_en": "Fighting continues for Verkhnia Tersa in Huliaipole sector – Air Assault Forces",
+      "summary_sv": "Ukrainas 7:e snabbinsatskår av luftanfallsstyrkorna har rapporterat att strider pågår för byn Verkhnia Tersa i Huliaipole-sektorn.",
+      "summary_en": "Ukraine's 7th Rapid Response Corps of the Air Assault Forces has reported that fighting is ongoing for the village of Verkhnia Tersa in the Huliaipole sector.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187817-fighting-continues-for-verkhnia-tersa-in-huliaipole-sector-air-assault-forces.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-23-a89795",
       "date": "2026-11-23",
@@ -53,9 +130,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
+        "eu",
         "usa",
-        "ryssland",
-        "eu"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -113,9 +190,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -153,8 +230,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -163,7 +240,7 @@
       "timestamp": "2026-11-23T18:45:00+02:00",
       "title_sv": "Ukrainas NATO-medlemskap kunde ha förhindrat pågående krig med Ryssland – Merz",
       "title_en": "Ukraine's NATO membership could have prevented current war with Russia – Merz",
-      "summary_sv": "Tysklands förbundskansler Friedrich Merz kallade vägran att stödja USA:s förslag om Ukrainas Nato-medlemskap vid toppmötet i Bukarest 2008 för ett misstag och sa att Ukrainas anslutning till alliansen förmodligen kunde ha förhindrat det pågående kriget.",
+      "summary_sv": "Tysklands förbundskansler Friedrich Merz kallade vägran att stödja USA:s förslag om Ukrainas NATO-medlemskap vid Bukarest-toppmötet 2008 för ett misstag och sa att Ukrainas anslutning till alliansen förmodligen kunde ha förhindrat det pågående kriget.",
       "summary_en": "German Chancellor Friedrich Merz called the refusal to support the U.S. proposal for Ukraine's NATO membership at the 2008 Bucharest Summit a mistake, saying that Ukraine's accession to the Alliance could probably have prevented the current war.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -200,7 +277,7 @@
       "id": "evt-2026-11-23-2c7b4a",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T18:38:00+02:00",
-      "title_sv": "Kyjiv Oblasts energiförsvar kan ta upp till fyra månader eftersom sex reservuppvärmningsanläggningar är planerade",
+      "title_sv": "Kyjiv Oblasts energiförsvar kan ta upp till fyra månader eftersom sex reservvärmeanläggningar är planerade",
       "title_en": "Kyiv Oblast energy defenses could take up to four months as six backup heating facilities are planned",
       "summary_sv": "Skyddsstrukturer vid energianläggningar i Kyjiv oblast kan ta tre veckor till fyra månader att färdigställa efter att dokument har överförts, medan sex reservvärmeanläggningar kommer att byggas nära Darnytsias termiska kraftverk.",
       "summary_en": "Protective structures at energy facilities in Kyiv Oblast could take three weeks to four months to complete after documents are transferred, while six backup heating facilities will be built near the Darnytsia thermal power plant.",
@@ -228,9 +305,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -246,9 +323,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "ukraina",
+        "eu",
         "usa",
-        "ryssland",
-        "eu"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -315,7 +392,7 @@
       "timestamp": "2026-11-23T18:18:00+02:00",
       "title_sv": "Den ryska guvernören bekräftar att raffinaderiet i Novoshakhtinsk har stängts efter ukrainsk attack",
       "title_en": "Russian governor confirms Novoshakhtinsk refinery shutdown after Ukrainian strike",
-      "summary_sv": "Oljeraffinaderiet Novoshakhtinsk i Rysslands Rostov oblast har upphört med sin verksamhet efter en kombinerad missil- och drönarattack, rapporterade regional guvernör Yuri Slyusar den 23 november.",
+      "summary_sv": "Oljeraffinaderiet Novoshakhtinsk i Rysslands Rostov oblast har upphört med sin verksamhet efter en kombinerad missil- och drönsattack, rapporterade regional guvernör Yuri Slyusar den 23 november.",
       "summary_en": "The Novoshakhtinsk oil refinery in Russia’s Rostov Oblast has ceased operations following a combined missile and drone attack, regional Governor Yuri Slyusar reported on Nov. 23.",
       "location_name": "Ryskt gränsområde",
       "tidshorisont": "dagligen",
@@ -344,11 +421,11 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Ryskt",
-        "Ukraina",
         "Infrastruktur",
+        "Drönare",
+        "Ukraina",
         "Robotanfall",
-        "Drönare"
+        "Ryskt"
       ]
     },
     {
@@ -463,6 +540,43 @@
       ]
     },
     {
+      "id": "evt-2026-11-23-8de249",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T17:34:44+00:00",
+      "title_sv": "Tysk arméchef tittar på drönare från Helsingföretag som levererar vapen till Ukraina träffar stridsvagnar i Litauen vid rättegångar",
+      "title_en": "German army chief watches drones from Helsing company that supplies weapons to Ukraine hit tanks in Lithuania at trials",
+      "summary_sv": "Rättegångarna vid Litauens Rūdninkai-område kommer bara ett år efter att Berlin beslutade sig för att köpa svävande ammunition.",
+      "summary_en": "The trials at Lithuania’s Rūdninkai range come only a year after Berlin decided to buy loitering munitions.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/23/german-army-chief-watches-drones-from-helsing-company-that-supplies-weapons-to-ukraine-hit-tanks-in-lithuania/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-11-23-b3f3ea",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T17:30:00+02:00",
@@ -557,7 +671,7 @@
       "id": "evt-2026-11-23-ca1b7e",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T17:22:00+02:00",
-      "title_sv": "Putin har ingen rätt att spela offer när Ukraina svarar på aggression – Storbritanniens försvarsminister",
+      "title_sv": "Putin har ingen rätt att spela offer när Ukraina reagerar på aggression – Storbritanniens försvarsminister",
       "title_en": "Putin has no right to play victim when Ukraine responds to aggression – UK defense secretary",
       "summary_sv": "Den ryske härskaren Vladimir Putin har ingen rätt att framställa sig själv som ett offer när Ukraina, som kämpar för sin existens, reagerar på aggression.",
       "summary_en": "Russian ruler Vladimir Putin has no right to portray himself as a victim when Ukraine, fighting for its very existence, responds to aggression.",
@@ -627,8 +741,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -672,7 +786,7 @@
       "id": "evt-2026-11-23-f1038e",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T17:02:00+02:00",
-      "title_sv": "Ukrainas väpnade styrkor avslöjar rykten om förnyad Kursk-operation",
+      "title_sv": "Ukrainas väpnade styrkor avfärdar ryktena om förnyad Kursk-operation",
       "title_en": "Ukraine's Armed Forces debunk rumors of renewed Kursk operation",
       "summary_sv": "Ryktena om att Ukrainas försvarsstyrkor har återupptagit sin operation i Rysslands Kursk-region är ogrundade.",
       "summary_en": "Rumors that Ukraine's Defense Forces have resumed their operation in Russia's Kursk region are unfounded.",
@@ -711,7 +825,7 @@
       "id": "evt-2026-11-23-8d3889",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T16:59:00+02:00",
-      "title_sv": "SBU bekräftar att Alpha-specialstyrkorna var i tjänst nära fånglägret när general Duka gick fri",
+      "title_sv": "SBU bekräftar att Alpha-specialstyrkorna var i tjänst nära interneringscentret när general Duka gick fri",
       "title_en": "SBU confirms Alpha special forces were on duty near detention center as General Duka walked free",
       "summary_sv": "Ukrainas SBU-säkerhetstjänst bekräftade att Alpha-specialförbandsofficerare var i tjänst utanför interneringscentret varifrån SBU-generalmajor Serhiy Duka, en misstänkt i Kartago-fallet, skulle lämna. Säkerhetstjänsten sa inte vilket uppdrag de hade eller om de bevakade Duka.",
       "summary_en": "Ukraine's SBU security service confirmed that Alpha special forces officers were on duty outside the detention center from which SBU Maj. Gen. Serhiy Duka, a suspect in the Carthage case, was leaving. The security service did not say what task they had or whether they were guarding Duka.",
@@ -748,7 +862,7 @@
       "id": "evt-2026-11-23-39f038",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T16:42:56+00:00",
-      "title_sv": "EU:s sanktionspaket avsett att \"hålla trycket\" på Ryssland och \"anfalla hårdare\" mot dess förmåga att finansiera Ukrainas krig - som det hände",
+      "title_sv": "EU:s sanktionspaket syftade till att \"hålla trycket\" på Ryssland och \"att attackera hårdare\" mot dess förmåga att finansiera Ukrainas krig - som det hände",
       "title_en": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
       "summary_sv": "EU-kommissionens ordförande Ursula von der Leyen presenterar det 22:a paketet med sanktioner. När det gäller Ukraina betonar Natos Rutte behovet av att säkra flödet av \"avgörande förnödenheter\" eller luftvärnsvapen och ammunition till Ukraina.",
       "summary_en": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.“It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any future negotiations with Russia.",
@@ -756,10 +870,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
+        "usa",
         "ryssland",
+        "uk",
         "eu"
       ],
       "syfte": {
@@ -770,9 +884,9 @@
       "egenskaper_anfallsmal": "helt_civila",
       "niva_vetskap_sannolikhet": {
         "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från The Guardian (Ukraine) samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from The Guardian (Ukraine) and official emergency services."
       },
       "effekt_maluppfyllnad": "delvis",
       "kalla": "The Guardian (Ukraine)",
@@ -780,10 +894,18 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Civila mål",
         "Drönare",
-        "Ukraina",
-        "Civila mål"
-      ]
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "The Guardian (Ukraine)",
+          "titel": "EU:s sanktionspaket syftade till att \"hålla trycket\" på Ryssland och \"att attackera hårdare\" mot dess förmåga att finansiera Ukrainas krig - som det hände",
+          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+        }
+      ],
+      "cluster_count": 2
     },
     {
       "id": "evt-2026-11-23-8c9ff4",
@@ -829,7 +951,7 @@
       "timestamp": "2026-11-23T16:23:00+02:00",
       "title_sv": "Ukrainska styrkor attackerar ryska Rubicon-enhetens personalkoncentrationsplats i Berdiansk",
       "title_en": "Ukrainian forces strike Russian Rubicon unit's personnel concentration site in Berdiansk",
-      "summary_sv": "Den 22 november och över natten till den 23 november träffade Ukrainas försvarsstyrkor en plats där personal från Rysslands Rubicon-enhet var koncentrerad till den tillfälligt ockuperade Berdiansk, Zaporizjzja-regionen, samt ett ryskt Tor-luftvärnsmissil- och kanonsystem i Luhansk-regionen.",
+      "summary_sv": "Den 22 november och över natten till den 23 november träffade Ukrainas försvarsstyrkor en plats där personal från Rysslands Rubicon-enhet var koncentrerad i den tillfälligt ockuperade Berdiansk, Zaporizjzja-regionen, samt ett ryskt Tor-luftvärnsmissil- och kanonsystem i Luhansk-regionen.",
       "summary_en": "On November 22 and overnight into November 23, Ukraine's Defense Forces struck a site where personnel of Russia's Rubicon unit were concentrated in temporarily occupied Berdiansk, Zaporizhzhia region, as well as a Russian Tor anti-aircraft missile and gun system in the Luhansk region.",
       "location_name": "Zaporizjzja",
       "tidshorisont": "dagligen",
@@ -859,8 +981,8 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
-        "Zaporizjzja",
-        "Ukraina"
+        "Ukraina",
+        "Zaporizjzja"
       ]
     },
     {
@@ -980,7 +1102,7 @@
       "id": "evt-2026-11-23-5b22dc",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T16:00:50+00:00",
-      "title_sv": "Rysslands döda i kriget: den dolda belastningen av Ukrainakonflikten",
+      "title_sv": "Rysslands döda i krig: den dolda belastningen av Ukrainakonflikten",
       "title_en": "Russia’s war dead: the hidden toll of the Ukraine conflict",
       "summary_sv": "Exklusivt: Analysen ger den mest detaljerade bilden hittills av de nästan 500 000 ryska förlusterna i Ukraina sedan 2022. Läckta data visar att mer än 1 000 ryska militära självmord under Ukrainas krig Alexander Korepanov anmälde sig för att slåss i augusti 2023. Han skadades två gånger och två gånger skickades tillbaka till fronten.",
       "summary_en": "Exclusive: Analysis gives most detailed picture yet of the nearly 500,000 Russian losses in Ukraine since 2022 Leaked data shows more than 1,000 Russian military suicides during Ukraine war Alexander Korepanov signed up to fight in August 2023. He was wounded twice and twice sent back to the front.",
@@ -1059,7 +1181,7 @@
       "id": "evt-2026-11-23-f25d88",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T15:52:00+02:00",
-      "title_sv": "Ryska attacker har riktats mot järnvägar och energiinfrastruktur sedan i går, sex dödade över hela Ukraina",
+      "title_sv": "Ryska attacker riktar sig mot järnvägar och energiinfrastruktur sedan i går, sex dödade över hela Ukraina",
       "title_en": "Russian attacks target railways and energy infrastructure since yesterday, six killed across Ukraine",
       "summary_sv": "Ryska styrkor har attackerat järnvägar, energi och civil infrastruktur sedan i går kväll. Efterdyningarna har rapporterats i 12 regioner och Kyjiv, med sex människor dödade.",
       "summary_en": "Russian forces have been attacking railway, energy and civilian infrastructure since yesterday evening. The aftermath has been reported in 12 regions and Kyiv, with six people killed.",
@@ -1090,9 +1212,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Kyjiv"
       ]
     },
     {
@@ -1130,47 +1252,6 @@
       "arkiverad": false,
       "tags": [
         "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-23-100f10",
-      "date": "2026-11-23",
-      "timestamp": "2026-11-23T15:46:40+00:00",
-      "title_sv": "EU:s sanktionspaket avsett att \"hålla trycket\" på Ryssland och \"att attackera hårdare\" mot dess förmåga att finansiera kriget i Ukraina - Europa live",
-      "title_en": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
-      "summary_sv": "EU-kommissionens ordförande Ursula von der Leyen presenterar det 22:a paketet med sanktioner. När det gäller Ukraina betonar Natos Rutte behovet av att säkra flödet av \"avgörande förnödenheter\" eller luftvärnsvapen och ammunition till Ukraina.",
-      "summary_en": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.“It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any future negotiations with Russia.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "ryssland",
-        "eu",
-        "ukraina",
-        "uk",
-        "usa"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "The Guardian (Ukraine)",
-      "kallurl": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "kallkategori": "Internationellt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Civila mål",
-        "Ukraina",
-        "Drönare"
       ]
     },
     {
@@ -1420,10 +1501,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
+        "usa",
         "ryssland",
+        "uk",
         "eu"
       ],
       "syfte": {
@@ -1482,8 +1563,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Drönare",
+        "Infrastruktur",
         "Ukraina"
       ]
     },
@@ -2082,7 +2163,7 @@
       "timestamp": "2026-11-23T13:41:46+00:00",
       "title_sv": "Sex Eiffeltorns stålvärde: Ukrainas antal ryska stridsvagnar 2026 passerar 1 000",
       "title_en": "Six Eiffel Towers’ worth of steel: Ukraine’s 2026 tally of Russian tanks passes 1,000",
-      "summary_sv": "Ukrainas försvarsminister citerade uttömda ryska rustnings- och artillerilager i februari. I oktober skrev en analytiker att en rysk lagerbas höll på att fyllas på med T-90Ms.",
+      "summary_sv": "Ukrainas försvarsminister hänvisade till uttömda ryska rustnings- och artillerilager i februari. I oktober skrev en analytiker att en rysk lagerbas höll på att fyllas på med T-90Ms.",
       "summary_en": "Ukraine's Defense Ministry cited depleted Russian armor and artillery stocks in February. In October, an analyst wrote that a Russian storage base was being refilled with T-90Ms.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2313,10 +2394,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
+        "usa",
         "ryssland",
+        "uk",
         "eu"
       ],
       "syfte": {
@@ -2339,8 +2420,8 @@
       "tags": [
         "Drönare",
         "Polen",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2884,10 +2965,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Drönare",
-        "Zaporizjzja",
-        "Ukraina"
+        "Infrastruktur",
+        "Ukraina",
+        "Zaporizjzja"
       ]
     },
     {
@@ -2896,16 +2977,16 @@
       "timestamp": "2026-11-23T11:42:51+00:00",
       "title_sv": "Ukraina bekräftar att de använt marina drönare för att attackera två ryska fartyg utanför Libyen",
       "title_en": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-      "summary_sv": "Ukrainas säkerhetstjänst säger att sju drönare sjösattes från moderskepp i drift som sänkte Merkury-krigsskeppet Europe Ukraina har bekräftat att de satte in marindrönare i attacker mot två ryska fartyg utanför Libyen på söndagen, inklusive en som sänkte korvetten Merkury, ett av Rysslands nyaste fartyg. Ukrainas säkerhetstjänst, SBU, sa sju...",
+      "summary_sv": "Ukrainas säkerhetstjänst säger att sju drönare sjösattes från moderskepp i drift som sänkte Merkury-krigsskeppet Europe Ukraina har bekräftat att de satte in marindrönare i attacker mot två ryska fartyg utanför Libyen i söndags, inklusive en som sänkte korvetten Merkury, ett av Rysslands nyaste fartyg. Ukrainas säkerhetstjänst, SBU, sa sju...",
       "summary_en": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels.Ukraine’s security service, the SBU, said seven...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
+        "usa",
         "ryssland",
+        "uk",
         "eu"
       ],
       "syfte": {
@@ -2973,7 +3054,7 @@
       "timestamp": "2026-11-23T11:35:27+00:00",
       "title_sv": "Washington säger nu att de skulle överväga en Nato-liknande garanti för Ukraina genom kongressen - den överenskommelse Kyjiv strävade efter för ett år sedan, från ett Vita huset som kallar Rysslands diktator för en vän",
       "title_en": "Washington now says it would consider a NATO-style guarantee for Ukraine through Congress—the deal Kyiv sought a year ago, from a White House that calls Russia’s dictator a friend",
-      "summary_sv": "Washington säger nu att de skulle överväga en Nato-liknande garanti för Ukraina genom kongressen – uppgörelsen Kyjiv strävade efter för ett år sedan, från ett Vita huset som kallar Rysslands diktator för en vän",
+      "summary_sv": "Washington säger nu att de skulle överväga en Nato-liknande garanti för Ukraina genom kongressen - den överenskommelse Kyjiv strävade efter för ett år sedan, från ett Vita huset som kallar Rysslands diktator för en vän",
       "summary_en": "Washington now says it would consider a NATO-style guarantee for Ukraine through Congress—the deal Kyiv sought a year ago, from a White House that calls Russia's dictator a friend",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
@@ -3002,8 +3083,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -3092,7 +3173,7 @@
       "id": "evt-2026-11-23-7eac62",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T11:25:18+00:00",
-      "title_sv": "Ukrainas försvarsindustri har sannolikt nått ett tak, säger industritjänstemän till WSJ. Till och med Neptunus-tillverkaren medger att Ukraina producerar mindre än Ryssland",
+      "title_sv": "Ukrainas försvarsindustri har troligen nått ett tak, säger industritjänstemän till WSJ. Till och med Neptunus tillverkare medger att Ukraina producerar mindre än Ryssland",
       "title_en": "Ukraine’s defense industry has likely hit a ceiling, industry officials tell WSJ. Even the Neptune’s maker admits Ukraine produces less than Russia",
       "summary_sv": "Neptunus produktion kommer att hålla sig under 1 000 i år, säger chefen för dess tillverkare, medan vissa företag nu baserar sig i Estland och USA.",
       "summary_en": "Neptune output will stay below 1,000 this year, says the head of its maker, while some firms now base themselves in Estonia and the US.",
@@ -3279,9 +3360,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -3630,10 +3711,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Infrastruktur",
         "Drönare",
-        "Ukraina"
+        "Infrastruktur",
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -3827,9 +3908,9 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
+        "Civila mål",
         "Ukraina",
-        "Civila mål"
+        "Kyjiv"
       ]
     },
     {
@@ -4657,10 +4738,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "uk",
         "ukraina",
+        "usa",
         "ryssland",
+        "uk",
         "eu"
       ],
       "syfte": {
@@ -4681,11 +4762,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Civila mål",
+        "Drönare",
         "Ukraina",
         "Robotanfall",
-        "Kyjiv",
-        "Drönare",
-        "Civila mål"
+        "Kyjiv"
       ]
     },
     {
@@ -5152,7 +5233,7 @@
       "id": "evt-2026-11-22-b6ac66",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T21:33:44+00:00",
-      "title_sv": "Ryskt krigsfartyg sjunker i Benghazi efter en misstänkt ukrainsk drönarattack",
+      "title_sv": "Ryskt örlogsfartyg sjunker i Benghazi efter misstänkt ukrainsk drönarattack",
       "title_en": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
       "summary_sv": "Ingen har tagit på sig ansvaret för attacken på fartyget, som hade lagt till på väg tillbaka till Ryssland. Ett ryskt krigsfartyg som lades till i den libyska hamnstaden Benghazi träffades tidigt på söndagen i en misstänkt ukrainsk sjödrönareattack, vilket orsakade en dramatisk explosion på natten och fartyget sjönk. Attacken skadade allvarligt...",
       "summary_en": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.The strike severely...",
@@ -5183,8 +5264,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Drönare",
+        "Infrastruktur",
         "Ukraina"
       ]
     },
@@ -5493,82 +5574,6 @@
       ]
     },
     {
-      "id": "evt-2026-11-22-33b406",
-      "date": "2026-11-22",
-      "timestamp": "2026-11-22T19:57:00+02:00",
-      "title_sv": "Levande barn räddat från spillror i Dymer",
-      "title_en": "Live child rescued from rubble in Dymer",
-      "summary_sv": "Ett barn hittades vid liv under sök- och räddningsoperationer i Dymer, Kyjiv-regionen.",
-      "summary_en": "A child was found alive during search-and-rescue operations in Dymer, Kyiv region.",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4187450-live-child-rescued-from-rubble-in-dymer.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Kyjiv"
-      ]
-    },
-    {
-      "id": "evt-2026-11-22-9c7505",
-      "date": "2026-11-22",
-      "timestamp": "2026-11-22T19:37:00+02:00",
-      "title_sv": "Search and rescue continues at destroyed five-story building in Dymer — photo report",
-      "title_en": "Search and rescue continues at destroyed five-story building in Dymer — photo report",
-      "summary_sv": "Search and rescue operations continue in Dymer, Vyshhorod district, Kyiv Oblast, where a Russian drone hit caused an entire stairwell of a five-story residential building to collapse.",
-      "summary_en": "Search and rescue operations continue in Dymer, Vyshhorod district, Kyiv Oblast, where a Russian drone hit caused an entire stairwell of a five-story residential building to collapse.",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/nation/search-and-rescue-in-dymer-bodies-of-two-victims-found-nv-photo-report-50661494.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Kyjiv",
-        "Ukraina",
-        "Drönare",
-        "Civila mål"
-      ]
-    },
-    {
       "id": "evt-2026-11-22-4cc33f",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T19:12:58+00:00",
@@ -5651,7 +5656,7 @@
       "id": "evt-2026-11-22-e23d2a",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T18:04:24+00:00",
-      "title_sv": "Möt Rysslands senaste anti-dronerustning: ett billigt grönt nät som kan köpa sina fordon om några minuter",
+      "title_sv": "Möt Rysslands senaste anti-drönarrustning: ett billigt grönt nät som kan köpa sina fordon om några minuter",
       "title_en": "Meet Russia’s latest anti-drone armor: a cheap green net that may buy its vehicles a few minutes",
       "summary_sv": "Efter burar och ryggar bär nu ryska fordon nylonnät mot ukrainska drönare. Och ukrainarna är villiga att kopiera varje försök.",
       "summary_en": "After cages and spines, Russian vehicles now wear nylon nets against Ukrainian drones. And the Ukrainians are willing to copy every attempt.",
