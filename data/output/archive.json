@@ -1,7 +1,82 @@
 {
-  "total_archived_events": 6802,
-  "last_archived_rotation": "2026-11-24T05:31:44.908170+00:00",
+  "total_archived_events": 6804,
+  "last_archived_rotation": "2026-11-24T06:05:27.616480+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-23-a84fad",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T07:53:00+02:00",
+      "title_sv": "Russian warship destroyed in blast at Libyan port – media",
+      "title_en": "Russian warship destroyed in blast at Libyan port – media",
+      "summary_sv": "A vessel, believed to be the Russian corvette Merkury, which had been docked for several days at the port of Benghazi in Libya, was destroyed in an explosion.",
+      "summary_en": "A vessel, believed to be the Russian corvette Merkury, which had been docked for several days at the port of Benghazi in Libya, was destroyed in an explosion.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187511-russian-warship-destroyed-in-blast-at-libyan-port-media.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-23-67c6dc",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T07:36:00+02:00",
+      "title_sv": "Kvinna skadad i drönareattack i Zaporizjzja",
+      "title_en": "Woman injured in drone attack in Zaporizhzhia",
+      "summary_sv": "En kvinna skadades i en drönareattack i Kosmichnyi-distriktet i Zaporizjzja.",
+      "summary_en": "A woman was injured in a drone attack in the Kosmichnyi district of Zaporizhzhia.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4187509-woman-injured-in-drone-attack-in-zaporizhzhia.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Zaporizjzja",
+        "Ukraina",
+        "Drönare"
+      ]
+    },
     {
       "id": "evt-2026-11-23-b0e7b2",
       "date": "2026-11-23",
@@ -310,19 +385,19 @@
       "id": "evt-2026-11-23-dda61b",
       "date": "2026-11-23",
       "timestamp": "2026-11-23T02:10:55+00:00",
-      "title_sv": "Krigsbriefing i Ukraina: Kapplöpning för att hitta överlevande efter rysk attack mot flerfamiljshus dödade minst 11",
+      "title_sv": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least 11",
       "title_en": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least 11",
-      "summary_sv": "Kvinna och barn drogs ut levande efter attack över natten i Dymer norr om Kyjiv; FN-uppdrag kräver utredning av attacken som sänkte ryskt krigsfartyg i Libyen.",
+      "summary_sv": "Woman and child pulled out alive after overnight strike in Dymer north of Kyiv; UN mission calls for investigation into attack that sank Russian warship in Libya.",
       "summary_en": "Woman and child pulled out alive after overnight strike in Dymer north of Kyiv; UN mission calls for investigation into attack that sank Russian warship in Libya.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "eu",
-        "ukraina",
         "uk",
+        "usa",
         "ryssland",
-        "usa"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -342,11 +417,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Civila mål",
-        "Drönare",
+        "Kyjiv",
         "Ukraina",
         "Robotanfall",
-        "Kyjiv"
+        "Civila mål",
+        "Drönare"
       ]
     },
     {
@@ -813,18 +888,18 @@
       "id": "evt-2026-11-22-b6ac66",
       "date": "2026-11-22",
       "timestamp": "2026-11-22T21:33:44+00:00",
-      "title_sv": "Ryskt örlogsfartyg sjunker i Benghazi efter misstänkt ukrainsk drönarattack",
+      "title_sv": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
       "title_en": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-      "summary_sv": "Ingen har tagit på sig ansvaret för attacken på fartyget, som hade lagt till på väg tillbaka till Ryssland. Ett ryskt krigsfartyg som lades till i den libyska hamnstaden Benghazi träffades tidigt på söndagen i en misstänkt ukrainsk sjödrönareattack, vilket orsakade en dramatisk explosion på natten och fartyget sjönk. Attacken skadade allvarligt...",
+      "summary_sv": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.The strike severely...",
       "summary_en": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.The strike severely...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
-        "usa",
-        "uk"
+        "uk",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -845,8 +920,8 @@
       "arkiverad": true,
       "tags": [
         "Drönare",
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
