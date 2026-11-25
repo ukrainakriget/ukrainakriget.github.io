@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-25T04:02:56.527882+00:00",
-  "total_active_events": 154,
+  "last_updated": "2026-11-25T04:32:59.780797+00:00",
+  "total_active_events": 155,
   "events": [
+    {
+      "id": "evt-2026-11-25-088a69",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T06:24:51+02:00",
+      "title_sv": "Zelensky, Magyar träffar representanter för det ungerska samhället i Zakarpattia",
+      "title_en": "Zelensky, Magyar meet with representatives of Hungarian community in Zakarpattia",
+      "summary_sv": "Ukrainas president Volodymyr Zelensky och Ungerns premiärminister Peter Magyar träffade representanter för det ungerska samfundet i Zakarpattia-regionen.",
+      "summary_en": "Ukrainian President Volodymyr Zelensky and Hungarian Prime Minister Peter Magyar met with representatives of the Hungarian community in the Zakarpattia region.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4188290-zelensky-magyar-meet-with-representatives-of-hungarian-community-in-zakarpattia.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-25-0fdcc2",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T05:22:00+02:00",
+      "title_sv": "Rysk drönare träffar energireparatörens fordon i Dnipropetrovsk-regionen",
+      "title_en": "Russian drone hits energy repair crew’s vehicle in Dnipropetrovsk Region",
+      "summary_sv": "En rysk FPV-drönare träffade ett fordon som tillhörde en DTEK-mobil reparationspersonal nära en frontlinjeby i Dnipropetrovsk-regionen.",
+      "summary_en": "A Russian FPV drone hit a vehicle belonging to a DTEK mobile repair crew near a frontline village in Dnipropetrovsk region.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4188201-russian-drone-hits-energy-repair-crews-vehicle-in-dnipropetrovsk-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Drönare",
+        "Ukraina",
+        "Dnipro",
+        "Energi"
+      ]
+    },
     {
       "id": "evt-2026-11-25-89896d",
       "date": "2026-11-25",
@@ -14,10 +90,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -53,8 +129,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -74,8 +150,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -90,10 +166,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -114,8 +190,8 @@
       "arkiverad": false,
       "tags": [
         "Krym",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -130,10 +206,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -153,8 +229,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -169,8 +245,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -205,9 +281,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -242,10 +318,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "usa",
+        "uk",
+        "eu",
         "ryssland"
       ],
       "syfte": {
@@ -266,11 +342,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Ukraina",
+        "Energi",
         "Robotanfall",
         "Drönare",
-        "Ukraina",
-        "Kyjiv",
-        "Energi"
+        "Kyjiv"
       ]
     },
     {
@@ -285,10 +361,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -343,8 +419,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -359,8 +435,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -395,10 +471,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -433,10 +509,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "usa",
+        "uk",
+        "eu",
         "ryssland"
       ],
       "syfte": {
@@ -458,8 +534,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -474,9 +550,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -522,14 +598,14 @@
       "timestamp": "2026-11-24T23:37:00+02:00",
       "title_sv": "Zelensky presenterar Magyar med tidningar från 1942 som nämner hans farfarsfar, som arbetade i Mukachevo",
       "title_en": "Zelensky presents Magyar with 1942 newspapers mentioning his great-grandfather, who worked in Mukachevo",
-      "summary_sv": "Ukrainas president Volodymyr Zelensky har försett Ungerns premiärminister Peter Magyar med historiska tidningar från 1942 som nämner hans farfarsfar, som arbetade som notarie i Mukachevo. Magyar påminde sig också om sitt första besök i Zakarpattia-regionen, där han tog med sig humanitärt bistånd som elev.",
+      "summary_sv": "Ukrainas president Volodymyr Zelensky har försett Ungerns premiärminister Peter Magyar med historiska tidningar från 1942 som nämner hans farfarsfar, som arbetade som notarie i Mukachevo. Magyar påminde sig också om sitt första besök i Zakarpattia-regionen, där han tog med sig humanitär hjälp som elev.",
       "summary_en": "Ukrainian President Volodymyr Zelensky has presented Hungarian Prime Minister Peter Magyar with historical newspapers from 1942 that mention his great-grandfather, who worked as a notary in Mukachevo. Magyar also recalled his first visit to the Zakarpattia region, where he brought humanitarian aid as a school student.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -549,15 +625,15 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
       "id": "evt-2026-11-24-cfc78b",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T23:29:00+02:00",
-      "title_sv": "Krim står inför en bränslekris efter attackerna på Krimbron",
+      "title_sv": "Krim står inför bränslekris efter attackerna på Krimbron",
       "title_en": "Crimea faces fuel crisis after Crimean Bridge strikes",
       "summary_sv": "Även om bränslebilar som försörjde det ockuperade Krim med bensin och diesel inte använde den nu förstörda vägsektionen av Krimbron, står halvön fortfarande inför en bränslebrist, sa Petro Andriushchenko, chef för Centre for the Study of Occupation, till NV Radio den 24 november.",
       "summary_en": "Although fuel trucks supplying occupied Crimea with gasoline and diesel did not use the now-destroyed road section of the Crimean Bridge, the peninsula still faces a fuel shortage, Petro Andriushchenko, head of the Center for the Study of Occupation, told NV Radio on Nov. 24.",
@@ -565,8 +641,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -587,8 +663,8 @@
       "arkiverad": false,
       "tags": [
         "Krym",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -597,15 +673,15 @@
       "timestamp": "2026-11-24T23:25:00+02:00",
       "title_sv": "Ungern ser Ukrainas anslutning till EU som en lång process – Magyar",
       "title_en": "Hungary sees Ukraine's EU accession as lengthy process – Magyar",
-      "summary_sv": "Ungern kommer att fortsätta att ge humanitärt bistånd till Ukraina men går inte med på att koppla dess finansiering till Europeiska unionens sjuåriga budget och ser EU-anslutningen som en långdragen process.",
+      "summary_sv": "Ungern kommer att fortsätta att ge humanitärt bistånd till Ukraina men går inte med på att koppla sin finansiering till Europeiska unionens sjuåriga budget och ser EU-anslutningen som en utdragen process.",
       "summary_en": "Hungary will continue providing humanitarian assistance to Ukraine but does not agree to linking its funding to the European Union's seven-year budget and views EU accession as a lengthy process.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "eu",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -640,9 +716,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -662,9 +738,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Charkiv",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -679,9 +755,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -701,8 +777,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Odesa",
-        "Ukraina"
+        "Ukraina",
+        "Odesa"
       ]
     },
     {
@@ -717,10 +793,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -740,10 +816,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Kyjiv",
         "Ukraina",
-        "Infrastruktur"
+        "Kyjiv",
+        "Infrastruktur",
+        "Robotanfall"
       ]
     },
     {
@@ -758,9 +834,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "eu",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -780,8 +856,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -796,9 +872,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -833,8 +909,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -854,8 +930,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
         "Ukraina",
+        "Kyjiv",
         "Infrastruktur"
       ]
     },
@@ -871,10 +947,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
-        "uk",
         "ukraina",
+        "usa",
+        "uk",
+        "eu",
         "ryssland"
       ],
       "syfte": {
@@ -895,10 +971,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
         "Drönare",
+        "Ukraina",
         "Energi",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
@@ -913,10 +989,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -936,10 +1012,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
+        "Luftförsvar",
         "Drönare",
         "Ukraina",
-        "Luftförsvar"
+        "Robotanfall"
       ]
     },
     {
@@ -948,14 +1024,14 @@
       "timestamp": "2026-11-24T22:00:00+02:00",
       "title_sv": "Ukraina tilldelar nästan UAH 2B för distribuerad generation i år – Shmyhal",
       "title_en": "Ukraine allocates nearly UAH 2B for distributed generation this year – Shmyhal",
-      "summary_sv": "Cirka 2 miljarder UAH anslogs från statsbudgeten i år för att utveckla distribuerad produktion i ukrainska samhällen.",
+      "summary_sv": "Ungefär 2 miljarder UAH anslogs från statsbudgeten i år för att utveckla distribuerad produktion i ukrainska samhällen.",
       "summary_en": "About UAH 2 billion was allocated from the state budget this year to develop distributed generation in Ukrainian communities.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1067,9 +1143,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1089,8 +1165,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -1105,10 +1181,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1128,8 +1204,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -1205,8 +1281,8 @@
       "arkiverad": false,
       "tags": [
         "Krym",
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1259,9 +1335,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1399,7 +1475,7 @@
       "id": "evt-2026-11-24-34ce3a",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T19:53:00+02:00",
-      "title_sv": "Zelenskyy: att ge upp Donbas är liktydigt med att förlora kriget",
+      "title_sv": "Zelenskyy: att ge upp Donbas liktydigt med att förlora kriget",
       "title_en": "Zelenskyy: surrendering Donbas tantamount to losing war",
       "summary_sv": "Att dra tillbaka ukrainska trupper från Donbas skulle innebära att Kyjiv hade förlorat det rysk-ukrainska kriget, sade president Volodymyr Zelenskyy den 24 november.",
       "summary_en": "Withdrawing Ukrainian troops from Donbas would mean Kyiv had lost the Russo–Ukrainian war, President Volodymyr Zelenskyy said on Nov. 24.",
@@ -1407,9 +1483,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1429,8 +1505,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -1484,9 +1560,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1516,16 +1592,16 @@
       "timestamp": "2026-11-24T19:18:17+00:00",
       "title_sv": "Ryssland går nu efter Ukrainas vatten, inte bara dess makt. En stad utan avlopp står inför epidemi inom tre dagar, varnar en tjänsteman för vattenverket i Kyjiv",
       "title_en": "Russia now goes after Ukraine’s water, not only its power. City without sewage faces epidemic within three days, a Kyiv water utility official warns",
-      "summary_sv": "Ukraina förbereder sina stora städer för vatten- och avloppsavbrott efter ryska attacker.",
+      "summary_sv": "Ukraina förbereder sina storstäder för vatten- och avloppsavbrott efter ryska attacker.",
       "summary_en": "Ukraine is preparing its large cities for water and sewage outages after Russian strikes.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1545,9 +1621,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Ukraina",
         "Kyjiv",
-        "Energi",
-        "Ukraina"
+        "Energi"
       ]
     },
     {
@@ -1562,10 +1638,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
         "ukraina",
-        "ryssland"
+        "eu",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1585,8 +1661,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Energi",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1601,10 +1677,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1631,7 +1707,7 @@
       "id": "evt-2026-11-24-a4b82b",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T18:58:00+02:00",
-      "title_sv": "Ukraina och Norge utvecklar nytt Desna luftvärnssystem, med flera enheter redan levererade",
+      "title_sv": "Ukraina och Norge utvecklar ett nytt Desna luftvärnssystem, med flera enheter redan levererade",
       "title_en": "Ukraine and Norway develop new Desna air defense system, with several units already delivered",
       "summary_sv": "Norge och Ukraina kom överens om att utöka produktionen av ett gemensamt luftförsvarssystem uppkallat efter Ukrainas Desna-flod, Norges försvarsdepartement rapporterade avtalet den 24 november efter att Ukrainas försvarsminister Yevhenii Khmara och Norges försvarsminister Tore Sandvik träffades i Oslo.",
       "summary_en": "Norway and Ukraine agreed to expand production of a joint air defense system named after Ukraine’s Desna River, Norway’s Defense Ministry reported the agreement on Nov. 24 after Ukrainian Defense Minister Yevhenii Khmara and Norwegian Defense Minister Tore Sandvik met in Oslo.",
@@ -1639,8 +1715,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "ukraina"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1660,8 +1736,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Ukraina",
+        "Infrastruktur",
         "Luftförsvar"
       ]
     },
@@ -2090,16 +2166,16 @@
       "timestamp": "2026-11-24T17:39:32+00:00",
       "title_sv": "Företag som stöder Ukraina uppmanas att \"agera nu\" för att skydda mot ryskt sabotage",
       "title_en": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-      "summary_sv": "En larm som gick ut på tisdagen varnar för ökad risk för sabotageattacker som mordbrand och hot mot personal.",
+      "summary_sv": "En larm som gick ut på tisdagen varnar för en ökad risk för sabotageattacker som mordbrand och hot mot personal.",
       "summary_en": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2119,8 +2195,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2239,7 +2315,7 @@
       "id": "evt-2026-11-24-0cdbdb",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T17:13:01+00:00",
-      "title_sv": "Ukraina säger att det träffade över 4 000 ryska markrobotar 2026 och att förlusterna tvingar Ryssland att sätta trupper och rustningar i leveranser.",
+      "title_sv": "Ukraina säger att de träffade över 4 000 ryska markrobotar 2026 och att förlusterna tvingar Ryssland att sätta trupper och rustningar i leveranser.",
       "title_en": "Ukraine says it hit over 4,000 Russian ground robots in 2026 and that the losses force Russia to put troops and armor into supply runs",
       "summary_sv": "Den ukrainska generalstabens separata siffra sedan 2022 är lägre: 3 213 markrobotar den 23 november.",
       "summary_en": "The Ukrainian General Staff's separate tally since 2022 is lower: 3,213 ground robots as of 23 November.",
@@ -2247,10 +2323,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2270,8 +2346,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -2399,10 +2475,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2623,10 +2699,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2647,8 +2723,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2847,7 +2923,7 @@
       "id": "evt-2026-11-24-e0ce37",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T15:21:13+00:00",
-      "title_sv": "Tyskland kommer att bli det första Nato-landet som använder DELTA, Ukrainas stridsledningssystem. Berlin kommer att anpassa det för sina krafter och hjälpa till att bygga nya funktioner",
+      "title_sv": "Tyskland kommer att vara det första Nato-landet som använder DELTA, Ukrainas stridsledningssystem. Berlin kommer att anpassa det för sina krafter och hjälpa till att bygga nya funktioner",
       "title_en": "Germany set to be first NATO country to use DELTA, Ukraine’s battle command system. Berlin will adapt it for its forces and help build new features",
       "summary_sv": "Berlin kommer dock inte att få tillgång till Ukrainas stridsdata.",
       "summary_en": "However, Berlin will not get access to Ukraine's combat data.",
@@ -2855,9 +2931,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "uk",
+        "ukraina",
         "usa",
-        "ukraina"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3083,10 +3159,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
         "ukraina",
-        "ryssland"
+        "eu",
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3123,9 +3199,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3145,8 +3221,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -3273,7 +3349,7 @@
       "timestamp": "2026-11-24T13:47:00+02:00",
       "title_sv": "Den ryske racervandraren Maksim Denisov stängdes av i fyra år för dopingbrott",
       "title_en": "Russian race walker Maksim Denisov banned for four years over doping violations",
-      "summary_sv": "Sanktionerna baserades på onormala avläsningar i den 21-åriga idrottarens biologiska pass, registrerade under nästan tre år från september 2022 till augusti 2025.",
+      "summary_sv": "Sanktionerna baserades på onormala avläsningar i den 21-årige idrottarens biologiska pass, registrerade under nästan tre år från september 2022 till augusti 2025.",
       "summary_en": "The sanctions were based on abnormal readings in the 21-year-old athlete's biological passport, recorded over nearly three years from September 2022 to August 2025.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -3741,9 +3817,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3928,10 +4004,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3952,8 +4028,8 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
-        "Ryskt",
-        "Ukraina"
+        "Ukraina",
+        "Ryskt"
       ]
     },
     {
@@ -4522,7 +4598,7 @@
       "id": "evt-2026-11-24-d6d727",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T11:01:45+00:00",
-      "title_sv": "Zelenskyy säger att Ukraina behöver fler F-16 och kommer att behöva fler Gripens för att motverka Rysslands jetdrivna Shaheds",
+      "title_sv": "Zelenskyy säger att Ukraina behöver fler F-16:or och kommer att behöva fler Gripens för att motverka Rysslands jetdrivna Shaheds",
       "title_en": "Zelenskyy says Ukraine needs more F-16s and will need more Gripens to counter Russia’s jet-powered Shaheds",
       "summary_sv": "Kyjiv förväntar sig de svenska jetplanen från januari och har bett allierade om 40 fler stridsflygplan.",
       "summary_en": "Kyiv expects the Swedish jets from January and has asked allies for 40 more fighters.",
@@ -4530,10 +4606,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4554,9 +4630,9 @@
       "arkiverad": false,
       "tags": [
         "Drönare",
+        "Ukraina",
         "Kyjiv",
-        "Energi",
-        "Ukraina"
+        "Energi"
       ]
     },
     {
@@ -4612,9 +4688,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4634,8 +4710,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -4806,9 +4882,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4828,8 +4904,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -5037,10 +5113,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -5269,10 +5345,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
-        "usa",
         "ukraina",
-        "ryssland"
+        "ryssland",
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5292,8 +5368,8 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -5839,45 +5915,6 @@
       "tags": [
         "Ukraina",
         "Infrastruktur"
-      ]
-    },
-    {
-      "id": "evt-2026-11-24-a41a15",
-      "date": "2026-11-24",
-      "timestamp": "2026-11-24T06:20:00+02:00",
-      "title_sv": "Russian strikes on Zaporizjzja leave two people killed, 11 injured, houses destroyed",
-      "title_en": "Russian strikes on Zaporizhzhia leave two people killed, 11 injured, houses destroyed",
-      "summary_sv": "Two people were killed and 11 injured in a Russian attack on Zaporizjzja, which damaged apartment buildings, private houses and a transport infrastructure facility.",
-      "summary_en": "Two people were killed and 11 injured in a Russian attack on Zaporizhzhia, which damaged apartment buildings, private houses and a transport infrastructure facility.",
-      "location_name": "Zaporizjzja",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "usa",
-        "ukraina",
-        "ryssland"
-      ],
-      "syfte": {
-        "kategori": "akta_syfte",
-        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
-        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
-      },
-      "egenskaper_anfallsmal": "helt_civila",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4187890-russian-strikes-on-zaporizhzhia-leave-11-injured-houses-destroyed.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Zaporizjzja",
-        "Ukraina",
-        "Civila mål"
       ]
     },
     {
