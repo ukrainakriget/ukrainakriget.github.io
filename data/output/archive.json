@@ -1,7 +1,121 @@
 {
-  "total_archived_events": 7068,
-  "last_archived_rotation": "2026-11-25T17:32:43.874164+00:00",
+  "total_archived_events": 7072,
+  "last_archived_rotation": "2026-11-25T18:01:48.496643+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-24-ef0dfe",
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T19:57:00+02:00",
+      "title_sv": "Poll: 53% of Germans oppose continued military aid to Ukraine",
+      "title_en": "Poll: 53% of Germans oppose continued military aid to Ukraine",
+      "summary_sv": "I Tyskland motsätter sig 53 % av de tillfrågade fortsatt militärt stöd till Ukraina, upp från 39 % förra året, medan stödet för denna hjälp har minskat från 59 % till 46 %.",
+      "summary_en": "In Germany, 53% of respondents oppose continued military support for Ukraine, up from 39% last year, while support for this assistance has declined from 59% to 46%.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-society/4188210-poll-53-of-germans-oppose-continued-military-aid-to-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-24-34ce3a",
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T19:53:00+02:00",
+      "title_sv": "Zelenskyy: att ge upp Donbas liktydigt med att förlora kriget",
+      "title_en": "Zelenskyy: surrendering Donbas tantamount to losing war",
+      "summary_sv": "Att dra tillbaka ukrainska trupper från Donbas skulle innebära att Kyjiv hade förlorat det rysk-ukrainska kriget, sade president Volodymyr Zelenskyy den 24 november.",
+      "summary_en": "Withdrawing Ukrainian troops from Donbas would mean Kyiv had lost the Russo–Ukrainian war, President Volodymyr Zelenskyy said on Nov. 24.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/zelenskyy-surrendering-donbas-tantamount-to-losing-war-50662264.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Kyjiv"
+      ]
+    },
+    {
+      "id": "evt-2026-11-24-cb40eb",
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T19:43:00+02:00",
+      "title_sv": "Injury toll in Russian strike on Dnipro apartment building rises to six",
+      "title_en": "Injury toll in Russian strike on Dnipro apartment building rises to six",
+      "summary_sv": "Russian forces launched nearly 30 attacks on Dnipropetrovsk region throughout the day, injuring six people in the city of Dnipro.",
+      "summary_en": "Russian forces launched nearly 30 attacks on Dnipropetrovsk region throughout the day, injuring six people in the city of Dnipro.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4188203-injury-toll-in-russian-strike-on-dnipro-apartment-building-rises-to-six.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Civila mål",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-24-7c6943",
       "date": "2026-11-24",
@@ -536,6 +650,45 @@
       ]
     },
     {
+      "id": "evt-2026-11-24-58cecf",
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T17:39:32+00:00",
+      "title_sv": "Företag som stöder Ukraina uppmanas att \"agera nu\" för att skydda mot ryskt sabotage",
+      "title_en": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+      "summary_sv": "En larm som gick ut på tisdagen varnar för en ökad risk för sabotageattacker som mordbrand och hot mot personal.",
+      "summary_en": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "BBC News (Europe)",
+      "kallurl": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-11-24-8cacee",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T17:30:00+02:00",
@@ -812,8 +965,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "usa",
         "uk",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1036,8 +1189,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "usa",
         "uk",
+        "usa",
         "ryssland"
       ],
       "syfte": {
@@ -1058,9 +1211,9 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
+        "Drönare",
         "Infrastruktur",
-        "Ukraina",
-        "Drönare"
+        "Ukraina"
       ]
     },
     {
@@ -3682,8 +3835,8 @@
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
         "ukraina",
-        "usa",
         "uk",
+        "usa",
         "ryssland"
       ],
       "syfte": {
