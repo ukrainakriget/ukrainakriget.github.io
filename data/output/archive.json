@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 7031,
-  "last_archived_rotation": "2026-11-25T13:06:05.516132+00:00",
+  "total_archived_events": 7032,
+  "last_archived_rotation": "2026-11-25T13:32:14.244275+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-24-e0350c",
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T15:20:00+02:00",
+      "title_sv": "Zelenskij bekräftar attack mot ryskt fartyg i Finska viken",
+      "title_en": "Zelensky confirms strike on Russian ship in Gulf of Finland",
+      "summary_sv": "Ukrainas president Volodymyr Zelensky har bekräftat att Ukraina slog det ryska lastfartyget Sparta II med en drönare i Finska viken lördagen den 21 november.",
+      "summary_en": "Ukrainian President Volodymyr Zelensky has confirmed that Ukraine struck the Russian cargo ship Sparta II with a drone in the Gulf of Finland on Saturday, November 21.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4188087-zelensky-confirms-strike-on-russian-ship-in-gulf-of-finland.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Drönare",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-24-64b0ea",
       "date": "2026-11-24",
@@ -738,9 +777,9 @@
       "id": "evt-2026-11-24-c62107",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T12:45:43+00:00",
-      "title_sv": "Russian governor detained in rare criminal case against regional leader",
+      "title_sv": "Rysk guvernör häktad i sällsynt brottmål mot regionledare",
       "title_en": "Russian governor detained in rare criminal case against regional leader",
-      "summary_sv": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "summary_sv": "Andrei Chibis, chef för Rysslands norra Murmansk-region, är den första guvernören som hålls fängslad på fem år.",
       "summary_en": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1609,9 +1648,9 @@
       "id": "evt-2026-11-24-f606ce",
       "date": "2026-11-24",
       "timestamp": "2026-11-24T10:58:51+00:00",
-      "title_sv": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "title_sv": "Nato-chef lovar försvar mot rymdhot efter ryska kärntekniska satellitrapporter",
       "title_en": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary_sv": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "summary_sv": "Tyska medier sa att Ryssland planerar att skjuta upp en satellit med en kärnstridsspets ut i rymden under de kommande veckorna.",
       "summary_en": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1639,8 +1678,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Ukraina",
-        "Infrastruktur"
+        "Infrastruktur",
+        "Ukraina"
       ]
     },
     {
@@ -2274,10 +2313,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "uk",
         "ukraina",
         "ryssland",
-        "usa"
+        "usa",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
