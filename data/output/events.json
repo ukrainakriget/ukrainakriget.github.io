@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-11-25T22:05:48.152347+00:00",
-  "total_active_events": 162,
+  "last_updated": "2026-11-25T22:33:54.040812+00:00",
+  "total_active_events": 165,
   "events": [
+    {
+      "id": "evt-2026-11-26-18765d",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T00:06:30+02:00",
+      "title_sv": "War update: 151 clashes along the front line; 40 Russian troops killed on Pokrovsk axis",
+      "title_en": "War update: 151 clashes along the front line; 40 Russian troops killed on Pokrovsk axis",
+      "summary_sv": "On November 25, Ukrainian forces reported 151 combat engagements along the front line, including 18 Russian attacks repelled in the Pokrovsk sector.",
+      "summary_en": "On November 25, Ukrainian forces reported 151 combat engagements along the front line, including 18 Russian attacks repelled in the Pokrovsk sector.",
+      "location_name": "Pokrovsk-sektorn",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4188683-war-update-151-clashes-along-the-front-line-40-russian-troops-killed-on-pokrovsk-axis.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Pokrovsk",
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
     {
       "id": "evt-2026-11-25-1a8e79",
       "date": "2026-11-25",
@@ -66,9 +106,9 @@
       "egenskaper_anfallsmal": "diplomatiskt_politiskt",
       "niva_vetskap_sannolikhet": {
         "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från Ukrinform samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from Ukrinform and official emergency services."
       },
       "effekt_maluppfyllnad": "fullbordad",
       "kalla": "Ukrinform",
@@ -76,8 +116,54 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Robotanfall",
         "Kyjiv",
+        "Robotanfall",
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "Ukrinform",
+          "titel": "Kyiv under ballistic missile attack. Strikes hits shopping mall",
+          "url": "https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html"
+        }
+      ],
+      "cluster_count": 2
+    },
+    {
+      "id": "evt-2026-11-25-4f037b",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T23:24:00+02:00",
+      "title_sv": "Ukraine–U.S.–Russia talks deadlocked over territory, Kushner says",
+      "title_en": "Ukraine–U.S.–Russia talks deadlocked over territory, Kushner says",
+      "summary_sv": "Trilateral Ukraine–U.S.–Russia talks have reached an impasse over the “territorial issue,” U.S. special envoy Jared Kushner said on Nov. 25.",
+      "summary_en": "Trilateral Ukraine–U.S.–Russia talks have reached an impasse over the “territorial issue,” U.S. special envoy Jared Kushner said on Nov. 25.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
+        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
+      },
+      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/ukraine-u-s-russia-talks-deadlocked-over-territory-50662635.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
         "Ukraina"
       ]
     },
@@ -95,8 +181,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -131,9 +217,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -153,8 +239,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -171,8 +257,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -192,10 +278,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Civila mål",
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Drönare",
+        "Luftförsvar"
       ]
     },
     {
@@ -232,8 +318,49 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-25-602592",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T22:18:44+00:00",
+      "title_sv": "Glöm filmstrålar som skär av vingar. Ukrainas laser stirrar bara på ett ställe på drönare tills dess elektronik steker, säger experten",
+      "title_en": "Forget movie beams cutting off wings. Ukraine’s laser just stares at one spot on drones until its electronics fry, expert says",
+      "summary_sv": "Ukrainas nya laserluftförsvar drivs på elektricitet, inte missiler. Den slår ner en jetdriven Geran genom att överhetta drönaren från insidan.",
+      "summary_en": "Ukraine's new laser air defense runs on electricity, not missiles. It brings down a jet-powered Geran by overheating the drone from the inside.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "strategiskt_mal",
+        "beskrivning_sv": "Strategiskt mål: Slå ut civil energiförsörjning och vinterberedskap.",
+        "beskrivning_en": "Strategic goal: Incapacitate civilian heating and electrical resilience ahead of winter."
+      },
+      "egenskaper_anfallsmal": "energiproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/26/forget-movie-beams-cutting-off-wings-ukraines-laser-just-stares-at-one-spot-on-drones-until-its-electronics-fry-expert-says/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina",
+        "Luftförsvar",
+        "Energi",
+        "Drönare",
+        "Robotanfall"
       ]
     },
     {
@@ -320,9 +447,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -342,9 +469,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Luftförsvar",
         "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -353,7 +480,7 @@
       "timestamp": "2026-11-25T21:24:00+02:00",
       "title_sv": "Russia preparing to annex Abkhazia and South Ossetia, report says",
       "title_en": "Russia preparing to annex Abkhazia and South Ossetia, report says",
-      "summary_sv": "The Georgian State Security Service has accused Russia of preparing to annex Georgia’s Abkhazia and South Ossetia, which are currently under Russian military occupation, independent Russian outlet The Insider reported on Nov. 25.",
+      "summary_sv": "Den georgiska statens säkerhetstjänst har anklagat Ryssland för att förbereda sig på att annektera Georgiens Abchazien och Sydossetien, som för närvarande är under rysk militär ockupation, rapporterade den oberoende ryska kanalen The Insider den 25 november.",
       "summary_en": "The Georgian State Security Service has accused Russia of preparing to annex Georgia’s Abkhazia and South Ossetia, which are currently under Russian military occupation, independent Russian outlet The Insider reported on Nov. 25.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -381,8 +508,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -397,8 +524,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -435,8 +562,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -493,8 +620,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Charkiv",
-        "Ukraina"
+        "Ukraina",
+        "Charkiv"
       ]
     },
     {
@@ -567,8 +694,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -585,8 +712,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -606,8 +733,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Zaporizjzja",
-        "Ukraina"
+        "Ukraina",
+        "Zaporizjzja"
       ]
     },
     {
@@ -624,8 +751,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -645,10 +772,10 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Energi",
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Drönare",
+        "Luftförsvar"
       ]
     },
     {
@@ -657,16 +784,16 @@
       "timestamp": "2026-11-25T20:00:00+02:00",
       "title_sv": "Estonia urges EU to restrict Russian entry, warning Moscow is attacking all of Europe",
       "title_en": "Estonia urges EU to restrict Russian entry, warning Moscow is attacking all of Europe",
-      "summary_sv": "Estonian Foreign Minister Margus Tsahkna called for EU-wide restrictions on Russian tourists during a joint news conference with his Ukrainian counterpart, Andrii Sybiha, in Kyiv on Nov. 25.",
+      "summary_sv": "Estlands utrikesminister Margus Tsahkna efterlyste EU-omfattande restriktioner för ryska turister under en gemensam presskonferens med sin ukrainska motsvarighet, Andrii Sybiha, i Kyjiv den 25 november.",
       "summary_en": "Estonian Foreign Minister Margus Tsahkna called for EU-wide restrictions on Russian tourists during a joint news conference with his Ukrainian counterpart, Andrii Sybiha, in Kyiv on Nov. 25.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ukraina",
+        "ryssland",
         "eu",
         "usa",
-        "ryssland",
-        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -687,25 +814,25 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
       "id": "evt-2026-11-25-122594",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T19:56:00+02:00",
-      "title_sv": "Cabinet relaxes drone alert regulations for businesses",
+      "title_sv": "Skåpet lättar på drönarvarningsreglerna för företag",
       "title_en": "Cabinet relaxes drone alert regulations for businesses",
-      "summary_sv": "The Ukrainian government has extended through June 4, 2027, the transition period for businesses to comply with requirements to protect employees and patrons during yellow-level (drone threat) air alerts, the Economy Ministry announced on Nov. 25.",
+      "summary_sv": "Den ukrainska regeringen har förlängt till och med den 4 juni 2027, övergångsperioden för företag att följa kraven för att skydda anställda och kunder under luftvarningar på gul nivå (dronehot), meddelade ekonomiministeriet den 25 november.",
       "summary_en": "The Ukrainian government has extended through June 4, 2027, the transition period for businesses to comply with requirements to protect employees and patrons during yellow-level (drone threat) air alerts, the Economy Ministry announced on Nov. 25.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -725,8 +852,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -742,9 +869,9 @@
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -765,8 +892,8 @@
       "arkiverad": false,
       "tags": [
         "Energi",
-        "Kyjiv",
-        "Ukraina"
+        "Ukraina",
+        "Kyjiv"
       ]
     },
     {
@@ -781,9 +908,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -847,9 +974,9 @@
       "id": "evt-2026-11-25-41c3b9",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T19:35:00+02:00",
-      "title_sv": "IIHF to appeal CAS ruling allowing Russia back into tournaments over judges’ Russia ties",
+      "title_sv": "IIHF kommer att överklaga CAS-beslut som tillåter Ryssland tillbaka till turneringar på grund av domarnas Rysslandsband",
       "title_en": "IIHF to appeal CAS ruling allowing Russia back into tournaments over judges’ Russia ties",
-      "summary_sv": "The International Ice Hockey Federation (IIHF) intends to appeal a Court of Arbitration for Sport (CAS) ruling in Switzerland’s Federal Court, the organization’s press service said on Nov. 25.",
+      "summary_sv": "Internationella ishockeyförbundet (IIHF) avser att överklaga en dom från skiljedomstol för idrott (CAS) i Schweiz federala domstol, sade organisationens presstjänst den 25 november.",
       "summary_en": "The International Ice Hockey Federation (IIHF) intends to appeal a Court of Arbitration for Sport (CAS) ruling in Switzerland’s Federal Court, the organization’s press service said on Nov. 25.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -877,8 +1004,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -893,9 +1020,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -960,9 +1087,9 @@
       "id": "evt-2026-11-25-efd0a6",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T19:05:00+02:00",
-      "title_sv": "Wildberries sellers in Russia complain of unpaid compensation for destroyed goods",
+      "title_sv": "Säljare av vildbär i Ryssland klagar över obetald ersättning för förstörda varor",
       "title_en": "Wildberries sellers in Russia complain of unpaid compensation for destroyed goods",
-      "summary_sv": "Sellers on Russia’s largest marketplace, Wildberries, are complaining on social media and in private conversations that they are not receiving payments for goods that were destroyed or even for goods already sold, The Moscow Times reported on Nov. 25.",
+      "summary_sv": "Säljare på Rysslands största marknadsplats, Wildberries, klagar på sociala medier och i privata samtal att de inte får betalningar för varor som förstörts eller ens för varor som redan sålts, rapporterade The Moscow Times den 25 november.",
       "summary_en": "Sellers on Russia’s largest marketplace, Wildberries, are complaining on social media and in private conversations that they are not receiving payments for goods that were destroyed or even for goods already sold, The Moscow Times reported on Nov. 25.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -990,8 +1117,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1035,9 +1162,9 @@
       "id": "evt-2026-11-25-0a825b",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T19:00:00+02:00",
-      "title_sv": "French opposition demands answers over undisclosed military mission in Ukraine",
+      "title_sv": "Fransk opposition kräver svar på ett hemligt militäruppdrag i Ukraina",
       "title_en": "French opposition demands answers over undisclosed military mission in Ukraine",
-      "summary_sv": "French opposition lawmakers criticized the government for deploying military personnel to Ukraine without informing Parliament in advance, Politico reported on Nov. 25.",
+      "summary_sv": "Franska oppositionslagstiftare kritiserade regeringen för att ha utplacerat militär personal till Ukraina utan att informera parlamentet i förväg, rapporterade Politico den 25 november.",
       "summary_en": "French opposition lawmakers criticized the government for deploying military personnel to Ukraine without informing Parliament in advance, Politico reported on Nov. 25.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1064,17 +1191,17 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
       "id": "evt-2026-11-25-3c3790",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T18:59:22+00:00",
-      "title_sv": "Ukrainian combat robot gets stuck in mud near Russian border. Two locals on bikes stop, grab rope, and haul it back to work",
+      "title_sv": "Ukrainsk stridsrobot fastnar i lera nära ryska gränsen. Två lokalbor på cyklar stannar, tar tag i repet och drar tillbaka den till jobbet",
       "title_en": "Ukrainian combat robot gets stuck in mud near Russian border. Two locals on bikes stop, grab rope, and haul it back to work",
-      "summary_sv": "Ukraine's ground robots handle the front's riskiest runs, 31,398 in October alone.",
+      "summary_sv": "Ukrainas markrobotar hanterar frontens mest riskfyllda körningar, 31 398 bara i oktober.",
       "summary_en": "Ukraine's ground robots handle the front's riskiest runs, 31,398 in October alone.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1082,8 +1209,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1111,9 +1238,9 @@
       "id": "evt-2026-11-25-fca821",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T18:54:00+02:00",
-      "title_sv": "Poland disappointed by U.S. response to Russian missile incursions",
+      "title_sv": "Polen är besviket över USA:s svar på ryska missilingrepp",
       "title_en": "Poland disappointed by U.S. response to Russian missile incursions",
-      "summary_sv": "Polish Defense Minister Władysław Kosiniak-Kamysz said Poland is still waiting for the US position on three Russian cruise missiles violating the country's airspace.",
+      "summary_sv": "Polens försvarsminister Władysław Kosiniak-Kamysz sa att Polen fortfarande väntar på USA:s ståndpunkt om tre ryska kryssningsmissiler som bryter mot landets luftrum.",
       "summary_en": "Polish Defense Minister Władysław Kosiniak-Kamysz said Poland is still waiting for the US position on three Russian cruise missiles violating the country's airspace.",
       "location_name": "Polen & västra gränsen",
       "tidshorisont": "dagligen",
@@ -1143,17 +1270,17 @@
       "arkiverad": false,
       "tags": [
         "Polen",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
       "id": "evt-2026-11-25-d04cdd",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T18:43:00+02:00",
-      "title_sv": "Ukrainian Ambassador Zaluzhnyi and former UK PM Johnson speak at Churchill forum in London",
+      "title_sv": "Ukrainas ambassadör Zaluzhnyi och Storbritanniens tidigare premiärminister Johnson talar vid Churchill-forumet i London",
       "title_en": "Ukrainian Ambassador Zaluzhnyi and former UK PM Johnson speak at Churchill forum in London",
-      "summary_sv": "The international forum \"Churchill: Lessons for Ukraine,\" dedicated to political leadership and the resolve of democratic nations in the face of aggression, took place in London on Nov. 24.",
+      "summary_sv": "Det internationella forumet \"Churchill: Lessons for Ukraine\", tillägnat politiskt ledarskap och demokratiska nationers beslutsamhet inför aggression, ägde rum i London den 24 november.",
       "summary_en": "The international forum \"Churchill: Lessons for Ukraine,\" dedicated to political leadership and the resolve of democratic nations in the face of aggression, took place in London on Nov. 24.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1261,9 +1388,9 @@
       "id": "evt-2026-11-25-f3c10b",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T18:11:00+02:00",
-      "title_sv": "‘Too early’ to discuss Crimean Bridge repair timeline, Russian transport minister says",
+      "title_sv": "\"För tidigt\" för att diskutera reparationstiden för Krimbron, säger den ryska transportministern",
       "title_en": "‘Too early’ to discuss Crimean Bridge repair timeline, Russian transport minister says",
-      "summary_sv": "It is not yet possible to say when the road section of the Crimean Bridge, destroyed by Ukrainian strikes more than a week ago, will be restored, Russian Transport Minister Dmitry Yadrov has said, the Moscow Times reported on Nov. 25.",
+      "summary_sv": "Det är ännu inte möjligt att säga när vägsektionen av Krimbron, som förstördes av ukrainska attacker för mer än en vecka sedan, kommer att återställas, har den ryske transportministern Dmitrij Yadrov sagt, rapporterade Moscow Times den 25 november.",
       "summary_en": "It is not yet possible to say when the road section of the Crimean Bridge, destroyed by Ukrainian strikes more than a week ago, will be restored, Russian Transport Minister Dmitry Yadrov has said, the Moscow Times reported on Nov. 25.",
       "location_name": "Krym",
       "tidshorisont": "dagligen",
@@ -1271,8 +1398,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1292,18 +1419,18 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Ukraina",
         "Infrastruktur",
-        "Krym",
-        "Ukraina"
+        "Krym"
       ]
     },
     {
       "id": "evt-2026-11-25-52c67a",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T18:09:00+02:00",
-      "title_sv": "Ukraine’s economy could lose two years of growth due to port blockade",
+      "title_sv": "Ukrainas ekonomi kan förlora två års tillväxt på grund av hamnblockad",
       "title_en": "Ukraine’s economy could lose two years of growth due to port blockade",
-      "summary_sv": "Ukraine could lose more than $10 billion in export revenue in 2027 if civilian ships remain blocked from Odesa Oblast ports, putting pressure on the hryvnia and significantly reducing GDP, the Center for Transport Strategies said in a study on Nov. 25.",
+      "summary_sv": "Ukraina kan förlora mer än 10 miljarder dollar i exportintäkter 2027 om civila fartyg förblir blockerade från hamnar i Odesa Oblast, vilket sätter press på hryvnian och avsevärt minskar BNP, sa Center for Transport Strategies i en studie den 25 november.",
       "summary_en": "Ukraine could lose more than $10 billion in export revenue in 2027 if civilian ships remain blocked from Odesa Oblast ports, putting pressure on the hryvnia and significantly reducing GDP, the Center for Transport Strategies said in a study on Nov. 25.",
       "location_name": "Odesa",
       "tidshorisont": "dagligen",
@@ -1330,8 +1457,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Odesa",
         "Civila mål",
+        "Odesa",
         "Ukraina"
       ]
     },
@@ -1377,9 +1504,9 @@
       "id": "evt-2026-11-25-d2d89a",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T17:55:00+02:00",
-      "title_sv": "Ukraine's parliament proposes lifetime payments for 'state founders,' including those who gave missiles to Russia",
+      "title_sv": "Ukrainas parlament föreslår livstidsbetalningar för \"statsgrundare\", inklusive de som gav missiler till Ryssland",
       "title_en": "Ukraine's parliament proposes lifetime payments for 'state founders,' including those who gave missiles to Russia",
-      "summary_sv": "Ukraine's Verkhovna Rada proposes setting rules for lifetime payments to the \"founders of the modern state of Ukraine\" equal to 80% of an MP's salary, according to an amendment to bill No. 16011 on improving the privatization of state property, approved by the parliamentary Economic Development Committee for second reading.",
+      "summary_sv": "Ukrainas Verkhovna Rada föreslår fastställande av regler för livstidsbetalningar till \"grundarna av den moderna staten Ukraina\" motsvarande 80 % av en parlamentsledamots lön, enligt ett ändringsförslag till lagförslag nr 16011 om förbättring av privatiseringen av statlig egendom, som godkänts av den parlamentariska ekonomiska utvecklingskommittén...",
       "summary_en": "Ukraine's Verkhovna Rada proposes setting rules for lifetime payments to the \"founders of the modern state of Ukraine\" equal to 80% of an MP's salary, according to an amendment to bill No. 16011 on improving the privatization of state property, approved by the parliamentary Economic Development Committee for second reading.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1387,8 +1514,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1416,9 +1543,9 @@
       "id": "evt-2026-11-25-84783f",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T17:47:00+02:00",
-      "title_sv": "Peskov refuses to address reports of massive Russian military deaths in Ukraine",
+      "title_sv": "Peskov vägrar att ta upp rapporter om massiva ryska militära dödsfall i Ukraina",
       "title_en": "Peskov refuses to address reports of massive Russian military deaths in Ukraine",
-      "summary_sv": "Kremlin spokesperson Dmitry Peskov refused to comment on reports about the number of Russian troops killed in the war against Ukraine. He said only Russia’s Defense Ministry can release casualty figures.",
+      "summary_sv": "Kremls talesperson Dmitrij Peskov vägrade att kommentera rapporter om antalet ryska trupper som dödats i kriget mot Ukraina. Han sa att endast Rysslands försvarsministerium kan offentliggöra siffror för offer.",
       "summary_en": "Kremlin spokesperson Dmitry Peskov refused to comment on reports about the number of Russian troops killed in the war against Ukraine. He said only Russia’s Defense Ministry can release casualty figures.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1426,8 +1553,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1447,8 +1574,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1824,8 +1951,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1845,8 +1972,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1892,9 +2019,9 @@
       "id": "evt-2026-11-25-fa2212",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T16:07:18+00:00",
-      "title_sv": "Ground robot joins Ukraine’s hunt for Russia’s jet Shaheds, a third of which evaded interception in October. Brigade says it downed one",
+      "title_sv": "Markrobot ansluter sig till Ukrainas jakt på Rysslands jetplan Shaheds, varav en tredjedel undvek avlyssning i oktober. Brigaden säger att den sköt ned en",
       "title_en": "Ground robot joins Ukraine’s hunt for Russia’s jet Shaheds, a third of which evaded interception in October. Brigade says it downed one",
-      "summary_sv": "The shootdown came on the same day Ukraine's top military command met over how to stop these drones.",
+      "summary_sv": "Nedskjutningen inträffade samma dag som Ukrainas högsta militära kommando träffades över hur man stoppar dessa drönare.",
       "summary_en": "The shootdown came on the same day Ukraine's top military command met over how to stop these drones.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1902,8 +2029,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1923,9 +2050,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -1968,9 +2095,9 @@
       "id": "evt-2026-11-25-aff440",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T16:02:04+00:00",
-      "title_sv": "Ukrainian firm Carmine Sky builds a laser to guard critical infrastructure. Its Blysk downs Russia’s jet-powered Geran in world’s first kill",
+      "title_sv": "Det ukrainska företaget Carmine Sky bygger en laser för att skydda kritisk infrastruktur. Dess Blysk störtar Rysslands jetdrivna Geran i världens första död",
       "title_en": "Ukrainian firm Carmine Sky builds a laser to guard critical infrastructure. Its Blysk downs Russia’s jet-powered Geran in world’s first kill",
-      "summary_sv": "The laser guards a critical infrastructure site, and its maker is still testing it before any serial production.",
+      "summary_sv": "Lasern bevakar en kritisk infrastrukturplats, och dess tillverkare testar den fortfarande innan serieproduktion.",
       "summary_en": "The laser guards a critical infrastructure site, and its maker is still testing it before any serial production.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1978,8 +2105,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2158,9 +2285,9 @@
       "id": "evt-2026-11-25-c67c0c",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T15:07:42+00:00",
-      "title_sv": "Russia changes tactics against Ukraine’s grid to drag out repairs. Cluster warheads often strike switches and relays across substations, Ukrenergo says",
+      "title_sv": "Ryssland ändrar taktik mot Ukrainas nät för att dra ut på reparationer. Klusterstridsspetsar attackerar ofta växlar och reläer över transformatorstationer, säger Ukrenergo",
       "title_en": "Russia changes tactics against Ukraine’s grid to drag out repairs. Cluster warheads often strike switches and relays across substations, Ukrenergo says",
-      "summary_sv": "Ukraine has protected its big autotransformers fairly well, so Russia goes after the secondary equipment around them, and replacements take a long time to arrive.",
+      "summary_sv": "Ukraina har skyddat sina stora autotransformatorer ganska bra, så Ryssland går efter den sekundära utrustningen runt dem, och ersättningarna tar lång tid att komma fram.",
       "summary_en": "Ukraine has protected its big autotransformers fairly well, so Russia goes after the secondary equipment around them, and replacements take a long time to arrive.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2168,8 +2295,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2271,9 +2398,9 @@
       "id": "evt-2026-11-25-018c6b",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T15:02:39+00:00",
-      "title_sv": "Footage shows two Rosneft refineries on fire hours after Putin called retaliation “inevitable”",
+      "title_sv": "Filmer visar två Rosneft-raffinaderier i brand timmar efter att Putin kallade vedergällning \"oundviklig\"",
       "title_en": "Footage shows two Rosneft refineries on fire hours after Putin called retaliation “inevitable”",
-      "summary_sv": "Ukraine's military reportedly paused its refinery campaign in mid-October, but a Russian Telegram channel counted 12 refineries attacked in the three weeks before the Samara strikes.",
+      "summary_sv": "Ukrainas militär uppges ha pausat sin raffinaderikampanj i mitten av oktober, men en rysk Telegram-kanal räknade 12 raffinaderier som attackerades under de tre veckorna före Samara-attackerna.",
       "summary_en": "Ukraine's military reportedly paused its refinery campaign in mid-October, but a Russian Telegram channel counted 12 refineries attacked in the three weeks before the Samara strikes.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2281,8 +2408,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2302,8 +2429,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2397,8 +2524,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2730,9 +2857,9 @@
       "id": "evt-2026-11-25-6a1200",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T14:06:26+00:00",
-      "title_sv": "Russia cuts healthcare while the army’s budget soars. Defense gets $209 billion in 2027, 35% of the federal budget",
+      "title_sv": "Ryssland skär ner på sjukvården medan arméns budget skjuter i höjden. Försvaret får 209 miljarder dollar 2027, 35 % av den federala budgeten",
       "title_en": "Russia cuts healthcare while the army’s budget soars. Defense gets $209 billion in 2027, 35% of the federal budget",
-      "summary_sv": "The government can still add defense money during the year without asking parliament, an exiled Russian economist and former deputy finance minister said.",
+      "summary_sv": "Regeringen kan fortfarande lägga till försvarspengar under året utan att fråga parlamentet, sa en fördriven rysk ekonom och tidigare biträdande finansminister.",
       "summary_en": "The government can still add defense money during the year without asking parliament, an exiled Russian economist and former deputy finance minister said.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2767,9 +2894,9 @@
       "id": "evt-2026-11-25-598f4a",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T13:53:28+00:00",
-      "title_sv": "Ex-soldier recruited by Russia’s GRU was caught meters from a bomb meant for Ukrainian special forces commander, SBU says",
+      "title_sv": "Ex-soldat rekryterad av Rysslands GRU fångades några meter från en bomb avsedd för den ukrainska specialstyrkans befälhavare, säger SBU",
       "title_en": "Ex-soldier recruited by Russia’s GRU was caught meters from a bomb meant for Ukrainian special forces commander, SBU says",
-      "summary_sv": "The ex-soldier parked a car with a bomb in its door outside the commander's home, with a dashcam in a second car set to film the blast, the SBU says.",
+      "summary_sv": "Ex-soldaten parkerade en bil med en bomb i dörren utanför befälhavarens hem, med en instrumentbräda i en andra bil inställd för att filma explosionen, säger SBU.",
       "summary_en": "The ex-soldier parked a car with a bomb in its door outside the commander's home, with a dashcam in a second car set to film the blast, the SBU says.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2777,8 +2904,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2922,9 +3049,9 @@
       "id": "evt-2026-11-25-2542e0",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T13:37:25+00:00",
-      "title_sv": "Most Russian ballistic and hypersonic missiles have gotten through since September, OSINT estimate says, as Patriot interceptors allies are financing sit unapproved",
+      "title_sv": "De flesta ryska ballistiska och hypersoniska missiler har kommit igenom sedan september, enligt OSINTs uppskattning, eftersom Patriot interceptors allierade finansierar sitter ogodkända",
       "title_en": "Most Russian ballistic and hypersonic missiles have gotten through since September, OSINT estimate says, as Patriot interceptors allies are financing sit unapproved",
-      "summary_sv": "Ukraine's Air Force said in early November it was short of PAC-3 interceptors. About 40 are among the Patriot missiles US Defense Secretary Pete Hegseth has yet to approve, the FT reports.",
+      "summary_sv": "Ukrainas flygvapen sa i början av november att det saknades PAC-3-interceptorer. Ett 40-tal är bland de Patriot-missiler som USA:s försvarsminister Pete Hegseth ännu inte har godkänt, rapporterar FT.",
       "summary_en": "Ukraine's Air Force said in early November it was short of PAC-3 interceptors. About 40 are among the Patriot missiles US Defense Secretary Pete Hegseth has yet to approve, the FT reports.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -2932,8 +3059,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2953,9 +3080,9 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -3194,9 +3321,9 @@
       "id": "evt-2026-11-25-de92cf",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T13:14:02+00:00",
-      "title_sv": "How good is Ukraine’s Flamingo missile? Only 12 of 53 known launches strike their targets, OSINT count shows",
+      "title_sv": "Hur bra är Ukrainas Flamingo-missil? Endast 12 av 53 kända uppskjutningar attackerar sina mål, visar OSINT-räkningen",
       "title_en": "How good is Ukraine’s Flamingo missile? Only 12 of 53 known launches strike their targets, OSINT count shows",
-      "summary_sv": "The count lands as Kyiv denies reports it will move money from the Flamingo to the Neptune.",
+      "summary_sv": "Greven landar när Kyjiv förnekar rapporter att den kommer att flytta pengar från Flamingo till Neptunus.",
       "summary_en": "The count lands as Kyiv denies reports it will move money from the Flamingo to the Neptune.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
@@ -3223,10 +3350,10 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
         "Robotanfall",
+        "Ukraina",
         "Kyjiv",
-        "Ukraina"
+        "Infrastruktur"
       ]
     },
     {
@@ -3504,9 +3631,9 @@
       "id": "evt-2026-11-25-caa097",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T12:36:00+02:00",
-      "title_sv": "Ukraine Wins International PMI Project of the Year 2026 Award: FUIB Recognised for Its Accessibility and Inclusion Programme",
+      "title_sv": "Ukraina vinner International PMI Project of the Year 2026 Award: FUIB erkänd för sitt program för tillgänglighet och inkludering",
       "title_en": "Ukraine Wins International PMI Project of the Year 2026 Award: FUIB Recognised for Its Accessibility and Inclusion Programme",
-      "summary_sv": "Ukraine Wins International PMI Project of the Year 2026 Award: FUIB Recognised for Its Accessibility and Inclusion Programme",
+      "summary_sv": "Ukraina vinner International PMI Project of the Year 2026 Award: FUIB erkänd för sitt program för tillgänglighet och inkludering",
       "summary_en": "Ukraine Wins International PMI Project of the Year 2026 Award: FUIB Recognised for Its Accessibility and Inclusion Programme",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -3577,9 +3704,9 @@
       "id": "evt-2026-11-25-951f23",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T12:32:43+00:00",
-      "title_sv": "Ukraine’s first Lynx IFVs arrive with airburst shells and a counter-drone role they weren’t optimized for",
+      "title_sv": "Ukrainas första Lynx IFV anländer med luftburstskal och en motdrönarroll som de inte var optimerade för",
       "title_en": "Ukraine’s first Lynx IFVs arrive with airburst shells and a counter-drone role they weren’t optimized for",
-      "summary_sv": "Troops plan to fire 30mm airburst rounds at enemy drones, though The War Zone notes the vehicle has no visible radar.",
+      "summary_sv": "Trupper planerar att skjuta 30 mm luftsprängningar mot fiendens drönare, även om The War Zone noterar att fordonet inte har någon synlig radar.",
       "summary_en": "Troops plan to fire 30mm airburst rounds at enemy drones, though The War Zone notes the vehicle has no visible radar.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -3606,8 +3733,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -3660,8 +3787,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3725,9 +3852,9 @@
       "id": "evt-2026-11-25-c2cd62",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T12:12:19+00:00",
-      "title_sv": "Ukraine needs at least €115 billion to hold firm in 2027. Zelenskyy expects €90 billion from the EU, and €25 billion has yet to be found",
+      "title_sv": "Ukraina behöver minst 115 miljarder euro för att hålla sig 2027. Zelenskyy förväntar sig 90 miljarder euro från EU, och 25 miljarder euro har ännu inte hittats",
       "title_en": "Ukraine needs at least €115 billion to hold firm in 2027. Zelenskyy expects €90 billion from the EU, and €25 billion has yet to be found",
-      "summary_sv": "Half of that EU money is a new loan four member states want no part of, and Berlin has made the EU budget conditional on every member state helping fund Ukraine.",
+      "summary_sv": "Hälften av dessa EU-pengar är ett nytt lån som fyra medlemsländer inte vill ta del av, och Berlin har gjort EU:s budget villkorat av att varje medlemsland hjälper till att finansiera Ukraina.",
       "summary_en": "Half of that EU money is a new loan four member states want no part of, and Berlin has made the EU budget conditional on every member state helping fund Ukraine.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -4445,9 +4572,9 @@
       "id": "evt-2026-11-25-dd8b0d",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T10:51:14+00:00",
-      "title_sv": "German-Ukrainian SPYS interceptor downs Russia’s new K5-K jet Geran in combat trials, maker says",
+      "title_sv": "Tysk-ukrainsk SPYS-interceptor störtar Rysslands nya K5-K-jet Geran i stridsförsök, säger tillverkaren",
       "title_en": "German-Ukrainian SPYS interceptor downs Russia’s new K5-K jet Geran in combat trials, maker says",
-      "summary_sv": "The maker announced the kill the same day its 520 km/h record was reported, but its own speed figures keep changing.",
+      "summary_sv": "Tillverkaren meddelade dödandet samma dag som dess rekord på 520 km/h rapporterades, men dess egna hastighetssiffror förändras hela tiden.",
       "summary_en": "The maker announced the kill the same day its 520 km/h record was reported, but its own speed figures keep changing.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -4455,8 +4582,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4476,8 +4603,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -4719,7 +4846,7 @@
       "timestamp": "2026-11-25T10:05:45+00:00",
       "title_sv": "Ukraina: Två ryska raff i brand – Trumpregimen skrotar affärsplaner med Ryssland 250 000 patroner antidrönarkartesch levererade",
       "title_en": "Ukraina: Två ryska raff i brand – Trumpregimen skrotar affärsplaner med Ryssland 250 000 patroner antidrönarkartesch levererade",
-      "summary_sv": "Två ryska raffinaderiet i Samara Oblast ska stå i brand efter ukrainska bombningar i natt. Trumpregimen uppges i tystnad skrotat affärsplanerna med Ryssland sedan man insett att Kremlregimen inte kommer gå med på vapenvila även om man betalar dem pengar. Jonas har nu levererat 250 000 livräddande patroner antidrönarkartesch via ert stöd.",
+      "summary_sv": "Två ryska raffinaderiet i Samara Oblast ska stå i brand efter ukrainska bombningar i natt. Trumpregimen uppges i tystnad skrotat affärsplanerna med Ryssland sedan man insett att Kremlregimen inte kommer att gå med på vapenvila även om man betalar dem pengar. Jonas har nu levererat 250 000 livräddande patroner antidrönarkartesch via ert stöd.",
       "summary_en": "Två ryska raffinaderiet i Samara Oblast ska stå i brand efter ukrainska bombningar i natt. Trumpregimen uppges i tystnad skrotat affärsplanerna med Ryssland sedan man insett att Kremlregimen inte kommer gå med på vapenvila även om man betalar dem pengar. Jonas har nu levererat 250 000 livräddande patroner antidrönarkartesch via ert stöd.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -4747,26 +4874,26 @@
       "kallkategori": "Militäranalytiker & författare",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
       "id": "evt-2026-11-25-8291d9",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T10:04:27+00:00",
-      "title_sv": "Ukrainian drones made in Canada? TAF Industries signs its first partnership beyond Europe",
+      "title_sv": "Ukrainska drönare tillverkade i Kanada? TAF Industries tecknar sitt första partnerskap utanför Europa",
       "title_en": "Ukrainian drones made in Canada? TAF Industries signs its first partnership beyond Europe",
-      "summary_sv": "TAF says it and Canada's Draganfly intend to make drones in Canada mainly for Ukraine's Armed Forces. Zelenskyy's office said in September that Ukraine would get 30% of drones from a Ukrainian-Canadian program.",
+      "summary_sv": "TAF säger att det och Kanadas Draganfly avser att tillverka drönare i Kanada främst för Ukrainas väpnade styrkor. Zelenskyys kontor sa i september att Ukraina skulle få 30 % av drönarna från ett ukrainsk-kanadensiskt program.",
       "summary_en": "TAF says it and Canada's Draganfly intend to make drones in Canada mainly for Ukraine's Armed Forces. Zelenskyy's office said in September that Ukraine would get 30% of drones from a Ukrainian-Canadian program.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
         "eu",
-        "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4786,8 +4913,8 @@
       "kallkategori": "Oberoende ukrainskt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Drönare"
       ]
     },
     {
@@ -5733,8 +5860,8 @@
       "parter_intressenter": [
         "ryssland",
         "ukraina",
-        "usa",
-        "uk"
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5754,8 +5881,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -5843,10 +5970,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "ukraina",
+        "ryssland",
         "eu",
         "usa",
-        "ryssland",
-        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -5867,11 +5994,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": false,
       "tags": [
+        "Ukraina",
+        "Kyjiv",
         "Energi",
         "Drönare",
-        "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
+        "Robotanfall"
       ]
     },
     {
