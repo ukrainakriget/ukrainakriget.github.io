@@ -1,7 +1,97 @@
 {
-  "total_archived_events": 7263,
-  "last_archived_rotation": "2026-11-26T22:31:52.434112+00:00",
+  "total_archived_events": 7265,
+  "last_archived_rotation": "2026-11-26T22:36:38.267077+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-26-de8668",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T00:36:00+02:00",
+      "title_sv": "Russian oil refining drops to 20-year low",
+      "title_en": "Russian oil refining drops to 20-year low",
+      "summary_sv": "Russia’s oil refining volumes have fallen to their lowest level in more than 20 years as Ukraine continues to strike Russian refineries, Bloomberg reported on Nov. 25.",
+      "summary_en": "Russia’s oil refining volumes have fallen to their lowest level in more than 20 years as Ukraine continues to strike Russian refineries, Bloomberg reported on Nov. 25.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/russian-oil-refining-drops-to-20-year-low-50662636.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-26-42233e",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T00:32:00+02:00",
+      "title_sv": "SBU detains hairdresser in Sloviansk suspected of directing Russian strikes",
+      "title_en": "SBU detains hairdresser in Sloviansk suspected of directing Russian strikes",
+      "summary_sv": "The Security Service of Ukraine (SBU) has detained a woman suspected of directing Russian strikes on Sloviansk.",
+      "summary_en": "The Security Service of Ukraine (SBU) has detained a woman suspected of directing Russian strikes on Sloviansk.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "uk",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "bekraftad",
+        "motivering_sv": "Bekräftad av 2 samstämmiga rapporter från Ukrinform samt räddningstjänsten DSNS.",
+        "motivering_en": "Confirmed by 2 corroborating reports from Ukrinform and official emergency services."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4188297-sbu-detains-hairdresser-in-sloviansk-suspected-of-directing-russian-strikes.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ],
+      "relaterade_kallor": [
+        {
+          "kalla": "Ukrinform",
+          "titel": "SBU detains hairdresser in Sloviansk suspected of directing Russian strikes",
+          "url": "https://www.ukrinform.net/rubric-ato/4188297-sbu-detains-hairdresser-in-sloviansk-suspected-of-directing-russian-strikes.html"
+        },
+        {
+          "kalla": "Ukrinform",
+          "titel": "SBU detains hairdresser in Sloviansk suspected of directing Russian strikes",
+          "url": "https://www.ukrinform.net/rubric-crime/4188297-sbu-detains-hairdresser-in-sloviansk-suspected-of-directing-russian-strikes.html"
+        }
+      ],
+      "cluster_count": 2
+    },
     {
       "id": "evt-2026-11-26-18765d",
       "date": "2026-11-26",
@@ -906,10 +996,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
-        "ukraina",
         "usa",
-        "uk"
+        "uk",
+        "ukraina",
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1058,9 +1148,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
+        "uk",
         "ukraina",
-        "uk"
+        "usa"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1987,10 +2077,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "ryssland",
-        "uk"
+        "uk",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2010,8 +2100,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -2560,10 +2650,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "ryssland",
-        "uk"
+        "uk",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3823,10 +3913,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "usa",
-        "ukraina",
         "ryssland",
-        "uk"
+        "uk",
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
