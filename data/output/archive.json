@@ -1,7 +1,46 @@
 {
-  "total_archived_events": 7196,
-  "last_archived_rotation": "2026-11-26T13:10:54.884648+00:00",
+  "total_archived_events": 7198,
+  "last_archived_rotation": "2026-11-26T13:32:54.774474+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-25-6fdec0",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T15:21:00+02:00",
+      "title_sv": "Khmara, Stoltenberg diskuterar att stärka Ukrainas luftförsvar och stödja försvarsindustrin",
+      "title_en": "Khmara, Stoltenberg discuss strengthening Ukraine's air defenses and supporting defense industry",
+      "summary_sv": "Ukrainas försvarsminister Yevhenii Khmara träffade Norges finansminister Jens Stoltenberg under ett officiellt besök i Oslo för att diskutera att stärka Ukrainas luftförsvar och stödja landets försvarsindustri.",
+      "summary_en": "Ukraine's Defense Minister Yevhenii Khmara met with Norwegian Finance Minister Jens Stoltenberg during an official visit to Oslo to discuss strengthening Ukraine's air defenses and supporting the country’s defense industry.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4188516-khmara-stoltenberg-discuss-strengthening-ukraines-air-defenses-and-supporting-defense-industry.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Luftförsvar",
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-25-84be43",
       "date": "2026-11-25",
@@ -807,6 +846,45 @@
       ]
     },
     {
+      "id": "evt-2026-11-25-de92cf",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T13:14:02+00:00",
+      "title_sv": "How good is Ukraine’s Flamingo missile? Only 12 of 53 known launches strike their targets, OSINT count shows",
+      "title_en": "How good is Ukraine’s Flamingo missile? Only 12 of 53 known launches strike their targets, OSINT count shows",
+      "summary_sv": "The count lands as Kyiv denies reports it will move money from the Flamingo to the Neptune.",
+      "summary_en": "The count lands as Kyiv denies reports it will move money from the Flamingo to the Neptune.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/25/how-good-is-ukraines-flamingo-missile-only-12-of-53-known-launches-strike-their-targets-osint-count-shows/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Kyjiv",
+        "Infrastruktur",
+        "Ukraina",
+        "Robotanfall"
+      ]
+    },
+    {
       "id": "evt-2026-11-25-be6b4f",
       "date": "2026-11-25",
       "timestamp": "2026-11-25T13:09:00+02:00",
@@ -1235,10 +1313,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "ryssland",
-        "uk"
+        "usa",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2302,9 +2380,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
-        "uk"
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3302,16 +3380,16 @@
       "timestamp": "2026-11-25T03:00:03+00:00",
       "title_sv": "Den ryska arméns hemliga dödssiffra – podcast",
       "title_en": "The Russian army’s secret death toll – podcast",
-      "summary_sv": "Vladimir Putin har alltid hållit antalet dödade soldater i Ukraina hemligt, men vid ett tillfälle dog 720 på 24 timmar. Pjotr ​​Sauer rapporterar. Skicka dina kommentarer och frågor till tif.questions@theguardian.com Ryssland har hållit dödssiffran för sina soldater i Ukrainakriget en noga bevakad hemlighet.",
+      "summary_sv": "Vladimir Putin har alltid hållit antalet dödade soldater i Ukraina hemligt, men vid ett tillfälle dog 720 på 24 timmar. Pjotr ​​Sauer rapporterar. Skicka dina kommentarer och frågor till tif.questions@theguardian.com Ryssland har hållit dödssiffran för sina soldater i Ukrainakriget en noggrant bevakad hemlighet.",
       "summary_en": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to tif.questions@theguardian.com Russia has kept the death toll of its soldiers in the Ukraine war a carefully guarded secret.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
         "ryssland",
-        "uk"
+        "usa",
+        "uk",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3331,8 +3409,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -3420,10 +3498,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "eu",
-        "usa",
-        "ukraina",
         "ryssland",
+        "usa",
+        "eu",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -3446,9 +3524,9 @@
       "tags": [
         "Drönare",
         "Kyjiv",
-        "Robotanfall",
+        "Energi",
         "Ukraina",
-        "Energi"
+        "Robotanfall"
       ]
     },
     {
