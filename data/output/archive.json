@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 7386,
-  "last_archived_rotation": "2026-11-27T21:05:40.425212+00:00",
+  "total_archived_events": 7388,
+  "last_archived_rotation": "2026-11-27T21:35:17.253800+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-26-2c535b",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T23:25:00+02:00",
+      "title_sv": "Zelensky announces preparations for next prisoner exchange",
+      "title_en": "Zelensky announces preparations for next prisoner exchange",
+      "summary_sv": "Ukraine is preparing for the next prisoner-of-war exchange.",
+      "summary_en": "Ukraine is preparing for the next prisoner-of-war exchange.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4189070-zelensky-announces-preparations-for-next-prisoner-exchange.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-26-33edcc",
       "date": "2026-11-26",
@@ -307,6 +343,43 @@
       "tags": [
         "Ukraina",
         "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-26-870f0c",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:12:00+00:00",
+      "title_sv": "11 Holodomor-frågor Ryssland vill inte att du ska fråga",
+      "title_en": "11 Holodomor questions Russia doesn’t want you asking",
+      "summary_sv": "Stalin fick inga konsekvenser för folkmordet. Det kommer inte Putin heller att göra – om inte världen bryter denna cirkel av straffrihet.",
+      "summary_en": "Stalin faced no consequences for genocide. Neither will Putin—unless the world breaks this cycle of impunity.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/26/what-horrors-in-ukraine-did-stalin-hide-secrets-unlocked-from-kgbs-holodomor-archives/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
       ]
     },
     {
@@ -907,10 +980,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "usa",
-        "eu",
+        "ukraina",
         "uk",
-        "ukraina"
+        "eu",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -930,8 +1003,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1291,9 +1364,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ryssland",
+        "ukraina",
         "eu",
-        "ukraina"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1999,10 +2072,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ryssland",
-        "usa",
+        "ukraina",
         "uk",
-        "ukraina"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2022,10 +2095,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina",
         "Kyjiv",
-        "Drönare"
+        "Ukraina",
+        "Drönare",
+        "Infrastruktur"
       ]
     },
     {
