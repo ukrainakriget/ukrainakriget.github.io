@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 7374,
-  "last_archived_rotation": "2026-11-27T18:31:47.162776+00:00",
+  "total_archived_events": 7375,
+  "last_archived_rotation": "2026-11-27T19:02:06.583058+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-26-04b88c",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T20:58:00+02:00",
+      "title_sv": "Ukraine invites Canada to join War Risk Insurance Fund",
+      "title_en": "Ukraine invites Canada to join War Risk Insurance Fund",
+      "summary_sv": "Prime Minister Serhii Koretskyi has invited Canada to contribute to the War Risk Insurance Fund, which is due to be launched in January. Ukraine is also counting on an expansion of Canada’s preferential lending schemes and the attraction of investment into the private sector.",
+      "summary_en": "Prime Minister Serhii Koretskyi has invited Canada to contribute to the War Risk Insurance Fund, which is due to be launched in January. Ukraine is also counting on an expansion of Canada’s preferential lending schemes and the attraction of investment into the private sector.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "uk",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4189022-ukraine-invites-canada-to-join-war-risk-insurance-fund.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-26-21c3f9",
       "date": "2026-11-26",
@@ -442,10 +478,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "usa",
         "ukraina",
-        "uk"
+        "uk",
+        "eu"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -826,9 +862,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
+        "ryssland",
         "ukraina",
-        "ryssland"
+        "eu"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1534,10 +1570,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
+        "ryssland",
         "usa",
         "ukraina",
-        "uk",
-        "ryssland"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
