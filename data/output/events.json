@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-11-27T18:02:53.543990+00:00",
+  "last_updated": "2026-11-27T18:31:47.162776+00:00",
   "total_active_events": 139,
   "events": [
+    {
+      "id": "evt-2026-11-27-7e2a3c",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T20:22:00+02:00",
+      "title_sv": "Ukrainska styrkor attackerar Rysslands senaste luftförsvarssystem Buk-M3 på ockuperat territorium",
+      "title_en": "Ukrainian forces strike Russia's latest Buk-M3 air defense system in occupied territory",
+      "summary_sv": "Den 26 november och över natten till den 27 november slog Ukrainas försvarsstyrkor Rysslands mest avancerade Buk-M3 mark-till-luft missilsystem, drönarledningsposter och militära lager i tillfälligt ockuperade ukrainska territorier.",
+      "summary_en": "On November 26 and overnight into November 27, Ukraine's Defense Forces struck Russia's most advanced Buk-M3 surface-to-air missile system, drone command posts and military warehouses in temporarily occupied Ukrainian territories.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4189398-ukrainian-forces-strike-russias-latest-bukm3-air-defense-system-in-occupied-territory.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Robotanfall",
+        "Drönare",
+        "Ukraina",
+        "Luftförsvar"
+      ]
+    },
+    {
+      "id": "evt-2026-11-27-d3e591",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T20:03:00+02:00",
+      "title_sv": "Putin bedriver diplomatisk aggression mot väst – Tjeckisk oppositionsledare",
+      "title_en": "Putin waging diplomatic aggression against the West – Czech opposition leader",
+      "summary_sv": "Att stödja Ukraina är viktigt för Tjeckien och hela Europa, eftersom Putin tar till diplomatisk aggression genom sina uppenbara krav och kommer inte att sluta där.",
+      "summary_en": "Supporting Ukraine is important for the Czech Republic and the whole of Europe, as Putin is resorting to diplomatic aggression through his blatant demands and will not stop there.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "eu_ees",
+      "parter_intressenter": [
+        "eu",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-polytics/4189396-putin-waging-diplomatic-aggression-against-the-west-czech-opposition-leader.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": false,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-27-340781",
       "date": "2026-11-27",
@@ -14,9 +94,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -52,10 +132,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "eu",
         "usa",
-        "uk",
-        "eu"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -90,10 +170,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -165,10 +245,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -204,10 +284,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -243,10 +323,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -268,8 +348,8 @@
       "tags": [
         "Robotanfall",
         "Drönare",
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -284,10 +364,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -322,11 +402,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
         "eu",
+        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -434,10 +514,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -472,10 +552,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -511,10 +591,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -549,10 +629,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -573,8 +653,8 @@
       "arkiverad": false,
       "tags": [
         "Infrastruktur",
-        "Krym",
-        "Ukraina"
+        "Ukraina",
+        "Krym"
       ]
     },
     {
@@ -589,9 +669,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "ukraina",
-        "ryssland",
-        "eu"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -627,10 +707,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -666,9 +746,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -703,9 +783,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -727,8 +807,8 @@
       "tags": [
         "Infrastruktur",
         "Drönare",
-        "Luftförsvar",
-        "Ukraina"
+        "Ukraina",
+        "Luftförsvar"
       ]
     },
     {
@@ -743,10 +823,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -767,8 +847,8 @@
       "arkiverad": false,
       "tags": [
         "Infrastruktur",
-        "Svarta",
-        "Ukraina"
+        "Ukraina",
+        "Svarta"
       ]
     },
     {
@@ -783,10 +863,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "operationellt_mal",
@@ -848,6 +928,44 @@
       ]
     },
     {
+      "id": "evt-2026-11-27-4b04b5",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T16:49:59+00:00",
+      "title_sv": "Jared Kushners 70-minutersintervju avslöjar farorna med att behandla Putin som en företagsrival",
+      "title_en": "Jared Kushner’s 70-minute interview reveals perils of treating Putin like a corporate rival",
+      "summary_sv": "Trumps svärson och senior förhandlare utmålar den ryska invasionen av Ukraina som ett missförstånd som ska lösas.",
+      "summary_en": "Trump’s son-in-law and senior negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably did more to reveal why the world is mired in entrenched conflicts than a thousand...",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "usa",
+        "ukraina",
+        "uk",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The Guardian (Ukraine)",
+      "kallurl": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
+      "kallkategori": "Internationellt nyhetsmedium",
+      "arkiverad": false,
+      "tags": [
+        "Ukraina"
+      ]
+    },
+    {
       "id": "evt-2026-11-27-3d23c7",
       "date": "2026-11-27",
       "timestamp": "2026-11-27T16:44:05+00:00",
@@ -859,10 +977,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -935,9 +1053,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1010,9 +1128,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1105,9 +1223,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Energi",
         "Zaporizjzja",
-        "Ukraina"
+        "Ukraina",
+        "Energi"
       ]
     },
     {
@@ -1240,10 +1358,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1263,8 +1381,8 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Drönare",
         "Poltava",
+        "Drönare",
         "Ukraina"
       ]
     },
@@ -1396,10 +1514,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -1434,9 +1552,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
+        "eu",
         "ukraina",
-        "ryssland",
-        "eu"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1471,9 +1589,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1625,8 +1743,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ukrainas_granser",
       "parter_intressenter": [
-        "ukraina",
         "usa",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -1703,9 +1821,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "fria_ukraina",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "akta_syfte",
@@ -1725,9 +1843,9 @@
       "kallkategori": "Statlig nyhetsbyrå",
       "arkiverad": false,
       "tags": [
-        "Civila mål",
         "Cherson",
-        "Ukraina"
+        "Ukraina",
+        "Civila mål"
       ]
     },
     {
@@ -2123,10 +2241,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "eu",
         "usa",
-        "uk",
-        "eu"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -2198,10 +2316,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
+        "eu",
         "usa",
-        "eu"
+        "ukraina",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2351,10 +2469,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "eu",
         "usa",
-        "uk",
-        "eu"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2466,10 +2584,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -2658,8 +2776,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
         "usa",
+        "ukraina",
         "uk"
       ],
       "syfte": {
@@ -2774,10 +2892,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3088,10 +3206,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3113,8 +3231,8 @@
       "tags": [
         "Robotanfall",
         "Ukraina",
-        "Infrastruktur",
         "Drönare",
+        "Infrastruktur",
         "Luftförsvar"
       ]
     },
@@ -3552,11 +3670,11 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
         "eu",
+        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -3817,10 +3935,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "eu",
         "usa",
-        "uk",
-        "eu"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4009,9 +4127,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
+        "eu",
         "ukraina",
-        "uk",
-        "eu"
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4198,12 +4316,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ukraina",
-        "uk",
-        "kina",
         "eu",
+        "uk",
+        "ryssland",
         "usa",
-        "ryssland"
+        "ukraina",
+        "kina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4224,10 +4342,10 @@
       "arkiverad": false,
       "tags": [
         "Robotanfall",
+        "Kyjiv",
         "Ukraina",
-        "Infrastruktur",
         "Drönare",
-        "Kyjiv"
+        "Infrastruktur"
       ]
     },
     {
@@ -4670,10 +4788,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "eu",
         "usa",
-        "uk",
-        "eu"
+        "ukraina",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -4844,9 +4962,9 @@
       "arkiverad": false,
       "tags": [
         "Infrastruktur",
-        "Robotanfall",
         "Drönare",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -4861,10 +4979,10 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
-        "ukraina",
-        "ryssland",
         "usa",
-        "uk"
+        "ukraina",
+        "uk",
+        "ryssland"
       ],
       "syfte": {
         "kategori": "strategiskt_mal",
@@ -4885,8 +5003,8 @@
       "arkiverad": false,
       "tags": [
         "Kyjiv",
-        "Robotanfall",
-        "Ukraina"
+        "Ukraina",
+        "Robotanfall"
       ]
     },
     {
@@ -5055,9 +5173,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "resten_av_varlden",
       "parter_intressenter": [
+        "usa",
         "ukraina",
-        "ryssland",
-        "usa"
+        "ryssland"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -5156,84 +5274,6 @@
       ]
     },
     {
-      "id": "evt-2026-11-26-21c3f9",
-      "date": "2026-11-26",
-      "timestamp": "2026-11-26T20:27:00+02:00",
-      "title_sv": "Dnipropetrovsk region comes under more than 50 attacks in one day, causing damage",
-      "title_en": "Dnipropetrovsk region comes under more than 50 attacks in one day, causing damage",
-      "summary_sv": "Russian invaders launched more than fifty drone attacks on the Kryvyi Rih and Nikopol districts of the Dnipropetrovsk region throughout the day.",
-      "summary_en": "Russian invaders launched more than fifty drone attacks on the Kryvyi Rih and Nikopol districts of the Dnipropetrovsk region throughout the day.",
-      "location_name": "Dnipro",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "resten_av_varlden",
-      "parter_intressenter": [
-        "ryssland",
-        "usa",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Ukrinform",
-      "kallurl": "https://www.ukrinform.net/rubric-ato/4189012-dnipropetrovsk-region-comes-under-more-than-50-attacks-in-one-day-causing-damage.html",
-      "kallkategori": "Statlig nyhetsbyrå",
-      "arkiverad": false,
-      "tags": [
-        "Drönare",
-        "Dnipro",
-        "Ukraina"
-      ]
-    },
-    {
-      "id": "evt-2026-11-26-c483ab",
-      "date": "2026-11-26",
-      "timestamp": "2026-11-26T20:25:00+02:00",
-      "title_sv": "Ukrainian intelligence drones strike Russia’s Slavyansk Eco refinery again",
-      "title_en": "Ukrainian intelligence drones strike Russia’s Slavyansk Eco refinery again",
-      "summary_sv": "Long-range drones operated by Ukraine’s Defense Intelligence (HUR) struck the Slavyansk Eco oil refinery in Slavyansk-on-Kuban, Russia’s Krasnodar Krai, for a second time overnight into Nov. 26, sparking a fire at the facility.",
-      "summary_en": "Long-range drones operated by Ukraine’s Defense Intelligence (HUR) struck the Slavyansk Eco oil refinery in Slavyansk-on-Kuban, Russia’s Krasnodar Krai, for a second time overnight into Nov. 26, sparking a fire at the facility.",
-      "location_name": "Ukraina (nationellt)",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "fria_ukraina",
-      "parter_intressenter": [
-        "ukraina",
-        "ryssland",
-        "usa",
-        "uk"
-      ],
-      "syfte": {
-        "kategori": "taktiskt_mal",
-        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
-        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
-      },
-      "egenskaper_anfallsmal": "militara_resurser",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "fullbordad",
-      "kalla": "The New Voice of Ukraine",
-      "kallurl": "https://english.nv.ua/russian-war/ukrainian-intelligence-drones-strike-russia-s-slavyansk-eco-oil-refinery-again-sparking-fire-50662922.html",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Ukraina",
-        "Drönare"
-      ]
-    },
-    {
       "id": "evt-2026-11-26-635b39",
       "date": "2026-11-26",
       "timestamp": "2026-11-26T19:52:30+00:00",
@@ -5314,46 +5354,6 @@
         "Robotanfall",
         "Infrastruktur",
         "Kyjiv"
-      ]
-    },
-    {
-      "id": "evt-2026-11-26-1f05ef",
-      "date": "2026-11-26",
-      "timestamp": "2026-11-26T18:15:28+00:00",
-      "title_sv": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says",
-      "title_en": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says",
-      "summary_sv": "Budanov says Ukraine and Russia could carry out another exchange in the coming weeks, as Kyiv also explores a four-party meeting on peace involving European countries.",
-      "summary_en": "Budanov says Ukraine and Russia could carry out another exchange in the coming weeks, as Kyiv also explores a four-party meeting on peace involving European countries.",
-      "location_name": "Kyjiv",
-      "tidshorisont": "dagligen",
-      "geografiskt_omrade": "eu_ees",
-      "parter_intressenter": [
-        "uk",
-        "ryssland",
-        "usa",
-        "eu",
-        "ukraina"
-      ],
-      "syfte": {
-        "kategori": "strategiskt_mal",
-        "beskrivning_sv": "Strategiskt mål: Konsolidera internationella allianser och försvarssamarbete.",
-        "beskrivning_en": "Strategic goal: Consolidate international alliances and security agreements."
-      },
-      "egenskaper_anfallsmal": "diplomatiskt_politiskt",
-      "niva_vetskap_sannolikhet": {
-        "procent": 95,
-        "niva": "hog",
-        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
-        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
-      },
-      "effekt_maluppfyllnad": "delvis",
-      "kalla": "Euromaidan Press",
-      "kallurl": "https://euromaidanpress.com/2026/11/26/ukraine-russia-could-hold-largest-prisoner-exchange-of-war/",
-      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
-      "arkiverad": false,
-      "tags": [
-        "Kyjiv",
-        "Ukraina"
       ]
     }
   ],
