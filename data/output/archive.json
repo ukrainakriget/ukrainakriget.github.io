@@ -1,7 +1,122 @@
 {
-  "total_archived_events": 7378,
-  "last_archived_rotation": "2026-11-27T19:31:48.454650+00:00",
+  "total_archived_events": 7382,
+  "last_archived_rotation": "2026-11-27T20:02:29.324900+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-26-6eaf38",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T22:02:00+02:00",
+      "title_sv": "Zelensky warns Russia is preparing new large-scale attack",
+      "title_en": "Zelensky warns Russia is preparing new large-scale attack",
+      "summary_sv": "President Volodymyr Zelensky has called on Ukrainians to pay close attention to air-raid sirens in the coming days, following reports that Russia is preparing a new large-scale attack.",
+      "summary_en": "President Volodymyr Zelensky has called on Ukrainians to pay close attention to air-raid sirens in the coming days, following reports that Russia is preparing a new large-scale attack.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "ryssland",
+        "usa",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4189052-zelensky-warns-russia-is-preparing-new-largescale-attack.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Infrastruktur"
+      ]
+    },
+    {
+      "id": "evt-2026-11-26-a31be7",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:48:00+02:00",
+      "title_sv": "Top Ukrainian toilet paper maker halts production after Russian attack",
+      "title_en": "Top Ukrainian toilet paper maker halts production after Russian attack",
+      "summary_sv": "Bloomy Group of Companies in Odesa, one of Ukraine’s largest makers of cleaning, disinfectant, and hygiene products, including Snizhna Panda toilet paper, decided to stop production after another Russian attack on Nov. 25, according to Interfax Ukraine.",
+      "summary_en": "Bloomy Group of Companies in Odesa, one of Ukraine’s largest makers of cleaning, disinfectant, and hygiene products, including Snizhna Panda toilet paper, decided to stop production after another Russian attack on Nov. 25, according to Interfax Ukraine.",
+      "location_name": "Odesa",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/nation/leading-ukrainian-toilet-paper-maker-halts-production-after-russian-attack-50662905.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Odesa",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-26-53fc99",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:32:00+02:00",
+      "title_sv": "Ryska styrkor attackerar fabriken i regionen Khmelnytskyi",
+      "title_en": "Russian forces strike factory in Khmelnytskyi region",
+      "summary_sv": "I Khmelnytskyi-distriktet bröt en brand ut i ett av företagens lokaler som ett resultat av en rysk attack.",
+      "summary_en": "In the Khmelnytskyi district, a fire broke out on the premises of one of the enterprises as a result of a Russian attack.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4189047-russian-forces-strike-factory-in-khmelnytskyi-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-26-ccd190",
       "date": "2026-11-26",
@@ -230,6 +345,48 @@
       "tags": [
         "Zaporizjzja",
         "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-26-635b39",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T19:52:30+00:00",
+      "title_sv": "Ukraine has almost nothing to stop Russia’s ballistic missiles, presidential tech adviser says, listing seven weapons Kyiv needs",
+      "title_en": "Ukraine has almost nothing to stop Russia’s ballistic missiles, presidential tech adviser says, listing seven weapons Kyiv needs",
+      "summary_sv": "The list ends with lasers to develop and study, a day after he reported a Ukrainian laser's first kill of a Russian jet-powered drone.",
+      "summary_en": "The list ends with lasers to develop and study, a day after he reported a Ukrainian laser's first kill of a Russian jet-powered drone.",
+      "location_name": "Kyjiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "akta_syfte",
+        "beskrivning_sv": "Äkta syfte: Terrorisering och psykologisk utmattning av civilbefolkningen i urbana områden.",
+        "beskrivning_en": "Underlying purpose: Psychological attrition and terrorizing the civilian urban populace."
+      },
+      "egenskaper_anfallsmal": "helt_civila",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Euromaidan Press",
+      "kallurl": "https://euromaidanpress.com/2026/11/26/ukraine-has-almost-nothing-to-stop-russias-ballistic-missiles-presidential-tech-adviser-says-listing-seven-weapons-kyiv-needs/",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Civila mål",
+        "Drönare",
+        "Robotanfall",
+        "Kyjiv"
       ]
     },
     {
@@ -591,16 +748,16 @@
       "timestamp": "2026-11-26T17:51:17+00:00",
       "title_sv": "EU:s ledare brottas om Ukrainas bistånd eftersom potentiell Le Pen-seger väcker rädsla",
       "title_en": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-      "summary_sv": "Slovakien, Ungern och Tjeckien vill välja bort Ukraina-lån på 45 miljarder euro, eftersom Tyskland försöker skydda finansiering från eventuellt högerextrema franskt ordförandeskap. EU:s ledare förberedde sig för en sammandrabbning om långsiktigt ekonomiskt stöd till Ukraina i ett försök att slutföra budgetsamtal med hög insats i slutet av året.",
+      "summary_sv": "Slovakien, Ungern och Tjeckien vill välja bort Ukrainas lån på 45 miljarder euro, eftersom Tyskland försöker skydda finansiering från eventuellt högerextrema franskt ordförandeskap Europa EU:s ledare förberedde sig för en sammandrabbning om långsiktigt ekonomiskt stöd till Ukraina mitt i ett försök att slutföra budgetsamtal med hög insats i slutet...",
       "summary_en": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency Europe EU leaders were bracing for a clash over long-term financial aid for Ukraine amid an effort to finalise high-stakes budget talks by the end of the year.Arriving in Brussels on Thursday, the...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
-        "usa",
+        "uk",
         "eu",
-        "uk"
+        "usa",
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -620,8 +777,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -981,8 +1138,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "eu"
       ],
       "syfte": {
@@ -1681,18 +1838,18 @@
       "id": "evt-2026-11-26-53e22d",
       "date": "2026-11-26",
       "timestamp": "2026-11-26T14:00:36+00:00",
-      "title_sv": "\"Lastbilar i brand och drönare ovanför\": ryssarna riskerar den långa vägen till Krim",
+      "title_sv": "\"Lastbilar i brand och drönare över huvudet\": ryssarna riskerar den långa vägen till Krim",
       "title_en": "‘Trucks on fire and drones overhead’: the Russians risking the long road to Crimea",
-      "summary_sv": "Kyjivs förstörelse av vägsektionen av Krimbron har gjort att förare står inför farliga resor genom ockuperade södra Ukraina.",
+      "summary_sv": "Kyjivs förstörelse av vägavsnittet på Krimbron har gjort att förare står inför farliga resor genom ockuperade södra Ukraina.",
       "summary_en": "Kyiv’s destruction of the road section of the Crimean Bridge has left drivers facing hazardous journeys through occupied southern Ukraine Russians once packed their swimming trunks and sunscreen for summer holidays in occupied Crimea, or hiking boots for trips in the colder months to the picturesque Black Sea peninsula annexed by Vladimir Putin...",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ockuperade_ukraina",
       "parter_intressenter": [
-        "ukraina",
+        "uk",
         "ryssland",
         "usa",
-        "uk"
+        "ukraina"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1712,10 +1869,10 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Drönare",
-        "Infrastruktur",
         "Ukraina",
-        "Kyjiv"
+        "Kyjiv",
+        "Infrastruktur",
+        "Drönare"
       ]
     },
     {
