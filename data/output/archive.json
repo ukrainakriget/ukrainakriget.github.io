@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 7400,
-  "last_archived_rotation": "2026-11-28T01:32:14.863543+00:00",
+  "total_archived_events": 7401,
+  "last_archived_rotation": "2026-11-28T02:01:54.333114+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-27-02f15f",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T03:33:00+02:00",
+      "title_sv": "SSU detains serviceman suspected of guiding Russian strikes at Ukraine’s Defense Forces in Donetsk region",
+      "title_en": "SSU detains serviceman suspected of guiding Russian strikes at Ukraine’s Defense Forces in Donetsk region",
+      "summary_sv": "The military counterintelligence unit of the Security Service of Ukraine (SSU), with the assistance of the Commander-in-Chief of the Armed Forces of Ukraine, has detained a serviceman in the Donetsk region suspected of providing Russia with the coordinates of Ukrainian Defense Forces units and military facilities.",
+      "summary_en": "The military counterintelligence unit of the Security Service of Ukraine (SSU), with the assistance of the Commander-in-Chief of the Armed Forces of Ukraine, has detained a serviceman in the Donetsk region suspected of providing Russia with the coordinates of Ukrainian Defense Forces units and military facilities.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ockuperade_ukraina",
+      "parter_intressenter": [
+        "ukraina",
+        "uk",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-crime/4188803-ssu-detains-serviceman-suspected-of-guiding-russian-strikes-at-ukraines-defense-forces-in-donetsk-region.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-27-32b696",
       "date": "2026-11-27",
@@ -1444,16 +1482,16 @@
       "timestamp": "2026-11-26T17:51:17+00:00",
       "title_sv": "EU:s ledare brottas om Ukrainas bistånd eftersom potentiell Le Pen-seger väcker rädsla",
       "title_en": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-      "summary_sv": "Slovakien, Ungern och Tjeckien vill välja bort Ukrainas lån på 45 miljarder euro, eftersom Tyskland försöker skydda finansiering från eventuellt högerextrema franskt ordförandeskap Europa EU:s ledare förberedde sig för en sammandrabbning om långsiktigt ekonomiskt stöd till Ukraina mitt i ett försök att slutföra budgetsamtal med hög insats i slutet...",
+      "summary_sv": "Slovakien, Ungern och Tjeckien vill välja bort Ukraina-lån på 45 miljarder euro, eftersom Tyskland försöker skydda finansiering från eventuellt högerextrema franskt ordförandeskap. EU:s ledare förberedde sig för en sammandrabbning om långsiktigt ekonomiskt stöd till Ukraina i ett försök att slutföra budgetsamtal med hög insats i slutet av året.",
       "summary_en": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency Europe EU leaders were bracing for a clash over long-term financial aid for Ukraine amid an effort to finalise high-stakes budget talks by the end of the year.Arriving in Brussels on Thursday, the...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
+        "eu",
         "uk",
-        "usa",
-        "eu"
+        "ukraina",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -1473,8 +1511,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -1834,8 +1872,8 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "ukraina",
         "ryssland",
+        "ukraina",
         "eu"
       ],
       "syfte": {
