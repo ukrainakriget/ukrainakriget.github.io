@@ -1,7 +1,83 @@
 {
-  "total_archived_events": 7414,
-  "last_archived_rotation": "2026-11-28T07:05:45.717007+00:00",
+  "total_archived_events": 7416,
+  "last_archived_rotation": "2026-11-28T07:35:23.355764+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-27-40004f",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T09:32:00+02:00",
+      "title_sv": "Rysk beskjutning av Dnipropetrovsk-regionen dödar en, skadar flera i mer än 20 attacker",
+      "title_en": "Russian shelling of Dnipropetrovsk region kills one, injures several in more than 20 attacks",
+      "summary_sv": "Ryska inkräktare har lanserat mer än 20 ytterligare drönanattacker mot fem distrikt i Dnipropetrovsk-regionen, vilket resulterat i skador, en dödsfall och två personer skadade.",
+      "summary_en": "Russian invaders have launched more than 20 further drone attacks on five districts in the Dnipropetrovsk region, resulting in damage, one fatality and two people injured.",
+      "location_name": "Dnipro",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "usa",
+        "ryssland"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4189122-russian-shelling-of-dnipropetrovsk-region-kills-one-injures-several-in-more-than-20-attacks.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Dnipro",
+        "Drönare",
+        "Ukraina"
+      ]
+    },
+    {
+      "id": "evt-2026-11-27-46d9f2",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T09:19:00+02:00",
+      "title_sv": "Sällsynta bilder av Objekt 195 visar varför Moskva övergav sin 58-tons T-95 supertank",
+      "title_en": "Rare images of Object 195 show why Moscow abandoned its 58-ton T-95 super-tank",
+      "summary_sv": "Foton av Rysslands skrotade T-95 (Objekt 195) prototypstridsvagn beväpnad med en 152 mm kanon har dykt upp på nätet, vilket illustrerar en evolutionär återvändsgränd i rysk pansardesign, skrev Defense Express den 26 november.",
+      "summary_en": "Photos of Russia's scrapped T-95 (Object 195) prototype tank armed with a 152-mm cannon have surfaced online, illustrating an evolutionary dead end in Russian armor design, Defense Express wrote on Nov. 26.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "ryssland",
+      "parter_intressenter": [
+        "ryssland",
+        "ukraina",
+        "usa"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "The New Voice of Ukraine",
+      "kallurl": "https://english.nv.ua/russian-war/media-says-why-russia-halted-its-t-95-tank-program-50663008.html",
+      "kallkategori": "Oberoende ukrainskt nyhetsmedium",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-27-17845c",
       "date": "2026-11-27",
@@ -338,8 +414,8 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Infrastruktur",
-        "Ukraina"
+        "Ukraina",
+        "Infrastruktur"
       ]
     },
     {
@@ -505,12 +581,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "ryssland",
-        "kina",
-        "uk",
         "usa",
         "ukraina",
-        "eu"
+        "eu",
+        "kina",
+        "ryssland",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -530,11 +606,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
-        "Drönare",
-        "Ukraina",
         "Kyjiv",
-        "Infrastruktur"
+        "Robotanfall",
+        "Infrastruktur",
+        "Drönare",
+        "Ukraina"
       ]
     },
     {
