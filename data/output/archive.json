@@ -1,7 +1,44 @@
 {
-  "total_archived_events": 7401,
-  "last_archived_rotation": "2026-11-28T02:01:54.333114+00:00",
+  "total_archived_events": 7402,
+  "last_archived_rotation": "2026-11-28T02:31:43.735775+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-27-2d77db",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T04:25:00+02:00",
+      "title_sv": "Storbritannien kommer att tillhandahålla £9,5 miljoner för byggandet av vindkraftspark i Ukraina",
+      "title_en": "UK to provide £9.5 mln for construction of wind farm in Ukraine",
+      "summary_sv": "Storbritannien kommer att tillhandahålla 9,5 miljoner pund (nästan 12,5 miljoner dollar) för att stödja byggandet av en ny vindkraftpark på 200 MW i Ukraina.",
+      "summary_en": "The United Kingdom will provide £9.5 million (nearly $12.5 million) to support the construction of a new 200 MW wind farm in Ukraine.",
+      "location_name": "Ukraina (nationellt)",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "resten_av_varlden",
+      "parter_intressenter": [
+        "ukraina",
+        "uk"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "civil_infrastruktur",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-economy/4188822-uk-to-provide-95-mln-for-construction-of-wind-farm-in-ukraine.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Infrastruktur",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-27-02f15f",
       "date": "2026-11-27",
@@ -1488,9 +1525,9 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "uk",
         "ukraina",
+        "eu",
         "usa"
       ],
       "syfte": {
