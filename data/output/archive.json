@@ -1,7 +1,43 @@
 {
-  "total_archived_events": 7406,
-  "last_archived_rotation": "2026-11-28T05:01:52.919741+00:00",
+  "total_archived_events": 7407,
+  "last_archived_rotation": "2026-11-28T05:33:18.162229+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-27-c90ba5",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T07:32:00+02:00",
+      "title_sv": "Attacken mot Zaporizjzja utlöser eld vid fabriksbyggnaden",
+      "title_en": "Attack on Zaporizhzhia sparks fire at factory building",
+      "summary_sv": "En brand bröt ut i en produktionsbyggnad efter en attack mot en infrastrukturanläggning i Zaporizjzja.",
+      "summary_en": "A fire broke out in a production building following an attack on an infrastructure facility in Zaporizhzhia.",
+      "location_name": "Zaporizjzja",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "operationellt_mal",
+        "beskrivning_sv": "Operationellt mål: Slå ut motståndarens drivmedels- och ammunitionsreserver.",
+        "beskrivning_en": "Operational goal: Sever adversary fuel stockpiles and munition supply chains."
+      },
+      "egenskaper_anfallsmal": "krigsmaterielproduktion",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "delvis",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4189080-attack-on-zaporizhzhia-sparks-fire-at-factory-building.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Ukraina",
+        "Zaporizjzja"
+      ]
+    },
     {
       "id": "evt-2026-11-27-4ba303",
       "date": "2026-11-27",
@@ -202,12 +238,12 @@
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
-        "usa",
-        "ryssland",
-        "uk",
         "ukraina",
+        "uk",
+        "eu",
         "kina",
-        "eu"
+        "ryssland",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -227,11 +263,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Robotanfall",
         "Drönare",
-        "Infrastruktur",
+        "Ukraina",
         "Kyjiv",
-        "Ukraina"
+        "Robotanfall",
+        "Infrastruktur"
       ]
     },
     {
@@ -1676,7 +1712,7 @@
       "timestamp": "2026-11-26T17:51:17+00:00",
       "title_sv": "EU:s ledare brottas om Ukrainas bistånd eftersom potentiell Le Pen-seger väcker rädsla",
       "title_en": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-      "summary_sv": "Slovakien, Ungern och Tjeckien vill välja bort Ukrainas lån på 45 miljarder euro, eftersom Tyskland försöker skydda finansiering från eventuellt högerextrema franskt ordförandeskap Europa EU:s ledare förberedde sig för en sammandrabbning om långsiktigt ekonomiskt stöd till Ukraina mitt i ett försök att slutföra budgetsamtal med hög insats i slutet...",
+      "summary_sv": "Slovakien, Ungern och Tjeckien vill välja bort Ukraina-lån på 45 miljarder euro, eftersom Tyskland försöker skydda finansiering från eventuellt högerextrema franskt ordförandeskap. EU:s ledare förberedde sig för en sammandrabbning om långsiktigt ekonomiskt stöd till Ukraina i ett försök att slutföra budgetsamtal med hög insats i slutet av året.",
       "summary_en": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency Europe EU leaders were bracing for a clash over long-term financial aid for Ukraine amid an effort to finalise high-stakes budget talks by the end of the year.Arriving in Brussels on Thursday, the...",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
@@ -1684,8 +1720,8 @@
       "parter_intressenter": [
         "usa",
         "ukraina",
-        "uk",
-        "eu"
+        "eu",
+        "uk"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
