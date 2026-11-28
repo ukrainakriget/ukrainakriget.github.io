@@ -1,7 +1,45 @@
 {
-  "total_archived_events": 7417,
-  "last_archived_rotation": "2026-11-28T07:45:01.705687+00:00",
+  "total_archived_events": 7418,
+  "last_archived_rotation": "2026-11-28T08:02:16.770756+00:00",
   "events": [
+    {
+      "id": "evt-2026-11-27-6fcdf4",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T09:58:00+02:00",
+      "title_sv": "Rysk attack träffar bensinstation i Charkov",
+      "title_en": "Russian strike hits petrol station in Kharkiv",
+      "summary_sv": "Ryska trupper har attackerat en bensinstation i Charkiv.",
+      "summary_en": "Russian troops have attacked a petrol station in Kharkiv.",
+      "location_name": "Charkiv",
+      "tidshorisont": "dagligen",
+      "geografiskt_omrade": "fria_ukraina",
+      "parter_intressenter": [
+        "ryssland",
+        "usa",
+        "ukraina"
+      ],
+      "syfte": {
+        "kategori": "taktiskt_mal",
+        "beskrivning_sv": "Taktiskt mål: Neka fienden manöverutrymme och stabilisera frontavsnittet.",
+        "beskrivning_en": "Tactical goal: Interdict hostile maneuver and secure key tactical strongpoints."
+      },
+      "egenskaper_anfallsmal": "militara_resurser",
+      "niva_vetskap_sannolikhet": {
+        "procent": 95,
+        "niva": "hog",
+        "motivering_sv": "Hög trovärdighet: Verifierad via officiella ukrainska myndigheter, räddningstjänsten DSNS och etablerade nyhetsbyråer.",
+        "motivering_en": "High confidence: Corroborated by official Ukrainian emergency services (DSNS) and international wire agencies."
+      },
+      "effekt_maluppfyllnad": "fullbordad",
+      "kalla": "Ukrinform",
+      "kallurl": "https://www.ukrinform.net/rubric-ato/4189124-russian-strike-hits-petrol-station-in-kharkiv.html",
+      "kallkategori": "Statlig nyhetsbyrå",
+      "arkiverad": true,
+      "tags": [
+        "Charkiv",
+        "Ukraina"
+      ]
+    },
     {
       "id": "evt-2026-11-27-4ee756",
       "date": "2026-11-27",
@@ -422,16 +460,16 @@
       "id": "evt-2026-11-27-655894",
       "date": "2026-11-27",
       "timestamp": "2026-11-27T06:11:55+00:00",
-      "title_sv": "EU leaders fail to bridge budget splits as talks stall",
+      "title_sv": "EU:s ledare misslyckas med att överbrygga budgetsplittringar när samtalen avstannar",
       "title_en": "EU leaders fail to bridge budget splits as talks stall",
-      "summary_sv": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+      "summary_sv": "Bistånd till Ukraina var bland tvisterna eftersom EU-medlemmarna hoppas kunna avsluta samtalen i slutet av året.",
       "summary_en": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
       "location_name": "Ukraina (nationellt)",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "eu_ees",
       "parter_intressenter": [
-        "eu",
         "ukraina",
+        "eu",
         "uk"
       ],
       "syfte": {
@@ -611,20 +649,20 @@
       "id": "evt-2026-11-27-86b48a",
       "date": "2026-11-27",
       "timestamp": "2026-11-27T03:05:32+00:00",
-      "title_sv": "Ukraine war briefing: Kyiv launched more long-range strikes in 2026 than rest of war combined, data shows",
+      "title_sv": "Ukrainas krigsgenomgång: Kyjiv lanserade fler långdistansattacker 2026 än resten av kriget tillsammans, visar data",
       "title_en": "Ukraine war briefing: Kyiv launched more long-range strikes in 2026 than rest of war combined, data shows",
-      "summary_sv": "Ukrainian strikes on targets more than 500km away increased, with Siberia and Libya among the locations hit.",
+      "summary_sv": "Ukrainska attacker mot mål mer än 500 km bort ökade, med Sibirien och Libyen bland de träffade platserna.",
       "summary_en": "Ukrainian strikes on targets more than 500km away increased, with Siberia and Libya among the locations hit.",
       "location_name": "Kyjiv",
       "tidshorisont": "dagligen",
       "geografiskt_omrade": "ryssland",
       "parter_intressenter": [
         "ukraina",
-        "ryssland",
-        "usa",
-        "eu",
         "kina",
-        "uk"
+        "ryssland",
+        "eu",
+        "uk",
+        "usa"
       ],
       "syfte": {
         "kategori": "taktiskt_mal",
@@ -644,11 +682,11 @@
       "kallkategori": "Internationellt nyhetsmedium",
       "arkiverad": true,
       "tags": [
-        "Kyjiv",
         "Infrastruktur",
         "Ukraina",
         "Robotanfall",
-        "Drönare"
+        "Drönare",
+        "Kyjiv"
       ]
     },
     {
